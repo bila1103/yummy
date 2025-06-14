@@ -1,0 +1,349 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "9udUZ-y7pOUgasJvPZ8OeQ==",
+        "title": "Udang Saus Pedas",
+        "slug": "udang-saus-pedas-3",
+        "cover_url": "content-images\/images\/20250331\/nb8RAlooiiRNW3aYuTaHzDC8vALY5r9L-31373433343030323438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250331\/nb8RAlooiiRNW3aYuTaHzDC8vALY5r9L-31373433343030323438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Udangnya manis dan gurih",
+        "rating": 5,
+        "video_url": "",
+        "price": 30000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 5,
+        "serving_max": 5,
+        "release_date": 1745933880,
+        "updated_date": 1745934103,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 21,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250331\/nb8RAlooiiRNW3aYuTaHzDC8vALY5r9L-31373433343030323438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/tkVMTy9Tqar38skp6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Rebus jagung terlebih dulu sampai matang kemudian tiriskan.",
+                "image_url": "content-images\/images\/20250331\/JWy4Sy5cJKcvA1PVv4Rl7nZuGUHBQJWz-31373433343030333032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250331\/JWy4Sy5cJKcvA1PVv4Rl7nZuGUHBQJWz-31373433343030333032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tumis udang menggunakan mentega agar gurih, tumis sampai berubah warna, sisihkan.",
+                "image_url": "content-images\/images\/20250331\/F0JOlPYg7DhxskApJZYMbAVyDQXhCNTs-31373433343038353638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250331\/F0JOlPYg7DhxskApJZYMbAVyDQXhCNTs-31373433343038353638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Haluskan bawang merah, bawang putih, cabe keriting, cabe rawit dan jahe. Setelah halus siapkan juga bumbu pelengkap seperti lengkuas, sereh daun jeruk dan daun salam.",
+                "image_url": "content-images\/images\/20250401\/AqERh0RkVPULwBLyxxTnZYCmIW7xtt8b-31373433343630393435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250401\/AqERh0RkVPULwBLyxxTnZYCmIW7xtt8b-31373433343630393435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tumis bumbu yg sudah dihaluskan, masukkan juga bumbu pelengkap, saus tiram, saus sambal, saus tomat, garam, gula dan penyedap rasa.",
+                "image_url": "content-images\/images\/20250401\/0QTvH4Z6EsxG4mM7BQkqia4OWh6C9L8y-31373433343631303735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250401\/0QTvH4Z6EsxG4mM7BQkqia4OWh6C9L8y-31373433343631303735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan jagung dan irisan bawang bombay.",
+                "image_url": "content-images\/images\/20250401\/AnWfkEDiV5CrrBNni60ulA0W7UUTrVm0-31373433343633313135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250401\/AnWfkEDiV5CrrBNni60ulA0W7UUTrVm0-31373433343633313135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Terakhir masukkan udang dan potongan daun bawang. Aduk sampai bumbu tercampur rata dan sajikan.",
+                "image_url": "content-images\/images\/20250401\/Lz3H56svxEzgz99HmydC763fo7U3kBML-31373433343633353730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250401\/Lz3H56svxEzgz99HmydC763fo7U3kBML-31373433343633353730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "YBRmaTfXKqj3QsdvA3jbvQ==",
+                "name": "Lauk Pauk",
+                "slug": "lauk-pauk"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "lbAPLbE8dqS8fdfiSOsAGg==",
+                "name": "Daun Jeruk",
+                "slug": "daun-jeruk"
+            },
+            {
+                "id": "tLPZ6KbS2rvLzt6L1R5Nfg==",
+                "name": "Jagung",
+                "slug": "jagung"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            },
+            {
+                "id": "89XwJJ-wUT-TR-eQ1eL4pA==",
+                "name": "Lengkuas",
+                "slug": "lengkuas"
+            },
+            {
+                "id": "e4TpRRTQlvjlFZfP2dafrA==",
+                "name": "Udang",
+                "slug": "udang"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "dAOxuxJtDQ0vVx0K_T5SGQ==",
+            "uuid": "723409ff-6592-4338-b8e9-2d05d24124c2",
+            "username": "rizkyanis",
+            "name": "Rizky Anis",
+            "avatar": "content-images\/images\/20211203\/eCpdMQma1snuzVKN8H837mExcKpsX4qF-31363338343836353133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "250 gr udang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 jagung manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 cabe merah keriting",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 cabe rawit merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 potong bawang bombai",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang daun bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Seiris jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Seiris lengkuas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang sereh",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 lembar daun jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm saus tomat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm saus pedas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdm gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sejumput lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sejumput garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sejumput penyedap rasa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm mentega",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

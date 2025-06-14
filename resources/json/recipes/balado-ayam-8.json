@@ -1,0 +1,276 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "wE4bLyY0jnJ3gfaemegdPQ==",
+        "title": "Balado Ayam",
+        "slug": "balado-ayam-8",
+        "cover_url": "content-images\/images\/20240531\/B6hcv9591VGEBV2Y6V3HFui6NxsAlMKQ-31373137313539393337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20240531\/B6hcv9591VGEBV2Y6V3HFui6NxsAlMKQ-31373137313539393337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Salah satu olahan ayam yang Indonesia banget. Dimasak balado, otomatis bercita rasa pedas, dan pastinya enak. Bikin boros nasi!\r\n\r\nCuzzz, eksekusi aja!\r\n\r\n#selaluadaceritadisetiapmasakanmps #MPS",
+        "rating": 5,
+        "video_url": "",
+        "price": 19500,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 45,
+        "serving_min": 3,
+        "serving_max": 5,
+        "release_date": 1746027840,
+        "updated_date": 1746028067,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 12,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20240531\/B6hcv9591VGEBV2Y6V3HFui6NxsAlMKQ-31373137313539393337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/eZRqvgKNPwde4pkJA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Cuci bersih ayam, beri \u00bd sdt garam. Aduk rata, diamkan 10 menit. Goreng ayam dalam minyak panas hingga matang.",
+                "image_url": "content-images\/images\/20240531\/MsPNQe9ibVaqvXUVuieEE1AUwJ67klqQ-31373137313539393631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240531\/MsPNQe9ibVaqvXUVuieEE1AUwJ67klqQ-31373137313539393631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Campurkan duo bawang, aneka cabe, dan kemiri. Blender hingga benar-benar halus. Panaskan sedikit minyak, tumis bumbu yang sudah diblender. Tambahkan terasi, aduk terus hingga mengeluarkan minyak.",
+                "image_url": "content-images\/images\/20240531\/vAnpAJM0OKemwUDSpOA5rtPN4NrRgy2T-31373137313539393830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240531\/vAnpAJM0OKemwUDSpOA5rtPN4NrRgy2T-31373137313539393830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan ayam yang sudah digoreng, kemudian aduk rata.",
+                "image_url": "content-images\/images\/20240531\/fIXTTkFQjj1uG0yHrw4Y54oCKFA8OTu8-31373137313539393837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240531\/fIXTTkFQjj1uG0yHrw4Y54oCKFA8OTu8-31373137313539393837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan air, gula merah, dan garam. Aduk rata, tunggu mendidih.",
+                "image_url": "content-images\/images\/20240531\/cjSXkQDNZ3LmryhGFFt6fxUJEzg803IS-31373137313630303130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240531\/cjSXkQDNZ3LmryhGFFt6fxUJEzg803IS-31373137313630303130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masak hingga airnya hampir habis, aduk rata. Koreksi rasa, jika dirasa sudah sesuai. Kemudian, angkat dan sajikan!",
+                "image_url": "content-images\/images\/20240531\/QtU14H5fIf22UIKY3p6Ed9hMIqsbEkkT-31373137313630303334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240531\/QtU14H5fIf22UIKY3p6Ed9hMIqsbEkkT-31373137313630303334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "uqJHyhAGNlLAhSL3ZYHumw==",
+                "name": "Makanan Pendamping",
+                "slug": "makanan-pendamping"
+            },
+            {
+                "id": "YBRmaTfXKqj3QsdvA3jbvQ==",
+                "name": "Lauk Pauk",
+                "slug": "lauk-pauk"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "p0yIwRpqEEanporOUXoHuQ==",
+            "uuid": "0ed90555-a85b-413a-b67d-2ab1415b5f50",
+            "username": "mita-puspita-kurniawan",
+            "name": "Mita Puspita Kurniawan",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "500 gr ayam, potong jadi 10 bagian",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu-Bumbu",
+                "ingredients": [
+                    {
+                        "description": "2 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "20 buah cabe rawit merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 buah cabe keriting",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah cabe merah besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 balok terasi (kemasan seperti permen)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 butir kemiri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt serutan gula merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

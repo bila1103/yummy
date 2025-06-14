@@ -1,0 +1,183 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "d5-wlBNxntnLZuuH0bQJ6g==",
+        "title": "Refreshing Apple Cucumber Salad",
+        "slug": "refreshing-apple-cucumber-salad",
+        "cover_url": "content-images\/images\/20250208\/VQ7YLRNGiYfn5ClDxtnsTCZLGiYO7WEn-31373338393830373734d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250208\/VQ7YLRNGiYfn5ClDxtnsTCZLGiYO7WEn-31373338393830373734d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Hallo sobat yummy. Aku mau berbagi resep simple, rasanya sangat enak",
+        "rating": 5,
+        "video_url": "",
+        "price": 33000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 10,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1746692100,
+        "updated_date": 1746692219,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 4,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250208\/VQ7YLRNGiYfn5ClDxtnsTCZLGiYO7WEn-31373338393830373734d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/PVcfg8A4pumqMTtv7",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan 100 gr mentimun yang sudah dipotong ke dalam mangkuk",
+                "image_url": "content-images\/images\/20250208\/VvbOrw5Hq0tTq1OyRku6hCyEyW1W82tZ-31373338393830383030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250208\/VvbOrw5Hq0tTq1OyRku6hCyEyW1W82tZ-31373338393830383030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan 100 gr apel yang sudah dipotong ke dalam mangkuk yang sama",
+                "image_url": "content-images\/images\/20250208\/UcTP51bxSnMZn9HeJkpL8Q9Nn73IiR6P-31373338393830383231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250208\/UcTP51bxSnMZn9HeJkpL8Q9Nn73IiR6P-31373338393830383231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Taburkan 10 gr gula pasir di atasnya",
+                "image_url": "content-images\/images\/20250208\/iNtm7dvQTWaXDqe0s082nHLp7qcqqDSd-31373338393830383436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250208\/iNtm7dvQTWaXDqe0s082nHLp7qcqqDSd-31373338393830383436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan 2 sdt air lemon",
+                "image_url": "content-images\/images\/20250208\/863nuJTZaVnQwJPNEBQoiAHZKIMTyMz5-31373338393830383832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250208\/863nuJTZaVnQwJPNEBQoiAHZKIMTyMz5-31373338393830383832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Aduk semua bahan hingga merata. Hiasi dengan daun mint mini",
+                "image_url": "content-images\/images\/20250208\/GEqCBE4ndI8cewEZHJzrdP2jXfG56J5q-31373338393830393032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250208\/GEqCBE4ndI8cewEZHJzrdP2jXfG56J5q-31373338393830393032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "HvIwEy8giumfjc1nEpAd3Q==",
+                "name": "Apel",
+                "slug": "apel"
+            },
+            {
+                "id": "y4OXVZVeikyNP7O3uWPS0g==",
+                "name": "Lemon",
+                "slug": "lemon"
+            },
+            {
+                "id": "Ilp-VgNtuky9zzgnLLngsw==",
+                "name": "Timun",
+                "slug": "timun"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "Smt-9D_a4qbPId3bGRjJqg==",
+            "uuid": "0a5d0961-6715-49f4-9bb5-3cc8f3a59498",
+            "username": "peony-dracaena-sander",
+            "name": "Peony dracaena Sander",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "100 gr timun",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr apel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt air lemon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

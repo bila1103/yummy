@@ -1,0 +1,321 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "4hJBD-Lwf7C79CELky_umQ==",
+        "title": "Tempe Isi Wortel Tauge Pedas",
+        "slug": "tempe-isi-wortel-tauge",
+        "cover_url": "content-images\/images\/20250511\/kclm8pHgHMXJwYVzzwpHcKXekj7QYJBH-31373436393531393130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250511\/kclm8pHgHMXJwYVzzwpHcKXekj7QYJBH-31373436393531393130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Gorengan buat camilan di rumah",
+        "rating": 5,
+        "video_url": "",
+        "price": 13000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 25,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1747131840,
+        "updated_date": 1747131877,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 16,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250511\/kclm8pHgHMXJwYVzzwpHcKXekj7QYJBH-31373436393531393130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/GUhNV4PoC6kq56En8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Tumis bawang putih dan cabe rawit hingga harum",
+                "image_url": "content-images\/images\/20250511\/92T4eWE1MycNyizZnnJAlGLtI2zhI9Gt-31373436393531393232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/92T4eWE1MycNyizZnnJAlGLtI2zhI9Gt-31373436393531393232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukan wortel, aduk hingga layu. Masukan tauge dan semua bahan utama kecuali tempe. Cek rasanya. Matikan jika sudah matang",
+                "image_url": "content-images\/images\/20250511\/nUGAtoyC4izvMENeNFWK3ToiN6yhdYEg-31373436393531393433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/nUGAtoyC4izvMENeNFWK3ToiN6yhdYEg-31373436393531393433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Iris tempe agak tebal. Lalu iris jangan sampai putus",
+                "image_url": "content-images\/images\/20250511\/4k96bZMo0nXzOGYuQdwAqcPidcAG091o-31373436393531393634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/4k96bZMo0nXzOGYuQdwAqcPidcAG091o-31373436393531393634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Selipkan isian tauge wortel",
+                "image_url": "content-images\/images\/20250511\/52HvneqppGwDqFsOoTimd8xiBv4U85AR-31373436393531393736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/52HvneqppGwDqFsOoTimd8xiBv4U85AR-31373436393531393736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Larutkan bahan tepung, aduk rata",
+                "image_url": "content-images\/images\/20250511\/q8xe1CGLe1Zs6dJQwoqjkveJv3IKVTFE-31373436393531393939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/q8xe1CGLe1Zs6dJQwoqjkveJv3IKVTFE-31373436393531393939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Celupkan tempe isi",
+                "image_url": "content-images\/images\/20250511\/uAx5qzxJ8SFHZJmwjfntTQ56FhBkCYwn-31373436393531393835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/uAx5qzxJ8SFHZJmwjfntTQ56FhBkCYwn-31373436393531393835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Goreng di minyak panas hingga matang",
+                "image_url": "content-images\/images\/20250511\/ehC77nB4xgizGZafcXnJxrJdZdibmyak-31373436393532303133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/ehC77nB4xgizGZafcXnJxrJdZdibmyak-31373436393532303133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Sajikan bersama rawit",
+                "image_url": "content-images\/images\/20250512\/fAWpGtYgn9zE8Mnx9fy0uLjjYHGpYRw5-31373437303335383930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/fAWpGtYgn9zE8Mnx9fy0uLjjYHGpYRw5-31373437303335383930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "6A8R-vHQlxC7XUPmbB-Q1Q==",
+                "name": "Tauge",
+                "slug": "tauge"
+            },
+            {
+                "id": "QJ0crmlVerfAPuv2j1Yf9g==",
+                "name": "Tempe",
+                "slug": "tempe"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "5dvnNnEB3VSa6mOMMzc4Lw==",
+            "uuid": "78e64760-6fee-4ceb-930d-a23155b5d4bc",
+            "username": "lina-dwis",
+            "name": "Lina Dwi S",
+            "avatar": "content-images\/images\/20211129\/qblYVAYq5ZGi0Z6vrVZp61BUDF2ghpr6-31363338313938323132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 buah wortel, iris korek api",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 mangkok tauge",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 papan tempe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang daun pre, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "8 buah cabe rawit merah, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih, cincang halus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm saos sambal",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt saos tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sedikit air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan tepung",
+                "ingredients": [
+                    {
+                        "description": "8 sdm tepung bakwan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang daun bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt ketumbar bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

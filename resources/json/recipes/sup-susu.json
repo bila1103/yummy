@@ -1,0 +1,282 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "Q3AHUplmftUz7r5fEFi9Yw==",
+        "title": "Sup Susu",
+        "slug": "sup-susu",
+        "cover_url": "content-images\/images\/20250426\/4mCtwZpKG0NbNnKGCJJ7vvPYq5AAyr8f-31373435363430383231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250426\/4mCtwZpKG0NbNnKGCJJ7vvPYq5AAyr8f-31373435363430383231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Sup untuk yang sedang kurang enak badan. Bikinnya mudah rasanya enak..",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 4,
+        "serving_max": 5,
+        "release_date": 1746010860,
+        "updated_date": 1746010928,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 14,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250426\/4mCtwZpKG0NbNnKGCJJ7vvPYq5AAyr8f-31373435363430383231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/E6xt9T4haY86MmAx8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Panaskan mentega tumis bawang bombay sampai transparan.",
+                "image_url": "content-images\/images\/20250426\/rXkgL2d7vC5w6QakGF3iinkc1KFzhL8V-31373435363430393234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/rXkgL2d7vC5w6QakGF3iinkc1KFzhL8V-31373435363430393234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan ayam, masak sampai berubah warna.",
+                "image_url": "content-images\/images\/20250426\/Z1At1T6oy930qFN7c6zaqwhr6MNsVhWZ-31373435363430393335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/Z1At1T6oy930qFN7c6zaqwhr6MNsVhWZ-31373435363430393335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan jagung dan wortel, tumis beberapa saat. Bumbui kaldu bubuk, oregano, merica dan pala.",
+                "image_url": "content-images\/images\/20250426\/ejx8gtYASmcCr7dm2PC5XujQEbK6MKHN-31373435363430393431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/ejx8gtYASmcCr7dm2PC5XujQEbK6MKHN-31373435363430393431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan tepung terigu, tumis agak lama sampai tidak bau tepung.",
+                "image_url": "content-images\/images\/20250426\/XCseInGXWaHFO3QLzfHZ5FhYDnwFxW1b-31373435363430393538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/XCseInGXWaHFO3QLzfHZ5FhYDnwFxW1b-31373435363430393538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tuang air, tambahkan cheddar parut. Aduk-aduk. Masak sampai mendidih beberapa menit.",
+                "image_url": "content-images\/images\/20250426\/mGOOs5WY5chKaNfRlNz6kpcmga5g6hGN-31373435363430393739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/mGOOs5WY5chKaNfRlNz6kpcmga5g6hGN-31373435363430393739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tuang susu masak sambil diaduk-aduk sampai mendidih, cek rasa dan matikan api. Taburi peterseli kering. Sajikan panas.",
+                "image_url": "content-images\/images\/20250426\/0Nr9KMJwpBGfZ5ANUArJWw5ogUmOGJMp-31373435363430393837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/0Nr9KMJwpBGfZ5ANUArJWw5ogUmOGJMp-31373435363430393837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "tLPZ6KbS2rvLzt6L1R5Nfg==",
+                "name": "Jagung",
+                "slug": "jagung"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "rzHb_AtDilydcbUu3RzNrw==",
+            "uuid": "66f5523f-7aa8-49b7-b7dd-6a765acc850a",
+            "username": "arninhana",
+            "name": "Hana Arnin",
+            "avatar": "content-images\/images\/20220911\/mMc4j9wdYmyssQNbIgb17SownvstjTuk-31363632383636363136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "100 gr jagung pipil beku",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah wortel, potong dadu kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr fillet ayam, cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm cheddar parut",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/3 buah bawang bombay, cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "500 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300 ml susu segar\/fresh milk plain",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1.5 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt merica bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sejumput pala bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sachet kaldu ayam bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/8  sdt oregano",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya peterseli kering",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm mentega tawar\/margarin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

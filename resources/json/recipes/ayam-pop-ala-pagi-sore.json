@@ -1,0 +1,414 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "BTzRAvwJ1g4Bk18fLa8kSQ==",
+        "title": "Ayam Khas Pagi Sore",
+        "slug": "ayam-pop-ala-pagi-sore",
+        "cover_url": "content-images\/images\/20250408\/7NChLURY5kUyhTpFQrpDOAP6AkkUqQ57-31373434303638363130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250408\/7NChLURY5kUyhTpFQrpDOAP6AkkUqQ57-31373434303638363130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Ayam ini biasa dikenal dengan ayam pop. Dan ayam ini tanpa digoreng lagi ya.",
+        "rating": 5,
+        "video_url": "",
+        "price": 40000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 4,
+        "serving_max": 6,
+        "release_date": 1747129740,
+        "updated_date": 1747129871,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 23,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250408\/7NChLURY5kUyhTpFQrpDOAP6AkkUqQ57-31373434303638363130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/XSKwMLepn846Ayd96",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Blender sedikit air kelapa dan bawang putih.",
+                "image_url": "content-images\/images\/20250408\/3B9VIrkJJpH4XrjM3X1e2S2yq2k5tZ5E-31373434303733363830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250408\/3B9VIrkJJpH4XrjM3X1e2S2yq2k5tZ5E-31373434303733363830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Cuci bersih ayam lalu letakkan ayam di atas daun jeruk, daun salam, serai, jahe.",
+                "image_url": "content-images\/images\/20250408\/PimVDBRwAamCs18uy6szkdtMyvdfK3h3-31373434303638363432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250408\/PimVDBRwAamCs18uy6szkdtMyvdfK3h3-31373434303638363432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tuang air kelapa ke dalam ayam.",
+                "image_url": "content-images\/images\/20250408\/hvfx6l2qpdcWTZyqStbzva32SthPXsFP-31373434303638363439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250408\/hvfx6l2qpdcWTZyqStbzva32SthPXsFP-31373434303638363439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Beri air kelapa yang sudah diblender.",
+                "image_url": "content-images\/images\/20250408\/wiIx4pLswK67N929VygVChCl90SNz1Q0-31373434303733363639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250408\/wiIx4pLswK67N929VygVChCl90SNz1Q0-31373434303733363639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Beri santan, garam, kaldu bubuk, lada bubuk. Aduk tes rasanya.",
+                "image_url": "content-images\/images\/20250408\/gz24Io0gIgByoPyyy8h3ZfrW2RAImsAh-31373434303733363930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250408\/gz24Io0gIgByoPyyy8h3ZfrW2RAImsAh-31373434303733363930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masak hingga matang dan empuk. (Jangan sampai asat ya).",
+                "image_url": "content-images\/images\/20250408\/GsHnwGHRSioOKvrrrGM6WJjkHXuB2Bma-31373434303733363938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250408\/GsHnwGHRSioOKvrrrGM6WJjkHXuB2Bma-31373434303733363938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Tumis cabe, bawang merah, bawang putih dan tomat. Lalu blender dengan air kaldu ayam pop. Masukan wajan, beri santan masak hingga mengental dan matang.",
+                "image_url": "content-images\/images\/20250408\/0lQ66Lzm4g85ZY5SBFtEOC0XsnbqGfwY-31373434303733373232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250408\/0lQ66Lzm4g85ZY5SBFtEOC0XsnbqGfwY-31373434303733373232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Didihkan air masukan daun singkong , gula, garam dan baking soda. Masak sampai empuk.",
+                "image_url": "content-images\/images\/20250408\/A1nc5eYo1kA1O9YgeskFQRl5jGSTVFI6-31373434303733373038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250408\/A1nc5eYo1kA1O9YgeskFQRl5jGSTVFI6-31373434303733373038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Tiriskan, siram air dingin, dan peras.",
+                "image_url": "content-images\/images\/20250408\/hcEcSdOxzkKSQeaNkDQ3Xs6NgqtY5KEe-31373434303733373135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250408\/hcEcSdOxzkKSQeaNkDQ3Xs6NgqtY5KEe-31373434303733373135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 10",
+                "text": "Sajikan dengan semua pelengkap.",
+                "image_url": "content-images\/images\/20250408\/DaK9unNbgQPPt3eNMebjQhQ6qf3iUgC7-31373434303733373238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 10,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250408\/DaK9unNbgQPPt3eNMebjQhQ6qf3iUgC7-31373434303733373238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            },
+            {
+                "id": "OVn1FXRZPmVFgDCUzl3xLw==",
+                "name": "Santan",
+                "slug": "santan"
+            },
+            {
+                "id": "QvsDybc6uM6-8M_OksDGVw==",
+                "name": "Serai",
+                "slug": "serai"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "5dvnNnEB3VSa6mOMMzc4Lw==",
+            "uuid": "78e64760-6fee-4ceb-930d-a23155b5d4bc",
+            "username": "lina-dwis",
+            "name": "Lina Dwi S",
+            "avatar": "content-images\/images\/20211129\/qblYVAYq5ZGi0Z6vrVZp61BUDF2ghpr6-31363338313938323132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 kg ayam paha",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 batang serai",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 cm jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 lembar daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 lembar daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml santan kental instan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm kaldu ayam bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "800 ml air kelapa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Lalapan Daun Singkong",
+                "ingredients": [
+                    {
+                        "description": "150 gram daun singkong",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt baking soda",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan sambal",
+                "ingredients": [
+                    {
+                        "description": "6 batang cabe merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah tomat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 ml kaldu ayam pop",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "65 ml santan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sedikit air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan pelengkap",
+                "ingredients": [
+                    {
+                        "description": "Nasi putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

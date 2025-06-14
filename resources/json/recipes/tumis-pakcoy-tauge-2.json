@@ -1,0 +1,266 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "6psrmmLJd5tGPjuNrSUn8Q==",
+        "title": "Tumis pakcoy tauge",
+        "slug": "tumis-pakcoy-tauge-2",
+        "cover_url": "content-images\/images\/20250507\/9abOtNkCnwKXLpNXrGaZp7Q48gO5CQAF-31373436353834303732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250507\/9abOtNkCnwKXLpNXrGaZp7Q48gO5CQAF-31373436353834303732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Enak dan simpel",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 10,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1746612780,
+        "updated_date": 1746612901,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 12,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250507\/9abOtNkCnwKXLpNXrGaZp7Q48gO5CQAF-31373436353834303732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/o7xUyWpt8hjcuGom9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Tumis irisan bawang dan cabai sampai harum",
+                "image_url": "content-images\/images\/20250507\/ZMmeNB1UaWrn2J20LHzIX7oMbwPDQ2fn-31373436353834323134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250507\/ZMmeNB1UaWrn2J20LHzIX7oMbwPDQ2fn-31373436353834323134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukan potongan bakso ayam",
+                "image_url": "content-images\/images\/20250507\/1T802Mupc1HmYOWwCD9wFYrJXZqQ0qen-31373436353834323232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250507\/1T802Mupc1HmYOWwCD9wFYrJXZqQ0qen-31373436353834323232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukan pakcoy dan tauge",
+                "image_url": "content-images\/images\/20250507\/W9Cbi98S917HirCRajy9MiEAZJ7Ww7GL-31373436353834323238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250507\/W9Cbi98S917HirCRajy9MiEAZJ7Ww7GL-31373436353834323238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan air",
+                "image_url": "content-images\/images\/20250507\/xtxw9VH8QtDFfTlbptGFqhEJaNoctpms-31373436353834323334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250507\/xtxw9VH8QtDFfTlbptGFqhEJaNoctpms-31373436353834323334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Beri garam, penyedap rasa dan saus tiram",
+                "image_url": "content-images\/images\/20250507\/DdPK1PwtbhiBnaRVVTJ3ZUTPgiUFZXXb-31373436353834323432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250507\/DdPK1PwtbhiBnaRVVTJ3ZUTPgiUFZXXb-31373436353834323432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "PnKlJFJzpnyBiz5TatWYnw==",
+                "name": "Makanan Diet",
+                "slug": "makanan-diet"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "_UN5dYx-1LL1Qtq8-Ux9xg==",
+                "name": "Bakso",
+                "slug": "bakso"
+            },
+            {
+                "id": "vs_JsRjc8t-nTiFV2WuwnQ==",
+                "name": "Sawi",
+                "slug": "sawi"
+            },
+            {
+                "id": "6A8R-vHQlxC7XUPmbB-Q1Q==",
+                "name": "Tauge",
+                "slug": "tauge"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "GcFuZEb2tfoviWPJ8Mp0Qw==",
+            "uuid": "565af37e-0e52-4ea5-845d-3b256eaae5dd",
+            "username": "paizatri",
+            "name": "Paiza Tri Astini",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 ikat pakcoy",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Tauge secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 buah bakso ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 buah cabi rawit hijau",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah cabai rawit merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah cabai merah keriting",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt penyedap rasa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Air secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

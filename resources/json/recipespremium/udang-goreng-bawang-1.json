@@ -1,0 +1,392 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "HzWvqTTU99u1neTaGggkdQ==",
+        "title": "Udang Goreng Bawang",
+        "slug": "udang-goreng-bawang-1",
+        "cover_url": "content-images/images/20210829/ee7682db47216e1e411321808ee1f35d.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20210829/ee7682db47216e1e411321808ee1f35d.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20210829/2cc5ebf11e936b9ef75121685afa0e08.mp4",
+        "price": 45000,
+        "price_premium": 5000,
+        "calories": "522,9 Kj",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1630203000,
+        "updated_date": 1677711632,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.909999847412109,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 10,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 23,
+        "recook_count": 2,
+        "original_image": "content-images/images/20210829/ee7682db47216e1e411321808ee1f35d.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/u6fEVd5CdDs2qaCG6",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan udang, air jeruk nipis, lada putih, garam, dan maizena ke dalam wadah, aduk hingga terbalur rata.",
+                "image_url": "content-images/images/20210829/eff42c78b769342e8557b7741d275b22.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20210829/eff42c78b769342e8557b7741d275b22.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Panaskan minyak goreng, goreng bawang merah dan bawang putih hingga kecoklatan, sisihkan.",
+                "image_url": "content-images/images/20210829/284d32ffea4f3317cbf2883d814b8f4f.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20210829/284d32ffea4f3317cbf2883d814b8f4f.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Makanan Chinese",
+                "slug": "makanan-chinese"
+            },
+            {
+                "id": "JvWJ98eZ0W4_HB-9GTjzqA==",
+                "name": "seafood",
+                "slug": "seafood"
+            },
+            {
+                "id": "rzlKU20EEuLpZyP6j_j3eA==",
+                "name": "Udang",
+                "slug": "udang"
+            },
+            {
+                "id": "EfIz4U8D8zEcWGF8tk_dQw==",
+                "name": "Masakan Tumis",
+                "slug": "masakan-tumis"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "G-iV06z6OJMMRDtOrTq50A==",
+                "name": "30m",
+                "slug": "30m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "Y7u7FDSxNd95soU0OFqofw==",
+                "name": "Tepung Maizena",
+                "slug": "tepung-maizena"
+            },
+            {
+                "id": "e4TpRRTQlvjlFZfP2dafrA==",
+                "name": "Udang",
+                "slug": "udang"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "250 gr udang, buang kepalanya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/B0A1jW",
+                        "media_url": "content-images/images/20220217/9817bf82d9a4fa33c7fbcf9df5d5dd50.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm air jeruk nipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBbyX",
+                        "media_url": "content-images/images/20220217/068cd7704772c60fe211a3c1e84f4172.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt lada putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbok5",
+                        "media_url": "content-images/images/20220217/ed3d0c46070208f8608d38c96bba5107.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220217/85cb27f1adc6640b0fede7399b23ecf1.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt penyedap rasa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/B0A1Dx",
+                        "media_url": "content-images/images/20220217/a70a13295285974ff88c1d01a30c6075.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm maizena",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbo9A",
+                        "media_url": "content-images/images/20220217/b96fdc389c3d43c5e84aebeab83cf750.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 ml minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq1jV",
+                        "media_url": "content-images/images/20220217/e79d8a58da2d732e6b54ae666877f6b0.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "15 siung bawang putih, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20220217/6a1d816d87856a18d56ed9aa386d4cbf.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 siung bawang merah, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/ZQ4ROK",
+                        "media_url": "content-images/images/20220217/44941f1b99cc237fadfc3dd148015961.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Teflon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin A (\u00b5g)",
+                "slug": "vitamin-a-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "RMxlYPQlCLFSbBcbgUOKncdPbho52Es6",
+                "created_at": 1668427073,
+                "image_url": "content-images/images/20221114/1NbT5gYaSWSxWvw4V3nFsswtUx5o4GlK-31363638343031363434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "Hallo chef Yummy,,, setor recook ya...\n\nGak nyangka dengan proses yang super kilat bisa menghasilkan masakan yang super enak... Gurih dan sedap banget. Makan nasi anget ama bawang gorengnya aja udah bikin khilaf apalagi sama udangnya \ud83e\udd2d\ud83e\udd23.\n\nMakasih inspirasi resepnya ya chef,,, sukses terus buat Yummy App...\n\n#RecookYummy\n",
+                "is_liked": false,
+                "like_count": 3,
+                "author": {
+                    "id": "pVwH2-WVudP5Sb5vXvNp9g==",
+                    "username": "laila-fitria1",
+                    "name": "Laila Fitria",
+                    "avatar": "content-images/images/20231123/039830a2980b6837f0e64077faae4bb3.jpeg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Udang Goreng Bawang",
+                    "slug": "udang-goreng-bawang-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "oCZyQuz74Erv0KRdedbeKEGhvLONjSOf",
+                "created_at": 1664447995,
+                "image_url": "content-images/images/20220524/qRN843rRh0wKFFxRs7isACLGZZsuAkrj-31363533343034323733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Olahan udang yg simple dan enak\ud83e\udd24.\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "Yp969fkDhofTar-2om_cKA==",
+                    "username": "visavano-_fnb",
+                    "name": "Adhesti Apriliana",
+                    "avatar": "content-images/images/20231123/46a7799c169db86df17df92d83b82736.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Udang Goreng Bawang",
+                    "slug": "udang-goreng-bawang-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Talenan",
+                "media_url": "content-images/images/20210712/5bcf9d1ede5f68c8d7acf04bcf604504.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Sutil",
+                "media_url": "content-images/images/20210712/519f6acdec5c700b847229e696f8e62f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Fry Pan - Besar",
+                "media_url": "content-images/images/20210714/980057f47076afbd0ecaeea4a19a345d.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

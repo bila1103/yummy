@@ -1,0 +1,383 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "-sHaLrkl0tqnBDfY8Dfduw==",
+        "title": "Ronde Merah Putih isi Martabak Manis",
+        "slug": "ronde-merah-putih-isi-martabak-manis",
+        "cover_url": "content-images/images/20210908/bd5e328d8b6b987fc70a02fd55ffa283.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20210908/bd5e328d8b6b987fc70a02fd55ffa283.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20210906/3c06c4b838a2b905d4153fd45c75710b.mp4",
+        "price": 45000,
+        "price_premium": 5000,
+        "calories": "1068,5 Kj",
+        "is_cvc": false,
+        "cooking_time": 45,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1631106600,
+        "updated_date": 1660816497,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.630000114440918,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 13,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 8,
+        "recook_count": 0,
+        "original_image": "content-images/images/20210908/bd5e328d8b6b987fc70a02fd55ffa283.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/1YfKhD9rJzJrmRjL9",
+        "category": {
+            "name": "Makanan Penutup",
+            "slug": "makanan-penutup"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Buat isian ronde dengan mencampur kacang cincang, keju parut, coklat meises dan susu kental manis lalu simpan di kulkas agar mudah dipulung.",
+                "image_url": "content-images/images/20210908/404cbae50bbac5f149f51b08e4ef3660.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20210908/404cbae50bbac5f149f51b08e4ef3660.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Uleni tepung ketan, tapioka dan air hangat sampai bisa dipulung dan beri pewarna.",
+                "image_url": "content-images/images/20210908/4cb4fefd025d4751852e28f3c75e30e3.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20210908/4cb4fefd025d4751852e28f3c75e30e3.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "7ftk8o1JprYrhNamN1tXxQ==",
+                "name": "minuman hangat",
+                "slug": "minuman-hangat"
+            },
+            {
+                "id": "n49-GwH0PTst-OBtiBdGHw==",
+                "name": "Wedang Jahe",
+                "slug": "wedang-jahe"
+            },
+            {
+                "id": "8zr7oPLgTFVG2UYXFSYgTw==",
+                "name": "Ronde",
+                "slug": "ronde"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "XoOQljKTIsthw9SvhP1iMQ==",
+                "name": "30-60m",
+                "slug": "30-60m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            },
+            {
+                "id": "MOk2qyGcwk0AOYw9kWVtRA==",
+                "name": "Kacang Tanah",
+                "slug": "kacang-tanah"
+            },
+            {
+                "id": "Opko9OFPSqnKtt6n3eH7Eg==",
+                "name": "Keju",
+                "slug": "keju"
+            },
+            {
+                "id": "duhUtSNH5AwykQAE0QS03A==",
+                "name": "Meses",
+                "slug": "meses"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            },
+            {
+                "id": "4fXFQ2DhETQxP0Iru_aPVA==",
+                "name": "Tepung",
+                "slug": "tepung"
+            },
+            {
+                "id": "wjOI7jLd9RKri0o9Vn8t7A==",
+                "name": "Tepung Beras",
+                "slug": "tepung-beras"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Adonan Kulit :",
+                "ingredients": [
+                    {
+                        "description": "100 gr Tepung Ketan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/AWaGdN",
+                        "media_url": "content-images/images/20220324/b925bd9148f320ed6bb0a3bb04f0b660.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "25 gr Tepung Beras",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq2x9",
+                        "media_url": "content-images/images/20220324/37ecaffe984976edd35e9b20a64412d0.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml Air hangat (bisa disesuaikan)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220324/7faf25c9b78442d661748812e7fd0936.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Isi :",
+                "ingredients": [
+                    {
+                        "description": "50 gr Kacang Tanah goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/4PKqZM",
+                        "media_url": "content-images/images/20220324/fd630f8b6295bf8be89ca6d0d082a223.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr keju parut",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/rQbW4Q",
+                        "media_url": "content-images/images/20220324/d0beeec9d883e12ff8dc47a08daf4998.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr coklat meises",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/k0bNnV",
+                        "media_url": "content-images/images/20220324/5e2076dfa51124f7cd20e0b1624b20c7.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 sdm Susu Kental manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Or5WVr",
+                        "media_url": "content-images/images/20220324/2e1ee0e4a674b588fba1f9c2e934daec.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Air Rendaman :",
+                "ingredients": [
+                    {
+                        "description": "300 ml Air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220324/48c271c1dd585f606212affda582dfe0.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 sdm Gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NB1N",
+                        "media_url": "content-images/images/20220324/05aceea61d9d43673f3485b766d3a259.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Kuah Jahe :",
+                "ingredients": [
+                    {
+                        "description": "1000 ml Air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220324/c4b32c17eada29ed0be823f1ca519860.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 lbr pandan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220324/3a4a0e7e1a41c684b816eaad19feaf9c.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 buah jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/AWaGrN",
+                        "media_url": "content-images/images/20220324/f96b902ae59dd052369815cc500ceb4f.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NB1N",
+                        "media_url": "content-images/images/20220324/4273ff25cd92fdc8294eab7690b2519a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            }
+        ],
+        "recook": [],
+        "cooking_tool": [
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Spatula Kue",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Panci Kecil",
+                "media_url": "content-images/images/20211105/8773acd6b750d0eefd2bcb59da811a1a.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Kompor - Elektrik & Api",
+                "media_url": "content-images/images/20211105/d905e1fded75e11e15260176f66015a7.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

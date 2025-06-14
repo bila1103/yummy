@@ -1,0 +1,222 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "ALpYZXe9-r5dCK3hrBwwJg==",
+        "title": "Es Teh Telang Jeruk Nipis",
+        "slug": "es-teh-telang-jeruk-nipis",
+        "cover_url": "content-images\/images\/20250320\/Nq36MbnjxbwjMkTfGX0tEFIIccSVfql6-31373432343739383933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250320\/Nq36MbnjxbwjMkTfGX0tEFIIccSVfql6-31373432343739383933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Segar dan menyehatkan!",
+        "rating": 5,
+        "video_url": "",
+        "price": 5000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 2,
+        "serving_max": 2,
+        "release_date": 1745205540,
+        "updated_date": 1745205740,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 6,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250320\/Nq36MbnjxbwjMkTfGX0tEFIIccSVfql6-31373432343739383933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/f7xLQ9J4eZCXoe1c7",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Seduh bunga telang, diamkan beberapa saat hingga berubah warna. Angkat dan peras bunga telang, kemudian sisihkan. Dinginkan air seduhannya.",
+                "image_url": "content-images\/images\/20250320\/LCHgXOcpacwQS7OjM1PTTOIbBtCVlzfU-31373432343739393932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250320\/LCHgXOcpacwQS7OjM1PTTOIbBtCVlzfU-31373432343739393932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Didihkan air, masukkan gula pasir dan aduk hingga gula larut. Tuang ke dalam gelas, beri air jeruk nipis. Aduk merata, lalu dinginkan.",
+                "image_url": "content-images\/images\/20250320\/uFoVsqRJaNG5ydK3LLJHeINxmjvlbSUt-31373432343830303534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250320\/uFoVsqRJaNG5ydK3LLJHeINxmjvlbSUt-31373432343830303534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Siapkan gelas saji, tuang secukupnya air gula.",
+                "image_url": "content-images\/images\/20250320\/GZdX2IEB33vh87uQbnN1D7k2cR8KxfzC-31373432343830323136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250320\/GZdX2IEB33vh87uQbnN1D7k2cR8KxfzC-31373432343830323136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan es batu.",
+                "image_url": "content-images\/images\/20250320\/zEqMvMY34BOC6HOZSIB7dF6teXql8JtL-31373432343830323333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250320\/zEqMvMY34BOC6HOZSIB7dF6teXql8JtL-31373432343830323333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tuang air telang hingga gelas penuh.",
+                "image_url": "content-images\/images\/20250320\/w2jwoYyRIO5gbS5nfx27Zq9pIZExAWC8-31373432343830323634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250320\/w2jwoYyRIO5gbS5nfx27Zq9pIZExAWC8-31373432343830323634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "tjLwUn7mCQfa7d86yvsq3g==",
+                "name": "Minuman",
+                "slug": "minuman"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Es Batu",
+                "slug": "es-batu"
+            },
+            {
+                "id": "lmNnB67zr9DZFIM89upVDw==",
+                "name": "Jeruk Nipis",
+                "slug": "jeruk-nipis"
+            },
+            {
+                "id": "qbBaAAXUA4HnXobKwIQ74A==",
+                "name": "Teh",
+                "slug": "teh"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "c6ypk5wE7OLDg-s87NqV8w==",
+            "uuid": "51f4778f-39fa-4be7-8538-df8ea9acdd8e",
+            "username": "ratih-anita-dewi",
+            "name": "Ratih Anita Dewi",
+            "avatar": "content-images\/images\/20220209\/1daz9gSNDYOdimJCEKTA5eBVCJal8SJj-31363434333732343233d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "20 kuntum bunga telang segar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "125 ml air panas untuk menyeduh bunga telang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "125 ml air untuk menyeduh gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd buah jeruk nipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya es batu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

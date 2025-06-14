@@ -1,0 +1,289 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "CmY4xxwlPQWFo0DsQJIjlg==",
+        "title": "Kentang Saus Tiram",
+        "slug": "kentang-saus-tiram",
+        "cover_url": "content-images\/images\/20240922\/W7zfW7Ug9DgsXs9A61Jq2zR8AX4TuIYq-31373236393833323034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20240922\/W7zfW7Ug9DgsXs9A61Jq2zR8AX4TuIYq-31373236393833323034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Kentang merupakan bahan makanan yang bisa diolah menjadi berbagai aneka masakan seperti perkedel kentang untuk pendamping steak dan tumisan dengan berbagai macam bumbu, salah satunya kentang saus tiram. \r\n\r\n\r\nMari recook resepnya!",
+        "rating": 5,
+        "video_url": "",
+        "price": 7000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1745315700,
+        "updated_date": 1745315911,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 12,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20240922\/W7zfW7Ug9DgsXs9A61Jq2zR8AX4TuIYq-31373236393833323034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/sW87V5jX82xxDWH98",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Kupas, cuci bersih, dan potong dadu kentang.",
+                "image_url": "content-images\/images\/20240922\/nu4mUjtsbEMxwWI4Nbvs20r4vmI1fXPR-31373236393833323433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240922\/nu4mUjtsbEMxwWI4Nbvs20r4vmI1fXPR-31373236393833323433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Panaskan minyak, lalu goreng kentang hingga berwarna kuning kecoklatan.",
+                "image_url": "content-images\/images\/20240922\/LoKXn06OGReNfi8w14RC4c8u8Qko2bj8-31373236393833323530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240922\/LoKXn06OGReNfi8w14RC4c8u8Qko2bj8-31373236393833323530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Haluskan bumbu menggunakan blender seperti cabe rawit, cabe besar, bawang putih, bawang merah, dan kemiri hingga halus.",
+                "image_url": "content-images\/images\/20240922\/iIYqqLgTMp98skrjcfTFaz77Dwr3PEka-31373236393833323538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240922\/iIYqqLgTMp98skrjcfTFaz77Dwr3PEka-31373236393833323538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tumis bumbu halus, tambahkan laos dan daun salam, masak sampai berbau harum.",
+                "image_url": "content-images\/images\/20240922\/Re9om952rnza2W1U0Vpk17S0FNnxwDZs-31373236393833323731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240922\/Re9om952rnza2W1U0Vpk17S0FNnxwDZs-31373236393833323731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan kentang yang sudah digoreng. Aduk sampai merata.",
+                "image_url": "content-images\/images\/20240922\/NEMsdkPlkXwDLoCVGwxYTO3SJJnuFHlf-31373236393833323830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240922\/NEMsdkPlkXwDLoCVGwxYTO3SJJnuFHlf-31373236393833323830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Setelah itu, tuangkan air. Masukkan garam, kaldu jamur, saus tiram, dan  kecap. Kemudian, tes rasa. Masak hingga airnya menyusut. Kentang saus tiram siap disajikan!",
+                "image_url": "content-images\/images\/20240922\/1BAwk4qRqWoxGiX4g6czu7PvofOTkoZD-31373236393930353832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240922\/1BAwk4qRqWoxGiX4g6czu7PvofOTkoZD-31373236393930353832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "uqJHyhAGNlLAhSL3ZYHumw==",
+                "name": "Makanan Pendamping",
+                "slug": "makanan-pendamping"
+            },
+            {
+                "id": "Jc3z7OQqbXF-iBXoiQkBZQ==",
+                "name": "yummy tips",
+                "slug": "yummy-tips"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "RkAHZYbrL58-78Y_ZBXAcw==",
+                "name": "Kentang",
+                "slug": "kentang"
+            },
+            {
+                "id": "2hRXFoITKo_F8ODaNvTsJw==",
+                "name": "Saus Tiram",
+                "slug": "saus-tiram"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "t1swhuJqnHQZlkKGGb4ozg==",
+            "uuid": "2528059f-132f-44c3-98b1-67307cdd66de",
+            "username": "aquarius21",
+            "name": "Yeni eka",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1\/4 kg kentang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 saset saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm kecap",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu halus",
+                "ingredients": [
+                    {
+                        "description": "3 buah cabe rawit",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 buah cabe besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 buah kemiri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 ruas laos",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Garam secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Kaldu jamur secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

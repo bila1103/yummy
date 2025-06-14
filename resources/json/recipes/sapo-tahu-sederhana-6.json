@@ -1,0 +1,350 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "pm3PSp4nPutqFNb55fIK9w==",
+        "title": "Sapo Tahu Sederhana",
+        "slug": "sapo-tahu-sederhana-6",
+        "cover_url": "content-images\/images\/20250513\/KRI2exK0MdiC3w5hPhDC1diGnwVy7gDo-31373437313133393834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250513\/KRI2exK0MdiC3w5hPhDC1diGnwVy7gDo-31373437313133393834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Minimalis tapi tetap enak !",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1747115760,
+        "updated_date": 1747115833,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 21,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250513\/KRI2exK0MdiC3w5hPhDC1diGnwVy7gDo-31373437313133393834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/7WpHJ35eVfo46AZ88",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Goreng tahu setengah matang, angkat dan tiriskan.",
+                "image_url": "content-images\/images\/20250513\/daAVcuLQiBcT2mwjNtWqctPcu6gAD4YW-31373437313134303333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250513\/daAVcuLQiBcT2mwjNtWqctPcu6gAD4YW-31373437313134303333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tumis bawamg merah dengan 1-2 sdm minyak sampai layu. Tambahkan bawang putih, jahe dan cabe kering, tumis sampai matang.",
+                "image_url": "content-images\/images\/20250513\/nSdWKyC1oQN3glRCbpZ1Qe1CFCV4K4Q4-31373437313134303430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250513\/nSdWKyC1oQN3glRCbpZ1Qe1CFCV4K4Q4-31373437313134303430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan wortel dan jamur, tumis sebentar.",
+                "image_url": "content-images\/images\/20250513\/QPurXP97OsfLjjXvrFcOsZINKFYUJ2jY-31373437313134303632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250513\/QPurXP97OsfLjjXvrFcOsZINKFYUJ2jY-31373437313134303632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tuang air, masukkan semua bumbu dibahan kuah. Masak sampai mendidih.",
+                "image_url": "content-images\/images\/20250513\/vC680JUDs1dPuGd8sk1FW9i1cyTFFInU-31373437313134303637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250513\/vC680JUDs1dPuGd8sk1FW9i1cyTFFInU-31373437313134303637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan sayuran, setelah layu tuang larutan maizena aduk sampai mendidih kembali.",
+                "image_url": "content-images\/images\/20250513\/ZztztGqH2hR212nXYeaSmbKb4M1z05SL-31373437313134303835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250513\/ZztztGqH2hR212nXYeaSmbKb4M1z05SL-31373437313134303835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Cek rasa. Masukkan tahu tuang minyak wijen. Sajikan.",
+                "image_url": "content-images\/images\/20250513\/ePyZlfCSs9XnJ7qhFpm89HaCoutfJuHo-31373437313134313132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250513\/ePyZlfCSs9XnJ7qhFpm89HaCoutfJuHo-31373437313134313132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "SnaAvHh9KXqHjXRfEYbl0Q==",
+                "name": "Kembang Kol",
+                "slug": "kembang-kol"
+            },
+            {
+                "id": "eUDumVCs5n3IHcFz7LWG0A==",
+                "name": "Tahu",
+                "slug": "tahu"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "rzHb_AtDilydcbUu3RzNrw==",
+            "uuid": "66f5523f-7aa8-49b7-b7dd-6a765acc850a",
+            "username": "arninhana",
+            "name": "Hana Arnin",
+            "avatar": "content-images\/images\/20220911\/mMc4j9wdYmyssQNbIgb17SownvstjTuk-31363632383636363136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "150 gr tahu putih iris setebal 1 cm",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 lembar jamur kuping segar, potong sesuai selera",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 lembar pokcoy, potong kasar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar sawi putih, potong kasar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/3 buah wortel, potong serong tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang daun bawang, iris serong",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1.5 sdt maizena, larutkan dengan sedikit air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih, cincang halus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 buah bawang merah, iris tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 iris tipis jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 buah Cabe rawit kering (opsional)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt minyak wijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Saus Kuah",
+                "ingredients": [
+                    {
+                        "description": "250 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kaldu ayam bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt merica bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt msg",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kecap asin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kecap ikan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt kecap manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

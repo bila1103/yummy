@@ -1,0 +1,360 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "qk7vRyw9ORpqNJpdiPHqag==",
+        "title": "Buncis Goreng Raos",
+        "slug": "buncis-goreng-raos",
+        "cover_url": "content-images\/images\/20240625\/ok86aaMRcSohdDNvHqg85AHQV05N4Rsf-31373139323736323036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20240625\/ok86aaMRcSohdDNvHqg85AHQV05N4Rsf-31373139323736323036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Buncis biasanya ditumis atau disantan. Kali ini, buncis digoreng dengan tepung. Rasanya enak dan disukai semua kalangan!",
+        "rating": 5,
+        "video_url": "",
+        "price": 20000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 3,
+        "serving_max": 5,
+        "release_date": 1746428820,
+        "updated_date": 1746429234,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 17,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20240625\/ok86aaMRcSohdDNvHqg85AHQV05N4Rsf-31373139323736323036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/LyCeZS8pcgmYZouz7",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong-potong buncis.",
+                "image_url": "content-images\/images\/20240625\/9jCOGfR1074BHXE9LQaaJXLtOeX78p9M-31373139323736353836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240625\/9jCOGfR1074BHXE9LQaaJXLtOeX78p9M-31373139323736353836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Campur tepung terigu, tepung maizena, margarin, garam, dan kaldu bubuk. Masukkan air secara bertahap sampai adonan mengental.",
+                "image_url": "content-images\/images\/20240625\/LUAzrETDBBG994UJYZHIIOAO0SRFQR6e-31373139323736363231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240625\/LUAzrETDBBG994UJYZHIIOAO0SRFQR6e-31373139323736363231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Setelah adonan mengental, masukkan potongan buncis.",
+                "image_url": "content-images\/images\/20240625\/FPARwmICjcbPNtOVpPYRatPqv04QI4D1-31373139323736373030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240625\/FPARwmICjcbPNtOVpPYRatPqv04QI4D1-31373139323736373030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Goreng buncis sampai kuning keemasan.",
+                "image_url": "content-images\/images\/20240625\/fNY0U6tJjS5ak7xXsB0soVJSlN57e61Z-31373139323736373430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240625\/fNY0U6tJjS5ak7xXsB0soVJSlN57e61Z-31373139323736373430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Cincang kasar bawang merah, bawang putih, cabe, dan daun bawang.",
+                "image_url": "content-images\/images\/20240625\/hjMXzIjhKz1ClM6aFVHB8tjPayFbaw0k-31373139323736373734d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240625\/hjMXzIjhKz1ClM6aFVHB8tjPayFbaw0k-31373139323736373734d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tumis bawang merah, bawang putih, cabe, dan daun bawang sampai matang.",
+                "image_url": "content-images\/images\/20240625\/I4pp1bzYmOuTGdfqDn4t9CcASDtk1gE3-31373139323736383233d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240625\/I4pp1bzYmOuTGdfqDn4t9CcASDtk1gE3-31373139323736383233d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukkan kecap, saos tiram, garam, daun jeruk, dan air sampai mendidih.",
+                "image_url": "content-images\/images\/20240625\/FuhYjlhLIF98AipbKwVqtycDUgJ2vOga-31373139323736383637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240625\/FuhYjlhLIF98AipbKwVqtycDUgJ2vOga-31373139323736383637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Masukkan buncis goreng ke dalam bumbu. Aduk rata dan cek rasa. Buncis goreng raos siap dihidangkan!",
+                "image_url": "content-images\/images\/20240625\/ofzkzDbSGoPaJixKtEbFzEmj5AgX5U4y-31373139323736393530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240625\/ofzkzDbSGoPaJixKtEbFzEmj5AgX5U4y-31373139323736393530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "uqJHyhAGNlLAhSL3ZYHumw==",
+                "name": "Makanan Pendamping",
+                "slug": "makanan-pendamping"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            },
+            {
+                "id": "ODvGpFiwqbYLQNcJAVrkLw==",
+                "name": "Pelengkap",
+                "slug": "pelengkap"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "FEusSQpwKhetyBUOM4CoMA==",
+                "name": "Buncis",
+                "slug": "buncis"
+            },
+            {
+                "id": "OTrclgVOZxmXTlsXf-ffYw==",
+                "name": "Daun Bawang",
+                "slug": "daun-bawang"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "y68vaE160omFmI6Qh40XNQ==",
+            "uuid": "c68544ac-a1c4-4299-830a-2a1fd499b7fd",
+            "username": "yulyati-1",
+            "name": "Yulyati ",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "300 gram buncis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu Tepung",
+                "ingredients": [
+                    {
+                        "description": "6 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm tepung maizena",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm margarin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu Raos",
+                "ingredients": [
+                    {
+                        "description": "5 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 buah cabe rawit merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 batang daun bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 lembar daun jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm saos tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm kecap manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

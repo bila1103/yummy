@@ -1,0 +1,521 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "x3_EPSxxQwDcVEeKAugyUQ==",
+        "title": "Sapo Tahu Udang",
+        "slug": "sapo-tahu-udang-2",
+        "cover_url": "content-images/images/20210829/baafce5e3d8cf097d0db6ce94e205738.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20210829/baafce5e3d8cf097d0db6ce94e205738.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20210829/b5ec3444d10c181dda0a1e6f69523e6b.mp4",
+        "price": 40000,
+        "price_premium": 5000,
+        "calories": "254,1 Kj",
+        "is_cvc": false,
+        "cooking_time": 45,
+        "serving_min": 4,
+        "serving_max": 5,
+        "release_date": 1630202760,
+        "updated_date": 1747570872,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.760000228881836,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 19,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 54,
+        "recook_count": 3,
+        "original_image": "content-images/images/20210829/baafce5e3d8cf097d0db6ce94e205738.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/AuCG1ZWQS7bzAmAn8",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Siapkan frying pan, masukkan minyak goreng, tumis bawang putih, jahe, dan bawang bombay hingga harum.",
+                "image_url": "content-images/images/20210829/aa085edc4630567154c9b9f2d1df968b.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20210829/aa085edc4630567154c9b9f2d1df968b.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan wortel, brokoli, jamur, dan udang, masak sebentar.",
+                "image_url": "content-images/images/20210829/88dfb302563cbcac0f252a45a4546159.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20210829/88dfb302563cbcac0f252a45a4546159.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Makanan Chinese",
+                "slug": "makanan-chinese"
+            },
+            {
+                "id": "EfIz4U8D8zEcWGF8tk_dQw==",
+                "name": "Masakan Tumis",
+                "slug": "masakan-tumis"
+            },
+            {
+                "id": "HtFSQfBRLqRqxP3iD6SSog==",
+                "name": "Sapo",
+                "slug": "sapo"
+            },
+            {
+                "id": "A0bGHgeNLmUyRWhrm2cDaA==",
+                "name": "Capcay",
+                "slug": "capcay"
+            },
+            {
+                "id": "8-IUYYWa3MzPPYqF60OKiQ==",
+                "name": "Chinese Food",
+                "slug": "chinese"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "XoOQljKTIsthw9SvhP1iMQ==",
+                "name": "30-60m",
+                "slug": "30-60m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "3JarabNLfhlEdSLoUTuDVw==",
+                "name": "Brokoli",
+                "slug": "brokoli"
+            },
+            {
+                "id": "owSG5O0qm0rSUfwmznwmng==",
+                "name": "Kubis",
+                "slug": "kubis"
+            },
+            {
+                "id": "2hRXFoITKo_F8ODaNvTsJw==",
+                "name": "Saus Tiram",
+                "slug": "saus-tiram"
+            },
+            {
+                "id": "vs_JsRjc8t-nTiFV2WuwnQ==",
+                "name": "Sawi",
+                "slug": "sawi"
+            },
+            {
+                "id": "eUDumVCs5n3IHcFz7LWG0A==",
+                "name": "Tahu",
+                "slug": "tahu"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "1 sdm minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq1jV",
+                        "media_url": "content-images/images/20220326/211cd1d5652a29533445cb1ccace461c.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 siung bawang putih, cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20220326/10ee8cfe11abd9ae71093346cccb2265.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd pcs bawang bombay",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBb91",
+                        "media_url": "content-images/images/20220326/0d297f0d86de1bb163527ffc490bc1af.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 ruas jahe, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/AWaGrN",
+                        "media_url": "content-images/images/20220326/0bd3ddc23b2464b588199831dbbf9500.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 pcs wortel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLxR1",
+                        "media_url": "content-images/images/20220326/901b1f795a0d2506b2f54ee9f9fa4079.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 pcs brokoli",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/zNqONM",
+                        "media_url": "content-images/images/20220326/18534977ad4749e2bbf8ffa66a34300a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr sawi putih, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/zNqB1e",
+                        "media_url": "content-images/images/20220326/efaf91854f2ffae69aa07de42e43a182.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 pcs jamur shitake, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/JzQW17",
+                        "media_url": "content-images/images/20220326/b4ad4d6a3839e9cffbeeabd90213c15d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lonjor egg tofu, goreng sebentar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220326/04ac19ee867ca848f1ef86a0db3dc694.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 gr sawi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/zNqB1e",
+                        "media_url": "content-images/images/20220326/a9d9ba3d7536ff53189178235fdcc14b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/EKVWQe",
+                        "media_url": "content-images/images/20220326/db829089732667607e608f5180bee22e.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm kecap asin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/9gQrb0",
+                        "media_url": "content-images/images/20220326/813b9682685129e7966a78dea5962b42.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt kecap ikan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/DK1Jjo",
+                        "media_url": "content-images/images/20220326/ca4797364e9fff5ff5f3f22d81637daf.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt lada putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbok5",
+                        "media_url": "content-images/images/20220326/271bfeb1cdbe9b8335c0b4923fae16eb.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt penyedap",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220326/c92cf5f82183bf8f77f208e38907bd42.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20220326/ce24b11555b7b1a4537d055340ba1e9b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "400 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220326/8feba36797dc59524551ff745b694117.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm maizena (larutkan dengan air)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbo9A",
+                        "media_url": "content-images/images/20220326/c6dc1e7189752fd96cd06aee5278d558.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr udang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/B0A1jW",
+                        "media_url": "content-images/images/20220326/6136be7bf11956b4642ad039372c8c31.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin A (\u00b5g)",
+                "slug": "vitamin-a-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": false
+            },
+            {
+                "name": "Vitamin C (mg)",
+                "slug": "vutamin-c-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "YYnGrwATb7itJaAOWrFiumLZwzOG8wpa",
+                "created_at": 1684419236,
+                "image_url": "content-images/images/20230518/pktkxrLHhaGTvrXya1SOEU5ipBXiq49U-31363834333933393534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak",
+                "description": "makasih chef resepnya \ud83e\udd29 berasa makan di resto hihi..\n\nsalah satu menu di daftar meal plan yummy nih \ud83e\udd24",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "NUn5b7LK9SmrHTfh-CU_1w==",
+                    "username": "ct-khumairah",
+                    "name": "Siti Khumairah Aisyah",
+                    "avatar": "content-images/images/20200403/VXN14He4jtlvAGTIaMaKlhDa3t57hC7X-31353835393131303735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Sapo Tahu Udang",
+                    "slug": "sapo-tahu-udang-2",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "4vYvozFIHiDvfIQBTWGp4z66O7nwfUoF",
+                "created_at": 1684353524,
+                "image_url": "content-images/images/20230517/8eZxSvUAGHT0dQBl4Eq0DqpueNMy0ZUU-31363834333237383934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "Setor recook Sapo Tahu Udang ya chef, bahan-bahannya disesuaikan persediaan di dapur, seperti tahu, ebi halus, irisan ayam serta sayuran yang lainnya. Enak dan mantap, trimakasih ya chef inspirasi resepnya \ud83d\udc4d",
+                "is_liked": false,
+                "like_count": 2,
+                "author": {
+                    "id": "zu9EhO6hh-77-mFHosyKkA==",
+                    "username": "widiarief",
+                    "name": "Wid's Kitchen",
+                    "avatar": "content-images/images/20231123/e64975367da3238217572b84a3c4ec11.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Sapo Tahu Udang",
+                    "slug": "sapo-tahu-udang-2",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "LDBYEYbZlEvtNVxFKx0Zlrjj6gWZ2A1Z",
+                "created_at": 1668898409,
+                "image_url": "content-images/images/20221119/NLcgjfhPvvssGR3ld0051KmgG8DyXwlS-31363638383733303332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Malam chef, setor recook sapo tahu udangnya ya. menu ini enak buat dimakan siang/malam. sapo tahu plus udang pas banget buat kandungan gizi, sayangnya saya skip brokoli krn ga ada. Buat rasa enak. makasih resepnya\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "4GXwdga9pqz5-JReBpV6oQ==",
+                    "username": "dapurmamoz",
+                    "name": "Lina Subrata",
+                    "avatar": "content-images/images/20211012/jU5gJ4qfhOX0PfXbxQeTbjwX8mhMkaT2-31363334303233363933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Sapo Tahu Udang",
+                    "slug": "sapo-tahu-udang-2",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Fry Pan - Besar",
+                "media_url": "content-images/images/20210714/980057f47076afbd0ecaeea4a19a345d.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Sutil",
+                "media_url": "content-images/images/20210712/519f6acdec5c700b847229e696f8e62f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Talenan",
+                "media_url": "content-images/images/20210712/5bcf9d1ede5f68c8d7acf04bcf604504.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

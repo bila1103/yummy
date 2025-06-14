@@ -1,0 +1,356 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "3ZV9GAW7J5J9OvdujcMF7A==",
+        "title": "Sayur Sop Ayam Tumis Bawang Bombay",
+        "slug": "sayur-sop-ayam-tumis-bawang",
+        "cover_url": "content-images\/images\/20250515\/h6wX7Vce9rtTRF5oUIYhGTJp0AqGKIvU-31373437323631323339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250515\/h6wX7Vce9rtTRF5oUIYhGTJp0AqGKIvU-31373437323631323339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Menu sehat yang kaya akan serat",
+        "rating": 5,
+        "video_url": "",
+        "price": 20000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 40,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1747318560,
+        "updated_date": 1747736014,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 19,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250515\/h6wX7Vce9rtTRF5oUIYhGTJp0AqGKIvU-31373437323631323339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/kGgk3eCixUmfmUUV9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong dadu fillet paha ayam, beri bumbu marinasi aduk rata",
+                "image_url": "content-images\/images\/20250515\/nLKNFZoBDPHXKEUkafz8beZfMrN7GHGh-31373437323736373833d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/nLKNFZoBDPHXKEUkafz8beZfMrN7GHGh-31373437323736373833d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Panaskan minyak, masukan potongan daging ayam masak hingga berubah warna",
+                "image_url": "content-images\/images\/20250515\/ujm8TPd16eK9muiy0cCwTtNJtKXaVfb3-31373437323736373836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/ujm8TPd16eK9muiy0cCwTtNJtKXaVfb3-31373437323736373836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukan irisan bawang bombay dan bawang putih cincang masak hingga matang, sisihkan",
+                "image_url": "content-images\/images\/20250515\/dm2uxGuldE4OL7IcJgKsiIhVUPA44CAL-31373437323736373931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/dm2uxGuldE4OL7IcJgKsiIhVUPA44CAL-31373437323736373931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Didihkan air pada panci, masukan irisan wortel dan kentang",
+                "image_url": "content-images\/images\/20250515\/w2mBUIcUuWNeswPEKJHy6wpAUneBEOW9-31373437323736373936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/w2mBUIcUuWNeswPEKJHy6wpAUneBEOW9-31373437323736373936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukan tumisan daging ayam, masak hingga wortel setengah matang",
+                "image_url": "content-images\/images\/20250515\/Hqpd7uRq1auLzacPV0LAV0VRtZ0GySKy-31373437323736383032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/Hqpd7uRq1auLzacPV0LAV0VRtZ0GySKy-31373437323736383032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tambahkan garam, kaldu jamur, merica bubuk dan kecap ikan",
+                "image_url": "content-images\/images\/20250515\/C7zV5DsrAQ1enNoIyIUU2OTRhLaffdMP-31373437323736383037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/C7zV5DsrAQ1enNoIyIUU2OTRhLaffdMP-31373437323736383037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukan irisan kol",
+                "image_url": "content-images\/images\/20250515\/PHZo0HkIDmDVyU4iNdOFK6g3cSXWuqZ8-31373437323736383230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/PHZo0HkIDmDVyU4iNdOFK6g3cSXWuqZ8-31373437323736383230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Tambahkan brokoli",
+                "image_url": "content-images\/images\/20250515\/3DQ8DKlbLbTEfIjw22hoLRdaHc0wCjFX-31373437323736383235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/3DQ8DKlbLbTEfIjw22hoLRdaHc0wCjFX-31373437323736383235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Masukan irisan bawang daun dan seledri, masak hingga matang, koreksi rasa",
+                "image_url": "content-images\/images\/20250515\/4OXSmscCBlAnbZ1ulGlsRjkB9qRBwOeD-31373437323736383331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/4OXSmscCBlAnbZ1ulGlsRjkB9qRBwOeD-31373437323736383331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "RkAHZYbrL58-78Y_ZBXAcw==",
+                "name": "Kentang",
+                "slug": "kentang"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "zwDV0EnI8GP5oR4QE1kluA==",
+            "uuid": "8b9885e1-d02c-4869-b476-a915a16d6d3c",
+            "username": "andrenia-giawati",
+            "name": "andrenia giawati",
+            "avatar": "content-images\/images\/20210519\/ShJ7N6vuMh75GNPJFmJtPEgb87pcS4Wp-31363231343235303436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "150 gram fillet paha ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Bumbu marinasi :",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sendok teh garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sendok teh merica bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sendok teh bawang putih bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Lainnya :",
+                "ingredients": [
+                    {
+                        "description": "3 buah wortel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah kentang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 lembar kol",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah brokoli kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Air secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sendok makan minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 buah bawang bombay",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Garam secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sendok teh merica bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sendok teh kaldu jamur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sendok teh kecap ikan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang bawang daun",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 batang seledri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

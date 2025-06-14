@@ -1,0 +1,325 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "u4k2mt7SWllEpaAiOW2zEQ==",
+        "title": "Ayam Tahu Saus Tiram",
+        "slug": "ayam-tahu-saus-tiram-3",
+        "cover_url": "content-images\/images\/20250314\/uSBCBpmgXoF3Hl1HP6aeG7evyPwGv0LB-31373431393338393835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250314\/uSBCBpmgXoF3Hl1HP6aeG7evyPwGv0LB-31373431393338393835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Menu sat set untuk persiapan sahur ataupun berbuka puasa",
+        "rating": 5,
+        "video_url": "",
+        "price": 25000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1745401080,
+        "updated_date": 1745432425,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 18,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250314\/uSBCBpmgXoF3Hl1HP6aeG7evyPwGv0LB-31373431393338393835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/53vmwikQhgzVym959",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Lumuri potongan dadu ayam dengan bumbu marinasi, aduk rata dan diamkan minimal 30 menit.",
+                "image_url": "content-images\/images\/20250314\/Mz4AgwwWIgwfjttQxqG2CTzMtCkbp1eM-31373431393339303339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250314\/Mz4AgwwWIgwfjttQxqG2CTzMtCkbp1eM-31373431393339303339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Goreng dada ayam dengan sedikit minyak hingga berubah warna, tiriskan.",
+                "image_url": "content-images\/images\/20250314\/RNnA1hREq6rrzXo0Re4yFoBcqAKwGC8g-31373431393339303436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250314\/RNnA1hREq6rrzXo0Re4yFoBcqAKwGC8g-31373431393339303436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Goreng potongan tahu hingga matang, tiriskan.",
+                "image_url": "content-images\/images\/20250314\/wNUkglUtelrNee5tOX0WmfpAghu105Dz-31373431393339303533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250314\/wNUkglUtelrNee5tOX0WmfpAghu105Dz-31373431393339303533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tumis irisan bawang bombay, bawang putih, serai dan daun jeruk hingga harum.",
+                "image_url": "content-images\/images\/20250314\/bmwjQTbjLRU87whQOC3AWYMTajrP1oq1-31373431393339303538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250314\/bmwjQTbjLRU87whQOC3AWYMTajrP1oq1-31373431393339303538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukan daging ayam, aduk rata.",
+                "image_url": "content-images\/images\/20250314\/iMhSMaQNLdrDLwusAN4rUkSDhyfxDPN7-31373431393339303635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250314\/iMhSMaQNLdrDLwusAN4rUkSDhyfxDPN7-31373431393339303635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Beri air, garam, gula pasir, kecap manis, saus tiram dan saus pedas aduk rata.",
+                "image_url": "content-images\/images\/20250314\/yFTgStgdzYMAqVs9AHvCVag3AsrJooZr-31373431393339303730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250314\/yFTgStgdzYMAqVs9AHvCVag3AsrJooZr-31373431393339303730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukan tahu goreng, masak hingga bumbu menyerap.",
+                "image_url": "content-images\/images\/20250314\/WHGfCXdtI6NZ8pjSId7qxVNwMq2CXCml-31373431393339303736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250314\/WHGfCXdtI6NZ8pjSId7qxVNwMq2CXCml-31373431393339303736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "YBRmaTfXKqj3QsdvA3jbvQ==",
+                "name": "Lauk Pauk",
+                "slug": "lauk-pauk"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "2hRXFoITKo_F8ODaNvTsJw==",
+                "name": "Saus Tiram",
+                "slug": "saus-tiram"
+            },
+            {
+                "id": "eUDumVCs5n3IHcFz7LWG0A==",
+                "name": "Tahu",
+                "slug": "tahu"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "zwDV0EnI8GP5oR4QE1kluA==",
+            "uuid": "8b9885e1-d02c-4869-b476-a915a16d6d3c",
+            "username": "andrenia-giawati",
+            "name": "andrenia giawati",
+            "avatar": "content-images\/images\/20210519\/ShJ7N6vuMh75GNPJFmJtPEgb87pcS4Wp-31363231343235303436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "300 gram dada ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Bumbu marinasi :",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt kaldu jamur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt merica bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt bawang putih bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Lainnya :",
+                "ingredients": [
+                    {
+                        "description": "4 buah tahu kuning",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Minyak goreng secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang serai",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 lembar daun jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 batang bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah bawang bombay",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Kecap manis secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm saus pedas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

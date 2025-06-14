@@ -1,0 +1,337 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "q1LRa2cHeVSJfcK9oHb9HA==",
+        "title": "Sarden Kentang Pedas",
+        "slug": "sarden-kentang-pedas",
+        "cover_url": "content-images\/images\/20250323\/HNVWjW6vnlJrgouxWxluhTcSEvfmJaTr-31373432373138363032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250323\/HNVWjW6vnlJrgouxWxluhTcSEvfmJaTr-31373432373138363032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Ternyata kentang dimasak dengan sarden cocok ya.Siapa di sini yang kalau masak sarden tanpa menambahkan apa-apa.Cuma tuang sarden kalengan,tambahkan air aja.Cobain deh resep ini,gurih,pedas,bikin nagih. Apalagi bagi yang pencinta pedas,bisa banget dibanyakin pemakaian cabenya.Berikut resepnya.",
+        "rating": 5,
+        "video_url": "",
+        "price": 45000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 1,
+        "serving_max": 5,
+        "release_date": 1745408640,
+        "updated_date": 1745409035,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 17,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250323\/HNVWjW6vnlJrgouxWxluhTcSEvfmJaTr-31373432373138363032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/dYzRg3mBKz2aeikh6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Cuci dan potong-potong kentang sesuai selera.",
+                "image_url": "content-images\/images\/20250323\/sq0JcrTFhWFDFz9gd7eUOpIcjRYftDOS-31373432373336383435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250323\/sq0JcrTFhWFDFz9gd7eUOpIcjRYftDOS-31373432373336383435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Panaskan secukupnya minyak goreng. Masukkan kentang dan goreng hingga kentang agak berkulit.Angkat dan tiriskan.",
+                "image_url": "content-images\/images\/20250323\/gSi15O5gg4WUiQFOqOdWAgPM6ZBHO98a-31373432373336383637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250323\/gSi15O5gg4WUiQFOqOdWAgPM6ZBHO98a-31373432373336383637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Potong-potong tomat. Iris-iris bawang putih, bawang merah. Geprek Jahe dan serai. Buang tulang daun jeruk. Untuk daun salam cukup diremas dan cabe rawit merah biarkan utuh.",
+                "image_url": "content-images\/images\/20250323\/cnYqLUNtxKuXdbxgbrpdNLCnRQ0xBZFf-31373432373336393134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250323\/cnYqLUNtxKuXdbxgbrpdNLCnRQ0xBZFf-31373432373336393134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Panaskan secukupnya minyak goreng. Masukkan jahe, bawang putih, bawang merah, serai, daun salam, daun jeruk dan sebagian tomat merah secara bertahap. Tumis hingga harum dan agak layu.",
+                "image_url": "content-images\/images\/20250323\/ogchchpTEc6vb0PqsWLlgvcgslsFa2lY-31373432373337303438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250323\/ogchchpTEc6vb0PqsWLlgvcgslsFa2lY-31373432373337303438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan sarden dan aduk rata.",
+                "image_url": "content-images\/images\/20250323\/dGMd8lwNmYaNjOiIryCvlf85l1QbGWaY-31373432373337313135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250323\/dGMd8lwNmYaNjOiIryCvlf85l1QbGWaY-31373432373337313135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Beri air, aduk rata.",
+                "image_url": "content-images\/images\/20250323\/Wtz9ndw8VLdWS8kmVGKPiqVsSrJGMnoq-31373432373337313632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250323\/Wtz9ndw8VLdWS8kmVGKPiqVsSrJGMnoq-31373432373337313632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukkan kentang, aduk rata kembali.",
+                "image_url": "content-images\/images\/20250323\/dwttxf9EL59R30L5tbijvbptXWQW17AF-31373432373337313832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250323\/dwttxf9EL59R30L5tbijvbptXWQW17AF-31373432373337313832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Beri garam, kaldu jamur, gula pasir, saos tomat, saos sambal, aduk rata. Masak hingga mendidih dan air sedikit menyusut. Jangan lupa test rasa.",
+                "image_url": "content-images\/images\/20250323\/9cFHw3jaHgwi9OxQRKc5yDu3PR60RVW5-31373432373337323034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250323\/9cFHw3jaHgwi9OxQRKc5yDu3PR60RVW5-31373432373337323034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Terakhir masukkan cabe rawit merah utuh dan sisa tomat merah. Masak sesaat,angkat dan sajikan.",
+                "image_url": "content-images\/images\/20250323\/eK0LxMrAZ8s2RRXJFlA1k9oH8SeOezaC-31373432373337323337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250323\/eK0LxMrAZ8s2RRXJFlA1k9oH8SeOezaC-31373432373337323337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "3s5JR7UJq706BhMuVv274A==",
+                "name": "Ikan",
+                "slug": "ikan"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            },
+            {
+                "id": "RkAHZYbrL58-78Y_ZBXAcw==",
+                "name": "Kentang",
+                "slug": "kentang"
+            },
+            {
+                "id": "QvsDybc6uM6-8M_OksDGVw==",
+                "name": "Serai",
+                "slug": "serai"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "ZPT3-j8v6oHPEzmcJI-pZQ==",
+            "uuid": "c21734a8-1507-4349-ba1d-dd5dc1a5289c",
+            "username": "chef-lydia",
+            "name": "Moms Kitchen",
+            "avatar": "content-images\/images\/20210526\/KJmM2dlkNEUsTFYZ50hNqHEWUzZckEke-31363232303237323136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "3 kaleng sarden ukuran kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gr kentang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah tomat merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 ruas jari jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang serai",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daun jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 buah cabe rawit merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "secukupnya garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "secukupnya kaldu jamur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "secukupnya gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm saos tomat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm saos sambal",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "secukupnya air matang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "secukupnya minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

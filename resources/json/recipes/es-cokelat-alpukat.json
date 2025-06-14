@@ -1,0 +1,190 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "5nCRKeLLPIZqDKy2GFMzqA==",
+        "title": "Es Cokelat Alpukat",
+        "slug": "es-cokelat-alpukat",
+        "cover_url": "content-images\/images\/20240415\/Ffs8oZ5yoNczX5tu4gu44ytuxK2K1ATd-31373133313832313133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20240415\/Ffs8oZ5yoNczX5tu4gu44ytuxK2K1ATd-31373133313832313133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Minuman segar untuk menemani cuaca panas.",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 5,
+        "serving_min": 1,
+        "serving_max": 1,
+        "release_date": 1745402040,
+        "updated_date": 1745402149,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 3,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20240415\/Ffs8oZ5yoNczX5tu4gu44ytuxK2K1ATd-31373133313832313133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/YjH4t7wLu9m5Lug99",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan potongan alpukat.",
+                "image_url": "content-images\/images\/20240415\/jZnduwHebpsFyUbSbShjkpiCnonDO8zE-31373133313832313832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240415\/jZnduwHebpsFyUbSbShjkpiCnonDO8zE-31373133313832313832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan susu kental manis.",
+                "image_url": "content-images\/images\/20240415\/oQLhH3CyYQs1btpIG4IXC1VNVkpxHYov-31373133313832323135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240415\/oQLhH3CyYQs1btpIG4IXC1VNVkpxHYov-31373133313832323135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Haluskan alpukat.",
+                "image_url": "content-images\/images\/20240415\/HfSvDpmZTsqOC3hDefmhlZUEbZFSrLk6-31373133313832323330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240415\/HfSvDpmZTsqOC3hDefmhlZUEbZFSrLk6-31373133313832323330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan es batu.",
+                "image_url": "content-images\/images\/20240415\/SWamgLMeLvANUZ7W4vnZet5XClA2p0lQ-31373133313832323438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240415\/SWamgLMeLvANUZ7W4vnZet5XClA2p0lQ-31373133313832323438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tambahkan susu cokelat dan beri toping potongan alpukat di atasnya.",
+                "image_url": "content-images\/images\/20240415\/wx8Q7Z3T0mOlY5hBmb4WkVnUnILX3zz8-31373133313832323636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240415\/wx8Q7Z3T0mOlY5hBmb4WkVnUnILX3zz8-31373133313832323636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tjLwUn7mCQfa7d86yvsq3g==",
+                "name": "Minuman",
+                "slug": "minuman"
+            },
+            {
+                "id": "2N9oVvOk4OzagTsGqrnxxw==",
+                "name": "minuman dingin",
+                "slug": "minuman-dingin"
+            },
+            {
+                "id": "YPx--EuJ-arwzS7GnZ0-Bg==",
+                "name": "minuman segar",
+                "slug": "minuman-segar"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "GAGuHuj6QprYGtL3p-Qxfw==",
+                "name": "Alpukat",
+                "slug": "alpukat"
+            },
+            {
+                "id": "HP3_VE7oOYl_AaGLCEgP9g==",
+                "name": "Cokelat",
+                "slug": "cokelat"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Es Batu",
+                "slug": "es-batu"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "MY8XB9PrR-kl7xRAXRqmEw==",
+            "uuid": "2cf551e8-d179-4582-bbd2-e49ad48cc490",
+            "username": "meat-joy",
+            "name": "Meat Joy",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1\/2 buah alpukat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm susu kental manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "125 ml susu cokelat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "hSGlDBTsMyRD51YmCnkrkQ==",
+        "title": "Bekal Sayur Bunga Kol Bakso Wortel",
+        "slug": "bekal-sayur-bunga-kol-bakso-wortel",
+        "cover_url": "content-images\/images\/20241009\/6mEa7XH9vQ5gQgQKLvYfAd1zvof5VXdM-31373238343430343039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20241009\/6mEa7XH9vQ5gQgQKLvYfAd1zvof5VXdM-31373238343430343039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Buat bekal anak sekolah, praktis dan enak!",
+        "rating": 5,
+        "video_url": "",
+        "price": 30000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1747624980,
+        "updated_date": 1747625234,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 11,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20241009\/6mEa7XH9vQ5gQgQKLvYfAd1zvof5VXdM-31373238343430343039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/DLM7tep8iSE6uvYo9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Tumis bawang merah hingga harum, lalu masukkan bumbu dasar putih.",
+                "image_url": "content-images\/images\/20241009\/Z9a0TiKq4r4Tb60Gj2neemHQrRsvmoaW-31373238343430363231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241009\/Z9a0TiKq4r4Tb60Gj2neemHQrRsvmoaW-31373238343430363231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan wortel dan bunga kol.",
+                "image_url": "content-images\/images\/20241009\/fFGo0l3V8Z3IVdPWmn1UbpS8CsmiMYVq-31373238343430363433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241009\/fFGo0l3V8Z3IVdPWmn1UbpS8CsmiMYVq-31373238343430363433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan air, kemudian masak hingga mendidih.",
+                "image_url": "content-images\/images\/20241009\/2ITOdFyBwYFMUSUg97HFwJN2BuBCtGTR-31373238343430363537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241009\/2ITOdFyBwYFMUSUg97HFwJN2BuBCtGTR-31373238343430363537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan bakso, garam, dan kaldu bubuk.",
+                "image_url": "content-images\/images\/20241009\/6YgdafEmZxEabjI36kYGmPHDzMDB8s5t-31373238343430363638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241009\/6YgdafEmZxEabjI36kYGmPHDzMDB8s5t-31373238343430363638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tambahkan daun bawang dan seledri.",
+                "image_url": "content-images\/images\/20241009\/feDHHZI4Ne94wXZDGWC50gH9V36TaPW9-31373238343430363835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241009\/feDHHZI4Ne94wXZDGWC50gH9V36TaPW9-31373238343430363835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masak sayur hingga matang dan siap disajikan!",
+                "image_url": "content-images\/images\/20241009\/vSe5gJFnBJS5GjCGTFakOhatlxIGXUJm-31373238343430373034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241009\/vSe5gJFnBJS5GjCGTFakOhatlxIGXUJm-31373238343430373034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "K1oEh7lTvTgrV0j6QfiU6g==",
+                "name": "Ide Bekal",
+                "slug": "ide-bekal"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            },
+            {
+                "id": "N9zKlgRYkIsSLqRFhxPEzg==",
+                "name": "Kreasi Bekal Anak",
+                "slug": "kreasi-bekal-anak"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "_UN5dYx-1LL1Qtq8-Ux9xg==",
+                "name": "Bakso",
+                "slug": "bakso"
+            },
+            {
+                "id": "OTrclgVOZxmXTlsXf-ffYw==",
+                "name": "Daun Bawang",
+                "slug": "daun-bawang"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "V-Kjssmqv8xxzf8Yl_HKMg==",
+            "uuid": "e6bfae2a-d0cf-4878-ac06-b906e282d319",
+            "username": "ayu-aura",
+            "name": "Ayu Aura",
+            "avatar": "content-images\/images\/20231123\/16d814b0b5d171a1f903917743a00f96.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "8 butir bakso ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 genggam bunga kol",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd buah wortel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt bumbu dasar putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang daun bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang seledri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "400 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm minyak tumis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

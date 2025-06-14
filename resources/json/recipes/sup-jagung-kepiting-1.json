@@ -1,0 +1,253 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "Ib9_LGUeP6uvX_pHGttSQA==",
+        "title": "Sup Jagung Kepiting",
+        "slug": "sup-jagung-kepiting-1",
+        "cover_url": "content-images\/images\/20240626\/wHptpYiQCm8BN0jNb9er7hrEAI3abnGy-31373139343133383132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20240626\/wHptpYiQCm8BN0jNb9er7hrEAI3abnGy-31373139343133383132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Salah satu makanan yang paling sering dimasak di rumah.",
+        "rating": 5,
+        "video_url": "",
+        "price": 100000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 5,
+        "serving_max": 8,
+        "release_date": 1746431640,
+        "updated_date": 1746431807,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20240626\/wHptpYiQCm8BN0jNb9er7hrEAI3abnGy-31373139343133383132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/zBYhrvrYvF8XfBrH8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Panaskan air, masukkan bawang dan koreksi rasa.",
+                "image_url": "content-images\/images\/20240626\/CIyjlLv0sh8TEGSuMJHObKHQd3hnEly7-31373139343133383938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240626\/CIyjlLv0sh8TEGSuMJHObKHQd3hnEly7-31373139343133383938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan jagung yang sudah dipipil.",
+                "image_url": "content-images\/images\/20240626\/76CCow6FkPhQNxtuxIpO9M6x52uxHSVx-31373139343133393331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240626\/76CCow6FkPhQNxtuxIpO9M6x52uxHSVx-31373139343133393331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Aduk dan biarkan jagung hingga matang.",
+                "image_url": "content-images\/images\/20240626\/GbkYmn0AG8Qz7ZLdedqae7qmbRDLHesr-31373139343133393438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240626\/GbkYmn0AG8Qz7ZLdedqae7qmbRDLHesr-31373139343133393438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Kentalkan dengan larutan tapioka.",
+                "image_url": "content-images\/images\/20240626\/fMMCIuqroFgnPNSqGyQvCmcfUxGQcJsD-31373139343133393630d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240626\/fMMCIuqroFgnPNSqGyQvCmcfUxGQcJsD-31373139343133393630d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan telur kocok secara perlahan dan sambil diaduk.",
+                "image_url": "content-images\/images\/20240626\/rRQCaMaexEKH4mysssGuwPu0dT0hWet2-31373139343133393735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240626\/rRQCaMaexEKH4mysssGuwPu0dT0hWet2-31373139343133393735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Beri daun bawang dan minyak wijen.",
+                "image_url": "content-images\/images\/20240626\/xHoFbeD5bYp4cfoLa1TmxZVgE86dqNrn-31373139343133393938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240626\/xHoFbeD5bYp4cfoLa1TmxZVgE86dqNrn-31373139343133393938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "uqJHyhAGNlLAhSL3ZYHumw==",
+                "name": "Makanan Pendamping",
+                "slug": "makanan-pendamping"
+            },
+            {
+                "id": "PnKlJFJzpnyBiz5TatWYnw==",
+                "name": "Makanan Diet",
+                "slug": "makanan-diet"
+            },
+            {
+                "id": "YBRmaTfXKqj3QsdvA3jbvQ==",
+                "name": "Lauk Pauk",
+                "slug": "lauk-pauk"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "OTrclgVOZxmXTlsXf-ffYw==",
+                "name": "Daun Bawang",
+                "slug": "daun-bawang"
+            },
+            {
+                "id": "tLPZ6KbS2rvLzt6L1R5Nfg==",
+                "name": "Jagung",
+                "slug": "jagung"
+            },
+            {
+                "id": "JheCkQAUReXvVcXMAD0EIQ==",
+                "name": "Kepiting",
+                "slug": "kepiting"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "Diet",
+                "slug": "diet",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "GDRWToKB2hZXEMAh7PiiKQ==",
+            "uuid": "d6617607-a11f-41de-a6ae-39cb1080e53b",
+            "username": "ameliawulandarii",
+            "name": "Pojok Gigi",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 buah jagung manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 L air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 gram daging kepiting",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sendok makan larutan tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 batang daun bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sendok makan minyak wijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

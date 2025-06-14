@@ -1,0 +1,237 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "nB5zNthpQ-cPuMjuZ1rUtg==",
+        "title": "Pancake",
+        "slug": "pancake-58",
+        "cover_url": "content-images\/images\/20250428\/iAGqMQnFkgYvtMrUPAIavyZJqRXmkF3n-31373435383337383931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250428\/iAGqMQnFkgYvtMrUPAIavyZJqRXmkF3n-31373435383337383931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Salah satu ide resep untuk sarapan atau bekal anak ke sekolah",
+        "rating": 5,
+        "video_url": "",
+        "price": 20000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1745896560,
+        "updated_date": 1745896625,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 7,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250428\/iAGqMQnFkgYvtMrUPAIavyZJqRXmkF3n-31373435383337383931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/dxAteV8GCEytxM867",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Langkah pertama pecahkan 1 butir telur lalu tambahkan 3 sdm gula pasir",
+                "image_url": "content-images\/images\/20250426\/xhEv6Pziaf2EyQzColhOS8ckbor1hPkr-31373435363637303631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/xhEv6Pziaf2EyQzColhOS8ckbor1hPkr-31373435363637303631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Langkah kedua aduk hingga gula larut",
+                "image_url": "content-images\/images\/20250426\/mUXIcZs1eyUbFdxF7DzdjDjkmC17aRmm-31373435363637303931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/mUXIcZs1eyUbFdxF7DzdjDjkmC17aRmm-31373435363637303931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Langkah ketiga tambahkan 1 sdt baking powder",
+                "image_url": "content-images\/images\/20250426\/NDoWEbSgBS3ialxyFEMCUwLzZ6YnKuYd-31373435363637313139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/NDoWEbSgBS3ialxyFEMCUwLzZ6YnKuYd-31373435363637313139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Langkah keempat tambahkan 10 sdm tepung terigu lalu aduk hingga tercampur rata",
+                "image_url": "content-images\/images\/20250426\/wzBVJnUXhc4oinB7zJgwZARJ5cdzgH8Z-31373435363637313531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/wzBVJnUXhc4oinB7zJgwZARJ5cdzgH8Z-31373435363637313531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Langkah kelima tambahkan 1 cangkir air putih lalu aduk hingga tercampur rata, jika dirasa adonan masih terlalu kental bisa di tambahkan air kembali hingga adonan pas dan sesuai dengan yang diinginkan. Setelah itu diamkan dan tutup selama 10-15 menit",
+                "image_url": "content-images\/images\/20250426\/K4P8KwKBqPpFn54ArtgiwGtn22xI0jzf-31373435363637313736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/K4P8KwKBqPpFn54ArtgiwGtn22xI0jzf-31373435363637313736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Langkah keenam panaskan teflon lalu tuangkan satu centong adonan kedalam teflon anti lengket hingga adonan bersarang setelah itu balikkan agar matang merata dan tidak gosong",
+                "image_url": "content-images\/images\/20250426\/G4YGiFb84bTZbra74GsabNEvI60GY6tM-31373435363637323237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/G4YGiFb84bTZbra74GsabNEvI60GY6tM-31373435363637323237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Langkah terakhir tumpuk pancake yang sudah matang lalu beri topping susu kental manis dan or*o yang sudah di haluskan atau bisa ganti dengan topping yang lain sesuai dengan selera. Selamat mencoba \ud83d\ude0a",
+                "image_url": "content-images\/images\/20250426\/U9p2daN1wMsWTSDslsaTLTVw1JABWrp5-31373435363637333434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/U9p2daN1wMsWTSDslsaTLTVw1JABWrp5-31373435363637333434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "XY9MUqC9dRV-rxRxVNd--Q==",
+            "uuid": "cde3d041-9933-41e1-9a25-71386439de5a",
+            "username": "resepdapurqu",
+            "name": "Siti Qisma Fauziyah",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "10 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt baking powder",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 cangkir air putih \/ 1 cangkir susu full cream",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Tambahan Topping",
+                "ingredients": [
+                    {
+                        "description": "2-3 sdm susu kental manis rasa coklat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 butir biscuit yang dihaluskan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

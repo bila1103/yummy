@@ -1,0 +1,381 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "E45-vSPYTBbsI_CfmlVCEg==",
+        "title": "Ayam Yakiniku",
+        "slug": "ayam-yakiniku-3",
+        "cover_url": "content-images\/images\/20250313\/zWNk95rx0BsujRct5msgHhA44lxmbamH-31373431383334393334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250313\/zWNk95rx0BsujRct5msgHhA44lxmbamH-31373431383334393334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Ayam Yakiniku ini bisa untuk lauk maupun untuk camilan. Rasanya gurih dan pasti disukai anak-anak.",
+        "rating": 5,
+        "video_url": "",
+        "price": 30000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 5,
+        "serving_max": 7,
+        "release_date": 1745318100,
+        "updated_date": 1745318169,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 22,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250313\/zWNk95rx0BsujRct5msgHhA44lxmbamH-31373431383334393334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/nyaS6LopeuZUkKR49",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Dada ayam difilet, dipotong-potong. Masukkan bahan marinasi, aduk-aduk sampai tercampur rata,  lalu diamkan 30 menit.",
+                "image_url": "content-images\/images\/20250313\/mpHKJ8TI0fNjthJBdENopvBYorwMtl8z-31373431383336343736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250313\/mpHKJ8TI0fNjthJBdENopvBYorwMtl8z-31373431383336343736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Campur bahan tepung, aduk sampai tercampur rata.",
+                "image_url": "content-images\/images\/20250313\/Osht5nfwTBB7xCyZpjHj4ueWCLQmlfpf-31373431383336353032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250313\/Osht5nfwTBB7xCyZpjHj4ueWCLQmlfpf-31373431383336353032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan ayam ke dalam kocokan telur,  lalu gulingkan ke tepung. Goreng ke dalam minyak panas sampai kecoklatan.",
+                "image_url": "content-images\/images\/20250313\/KBP5kuzUCNmHpdcaNebGgYVP02FFf7Zd-31373431383336353432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250313\/KBP5kuzUCNmHpdcaNebGgYVP02FFf7Zd-31373431383336353432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Haluskan bawang putih dan jahe.",
+                "image_url": "content-images\/images\/20250313\/wqxjXLFuLhnoZPluDahdv3CK5eaNGGHT-31373431383336353934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250313\/wqxjXLFuLhnoZPluDahdv3CK5eaNGGHT-31373431383336353934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tumis bumbu halus sampai harum, lalu masukkan bawang bombay, saus teriyaki, kecap manis, minyak wijen dan merica bubuk.",
+                "image_url": "content-images\/images\/20250313\/oTqIFl0HxreoW4tkLbusH7AafwSO09dI-31373431383336363632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250313\/oTqIFl0HxreoW4tkLbusH7AafwSO09dI-31373431383336363632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukkan air, garam dan gula. Masak sampai mendidih, lalu masukkan tepung maizena cair. Masak sampai mengental.",
+                "image_url": "content-images\/images\/20250313\/BwUzkgaySTL1pWyouNtWfPZhGbRhNBLE-31373431383336373035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250313\/BwUzkgaySTL1pWyouNtWfPZhGbRhNBLE-31373431383336373035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Letakkan ayam di atas piring, siram dengan saus, lalu atasnya ditaburi wijen.",
+                "image_url": "content-images\/images\/20250313\/2ZxtbKbZUL8wUIMmKqn4zf98yJdmjezU-31373431383336383032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250313\/2ZxtbKbZUL8wUIMmKqn4zf98yJdmjezU-31373431383336383032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            },
+            {
+                "id": "1sQT0G1Lxg1WJOFE84wOGw==",
+                "name": "Saus Teriyaki",
+                "slug": "saus-teriyaki"
+            },
+            {
+                "id": "P6lH-3xu28amruJUQLeYrA==",
+                "name": "Wijen",
+                "slug": "wijen"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "Kzdw_snZGTFFSRoWmI94HQ==",
+            "uuid": "585a69e1-61cc-4491-8c80-d117bbca894c",
+            "username": "diandiwiti",
+            "name": "Dian Diwiti",
+            "avatar": "content-images\/images\/20191223\/ylD6jY3yxw3vW4LkT4NlI3Lg78r8t3kj-31353632363336353031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "500 gr Dada ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm Wijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir Telur, dikocok",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Marinasi",
+                "ingredients": [
+                    {
+                        "description": "1 sdm Saus teriyaki",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm Minyak wijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt Garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt Merica bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Saus",
+                "ingredients": [
+                    {
+                        "description": "\u00bd siung Bawang bombay",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung Bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm Saus teriyaki",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 sdm Kecap manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 cm Jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm Minyak wijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt Merica bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt Garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt Gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300 ml Air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm Tepung maizena dilarutkan air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan tepung",
+                "ingredients": [
+                    {
+                        "description": "10 sdm Tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 sdm Tepung tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt Garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt Merica bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

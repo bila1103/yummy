@@ -1,0 +1,373 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "iatYwOuJ1HDRqkk8g6z46g==",
+        "title": "Kimchi Bibimguksu (Mie Campur Korea)",
+        "slug": "kimchi-bibimguksu-mie-campur-korea",
+        "cover_url": "content-images/images/20210822/dcf28c120c3066686bc803722dd88877.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20210822/dcf28c120c3066686bc803722dd88877.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20210822/1c3acd2dfc90a191b570406bf3da3296.mp4",
+        "price": 45000,
+        "price_premium": 5000,
+        "calories": "1348,2 Kj",
+        "is_cvc": false,
+        "cooking_time": 35,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1629675660,
+        "updated_date": 1648340285,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.880000114440918,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 13,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 8,
+        "recook_count": 0,
+        "original_image": "content-images/images/20210822/dcf28c120c3066686bc803722dd88877.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/621iCiwSye6C1mnr5",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan gochujang, cabai bubuk, cuka beras, air kimchi, sirup jagung, dan kecap manis ke dalam wadah.",
+                "image_url": "content-images/images/20210822/b66428dbe2dc9176d48411ad8cdd726e.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20210822/b66428dbe2dc9176d48411ad8cdd726e.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan bawang putih cincang, minyak wijen, dan wijen putih ke dalam wadah, aduk rata dengan sendok, sisihkan.",
+                "image_url": "content-images/images/20210822/0a9196549660278f4f7117c49d05c6ce.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20210822/0a9196549660278f4f7117c49d05c6ce.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "4VqozgExmZcDQaj0VyJ82Q==",
+                "name": "kreasi mie",
+                "slug": "kreasi-mie"
+            },
+            {
+                "id": "36pVAjeRc8lpgEi_pH2hkQ==",
+                "name": "Makanan Korea",
+                "slug": "makanan-korea"
+            },
+            {
+                "id": "tR2WL-_XYOXtNw5lAVS_2A==",
+                "name": "Kimchi",
+                "slug": "kimchi"
+            },
+            {
+                "id": "qxK2CczH-v8go8wsb4OmWQ==",
+                "name": "Masakan Korea",
+                "slug": "masakan-korea"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "XoOQljKTIsthw9SvhP1iMQ==",
+                "name": "30-60m",
+                "slug": "30-60m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "0DHCwhP1o-D__NgixjVU6w==",
+                "name": "Gochujang",
+                "slug": "gochujang"
+            },
+            {
+                "id": "YrUMM9xC3lpI3fT0f2YdEg==",
+                "name": "Kimchi",
+                "slug": "kimchi"
+            },
+            {
+                "id": "dvJeivPNZ9ky2GKQO6FguQ==",
+                "name": "Mie",
+                "slug": "mie"
+            },
+            {
+                "id": "irisT0BLKk4-M6scPYY77w==",
+                "name": "Minyak Wijen",
+                "slug": "minyak-wijen"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "Ilp-VgNtuky9zzgnLLngsw==",
+                "name": "Timun",
+                "slug": "timun"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "250 gr mie",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/0ZOzJM",
+                        "media_url": "content-images/images/20220326/1417bbf408b4198a0a80310ba841f317.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 ml air kimchi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/EKVAK4",
+                        "media_url": "content-images/images/20220326/1cf3e3262c28fb81c8930f8853a2c9a7.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm gochujang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/9gQrNE",
+                        "media_url": "content-images/images/20220326/bdc62684353bb0dfbc6102086386a1f4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm cabai bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykW3j",
+                        "media_url": "content-images/images/20220326/b6dd55a3326716bbf250c0838a357e2b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm cuka beras",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/JzQW3v",
+                        "media_url": "content-images/images/20220326/4ad9485ea0cc45f8b0df4eb392fbd9f3.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm sirup jagung",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/k0bND3",
+                        "media_url": "content-images/images/20220326/8ac7b7bad7f2dcbd3dd478cd0987b738.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kecap asin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/9gQrb0",
+                        "media_url": "content-images/images/20220326/ad4a23342249df0d59f4e7210b4e01d8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20220326/f1e504ca485856d284e3702bbb849333.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm minyak wijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbRBR",
+                        "media_url": "content-images/images/20220326/d38ed6cd76d901b5b44b832f939ad1d8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt wijen putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbRBR",
+                        "media_url": "content-images/images/20220326/8f3c400c7dcf5084cf9707e8d6a0b786.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr zucchini",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/bay0ZM",
+                        "media_url": "content-images/images/20220326/2ea529b82ca8441050a651229ad4c959.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd pcs telur rebus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20220326/f2d3a7351919dda86765a30877aebed3.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Sendok",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            }
+        ],
+        "recook": [],
+        "cooking_tool": [
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Talenan",
+                "media_url": "content-images/images/20210712/5bcf9d1ede5f68c8d7acf04bcf604504.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Sutil",
+                "media_url": "content-images/images/20210712/519f6acdec5c700b847229e696f8e62f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

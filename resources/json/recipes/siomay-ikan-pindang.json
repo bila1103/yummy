@@ -1,0 +1,348 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "CgjdP1VYVapOsEWwkbzH-g==",
+        "title": "Siomay ikan pindang",
+        "slug": "siomay-ikan-pindang",
+        "cover_url": "content-images\/images\/20250426\/Nle8F1dqfmFxf1wnpKa5W9NYLhVeJKwK-31373435363431313438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250426\/Nle8F1dqfmFxf1wnpKa5W9NYLhVeJKwK-31373435363431313438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Bahan seadanya tapi enak",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 4,
+        "serving_max": 6,
+        "release_date": 1747626480,
+        "updated_date": 1747626571,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 18,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250426\/Nle8F1dqfmFxf1wnpKa5W9NYLhVeJKwK-31373435363431313438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/x297gkzr1wNzot7u6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Campur tepung terigu dan tapioka seasoning dengan garam dan kaldu bubuk secukupnya.",
+                "image_url": "content-images\/images\/20250426\/CXpqDTW2Yd8ncoyPKrlvxgAEMSVjs6eG-31373435363431353032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/CXpqDTW2Yd8ncoyPKrlvxgAEMSVjs6eG-31373435363431353032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Panaskan minyak goreng lalu tumis irisan daun bawang sampai layu.",
+                "image_url": "content-images\/images\/20250426\/D6cZ2E3goiCuBdaP4BPF9kqd849R8Aee-31373435363431353933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/D6cZ2E3goiCuBdaP4BPF9kqd849R8Aee-31373435363431353933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Lanjut masukkan daging ikan pindang yg sudah dihaluskan.",
+                "image_url": "content-images\/images\/20250426\/9YeSl8n0ZLf5khJEPjjO8kXlVgK8Tcxt-31373435363431363235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/9YeSl8n0ZLf5khJEPjjO8kXlVgK8Tcxt-31373435363431363235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan 400ml air masak hingga mendidih.",
+                "image_url": "content-images\/images\/20250426\/N8RbdXHcYro92d7dGwI14QKjDDNn45fZ-31373435363431363631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/N8RbdXHcYro92d7dGwI14QKjDDNn45fZ-31373435363431363631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tuang rebusan ikan kedalam bahan tepung uleni sampai rata lalu bungkus dengan kulit pangsit.",
+                "image_url": "content-images\/images\/20250426\/90pSkREp063gIjPopTqq5DKPHz301SK1-31373435363431363939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/90pSkREp063gIjPopTqq5DKPHz301SK1-31373435363431363939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Langkah selanjutnya kukus siomay sampai matang.",
+                "image_url": "content-images\/images\/20250426\/uICDrID5sf5tMToB1PrPDViDmZftMUFa-31373435363431373433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/uICDrID5sf5tMToB1PrPDViDmZftMUFa-31373435363431373433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Untuk bahan saos campur semua bahan dan tambahkan 300ml air lalu Chopper sampai halus .",
+                "image_url": "content-images\/images\/20250426\/nwkc5LIfumnCsRemMypbDAVnLRixhliY-31373435363431383235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/nwkc5LIfumnCsRemMypbDAVnLRixhliY-31373435363431383235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Kemudian masak sampai mendidih dan mengental dan jangan lupa koreksi rasa.",
+                "image_url": "content-images\/images\/20250426\/uw4nzP0JwwZ9bpNfDl5vV3mtBi3UYDFc-31373435363431383536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250426\/uw4nzP0JwwZ9bpNfDl5vV3mtBi3UYDFc-31373435363431383536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "afl25g3Jni2r4mWGFl_KDg==",
+                "name": "Somay",
+                "slug": "somay"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "3s5JR7UJq706BhMuVv274A==",
+                "name": "Ikan",
+                "slug": "ikan"
+            },
+            {
+                "id": "mdGp_NX7gFuFh1jqNgODXA==",
+                "name": "Kulit Pangsit",
+                "slug": "kulit-pangsit"
+            },
+            {
+                "id": "4k8pCLcc7BX1HDeJPutX8A==",
+                "name": "Tepung Tapioka",
+                "slug": "tepung-tapioka"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "aeptKAKzj1jx-Y1vaQTVsA==",
+            "uuid": "836fb39c-f004-4462-9af1-6bbfcfa02a1f",
+            "username": "triwin",
+            "name": "Tri Winarny",
+            "avatar": "content-images\/images\/20191223\/GbHcNGbYMFNJV58dSkANIKkZA4Sy2ph8-31353631323031363534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "2 ekor ikan pindang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "250g kulit pangsit",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "250gram tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "250gram tepung tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 batang daun bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 batang daun seledri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan pelengkap",
+                "ingredients": [
+                    {
+                        "description": "Telor rebus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Tahu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Jeruk limau",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu halus",
+                "ingredients": [
+                    {
+                        "description": "4 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir kemiri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt lada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Saos Kacang",
+                "ingredients": [
+                    {
+                        "description": "100gram kacang tanah goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 buah kentang rebus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 cabai merah keriting",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gram gula merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 lmbr daun jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

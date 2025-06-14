@@ -1,0 +1,285 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "aMOK_DIpjFN8r7MwU6YwaQ==",
+        "title": "Kikil Jamur Saus Tiram",
+        "slug": "kikil-jamur-saus-tiram",
+        "cover_url": "content-images\/images\/20250326\/t5KqNpeQ3FYqnt44emdOf8eZtqlDcgBs-31373432393835393330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250326\/t5KqNpeQ3FYqnt44emdOf8eZtqlDcgBs-31373432393835393330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Menu enak yang murah meriah",
+        "rating": 4,
+        "video_url": "",
+        "price": 25000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1745414040,
+        "updated_date": 1746630280,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 4.5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 13,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 2,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250326\/t5KqNpeQ3FYqnt44emdOf8eZtqlDcgBs-31373432393835393330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/jHZyySAo6qGhDyGn9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong kikil kotak-kotak.",
+                "image_url": "content-images\/images\/20250326\/XYgkFeXgEj3yvq4W7WWMMywnyYdD9EVy-31373432393835393438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/XYgkFeXgEj3yvq4W7WWMMywnyYdD9EVy-31373432393835393438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Didihkan air, masukkan potongan kikil rebus bersama 2 lembar daun salam selama 15 menit, tiriskan.",
+                "image_url": "content-images\/images\/20250326\/kq0DwGxqvuTbD0InbCdnFpgPsTV4NX3i-31373432393835393535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/kq0DwGxqvuTbD0InbCdnFpgPsTV4NX3i-31373432393835393535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tumis irisan bawang merah, bawang putih 2 lembar daun salam dan lengkuas hingga harum.",
+                "image_url": "content-images\/images\/20250326\/a2KH0NIUC9y5iiIdLVjVIhmG5fesVEwy-31373432393835393631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/a2KH0NIUC9y5iiIdLVjVIhmG5fesVEwy-31373432393835393631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan kikil ke dalam wajan.",
+                "image_url": "content-images\/images\/20250326\/vlz9n1trD09L2dOpFQV0UBUi2Sqobvun-31373432393835393636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/vlz9n1trD09L2dOpFQV0UBUi2Sqobvun-31373432393835393636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Beri air secukupnya, garam, saus tiram, kecap manis dan gula putih secukupnya.",
+                "image_url": "content-images\/images\/20250326\/1jsye94i0xO9tiaxcqQGHDK1UzOtOvdr-31373432393835393731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/1jsye94i0xO9tiaxcqQGHDK1UzOtOvdr-31373432393835393731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Beri irisan bawang daun dan tomat.",
+                "image_url": "content-images\/images\/20250326\/6WTHcQus0Jdnwe1s9UsSfvE9dXdYwmAb-31373432393835393737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/6WTHcQus0Jdnwe1s9UsSfvE9dXdYwmAb-31373432393835393737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukan suwiran jamur tiram, aduk rata masak hingga matang.",
+                "image_url": "content-images\/images\/20250326\/iMYkYXThUzeXJYdOaG5v2C0XryUtgy0w-31373432393835393832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/iMYkYXThUzeXJYdOaG5v2C0XryUtgy0w-31373432393835393832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "YBRmaTfXKqj3QsdvA3jbvQ==",
+                "name": "Lauk Pauk",
+                "slug": "lauk-pauk"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "_GHgkJBuk8m9BdjjhmCfhw==",
+                "name": "Daun Salam",
+                "slug": "daun-salam"
+            },
+            {
+                "id": "0gron32Xnrz-2_9pd3Nxzw==",
+                "name": "Jamur",
+                "slug": "jamur"
+            },
+            {
+                "id": "89XwJJ-wUT-TR-eQ1eL4pA==",
+                "name": "Lengkuas",
+                "slug": "lengkuas"
+            },
+            {
+                "id": "0mFpKKHkQARg6xI2agSxcQ==",
+                "name": "Tomat",
+                "slug": "tomat"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "zwDV0EnI8GP5oR4QE1kluA==",
+            "uuid": "8b9885e1-d02c-4869-b476-a915a16d6d3c",
+            "username": "andrenia-giawati",
+            "name": "andrenia giawati",
+            "avatar": "content-images\/images\/20210519\/ShJ7N6vuMh75GNPJFmJtPEgb87pcS4Wp-31363231343235303436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "500 gram kikil sapi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 bungkus jamur tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 sdm minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 cm lengkuas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 lembar daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Air secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Garam secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Kecap manis secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2\/3 sdt gula putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "9 buah cabe hijau keriting",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah tomat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

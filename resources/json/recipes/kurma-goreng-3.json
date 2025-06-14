@@ -1,0 +1,214 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "PGh2HmYoc77l0TcA7_f-Tw==",
+        "title": "Kurma Goreng",
+        "slug": "kurma-goreng-3",
+        "cover_url": "content-images\/images\/20250325\/83tOclFvC0rjM3kPqyqC938EvgO3K22y-31373432393033363139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250325\/83tOclFvC0rjM3kPqyqC938EvgO3K22y-31373432393033363139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Enak jg manis gurih crispy dan lumer",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1745407680,
+        "updated_date": 1745408006,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250325\/83tOclFvC0rjM3kPqyqC938EvgO3K22y-31373432393033363139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/dPZnK5KdGcauY2fK9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Buang biji kurma isi dengan keju Quick melt \/Mozarella.",
+                "image_url": "content-images\/images\/20250325\/KsgfihxNOigzi0j82J0QJ5VWwOTbV2ax-31373432393033373333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250325\/KsgfihxNOigzi0j82J0QJ5VWwOTbV2ax-31373432393033373333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan tepung terigu, gula, garam, vanili bubuk, larutkan dengan air. Aduk sampai tercampur rata.",
+                "image_url": "content-images\/images\/20250325\/AKmytYqbOFlnARJb33xnvLqIPfiLwexR-31373432393033373833d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250325\/AKmytYqbOFlnARJb33xnvLqIPfiLwexR-31373432393033373833d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Siapkan bahan pencelup basah dan kering.",
+                "image_url": "content-images\/images\/20250325\/JQxcqSMvvH5ydBlDEaRla9DpHXs8iG4N-31373432393033383534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250325\/JQxcqSMvvH5ydBlDEaRla9DpHXs8iG4N-31373432393033383534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Celupkan kurma kedalam adonan basah lalu baluri dengan tepung panir.",
+                "image_url": "content-images\/images\/20250325\/bv0NZXo8wdctg6voD23eiuV8ZZjSy3Vm-31373432393033383739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250325\/bv0NZXo8wdctg6voD23eiuV8ZZjSy3Vm-31373432393033383739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Panaskan minyak goreng sampai warna golden brown, angkat dan tiriskan.",
+                "image_url": "content-images\/images\/20250325\/ac8g60eWWRUAFxoxNdL0jH5wTMJ4UUJq-31373432393033393038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250325\/ac8g60eWWRUAFxoxNdL0jH5wTMJ4UUJq-31373432393033393038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "WpXdBor_sTS0zilbhSEJvw==",
+                "name": "cemilan enak",
+                "slug": "cemilan-enak"
+            },
+            {
+                "id": "21OMGCsGv7Gzrq-HAkj5kQ==",
+                "name": "aneka cemilan",
+                "slug": "aneka-cemilan"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Opko9OFPSqnKtt6n3eH7Eg==",
+                "name": "Keju",
+                "slug": "keju"
+            },
+            {
+                "id": "xsM5meRjaRHAhr_BzSCzCA==",
+                "name": "Kurma",
+                "slug": "kurma"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "mPXnSIOhmcrPmLj1xFouSA==",
+            "uuid": "b5e38478-e224-4c88-9f24-35510602ee21",
+            "username": "kiena123",
+            "name": "Kiena",
+            "avatar": "content-images\/images\/20210413\/eyey0IJyHsS40ZjYCQwlyTsWe1O4NsoP-31363138333039383036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "10-15 biji kurma",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2  sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u215b sdt vanili bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u215b garem",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "secukupnya keju Quick melted",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya tepung panir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

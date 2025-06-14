@@ -1,0 +1,261 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "YBt78l6NZswmjoLgnXyodw==",
+        "title": "Semur Tahu",
+        "slug": "semur-tahu-20",
+        "cover_url": "content-images\/images\/20250501\/iGZxMjhjjPCVDsB9AC78kCZkTuBJkCzg-31373436303932333730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250501\/iGZxMjhjjPCVDsB9AC78kCZkTuBJkCzg-31373436303932333730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Enak dan Simpel",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 10,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1747753140,
+        "updated_date": 1747753252,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 11,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250501\/iGZxMjhjjPCVDsB9AC78kCZkTuBJkCzg-31373436303932333730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/MdYbjWZLJ9bqtSRo9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Goreng tahu yang sudah di potong empat bagian",
+                "image_url": "content-images\/images\/20250501\/ONNQZpau2qTaoPUkq2PhqO59hk3U5kLO-31373436303932343131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/ONNQZpau2qTaoPUkq2PhqO59hk3U5kLO-31373436303932343131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Haluskan bawang, cabai, kemiri dan tomat",
+                "image_url": "content-images\/images\/20250501\/ixylEOVdatujj7DxbKPpCWXQjIZwZuIy-31373436303932343236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/ixylEOVdatujj7DxbKPpCWXQjIZwZuIy-31373436303932343236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tumis bumbu halus sampai wangi dan tambahkan daun salam",
+                "image_url": "content-images\/images\/20250501\/pzN2Vey5W4XSZ9vsVQlGxW5iEjBE0mjI-31373436303932343336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/pzN2Vey5W4XSZ9vsVQlGxW5iEjBE0mjI-31373436303932343336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukan air secukupnya dan masukan kecap manis, garam dan penyedap rasa",
+                "image_url": "content-images\/images\/20250501\/uZ3ucNLuzQS1xaMz4J1qg4cDT3oui84q-31373436303932343438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/uZ3ucNLuzQS1xaMz4J1qg4cDT3oui84q-31373436303932343438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukan tahu dan tunggu sampai bumbu meresap",
+                "image_url": "content-images\/images\/20250501\/paVkljmGRzC4HNqIJOcWvdPPADDZgyMs-31373436303932343538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/paVkljmGRzC4HNqIJOcWvdPPADDZgyMs-31373436303932343538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "PnKlJFJzpnyBiz5TatWYnw==",
+                "name": "Makanan Diet",
+                "slug": "makanan-diet"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "FrcGuNBVracfQ1LMbrq3BA==",
+                "name": "Kemiri",
+                "slug": "kemiri"
+            },
+            {
+                "id": "eUDumVCs5n3IHcFz7LWG0A==",
+                "name": "Tahu",
+                "slug": "tahu"
+            },
+            {
+                "id": "0mFpKKHkQARg6xI2agSxcQ==",
+                "name": "Tomat",
+                "slug": "tomat"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "GcFuZEb2tfoviWPJ8Mp0Qw==",
+            "uuid": "565af37e-0e52-4ea5-845d-3b256eaae5dd",
+            "username": "paizatri",
+            "name": "Paiza Tri Astini",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "3 buah tahu putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1sdt penyedap rasa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm kecap manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu halus",
+                "ingredients": [
+                    {
+                        "description": "5 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "7 buah cabai merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah cabai rawit besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah kemiri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 buah tomat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

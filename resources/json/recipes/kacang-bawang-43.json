@@ -1,0 +1,215 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "0okssdZxq7WTHrdIwfaQVQ==",
+        "title": "Kacang Bawang",
+        "slug": "kacang-bawang-43",
+        "cover_url": "content-images\/images\/20250303\/mqYXPoHW2iKfv1HKFse2BzUcL9yFxIwS-31373431303038343831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250303\/mqYXPoHW2iKfv1HKFse2BzUcL9yFxIwS-31373431303038343831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Kacang bawang rasanya gurih, renyah, dan bikin nagih!\r\nSemoga bermanfaat \ud83e\udd17",
+        "rating": 5,
+        "video_url": "",
+        "price": 45000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 5,
+        "serving_max": 8,
+        "release_date": 1745208540,
+        "updated_date": 1745208684,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 7,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250303\/mqYXPoHW2iKfv1HKFse2BzUcL9yFxIwS-31373431303038343831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/ChRfH9VJ2V1jx2nh8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Rebus santan kental, bawang putih yang sudah dihaluskan, dan daun jeruk sembari diaduk-aduk hingga mendidih. Tambahkan kaldu bubuk dan garam.",
+                "image_url": "content-images\/images\/20250303\/JLKFJ3olHFts3kTnOfTlbNycdmz6Hc0W-31373431303038373137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250303\/JLKFJ3olHFts3kTnOfTlbNycdmz6Hc0W-31373431303038373137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Rendam kacang tanah yang sudah dicuci bersih dengan rebusan santan. Diamkan selama 2 Jam.",
+                "image_url": "content-images\/images\/20250303\/6dTWD3cn2RRHlKdZo5JsP9V8kSsZUGK9-31373431303038373630d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250303\/6dTWD3cn2RRHlKdZo5JsP9V8kSsZUGK9-31373431303038373630d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Kemudian goreng kacang yang sudah ditiriskan dengan api sedang sampai setengah matang. Angkat dan tiriskan. Lalu goreng kembali kacang hingga kecokelatan.",
+                "image_url": "content-images\/images\/20250303\/EoZyFIkamCKptQyRLE4VgYR7gpwArA5u-31373431303038373930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250303\/EoZyFIkamCKptQyRLE4VgYR7gpwArA5u-31373431303038373930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Goreng bawang putih yang sudah iris-iris sampai kecokelatan.",
+                "image_url": "content-images\/images\/20250303\/cJcbWI03BRZLQW3DRAs0bquJWH16KFzS-31373431303038383138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250303\/cJcbWI03BRZLQW3DRAs0bquJWH16KFzS-31373431303038383138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Sajikan kacang bersama bawang putih goreng dan siap dinikmati.",
+                "image_url": "content-images\/images\/20250303\/aVePJUH3fVG5FQ4hqxsuITTrTK1DLwDy-31373431303038383531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250303\/aVePJUH3fVG5FQ4hqxsuITTrTK1DLwDy-31373431303038383531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "lbAPLbE8dqS8fdfiSOsAGg==",
+                "name": "Daun Jeruk",
+                "slug": "daun-jeruk"
+            },
+            {
+                "id": "Km8Dynl9AKUtAS1I1hSaJg==",
+                "name": "Kacang",
+                "slug": "kacang"
+            },
+            {
+                "id": "OVn1FXRZPmVFgDCUzl3xLw==",
+                "name": "Santan",
+                "slug": "santan"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "JzipHQk1dVyE0in8TvYSVQ==",
+            "uuid": "e2e75c61-84b2-4be3-8b24-4eeaca3d866b",
+            "username": "dapur-diong",
+            "name": "Dapur Diong",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 kg Kacang Tanah Kupas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "900 ml Santan Kental",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "7 Siung Bawang Putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "7 Lembar Daun Jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm Kaldu Bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt Garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Pelengkap",
+                "ingredients": [
+                    {
+                        "description": "9 Siung Bawang Putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

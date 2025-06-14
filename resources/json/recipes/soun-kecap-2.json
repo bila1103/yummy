@@ -1,0 +1,245 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "WxX-argJHCQG-vRzhPTWdA==",
+        "title": "Soun Kecap",
+        "slug": "soun-kecap-2",
+        "cover_url": "content-images\/images\/20250411\/w095SI2SgAWtbfnBatQM6zqGPJjiCOJo-31373434333633393639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250411\/w095SI2SgAWtbfnBatQM6zqGPJjiCOJo-31373434333633393639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Soun kecap campur wortel dan kol enak",
+        "rating": 5,
+        "video_url": "",
+        "price": 7000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 2,
+        "serving_max": 2,
+        "release_date": 1746187440,
+        "updated_date": 1746187830,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 10,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250411\/w095SI2SgAWtbfnBatQM6zqGPJjiCOJo-31373434333633393639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/Xh8ogkkvHfFE3X7t6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Cuci kol dan wortel, lalu potong tipis kecil.",
+                "image_url": "content-images\/images\/20250411\/OkqdXYhJhQyFiZkeLzswvCRJKbgDEQ63-31373434333634303231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/OkqdXYhJhQyFiZkeLzswvCRJKbgDEQ63-31373434333634303231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Iris bawang merah dan cabe hijau.",
+                "image_url": "content-images\/images\/20250411\/fAqq3FDx2vUHjAe62Cg0z4qerwjocXbc-31373434333634303530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/fAqq3FDx2vUHjAe62Cg0z4qerwjocXbc-31373434333634303530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tumis bawang merah dan cabe.",
+                "image_url": "content-images\/images\/20250411\/CfgBAdSk6ZPBYCAInY9j45LrD0pXwSde-31373434333634303635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/CfgBAdSk6ZPBYCAInY9j45LrD0pXwSde-31373434333634303635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan kol dan wortel, lalu tambahkan air.",
+                "image_url": "content-images\/images\/20250411\/kVKByeuV3v59wQ1J1WebNTOgTjUjR1aI-31373434333634303937d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/kVKByeuV3v59wQ1J1WebNTOgTjUjR1aI-31373434333634303937d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Setelah sayur layu, tambahkan bawang putih bubuk, garam, bubuk cabe dan kecap.",
+                "image_url": "content-images\/images\/20250411\/RzZhi8vu31G7Z9lLSgEPtHBg00OHJDKd-31373434333634313337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/RzZhi8vu31G7Z9lLSgEPtHBg00OHJDKd-31373434333634313337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukkan soun yang sudah dicuci. Masak sebentar sampai soun sedikit lunak, matikan kompor kemudian sajikan.",
+                "image_url": "content-images\/images\/20250411\/m2lIOHZr2DjqPXufKm6Cbq0FbleHFza7-31373434333634313730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/m2lIOHZr2DjqPXufKm6Cbq0FbleHFza7-31373434333634313730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "fyjUygRQT-HmVvqW0j3hwA==",
+                "name": "Bihun",
+                "slug": "bihun"
+            },
+            {
+                "id": "zz7VvQtuZ_entrgdutA7dQ==",
+                "name": "Kecap Manis",
+                "slug": "kecap-manis"
+            },
+            {
+                "id": "owSG5O0qm0rSUfwmznwmng==",
+                "name": "Kubis",
+                "slug": "kubis"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "dAOxuxJtDQ0vVx0K_T5SGQ==",
+            "uuid": "723409ff-6592-4338-b8e9-2d05d24124c2",
+            "username": "rizkyanis",
+            "name": "Rizky Anis",
+            "avatar": "content-images\/images\/20211203\/eCpdMQma1snuzVKN8H837mExcKpsX4qF-31363338343836353133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "2 ikat soun",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 wortel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sepotong kol",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 cabe hijau",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sejumput bawang putih bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sejumput garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt bubuk cabe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm kecap",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 gelas air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

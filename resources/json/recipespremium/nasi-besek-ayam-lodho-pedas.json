@@ -1,0 +1,600 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "CiFjJ_WYPjk1O4Wy4wDhrg==",
+        "title": "Nasi Besek Ayam Lodho Pedas",
+        "slug": "nasi-besek-ayam-lodho-pedas",
+        "cover_url": "content-images/images/20220122/e07493c3384e72ae41998a4c4148a0e9.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220122/e07493c3384e72ae41998a4c4148a0e9.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20220121/d2885bf82af7b51c93223652e4213a08.mp4",
+        "price": 35000,
+        "price_premium": 5000,
+        "calories": "1066,8 Kj",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1642838640,
+        "updated_date": 1678866270,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.369999885559082,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 27,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 19,
+        "recook_count": 3,
+        "original_image": "content-images/images/20220122/e07493c3384e72ae41998a4c4148a0e9.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/RcAKv6J6C5oR25pk7",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Haluskan kentang yang telah dikukus, tambahkan telur, susu, dan keju parut, aduk hingga rata, sisihkan.",
+                "image_url": "content-images/images/20220122/a61192e09fb354cda2d902131777ca9d.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220122/a61192e09fb354cda2d902131777ca9d.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Siapkan frying pan, lelehkan margarin, lalu tumis bawang putih dan bawang bombay hingga harum, tambahkan wortel, sosis, ayam, kacang polong, dan jamur kuping, tumis sebentar.",
+                "image_url": "content-images/images/20220122/26d231c100f80b133d5953607a92fd32.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220122/26d231c100f80b133d5953607a92fd32.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "gbXzyZo67EuopKRB2wVDpg==",
+                "name": "Makanan Tradisional",
+                "slug": "makanan-tradisional"
+            },
+            {
+                "id": "QJ0crmlVerfAPuv2j1Yf9g==",
+                "name": "Ayam kuah",
+                "slug": "ayam-kuah"
+            },
+            {
+                "id": "Wfxx3772-k78ahqoJRCN0w==",
+                "name": "Makanan pedas",
+                "slug": "makanan-pedas"
+            },
+            {
+                "id": "rfIVgVBHTrBJzh7iKKgLGQ==",
+                "name": "Lodho",
+                "slug": "lodho"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "XoOQljKTIsthw9SvhP1iMQ==",
+                "name": "30-60m",
+                "slug": "30-60m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "VU3zhUq7PrKtYiNIfQvamg==",
+                "name": "Cabe Merah Besar",
+                "slug": "cabe-merah-besar"
+            },
+            {
+                "id": "lbAPLbE8dqS8fdfiSOsAGg==",
+                "name": "Daun Jeruk",
+                "slug": "daun-jeruk"
+            },
+            {
+                "id": "_GHgkJBuk8m9BdjjhmCfhw==",
+                "name": "Daun Salam",
+                "slug": "daun-salam"
+            },
+            {
+                "id": "89XwJJ-wUT-TR-eQ1eL4pA==",
+                "name": "Lengkuas",
+                "slug": "lengkuas"
+            },
+            {
+                "id": "QvsDybc6uM6-8M_OksDGVw==",
+                "name": "Serai",
+                "slug": "serai"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama :",
+                "ingredients": [
+                    {
+                        "description": "1 ekor ayam kampung",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbR7x",
+                        "media_url": "content-images/images/20220221/8421591de7ddaf393e873b24d600e090.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBDG",
+                        "media_url": "content-images/images/20220221/7f1586d1f5137a8d54d58ac767e95e4a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 lembar daun jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLx23",
+                        "media_url": "content-images/images/20220221/1b1ae547c9ce0ec465e1da14b3bd6f26.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 batang sereh, memarkan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWJX",
+                        "media_url": "content-images/images/20220221/9ca63060651ea5aa22eb7bced2c465b5.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 ruas lengkuas, memarkan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Pyknyz",
+                        "media_url": "content-images/images/20220221/a0c02b38d25c8768b185a9513b73e664.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt jintan bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/zNqB6e",
+                        "media_url": "content-images/images/20220221/c49d783cc2a5af1ffaeb57f2dfbd2b2d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt ketumbar bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqzer",
+                        "media_url": "content-images/images/20220221/f919c79fbd1feaff8f188dee70f4f98b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt lada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbok5",
+                        "media_url": "content-images/images/20220221/85380ee08b26403cd4e7fb4b518a6002.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "13 pcs cabai rawit",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/LXrWb0",
+                        "media_url": "content-images/images/20220221/8fff66790686a1d3d43926b759df09f8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220221/6418d499ee3d3ee3549605d0181f9df7.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20220221/605b4e797f8b57008109db7d6f51eb08.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 sdm minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq1jV",
+                        "media_url": "content-images/images/20220221/620813e8f34423380f8d6611973e2225.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "700 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220221/519ebcfd805eb475550c398bef92a9ef.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300 ml santan kental",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBGv",
+                        "media_url": "content-images/images/20220221/b1399da4bb0612253d3e828bc1ced3e9.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": " Bumbu Halus:",
+                "ingredients": [
+                    {
+                        "description": "13 pcs cabai rawit",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/LXrWb0",
+                        "media_url": "content-images/images/20220221/c85f7535b2076fc064c3379a5886382b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 pcs cabai keriting",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/jr2BkM",
+                        "media_url": "content-images/images/20220221/96626bc4ffacaf8a8791bbb553560a75.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/ZQ4ROK",
+                        "media_url": "content-images/images/20220221/86bbdf4e14536aecf43ffaf5bc708110.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "9 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20220221/f0faf9194d1e32dfa5685a9b033e1b51.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 ruas kencur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/g1N5Pr",
+                        "media_url": "content-images/images/20220221/09e066bda8b8ef7a6ece7f0da7236090.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 ruas jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/AWaGrN",
+                        "media_url": "content-images/images/20220221/4ea47140892a10043ba77e21a7ebb651.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 ruas kunyit",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLzgL",
+                        "media_url": "content-images/images/20220221/86f9b19cd13c2f6abcfba07c8d5951f5.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan  Pelengkap :",
+                "ingredients": [
+                    {
+                        "description": "Telur asin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/B0A1NW",
+                        "media_url": "content-images/images/20220221/c9a5c92bc52741b80a5ff1d97273da37.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Selada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/B0A1qx",
+                        "media_url": "content-images/images/20220221/79b8bc5c198f774bb0659a865927f561.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Bawang goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBb91",
+                        "media_url": "content-images/images/20220221/6e2428414cdd286397d0f3c8e3e1df58.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Nasi putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/3eOzAK",
+                        "media_url": "content-images/images/20220221/8127d9d8a6a7a972ea1cec076cc705b7.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Aluminium Foil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Loyang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "EB4EdIYUf6Y195MTCj1usLeRUV3Zd9nP",
+                "created_at": 1664422799,
+                "image_url": "content-images/images/20220803/N9ecPsTKtnHCnBbd0QjHfd4cI8slTO2p-31363539343937323137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Setor #RecookYummy  nasi besek ayam lodho pedas, ayamnya diganti bebek oke loh ya chef, tapi tetep guriiih tanpa amis, sampai ketulang tulang.... Trimakasih resepnya ya chef.",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "zu9EhO6hh-77-mFHosyKkA==",
+                    "username": "widiarief",
+                    "name": "Wid's Kitchen",
+                    "avatar": "content-images/images/20231123/e64975367da3238217572b84a3c4ec11.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Nasi Besek Ayam Lodho Pedas",
+                    "slug": "nasi-besek-ayam-lodho-pedas",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "hxLRCrYw4jvOAkS306AT5ulZDwBFzZra",
+                "created_at": 1664422796,
+                "image_url": "content-images/images/20220612/h1iuKRln9NFcCe0jMhxqL2sqsXE6fmye-31363534393839303439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Maaf min, lagi diet nasi jadi ga kubikin versi beseknya hihi. Cuma bikin ayam lodho nya aja. Mantul rasanya minchef. Makasih banyak yaaaa #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "bQTelG2m_PqGvp_B8tK2ig==",
+                    "username": "puspitahassei",
+                    "name": "Puspitasari Anggradewi",
+                    "avatar": "content-images/images/20211231/Y5cJVF3tVKdARTdAFGV7OjUtANVcGebA-31363430393032353630d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Nasi Besek Ayam Lodho Pedas",
+                    "slug": "nasi-besek-ayam-lodho-pedas",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "8fOLqsJdxrM4XApsfnbaCzr7xeKyEw1d",
+                "created_at": 1664422796,
+                "image_url": "content-images/images/20220612/jFyJ2EP00aOEqWFnhq0vpojgseXwfYm2-31363535303232363139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selamat siang chef setor recook\nEnak banget terimakasih banyak resepnya\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "5MiQ4KHlsWGpbs7H6qfNCA==",
+                    "username": "rani-elizabeth-rarun",
+                    "name": "Rani Rarun",
+                    "avatar": "content-images/images/20231123/4ac98fccfb74d9f8333b7343ed7c958b.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Nasi Besek Ayam Lodho Pedas",
+                    "slug": "nasi-besek-ayam-lodho-pedas",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Panci Besar (Sop)",
+                "media_url": "content-images/images/20211105/a9f867c4bf54b613b7e7d6a82a980b7f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Talenan",
+                "media_url": "content-images/images/20210712/5bcf9d1ede5f68c8d7acf04bcf604504.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Sutil",
+                "media_url": "content-images/images/20210712/519f6acdec5c700b847229e696f8e62f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

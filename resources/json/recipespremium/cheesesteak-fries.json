@@ -1,0 +1,496 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "xvPXjMdmrUFkFCbw-aKkjg==",
+        "title": "Cheesesteak Fries",
+        "slug": "cheesesteak-fries",
+        "cover_url": "content-images/images/20220501/cb9a9cceefaefabe5b8a84c8867502fa.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220501/cb9a9cceefaefabe5b8a84c8867502fa.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Kentang goreng yang disajikan bersama dengan daging sapi dan saus keju. Memiliki cita rasa gurih dan rich, cocok bagi pecinta keju.",
+        "rating": 5,
+        "video_url": "content-videos/video/20220502/79e43b5c2cd97f281f6c40ccc92d0618.mp4",
+        "price": 40000,
+        "price_premium": 5000,
+        "calories": "986,2 Kj",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 9,
+        "serving_max": 10,
+        "release_date": 1651497000,
+        "updated_date": 1677948349,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 5,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 17,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 3,
+        "recook_count": 3,
+        "original_image": "content-images/images/20220501/cb9a9cceefaefabe5b8a84c8867502fa.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/Jk7k7ZvxoFqsb67N9",
+        "category": {
+            "name": "Cemilan",
+            "slug": "cemilan"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Panaskan minyak goreng dalam frying pan, goreng kentang hingga matang dan garing, kemudian tiriskan.",
+                "image_url": "content-images/images/20220501/2346645f7fe16c6a41b9979a5cf11251.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220501/2346645f7fe16c6a41b9979a5cf11251.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tumis daging dalam pan terpisah hingga matang, tambahkan garam, lada, bawang bombay dan paprika. Masak hingga matang, sisihkan.",
+                "image_url": "content-images/images/20220501/f017a2be16b5586adec0282b3ebf14b9.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220501/f017a2be16b5586adec0282b3ebf14b9.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "sNrYPFRN2DO3DywZg5T45Q==",
+                "name": "daging",
+                "slug": "daging"
+            },
+            {
+                "id": "14leuR2NXdp6BeIGEjBq-Q==",
+                "name": "cemilan kekinian",
+                "slug": "cemilan-kekinian"
+            },
+            {
+                "id": "WpXdBor_sTS0zilbhSEJvw==",
+                "name": "cemilan enak",
+                "slug": "cemilan-enak"
+            },
+            {
+                "id": "P9joumvi4fFTYTSZK9uY3A==",
+                "name": "kentang",
+                "slug": "kentang"
+            },
+            {
+                "id": "_uSwsalkSr_0IwTOhOwUDA==",
+                "name": "Keju",
+                "slug": "keju"
+            },
+            {
+                "id": "TNQqaJy8Shw6S8yfJSxeLA==",
+                "name": "Mentega",
+                "slug": "mentega"
+            },
+            {
+                "id": "zn0kkeQibom-UcnkgUmLHQ==",
+                "name": "Bombay",
+                "slug": "bombay"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "agGYglzEVLUmxpiBbP0xFg==",
+                "name": "Bawang Bombay",
+                "slug": "bawang-bombay"
+            },
+            {
+                "id": "gNrR88sMxkuEF_74rCiJ1g==",
+                "name": "Daging Sapi",
+                "slug": "daging-sapi"
+            },
+            {
+                "id": "Opko9OFPSqnKtt6n3eH7Eg==",
+                "name": "Keju",
+                "slug": "keju"
+            },
+            {
+                "id": "RkAHZYbrL58-78Y_ZBXAcw==",
+                "name": "Kentang",
+                "slug": "kentang"
+            },
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Mentega",
+                "slug": "mentega"
+            },
+            {
+                "id": "4_5MGCFUDPVdeIGYCWiAKw==",
+                "name": "Paprika",
+                "slug": "paprika"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "040a8a10-07c2-4d05-9319-773e5e16c23c",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "500 gr kentang goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/3eOzeB",
+                        "media_url": "content-images/images/20210712/93aecd9b2d6ca89dfb97a573cfff795c.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Daging",
+                "ingredients": [
+                    {
+                        "description": "200 gr daging slice (AUS prime)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB2W",
+                        "media_url": "content-images/images/20211019/1d87c161e387f7017bbaa57c5e24ff0e.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah bawang bombay, potong dadu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBb91",
+                        "media_url": "content-images/images/20211026/20101eea8e3b9bf3187aab0c2a6fb407.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah paprika hijau/jalapeno, potong dadu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBbOD",
+                        "media_url": "content-images/images/20210803/bd04038c7f69ba596ed110103cabb2ad.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt lada hitam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4No4y",
+                        "media_url": "content-images/images/20210805/1bc723e6b42febeb800bb2d382500162.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Saus",
+                "ingredients": [
+                    {
+                        "description": "130 gr keju cheddar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/k0bN7n",
+                        "media_url": "content-images/images/20211026/b2ad1c37f655933e8d3a896b7d957b67.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 ml susu cair, dingin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/vNbOGy",
+                        "media_url": "content-images/images/20211025/c9698d62683474a44e2413dae1e8af63.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm mentega",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/vNbmnd",
+                        "media_url": "content-images/images/20211025/4e8af3b257ee0945185d4794b8c43ecf.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBab",
+                        "media_url": "content-images/images/20210712/2c9f48803b2746a5c9bf48364ca51a34.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Spatula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Piring",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Piring Saji",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Spatula Kue",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "9pRQcUTbiH0HZuSTH3QECfHmEqbSsVMU",
+                "created_at": 1678963274,
+                "image_url": "content-images/images/20230316/eTXUyeaAmNIzwWjDV0bZojeFXzCteh3z-31363738393337373036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak Banget",
+                "description": "Setor recooknya chef, enak dan kentangnya berasa ngejuuu banget... \n\nDalam tumisan dagingnya, selain paprikanya diganti cabe hijau kopong, ditambahkan juga jamur kancing jadi lebih ekonomis dan lebih sehat dong. Trimakasih inspirasi resepnya ya chef \ud83d\ude4f\ud83c\udffb",
+                "is_liked": false,
+                "like_count": 4,
+                "author": {
+                    "id": "zu9EhO6hh-77-mFHosyKkA==",
+                    "username": "widiarief",
+                    "name": "Wid's Kitchen",
+                    "avatar": "content-images/images/20231123/e64975367da3238217572b84a3c4ec11.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Cheesesteak Fries",
+                    "slug": "cheesesteak-fries",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "Hfgyheymzm0wz7rT4ekzoXM5YAdWkxBu",
+                "created_at": 1664447998,
+                "image_url": "content-images/images/20220708/z7xYkGvRfHxiigyBqr5NkzXaQcAgsbvi-31363537323133343732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Thank you Yummy utk resepnya, saya skip paprika karena utk anak-anak, tp tetep enak kok, sukses terus Yummy \ud83d\udc9c\n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "fktx5oSYT0jYgqkQ0UAqhA==",
+                    "username": "enggar-nugraheni-putri",
+                    "name": "Enggar Nugraheni Putri",
+                    "avatar": "content-images/images/20231123/80301ff290b18685e295936330bf3a33.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Cheesesteak Fries",
+                    "slug": "cheesesteak-fries",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "McFywZ2jBIdzImC5Lu03Mga5mGnRgxEY",
+                "created_at": 1664447998,
+                "image_url": "content-images/images/20220709/ntkzg3y4FKhA43RguoUdXeQMByI8CTjI-31363537333731343132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Resep ini anakku yang pilih diantara resep teruji. Katanya.. mama, aku yang bikin saus kejunya.. mama makan dagingnya.. aku habisin french fries dan saus kejunya. Wooy ga gitu juga naaaak hahaha #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "bQTelG2m_PqGvp_B8tK2ig==",
+                    "username": "puspitahassei",
+                    "name": "Puspitasari Anggradewi",
+                    "avatar": "content-images/images/20211231/Y5cJVF3tVKdARTdAFGV7OjUtANVcGebA-31363430393032353630d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Cheesesteak Fries",
+                    "slug": "cheesesteak-fries",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Fry Pan - Besar",
+                "media_url": "content-images/images/20210714/980057f47076afbd0ecaeea4a19a345d.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Spatula",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Whisker",
+                "media_url": "content-images/images/20210712/4dfd8856cfd1df1585ecb6d8cdabe7fd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Piring Saji",
+                "media_url": "content-images/images/20210712/fe7aa848e95ce4d5fd56fb78459844f2.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

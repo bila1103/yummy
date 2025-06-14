@@ -1,0 +1,428 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "XYwCWTKry5jU8f88btAa_w==",
+        "title": "Carrot Cupcake",
+        "slug": "carrot-cupcake",
+        "cover_url": "content-images/images/20220122/58934e45c4b4e8bc5da837df8710c122.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220122/58934e45c4b4e8bc5da837df8710c122.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20220121/bd2bc573537bff54be80ca02856d61a3.mp4",
+        "price": 35000,
+        "price_premium": 5000,
+        "calories": "1358,7 Kj",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1642864140,
+        "updated_date": 1648709048,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.5,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 16,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 10,
+        "recook_count": 0,
+        "original_image": "content-images/images/20220122/58934e45c4b4e8bc5da837df8710c122.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/CLKui3BXLRNkkmHd6",
+        "category": {
+            "name": "Cemilan",
+            "slug": "cemilan"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan mentega, gula pasir, gula palem, telur ke dalam wadah, mixer hingga tercampur rata dan mengembang.",
+                "image_url": "content-images/images/20220122/85667b06398d78f2c8eb94e5f49e2d22.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220122/85667b06398d78f2c8eb94e5f49e2d22.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Ayak tepung terigu, baking powder, kayu manis, soda kue  ke dalam adonan, mixer kembali hingga tercampur rata. Tambahkan parutan wortel, aduk dengan spatula.",
+                "image_url": "content-images/images/20220122/6a077d5de56535abcd8c8aeb8d685459.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220122/6a077d5de56535abcd8c8aeb8d685459.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "vn4I3seg5RQD1L3zHy-Y5g==",
+                "name": "camilan manis",
+                "slug": "camilan-manis"
+            },
+            {
+                "id": "ge5w_o4oqIjU0GrHP1wi7w==",
+                "name": "kue manis",
+                "slug": "kue-manis"
+            },
+            {
+                "id": "76WVWGtktZnQpvHOfoQAoA==",
+                "name": "kreasi kue",
+                "slug": "kreasi-kue"
+            },
+            {
+                "id": "Nz8d1M-Se4uU7-uFj1Rxqg==",
+                "name": "Cupcake",
+                "slug": "cupcake"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "G-iV06z6OJMMRDtOrTq50A==",
+                "name": "30m",
+                "slug": "30m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "fZ8FKumT2zyDkTyDZtMSTw==",
+                "name": "Baking Powder",
+                "slug": "baking-powder"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Mentega",
+                "slug": "mentega"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "4fXFQ2DhETQxP0Iru_aPVA==",
+                "name": "Tepung",
+                "slug": "tepung"
+            },
+            {
+                "id": "fCS0v-JJK3U8fkNcVI6ooA==",
+                "name": "Vanilla",
+                "slug": "vanilla"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Cake :",
+                "ingredients": [
+                    {
+                        "description": "200 gr mentega",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/vNbmnd",
+                        "media_url": "content-images/images/20220221/2876221bcab7c3533258158c35c90bc2.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "65 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NB1N",
+                        "media_url": "content-images/images/20220221/e5e8cc38206921e87b59030578437c8f.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr gula palem",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20220221/bf1f7925ba3c93f3e6325dde74b35569.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20220221/1de06b9a798af5087c2024ba428115f8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "230 gr tepung protein rendah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/JzQW97",
+                        "media_url": "content-images/images/20220221/b80ab5dc89ded507ed67dde1c28a38f5.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt baking powder",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/jr2BvM",
+                        "media_url": "content-images/images/20220221/e2e1b69ff98d25440b84694c26cc2cc9.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt soda kue",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/DK1J9a",
+                        "media_url": "content-images/images/20220221/52b6d3a8930472de7eca95b7d2873c47.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "270 gr wortel, parut",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLxR1",
+                        "media_url": "content-images/images/20220221/4c824561d9c99827a8005f99d0567efa.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kayu manis bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NBej",
+                        "media_url": "content-images/images/20220221/c52a5930a013611a4687382f37f7dbab.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Cheese Frosting",
+                "ingredients": [
+                    {
+                        "description": "60 gr mentega",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/vNbmnd",
+                        "media_url": "content-images/images/20220221/6760cee306f50bf3975599ac64c69417.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gr krim keju",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/k0bN7n",
+                        "media_url": "content-images/images/20220221/af0c179f07e48e5dcde99cbaff3ee9de.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300 gr gula halus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20220221/02da605651db1c4554b9a44da3133fcc.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt air lemon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLzgj",
+                        "media_url": "content-images/images/20220221/e9fff72c39da5788b86d6e38c5a8e223.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Spatula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Loyang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Spatula Kue",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin A (\u00b5g)",
+                "slug": "vitamin-a-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": false
+            }
+        ],
+        "recook": [],
+        "cooking_tool": [
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Stand Mixer",
+                "media_url": "content-images/images/20211105/179d98db303f8323e5bba89fe6693a53.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Whisker",
+                "media_url": "content-images/images/20210712/4dfd8856cfd1df1585ecb6d8cdabe7fd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Spatula Kue",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Talenan",
+                "media_url": "content-images/images/20210712/5bcf9d1ede5f68c8d7acf04bcf604504.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Loyang",
+                "media_url": "content-images/images/20211105/77dbf601eafe60d23cc1d85c9070d939.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Oven",
+                "media_url": "content-images/images/20211105/e1cf057a7ee92168c6b4e1c0d6c7f036.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

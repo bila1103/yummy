@@ -1,0 +1,343 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "1h-QYoRmF5k5KHXOCtaNsQ==",
+        "title": "Seblak",
+        "slug": "seblak-53",
+        "cover_url": "content-images\/images\/20250429\/tyRTout1UHOfR9jqdgJnB9yeS75VfKoG-31373435393034363438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250429\/tyRTout1UHOfR9jqdgJnB9yeS75VfKoG-31373435393034363438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Yuk cobain resep seblak yang satu ini",
+        "rating": 5,
+        "video_url": "",
+        "price": 30000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 2,
+        "serving_max": 4,
+        "release_date": 1745983620,
+        "updated_date": 1745983703,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 15,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250429\/tyRTout1UHOfR9jqdgJnB9yeS75VfKoG-31373435393034363438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/CSX5bonpehC3DvAx5",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Langkah pertama haluskan bumbu yang sudah di tulis diatas menggunakan minyak goreng secukupnya hingga halus",
+                "image_url": "content-images\/images\/20250429\/bca68U4i8v9hn7cRWxdzZhVKFoQZcuPY-31373435393133393537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/bca68U4i8v9hn7cRWxdzZhVKFoQZcuPY-31373435393133393537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Langkah kedua tumis bumbu yang sudah di haluskan sebelumnya tidak perlu ditambah minyak, masak hingga bumbu matang dan tidak bau langu",
+                "image_url": "content-images\/images\/20250429\/IpwymLV6iSbHARnTo4CTYz3WWg2VoS9m-31373435393134303130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/IpwymLV6iSbHARnTo4CTYz3WWg2VoS9m-31373435393134303130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Langkah ketiga tambahkan air secukupnya (sesuai selera mau berkuah atau nyemek)",
+                "image_url": "content-images\/images\/20250429\/hFr5uvPo9qZeYsmyyiQPgY5qwb8e3jsZ-31373435393134303736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/hFr5uvPo9qZeYsmyyiQPgY5qwb8e3jsZ-31373435393134303736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Langkah keempat setelah kuah mendidih masukkan tulang ayam yang sudah di rebus sebelumnya",
+                "image_url": "content-images\/images\/20250429\/8Ewrt8WnqnNozDSo1anNZFf5BJkREk0K-31373435393134313436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/8Ewrt8WnqnNozDSo1anNZFf5BJkREk0K-31373435393134313436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Langkah kelima masukkan telur yang sudah di kocok lepas lalu aduk hingga tercampur rata",
+                "image_url": "content-images\/images\/20250429\/fbI3EWQ8OJaEUVCOvxUjGr4rUFaVaNO6-31373435393134313930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/fbI3EWQ8OJaEUVCOvxUjGr4rUFaVaNO6-31373435393134313930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Langkah keenam masukkan aneka macam kerupuk lalu aduk hingga merata",
+                "image_url": "content-images\/images\/20250429\/MJpsaMlcu9e2VPbMdGB9JchyvKrbro2J-31373435393134323236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/MJpsaMlcu9e2VPbMdGB9JchyvKrbro2J-31373435393134323236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Langkah ketujuh bumbui dengan garam, kaldu bubuk\/penyedap rasa dan gula jika ingin sedikit manis jangan lupa koreksi rasa setelah itu masak hingga kerupuk empuk dan matang",
+                "image_url": "content-images\/images\/20250429\/ELJSyVxV5bnAvxAqTmf12ar0uCtxrDjR-31373435393134333133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/ELJSyVxV5bnAvxAqTmf12ar0uCtxrDjR-31373435393134333133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Langkah kedelapan masukkan potongan bakso dan juga sosis",
+                "image_url": "content-images\/images\/20250429\/ahrwiA36P0iIOpChlqznil5SzIMngRZe-31373435393134333935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/ahrwiA36P0iIOpChlqznil5SzIMngRZe-31373435393134333935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Langkah kesembilan masukkan sayuran lalu masak hingga sayuran layu",
+                "image_url": "content-images\/images\/20250429\/VBGoBVyUDpbyYi6SEnqNvKIW0wjgLDIS-31373435393134343230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/VBGoBVyUDpbyYi6SEnqNvKIW0wjgLDIS-31373435393134343230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 10",
+                "text": "Langkah terakhir sajikan kedalam mangkok. Selamat mencoba \ud83d\ude0a",
+                "image_url": "content-images\/images\/20250429\/mJZHHgRsQpR05EoMWdiUvNMIX2rrMj1x-31373435393134343633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 10,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/mJZHHgRsQpR05EoMWdiUvNMIX2rrMj1x-31373435393134343633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "b6TOD1PW8sdLR97DXHhPuw==",
+                "name": "Sosis",
+                "slug": "sosis"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "XY9MUqC9dRV-rxRxVNd--Q==",
+            "uuid": "cde3d041-9933-41e1-9a25-71386439de5a",
+            "username": "resepdapurqu",
+            "name": "Siti Qisma Fauziyah",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "3 aneka macam kerupuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gr tulang ayam (rebus hingga matang)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 bungkus sosis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 bungkus bakso",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan bumbu halus",
+                "ingredients": [
+                    {
+                        "description": "8 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2-3 ruas kencur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 buah cabai merah besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 buah cabai rawit",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan tambahan",
+                "ingredients": [
+                    {
+                        "description": "1\/4 buah sayur sawi (iris tipis)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 buah kol\/kubis (iris tipis)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kaldu bubuk\/penyedap rasa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt gula pasir (opsional)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

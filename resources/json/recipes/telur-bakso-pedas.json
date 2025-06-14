@@ -1,0 +1,274 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "gn4FOXA3S9_S8fH7kfsh0g==",
+        "title": "Telur Bakso Pedas",
+        "slug": "telur-bakso-pedas",
+        "cover_url": "content-images\/images\/20250321\/SPZMJOSyrjHZRb5ePpY43n0DQcGKbSwo-31373432353139353931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250321\/SPZMJOSyrjHZRb5ePpY43n0DQcGKbSwo-31373432353139353931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Resep simple tapi enak",
+        "rating": 5,
+        "video_url": "",
+        "price": 20000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 1,
+        "serving_max": 3,
+        "release_date": 1745326620,
+        "updated_date": 1745326720,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 13,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250321\/SPZMJOSyrjHZRb5ePpY43n0DQcGKbSwo-31373432353139353931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/AZEx1NaRPm1BMyVY8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Siapkan Bumbu halusnya.",
+                "image_url": "content-images\/images\/20250321\/nB9wVobzn6WsQbewxmMKRyqmWgQ69rmW-31373432353139363635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250321\/nB9wVobzn6WsQbewxmMKRyqmWgQ69rmW-31373432353139363635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Panaskan minyak.",
+                "image_url": "content-images\/images\/20250321\/v9y52nhpIYerSHhj7iPRcG6bSyJRTVXl-31373432353230313733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250321\/v9y52nhpIYerSHhj7iPRcG6bSyJRTVXl-31373432353230313733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Blender bumbu halusnya.",
+                "image_url": "content-images\/images\/20250321\/DC2RzvCJr0RXiDJbcJmi1m4qIPcqGGP7-31373432353139363533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250321\/DC2RzvCJr0RXiDJbcJmi1m4qIPcqGGP7-31373432353139363533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Orak arik telur.",
+                "image_url": "content-images\/images\/20250321\/ispDtLLNabwhDw41id45q8TAgwINTl0p-31373432353139363437d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250321\/ispDtLLNabwhDw41id45q8TAgwINTl0p-31373432353139363437d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tumis bumbu halusnya lalu masukkan bakso, sereh dan daun jeruk.",
+                "image_url": "content-images\/images\/20250321\/bX1erTidZz578t1U9wKCYhMkHuRq1YSN-31373432353139363538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250321\/bX1erTidZz578t1U9wKCYhMkHuRq1YSN-31373432353139363538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "_UN5dYx-1LL1Qtq8-Ux9xg==",
+                "name": "Bakso",
+                "slug": "bakso"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "lbAPLbE8dqS8fdfiSOsAGg==",
+                "name": "Daun Jeruk",
+                "slug": "daun-jeruk"
+            },
+            {
+                "id": "QvsDybc6uM6-8M_OksDGVw==",
+                "name": "Serai",
+                "slug": "serai"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "0KCHafmJapsehUigfaKElw==",
+            "uuid": "9a9fe08a-76c9-43b6-b0fa-27f2258163b9",
+            "username": "tirto-susana-devi",
+            "name": "Lingz",
+            "avatar": "content-images\/images\/20200519\/US0QfTNbhjrkH4CZXPn4DZT7TNbz0nDe-31353839383734333437d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "10 buah bakso sapi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 btr telur ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 ruas lengkuas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 btg sereh",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lbr daun jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 sdm minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu halus",
+                "ingredients": [
+                    {
+                        "description": "5 buah cabe merah besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "8 buah cabe kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdm garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt merica",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

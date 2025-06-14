@@ -1,0 +1,280 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "fcCBQ0BKl76ykWNYFRMGNg==",
+        "title": "Tahu Campur Buncis Dan Bunga Bawang",
+        "slug": "tahu-campur-buncis-dan-bunga-bawang",
+        "cover_url": "content-images\/images\/20250326\/49NRshIHBeyK5fXY8IbdaHHYoCFkkfkl-31373432393635373536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250326\/49NRshIHBeyK5fXY8IbdaHHYoCFkkfkl-31373432393635373536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Menu enak yang praktis membuatnya di rumah",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1745413920,
+        "updated_date": 1745432386,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 13,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250326\/49NRshIHBeyK5fXY8IbdaHHYoCFkkfkl-31373432393635373536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/dYDVjCeDZY2nUHeq5",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong dadu tahu kuning, goreng\/air fryer hingga matang, sisihkan.",
+                "image_url": "content-images\/images\/20250326\/F4ujTToKbKPOzedjwajpBpX4V6VI1vEh-31373432393635373838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/F4ujTToKbKPOzedjwajpBpX4V6VI1vEh-31373432393635373838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tumis irisan bawang merah dan bawang putih hingga harum.",
+                "image_url": "content-images\/images\/20250326\/UtFYT9DkiSK5WN0F35Vk1ff9CeOT95Kx-31373432393635373936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/UtFYT9DkiSK5WN0F35Vk1ff9CeOT95Kx-31373432393635373936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan irisan buncis, aduk rata.",
+                "image_url": "content-images\/images\/20250326\/O2kP8J8e5VH1nSfk70nax2fyrl6fllk1-31373432393635383033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/O2kP8J8e5VH1nSfk70nax2fyrl6fllk1-31373432393635383033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan tahu.",
+                "image_url": "content-images\/images\/20250326\/WbRYhXdyKYdAaiRN3WpJ9ciiNYbEI6v8-31373432393635383130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/WbRYhXdyKYdAaiRN3WpJ9ciiNYbEI6v8-31373432393635383130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Beri air secukupnya, garam, kecap manis, saus tiram dan gula pasir.",
+                "image_url": "content-images\/images\/20250326\/7vCkoPgibNETvSmNp4dOnrON1TODwH0f-31373432393635383136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/7vCkoPgibNETvSmNp4dOnrON1TODwH0f-31373432393635383136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukkan irisan bunga bawang.",
+                "image_url": "content-images\/images\/20250326\/OcPnvvdaQVlt57ggMvDbWvPQ6RjBpGVg-31373432393635383234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/OcPnvvdaQVlt57ggMvDbWvPQ6RjBpGVg-31373432393635383234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Tambahkan irisan bawang daun dan tomat, masak hingga matang.",
+                "image_url": "content-images\/images\/20250326\/iOHLK7SfwNMDTPzn9i8iVfNWGs8BSzZ4-31373432393635383238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250326\/iOHLK7SfwNMDTPzn9i8iVfNWGs8BSzZ4-31373432393635383238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "YBRmaTfXKqj3QsdvA3jbvQ==",
+                "name": "Lauk Pauk",
+                "slug": "lauk-pauk"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "FEusSQpwKhetyBUOM4CoMA==",
+                "name": "Buncis",
+                "slug": "buncis"
+            },
+            {
+                "id": "zz7VvQtuZ_entrgdutA7dQ==",
+                "name": "Kecap Manis",
+                "slug": "kecap-manis"
+            },
+            {
+                "id": "2hRXFoITKo_F8ODaNvTsJw==",
+                "name": "Saus Tiram",
+                "slug": "saus-tiram"
+            },
+            {
+                "id": "eUDumVCs5n3IHcFz7LWG0A==",
+                "name": "Tahu",
+                "slug": "tahu"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "zwDV0EnI8GP5oR4QE1kluA==",
+            "uuid": "8b9885e1-d02c-4869-b476-a915a16d6d3c",
+            "username": "andrenia-giawati",
+            "name": "andrenia giawati",
+            "avatar": "content-images\/images\/20210519\/ShJ7N6vuMh75GNPJFmJtPEgb87pcS4Wp-31363231343235303436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "5 buah tahu kuning",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "7 batang bunga bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 buah buncis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 sdm minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Kecap manis secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang bawang daun",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 buah tomat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

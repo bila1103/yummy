@@ -1,0 +1,518 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "L5XyiaROogpOpOMOCz1vag==",
+        "title": "Pho Roll",
+        "slug": "pho-roll",
+        "cover_url": "content-images/images/20220514/91dc1f0374b7966398e59d9d6cecd088.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220514/91dc1f0374b7966398e59d9d6cecd088.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Pho dalam versi wrap disajikan dengan saus cocolan yang asam, manis, pedas, dan segar.",
+        "rating": 5,
+        "video_url": "content-videos/video/20220514/7236a0ff33f6ada38296e1d664d710ae.mp4",
+        "price": 35000,
+        "price_premium": 5000,
+        "calories": "757,3 Kj",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1652576400,
+        "updated_date": 1678080113,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 5,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 25,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 3,
+        "recook_count": 1,
+        "original_image": "content-images/images/20220514/91dc1f0374b7966398e59d9d6cecd088.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/Y1GY2KXCNYzan2vv6",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Untuk membuat saus, masukkan air dan gula ke dalam panci, masak air hingga gula laut, lalu matikkan api dan pindah ke mangkuk. Setelah itu masukkan kecap ikan, perasan air jeruk nipis, bawang putih, dan cabai rawit lalu aduk hingga merata dan sisihkan.",
+                "image_url": "content-images/images/20220514/054438f2bf9ce514d08b2383af6a95cd.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220514/054438f2bf9ce514d08b2383af6a95cd.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Panaskan mentega di wajan, masukkan bawang putih, tumis sebentar dan masukkan daging sapi shortplate, masak hingga daging berubah warna dan masukkan bawang bombay, saus tiram, garam, dan lada, masak hingga matang lalu sisihkan.",
+                "image_url": "content-images/images/20220514/f2caff87de546e2018ad36e92a529e01.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220514/f2caff87de546e2018ad36e92a529e01.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "oyfDbpLfRs9BO1MDBUVfMA==",
+                "name": "Enak",
+                "slug": "enak"
+            },
+            {
+                "id": "aqgKmun69vpo862oEQd-0Q==",
+                "name": "Mudah",
+                "slug": "mudah"
+            },
+            {
+                "id": "G-iV06z6OJMMRDtOrTq50A==",
+                "name": "30m",
+                "slug": "30m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "agGYglzEVLUmxpiBbP0xFg==",
+                "name": "Bawang Bombay",
+                "slug": "bawang-bombay"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "gNrR88sMxkuEF_74rCiJ1g==",
+                "name": "Daging Sapi",
+                "slug": "daging-sapi"
+            },
+            {
+                "id": "vMBN0SVgcoPcEmRDnhGDAA==",
+                "name": "Daun Mint",
+                "slug": "daun-mint"
+            },
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Mentega",
+                "slug": "mentega"
+            },
+            {
+                "id": "2hRXFoITKo_F8ODaNvTsJw==",
+                "name": "Saus Tiram",
+                "slug": "saus-tiram"
+            },
+            {
+                "id": "6A8R-vHQlxC7XUPmbB-Q1Q==",
+                "name": "Tauge",
+                "slug": "tauge"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "040a8a10-07c2-4d05-9319-773e5e16c23c",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "8 rice paper",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/d8fc5d6c3b007526d17cc8d47ec88ff4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 gr mi beras atau mi untuk pho",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqDOQ",
+                        "media_url": "content-images/images/20211026/6dd17031d04c408ed8a7e500fa2fa757.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "8 lembar Selada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/B0A1qx",
+                        "media_url": "content-images/images/20211026/6b9a1c30625fa712c77414a84a926898.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "8 batang daun ketumbar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqzer",
+                        "media_url": "content-images/images/20211026/86d393218a2227dbbeb92a637a3901d3.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "16 lembar daun mint",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/vNbOLL",
+                        "media_url": "content-images/images/20211026/19d3dc19f6925d8e4ef8aa581ad1eba7.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 gr tauge",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/EKVWLQ",
+                        "media_url": "content-images/images/20220514/ef55b5ee82dc6a0c2d7f468e10a7c361.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Bawang goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBb91",
+                        "media_url": "content-images/images/20211026/d1c920c1cde0b2d9a876df60680e6703.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "250 gr daging sapi short plate",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqDam",
+                        "media_url": "content-images/images/20220514/9f7814498f68ecc682dbbc1d245a5f4b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1/2 bawang bombay, iris tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBb91",
+                        "media_url": "content-images/images/20211026/20101eea8e3b9bf3187aab0c2a6fb407.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 bawang putih, cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20211026/4f0b23b2175253b3e759de3d6229f244.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm mentega",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/vNbmnd",
+                        "media_url": "content-images/images/20211025/4e8af3b257ee0945185d4794b8c43ecf.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1,5 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/EKVWQe",
+                        "media_url": "content-images/images/20210712/146cca835b9a8837ffcc690078f4df02.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1/4 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1/4 sdt lada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbok5",
+                        "media_url": "content-images/images/20210805/1bc723e6b42febeb800bb2d382500162.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Air secukupnya untuk merendam rice paper",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/a8f6e995116c81f4fbf4600a4520c6b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Saus",
+                "ingredients": [
+                    {
+                        "description": "350 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/a8f6e995116c81f4fbf4600a4520c6b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "60 ml kecap ikan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/DK1Jjo",
+                        "media_url": "content-images/images/20211026/d12c17f80e97a60f453f009e248500ab.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "85 gr gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20211025/7a572e1883391c73701f6d6d766bd4dd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "75 ml air perasan jeruk nipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBbyX",
+                        "media_url": "content-images/images/20211026/40fbeb4372a70c8e9ab111523614f6e1.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 bawang putih, cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20211026/4f0b23b2175253b3e759de3d6229f244.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 cabai rawit, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/LXrWb0",
+                        "media_url": "content-images/images/20210712/251cb7626ca6c9b283134888c7e83847.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Wajan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Asam Folat (\u00b5g)",
+                "slug": "asam-folat-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin C (mg)",
+                "slug": "vutamin-c-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "AVInJ51rLO5OSx0JTerAHApWLCwXCTJj",
+                "created_at": 1664422798,
+                "image_url": "content-images/images/20220709/EkAZ3ZXVrucNp3d9c2xDsW7HJwN5m85S-31363537333731323432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Ga pernah ahli ngelipet kulitnya. Antara satu roll dengan yg lain ukurannya beda-beda hahaha. Untuk resep kali ini saya tambahkan wortel dan bayam merah untuk ekstra serat biar makin cocok untuk yang lagi diet. Selamat menikmatiiii #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "bQTelG2m_PqGvp_B8tK2ig==",
+                    "username": "puspitahassei",
+                    "name": "Puspitasari Anggradewi",
+                    "avatar": "content-images/images/20211231/Y5cJVF3tVKdARTdAFGV7OjUtANVcGebA-31363430393032353630d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Pho Roll",
+                    "slug": "pho-roll",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Spatula",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Wajan",
+                "media_url": "content-images/images/20220413/b04bf5e5d54303c8d7b31ca486978630.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Telenan - Bentuk Bulat",
+                "media_url": "content-images/images/20210712/00a2e0763cd3ae9ab62cace5336a95af.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Piring Saji",
+                "media_url": "content-images/images/20210712/fe7aa848e95ce4d5fd56fb78459844f2.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

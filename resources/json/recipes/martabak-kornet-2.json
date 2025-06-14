@@ -1,0 +1,334 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "EYGgskKOWDbm5pli11IqOA==",
+        "title": "Martabak Telur Kornet",
+        "slug": "martabak-kornet-2",
+        "cover_url": "content-images\/images\/20250110\/Qc6KCH2efV76fM0xFfbaeWEdHeBjIiKf-31373336343936303333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250110\/Qc6KCH2efV76fM0xFfbaeWEdHeBjIiKf-31373336343936303333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "SUPER ENAK",
+        "rating": 5,
+        "video_url": "",
+        "price": 30000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 4,
+        "serving_max": 5,
+        "release_date": 1746611280,
+        "updated_date": 1746587524,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 15,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250110\/Qc6KCH2efV76fM0xFfbaeWEdHeBjIiKf-31373336343936303333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/NNghtZb9q56yKwMZ9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan irisan daun bawang dan bawang bombai kedalam wadah.",
+                "image_url": "content-images\/images\/20250110\/NZyrdUL0LCN0iQ5Mlw6RVclNQTdvmtjU-31373336343936303933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250110\/NZyrdUL0LCN0iQ5Mlw6RVclNQTdvmtjU-31373336343936303933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan kornet",
+                "image_url": "content-images\/images\/20250110\/xxEs6Ogk0evTDymPKoRMIkv5bFaSUhJ2-31373336343936303835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250110\/xxEs6Ogk0evTDymPKoRMIkv5bFaSUhJ2-31373336343936303835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan cincangan bawang putih , cabai merah keriting dan cabai rawit.",
+                "image_url": "content-images\/images\/20250110\/xupMiB3QDPzUxunpHJNHipQTNygDUTAl-31373336343936313133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250110\/xupMiB3QDPzUxunpHJNHipQTNygDUTAl-31373336343936313133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan telur.",
+                "image_url": "content-images\/images\/20250110\/kOeXZxWeH2hnofVXKYqIZMRwKe5bCri8-31373336343936323130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250110\/kOeXZxWeH2hnofVXKYqIZMRwKe5bCri8-31373336343936323130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tambahkan penyedap, kaldu bubuk, lada bubuk garam dan gula.",
+                "image_url": "content-images\/images\/20250110\/kIc1DDtnyTM6KiD2U68r82RJiYeDTZwb-31373336343936343636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250110\/kIc1DDtnyTM6KiD2U68r82RJiYeDTZwb-31373336343936343636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tambahkan saus tiram dan tepung maizena, lalu aduk hingga merata.",
+                "image_url": "content-images\/images\/20250110\/eMQzURV9Fmm0h4mwkGSmF4aDkGiF6Ual-31373336343936343936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250110\/eMQzURV9Fmm0h4mwkGSmF4aDkGiF6Ual-31373336343936343936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Letakkan diatas kulit lumpia.",
+                "image_url": "content-images\/images\/20250110\/KaXdRyR04PM4FefsAoZ9zmJlOaMPRnj0-31373336343936353137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250110\/KaXdRyR04PM4FefsAoZ9zmJlOaMPRnj0-31373336343936353137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Lipat kulit lumpia, olesi lipatan dengan campuran tepung dan air sebagai perekat.",
+                "image_url": "content-images\/images\/20250110\/PbBayLIbAZi7UBr0zzKV9gw34UwTR2kD-31373336343936353535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250110\/PbBayLIbAZi7UBr0zzKV9gw34UwTR2kD-31373336343936353535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Goreng diminyak panas dengan api sedang, lalu tiriskan.",
+                "image_url": "content-images\/images\/20250110\/Jw77zk4tZ2z98ScJjUzrzgafcLHyOc0y-31373336343936353637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250110\/Jw77zk4tZ2z98ScJjUzrzgafcLHyOc0y-31373336343936353637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "agGYglzEVLUmxpiBbP0xFg==",
+                "name": "Bawang Bombay",
+                "slug": "bawang-bombay"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "OTrclgVOZxmXTlsXf-ffYw==",
+                "name": "Daun Bawang",
+                "slug": "daun-bawang"
+            },
+            {
+                "id": "2lGio1G4CNdmbU8R2IkRzw==",
+                "name": "Kornet",
+                "slug": "kornet"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "_A-MF_JjappW7bsxwpZwfg==",
+            "uuid": "0c8e35d1-61ea-448e-916d-12190b599990",
+            "username": "nur-kholidah-3",
+            "name": "nur kholidah",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "14 lembar kulit lumpia",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan isian",
+                "ingredients": [
+                    {
+                        "description": "4 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah bawang bombay",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 batang daun bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200gr kornet",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah cabai rawit",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 buah cabai merah keriting",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt penyedap",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt tepung maizena",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

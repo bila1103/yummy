@@ -1,0 +1,288 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "2SyptL5uljJrgHevKBUDfw==",
+        "title": "Oseng Tempe Kikil Cabai Hijau",
+        "slug": "oseng-tempe-kikil-cabai-hijau",
+        "cover_url": "content-images\/images\/20250310\/Zjnpkj1l5nP1LG32fJ4HJoxxJ43yE1GD-31373431363030323938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250310\/Zjnpkj1l5nP1LG32fJ4HJoxxJ43yE1GD-31373431363030323938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Menu olahan tempe yang enak dan simpel.",
+        "rating": 5,
+        "video_url": "",
+        "price": 20000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 25,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1745253420,
+        "updated_date": 1745253548,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 14,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250310\/Zjnpkj1l5nP1LG32fJ4HJoxxJ43yE1GD-31373431363030323938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/sQ3DHA28tNzUpFaz9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Tumis bumbu halus hingga harum.",
+                "image_url": "content-images\/images\/20250311\/GXHR0Gj8eDF5wq7VGWepTirJ8hs72JS6-31373431363830373137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250311\/GXHR0Gj8eDF5wq7VGWepTirJ8hs72JS6-31373431363830373137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan lengkuas dan serai. Aduk rata.",
+                "image_url": "content-images\/images\/20250311\/vW4hUsENKo3APNDqvJrRp87gc3W5S9Lh-31373431363830373332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250311\/vW4hUsENKo3APNDqvJrRp87gc3W5S9Lh-31373431363830373332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan kikil, aduk kembali hingga tercampur rata.",
+                "image_url": "content-images\/images\/20250311\/6yrsHM7PS06xWmkjfkJ1I8Tdt3P6XSZz-31373431363830373435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250311\/6yrsHM7PS06xWmkjfkJ1I8Tdt3P6XSZz-31373431363830373435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan tempe, saus tiram, kecap manis, kecap asin, garam, gula dan lada. Aduk rata.",
+                "image_url": "content-images\/images\/20250311\/FftWuhCdsfP5ZvfYDMfbjISjPr7knaDq-31373431363830373636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250311\/FftWuhCdsfP5ZvfYDMfbjISjPr7knaDq-31373431363830373636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan irisan cabai hijau. Koreksi rasa. Masak hingga matang dan bumbu meresap.",
+                "image_url": "content-images\/images\/20250311\/VHsdDfzKI1e2x5ij0mB1LTwXYhlsFW0W-31373431363830383030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250311\/VHsdDfzKI1e2x5ij0mB1LTwXYhlsFW0W-31373431363830383030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "89XwJJ-wUT-TR-eQ1eL4pA==",
+                "name": "Lengkuas",
+                "slug": "lengkuas"
+            },
+            {
+                "id": "2hRXFoITKo_F8ODaNvTsJw==",
+                "name": "Saus Tiram",
+                "slug": "saus-tiram"
+            },
+            {
+                "id": "QvsDybc6uM6-8M_OksDGVw==",
+                "name": "Serai",
+                "slug": "serai"
+            },
+            {
+                "id": "QJ0crmlVerfAPuv2j1Yf9g==",
+                "name": "Tempe",
+                "slug": "tempe"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "Dj9Fs92z13dtucDql9mP-A==",
+            "uuid": "2824ebcc-8ea1-4a7c-93d2-989872ad584b",
+            "username": "diana-nurjanah",
+            "name": "Diana Nurjanah ",
+            "avatar": "content-images\/images\/20201122\/JQRmh4jJxeheD27ne1L64mkA1QonHy31-31363036303131303436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "150 gram kikil, rebus, potong-potong, tiriskan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd papan tempe, potong korek api, goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 buah cabe hijau besar, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm kecap manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kecap asin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 ml air mineral",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu Halus:",
+                "ingredients": [
+                    {
+                        "description": "2 sdm bumbu dasar merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu Aromatik:",
+                "ingredients": [
+                    {
+                        "description": "1 batang serai, potong-potong kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 iris lengkuas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

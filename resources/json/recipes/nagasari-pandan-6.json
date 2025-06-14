@@ -1,0 +1,244 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "eLI6FEsad4T9DGxp1-mnPA==",
+        "title": "Nagasari Pandan",
+        "slug": "nagasari-pandan-6",
+        "cover_url": "content-images\/images\/20250510\/ZEaNTvjDO5WShUT15Snq0mXC1QDN6sRW-31373436383739333736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250510\/ZEaNTvjDO5WShUT15Snq0mXC1QDN6sRW-31373436383739333736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Simple but yummy!",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 6,
+        "serving_max": 7,
+        "release_date": 1747649940,
+        "updated_date": 1747650199,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 7,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250510\/ZEaNTvjDO5WShUT15Snq0mXC1QDN6sRW-31373436383739333736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/BZkAq8eoeqrNR24KA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Campur semua bahan menjadi satu, kecuali pisang.",
+                "image_url": "content-images\/images\/20250510\/26PdR74Ftl7E3hN6eayBz6Y21BWi4Ces-31373436383739333934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250510\/26PdR74Ftl7E3hN6eayBz6Y21BWi4Ces-31373436383739333934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Olesi cetakan dengan minyak.",
+                "image_url": "content-images\/images\/20250510\/3mJgnWkFocGjCXpkZLNGA5pYROvERiUT-31373436383739343030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250510\/3mJgnWkFocGjCXpkZLNGA5pYROvERiUT-31373436383739343030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Letakkan pisang di dalam cetakan.",
+                "image_url": "content-images\/images\/20250510\/S1LPKtrPWwvZ3JzYhbDkjxyoiM4UPKNI-31373436383739343033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250510\/S1LPKtrPWwvZ3JzYhbDkjxyoiM4UPKNI-31373436383739343033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tuang adonan secukupnya, lalu kukus nagasari selama 5 menit menggunakan api sedang.",
+                "image_url": "content-images\/images\/20250510\/cnSgfe2P8nO9UrBdHozC5kFHreIOCRDs-31373436383739343039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250510\/cnSgfe2P8nO9UrBdHozC5kFHreIOCRDs-31373436383739343039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Buka kukusan, lalu tuang adonan kembali hingga penuh.",
+                "image_url": "content-images\/images\/20250510\/uEoYd8pDCVpl1d5CUlQpDY8ubwCPSC69-31373436383739343133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250510\/uEoYd8pDCVpl1d5CUlQpDY8ubwCPSC69-31373436383739343133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Kukus nagasari selama 10 menit, lalu matikan api dan siap disajikan!",
+                "image_url": "content-images\/images\/20250510\/CGcTwr0utzHBOYfRsgOphYl51hx20Leb-31373436383739343334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250510\/CGcTwr0utzHBOYfRsgOphYl51hx20Leb-31373436383739343334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "fZ8FKumT2zyDkTyDZtMSTw==",
+                "name": "Kue Tradisional",
+                "slug": "kue-tradisional"
+            },
+            {
+                "id": "8CY09hIBx0hI78O9lHpa1w==",
+                "name": "jajanan kaki lima",
+                "slug": "jajanan-kaki-lima"
+            },
+            {
+                "id": "Cil1aGffCF64L1bZoyR6UA==",
+                "name": "MPASI",
+                "slug": "mpasi"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "OVn1FXRZPmVFgDCUzl3xLw==",
+                "name": "Santan",
+                "slug": "santan"
+            },
+            {
+                "id": "wjOI7jLd9RKri0o9Vn8t7A==",
+                "name": "Tepung Beras",
+                "slug": "tepung-beras"
+            },
+            {
+                "id": "4k8pCLcc7BX1HDeJPutX8A==",
+                "name": "Tepung Tapioka",
+                "slug": "tepung-tapioka"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "uJ3aCOdjw7rQdXWlO1hhRQ==",
+            "uuid": "b4cd4067-dbe7-41be-90aa-9420ed267bd2",
+            "username": "laila-dawud",
+            "name": "Laila Dawud ",
+            "avatar": "content-images\/images\/20230509\/yjhfJFWfj8BBhfFz9Ww2a2Vd6ovpPIU9-31363833363132373531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "650 ml santan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "125 gr tepung beras",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30 gr tepung tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt pasta pandan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 buah pisang kepok",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

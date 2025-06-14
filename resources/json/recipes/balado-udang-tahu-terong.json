@@ -1,0 +1,268 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "l0JNIcBR2_3Hav0Mx63vvA==",
+        "title": "Balado Udang Tahu Terong",
+        "slug": "balado-udang-tahu-terong",
+        "cover_url": "content-images\/images\/20250422\/LQswzSSOqilVNHKI5wJt3qTcUOPfKJl7-31373435333232393136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250422\/LQswzSSOqilVNHKI5wJt3qTcUOPfKJl7-31373435333232393136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Mudah di buat dan rasanya enak. Yuk masak!",
+        "rating": 5,
+        "video_url": "",
+        "price": 25000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 40,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1745402400,
+        "updated_date": 1745402466,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 11,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250422\/LQswzSSOqilVNHKI5wJt3qTcUOPfKJl7-31373435333232393136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/y7Fv6jf6fdtDwPoo6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong-potong tahu,lalu goreng hingga berkulit. Angkat,tiriskan.",
+                "image_url": "content-images\/images\/20250422\/U54moubrvUfNy5cBffKOJItejPG3QTrL-31373435333233313033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/U54moubrvUfNy5cBffKOJItejPG3QTrL-31373435333233313033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Kupas terong,potong-potong,lalu goreng hingga matang. Angkat,tiriskan.",
+                "image_url": "content-images\/images\/20250422\/piEZwDJVag7Rz1Y7q0X1N6sfnfWhwXXJ-31373435333233313333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/piEZwDJVag7Rz1Y7q0X1N6sfnfWhwXXJ-31373435333233313333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Kupas udang,lalu goreng hingga berubah warna,angkat",
+                "image_url": "content-images\/images\/20250422\/cHAHX7JNLDWceTsUStdJvwsJINXBX16w-31373435333233313731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/cHAHX7JNLDWceTsUStdJvwsJINXBX16w-31373435333233313731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tumis bumbu halus menggunakan minyak sisa menggoreng udang tadi. Tumis hingga bumbu matang. Lalu masukkan gula pasir dan garam. Aduk rata.",
+                "image_url": "content-images\/images\/20250422\/bvHkC7NuHPQT8Fbk4gjWgsmlVgu4pHCJ-31373435333233323030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/bvHkC7NuHPQT8Fbk4gjWgsmlVgu4pHCJ-31373435333233323030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Kemudian masukkan udang,tahu,dan terong.",
+                "image_url": "content-images\/images\/20250422\/vTIthyQZugdP5jZ8ynGYEDFOCTjEawIL-31373435333233323434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/vTIthyQZugdP5jZ8ynGYEDFOCTjEawIL-31373435333233323434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Aduk rata perlahan dan masak hingga bumbu meresap. Angkat.",
+                "image_url": "content-images\/images\/20250422\/KxqFMiVaQ2CIuIdxb5kKylCo15YtVJmk-31373435333233323836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/KxqFMiVaQ2CIuIdxb5kKylCo15YtVJmk-31373435333233323836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Pindahkan balado ke dalam piring dan sajikan.",
+                "image_url": "content-images\/images\/20250422\/HVDypHxcvbE5kasuhmlOyIgLVuWonAdu-31373435333233333136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/HVDypHxcvbE5kasuhmlOyIgLVuWonAdu-31373435333233333136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "eUDumVCs5n3IHcFz7LWG0A==",
+                "name": "Tahu",
+                "slug": "tahu"
+            },
+            {
+                "id": "1CO1hkz6LSaYVUokpMaHTg==",
+                "name": "Terong",
+                "slug": "terong"
+            },
+            {
+                "id": "e4TpRRTQlvjlFZfP2dafrA==",
+                "name": "Udang",
+                "slug": "udang"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "x_tdVHzL5wqZxsz9FmNm1A==",
+            "uuid": "ed022034-c8a7-4a71-bde0-a9028ab03ed0",
+            "username": "riska-aprias",
+            "name": "Riska Wijaya",
+            "avatar": "content-images\/images\/20221230\/PDje3MxmVGoGD6UGfTwcDYvBAWAU55mh-31363732343130383235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "250 gram udang ukuran besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 kotak tahu putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah terong",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Garam secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Minyak goreng secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu Halus :",
+                "ingredients": [
+                    {
+                        "description": "4 buah cabai merah besar,buang bijinya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 buah cabai merah keriting",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 buah cabai rawit merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

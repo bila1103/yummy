@@ -1,0 +1,304 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "nSaWhUWV7fHTIXTeCBgDfA==",
+        "title": "Jenang Grendul",
+        "slug": "jenang-grendul-4",
+        "cover_url": "content-images\/images\/20250324\/HOnZjtEPxjAx2Lx5r0hPCKPaQadESZLn-31373432383039363234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250324\/HOnZjtEPxjAx2Lx5r0hPCKPaQadESZLn-31373432383039363234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Enak, manis, kenyal dan gurih, cobain yuk!",
+        "rating": 5,
+        "video_url": "",
+        "price": 12000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 40,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1745401440,
+        "updated_date": 1745401537,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 14,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250324\/HOnZjtEPxjAx2Lx5r0hPCKPaQadESZLn-31373432383039363234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/ktywq6cf2apScuQK8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Campur tepung ketan, tepung beras dan garam.",
+                "image_url": "content-images\/images\/20250324\/YKhu2FjgIQlNnxOM9xP58DT47tfSxuz4-31373432383039363537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250324\/YKhu2FjgIQlNnxOM9xP58DT47tfSxuz4-31373432383039363537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tuang air hangat sedikit demi sedikit sambil diuleni sampai kalis dan mudah dibentuk.",
+                "image_url": "content-images\/images\/20250324\/09hvA0ftNelbRl0KG9k4fryXhl772Eb1-31373432383039363637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250324\/09hvA0ftNelbRl0KG9k4fryXhl772Eb1-31373432383039363637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Bentuk bulat adonan sebesar kelereng.",
+                "image_url": "content-images\/images\/20250324\/PfT4ZAW5j14vesI41LBWq2pPbwMMXOgq-31373432383039363739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250324\/PfT4ZAW5j14vesI41LBWq2pPbwMMXOgq-31373432383039363739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Rebus air, gula merah, gula pasir, garam dan daun pandan.",
+                "image_url": "content-images\/images\/20250324\/5VdVl1oPeuWOUYJrMPTlcL4LkKA9O9IA-31373432383039363839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250324\/5VdVl1oPeuWOUYJrMPTlcL4LkKA9O9IA-31373432383039363839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Setelah mendidih dan gula larut masukkan bola-bola dan rebus sampai mengapung.",
+                "image_url": "content-images\/images\/20250324\/UvzAHjVZ55X2kM4wLSwUUO7RQNFmIKLi-31373432383039373031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250324\/UvzAHjVZ55X2kM4wLSwUUO7RQNFmIKLi-31373432383039373031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Campur tapioka dan air, lalu tuang kedalam panci dan aduk-aduk sampai mengental. Matikan kompor dan sisihkan.",
+                "image_url": "content-images\/images\/20250324\/jMKvXkrvV2t3lLu93BE0Crlj8J7x3i73-31373432383039373037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250324\/jMKvXkrvV2t3lLu93BE0Crlj8J7x3i73-31373432383039373037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Rebus santan, garam dan daun pandan sampai, sajikan jenang grendul dengan kuah santannya.",
+                "image_url": "content-images\/images\/20250324\/YFsYxcW4266XPUul8xFj2QE0i9NAWAxq-31373432383039373130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250324\/YFsYxcW4266XPUul8xFj2QE0i9NAWAxq-31373432383039373130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "XEHoR0n-0Ar-2K4Q8RVw4w==",
+                "name": "Daun Pandan",
+                "slug": "daun-pandan"
+            },
+            {
+                "id": "Pqpraztc6nIwZ73SYclR0A==",
+                "name": "Gula Merah",
+                "slug": "gula-merah"
+            },
+            {
+                "id": "OVn1FXRZPmVFgDCUzl3xLw==",
+                "name": "Santan",
+                "slug": "santan"
+            },
+            {
+                "id": "wjOI7jLd9RKri0o9Vn8t7A==",
+                "name": "Tepung Beras",
+                "slug": "tepung-beras"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "ycCR0D6AV1aaMpMK9I2iDw==",
+            "uuid": "259e9e90-d1f4-4157-b357-ba12724d1074",
+            "username": "heny-rosita",
+            "name": "Heny Rosita",
+            "avatar": "content-images\/images\/20220815\/luSkMV5XbmQDxtTqbZpCxhev5ozSQ6rI-31363630353330363737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "150 gr tepung ketan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm tepung beras",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya air hangat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Merebus Bola Ketan",
+                "ingredients": [
+                    {
+                        "description": "350 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "75 gr gula aren",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 lembar daun pandan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Pengental",
+                "ingredients": [
+                    {
+                        "description": "1 sdm munjung tepung tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 sdm air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Kuah Santan ",
+                "ingredients": [
+                    {
+                        "description": "150 ml santan kental",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 lembar daun pandan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

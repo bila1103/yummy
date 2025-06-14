@@ -1,0 +1,301 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "1cc1rE3Ljz2IZxwkcLPXcw==",
+        "title": "Tumis Sayur Campur Tofu",
+        "slug": "tumis-campur-3",
+        "cover_url": "content-images\/images\/20250311\/5EOkst0cKkN7oZOS9wzJ1oULW0pg8JBk-31373431363834313236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250311\/5EOkst0cKkN7oZOS9wzJ1oULW0pg8JBk-31373431363834313236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Memanfaatkan sisa bahan masakan yang ada di kulkas",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1745227560,
+        "updated_date": 1745294978,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 15,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250311\/5EOkst0cKkN7oZOS9wzJ1oULW0pg8JBk-31373431363834313236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/cG4bcsLYacLwNXT17",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Iris-iris tofu, masukan tofu ke dalam air fyer selama 20 menit, sisihkan.",
+                "image_url": "content-images\/images\/20250311\/7lkUbzy4aff6NCtApqSk2duuevhIeqJd-31373431363834313439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250311\/7lkUbzy4aff6NCtApqSk2duuevhIeqJd-31373431363834313439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tumis irisan bawang merah dan bawang putih hingga harum.",
+                "image_url": "content-images\/images\/20250311\/D7B1h5bo1QZ9lo43gOaHpZRMu1cNMbT7-31373431363834313535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250311\/D7B1h5bo1QZ9lo43gOaHpZRMu1cNMbT7-31373431363834313535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan irisan sawi putih.",
+                "image_url": "content-images\/images\/20250311\/nLcxmSQa1PfZneww9ilI9JrxBxRFdKjR-31373431363834313631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250311\/nLcxmSQa1PfZneww9ilI9JrxBxRFdKjR-31373431363834313631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Beri garam, kaldu jamur, merica bubuk dan gula pasir",
+                "image_url": "content-images\/images\/20250311\/ujGghDRbqG1pHfCIDEs6AzfeYHFrdRNP-31373431363834313636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250311\/ujGghDRbqG1pHfCIDEs6AzfeYHFrdRNP-31373431363834313636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan irisan wortel dan pipilan jagung manis, masukan air secukupnya.",
+                "image_url": "content-images\/images\/20250311\/4vWJfzwHWIGzIKVwNnmGnrg0WGVZ7Nin-31373431363834313735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250311\/4vWJfzwHWIGzIKVwNnmGnrg0WGVZ7Nin-31373431363834313735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tambahkan irisan sawi hijau.",
+                "image_url": "content-images\/images\/20250311\/RB9PptiHgo3zo76Hsv6uEbeuGZkV9RWV-31373431363834313835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250311\/RB9PptiHgo3zo76Hsv6uEbeuGZkV9RWV-31373431363834313835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukkan irisan bawang daun dan seledri.",
+                "image_url": "content-images\/images\/20250311\/EG0FVe4o5w8qPhTnuHqGOLgNcH8GNbOm-31373431363834313930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250311\/EG0FVe4o5w8qPhTnuHqGOLgNcH8GNbOm-31373431363834313930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Tuang tofu ke dalam wajan, koreksi rasa dan masak hingga matang.",
+                "image_url": "content-images\/images\/20250311\/LNUbfqu8pWTDqsb11Nh65H7gYOXDD3Fj-31373431363834313934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250311\/LNUbfqu8pWTDqsb11Nh65H7gYOXDD3Fj-31373431363834313934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "09qixFV2VkI_lmE5V9ogIw==",
+                "name": "Makanan Berkuah",
+                "slug": "makanan-berkuah"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "vs_JsRjc8t-nTiFV2WuwnQ==",
+                "name": "Sawi",
+                "slug": "sawi"
+            },
+            {
+                "id": "eUDumVCs5n3IHcFz7LWG0A==",
+                "name": "Tahu",
+                "slug": "tahu"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "zwDV0EnI8GP5oR4QE1kluA==",
+            "uuid": "8b9885e1-d02c-4869-b476-a915a16d6d3c",
+            "username": "andrenia-giawati",
+            "name": "andrenia giawati",
+            "avatar": "content-images\/images\/20210519\/ShJ7N6vuMh75GNPJFmJtPEgb87pcS4Wp-31363231343235303436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "5 lembar sawi putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah sawi hijau",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah jagung manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah wortel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sendok makan minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang bawang daun",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 batang seledri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Garam secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt merica bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt kaldu jamur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 bungkus tofu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

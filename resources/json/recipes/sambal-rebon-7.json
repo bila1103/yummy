@@ -1,0 +1,288 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "nLJbhLFkLNz4Etue8X5Pdw==",
+        "title": "Sambal Rebon",
+        "slug": "sambal-rebon-7",
+        "cover_url": "content-images\/images\/20250322\/vk0hB0E9J5TCmiTNlXxI0cJjXxZ2h3t4-31373432363334373636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250322\/vk0hB0E9J5TCmiTNlXxI0cJjXxZ2h3t4-31373432363334373636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Dikulkas punya udang rebon langsung aja deh di buat sambal.",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 45,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1745404800,
+        "updated_date": 1745405128,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 13,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250322\/vk0hB0E9J5TCmiTNlXxI0cJjXxZ2h3t4-31373432363334373636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/DeQW7wHVbmyP1YAi9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Rebus semua bahan bumbu hingga layu.",
+                "image_url": "content-images\/images\/20250322\/PE04sjW3byhtvARcdY33ii464qdUSeLn-31373432363335303735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250322\/PE04sjW3byhtvARcdY33ii464qdUSeLn-31373432363335303735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Campur jadi satu tepung bumbu dan tepung beras, aduk rata.",
+                "image_url": "content-images\/images\/20250322\/OYyaXQZzCUjVuu6pBGAN4U14BMmVG2RQ-31373432363335303936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250322\/OYyaXQZzCUjVuu6pBGAN4U14BMmVG2RQ-31373432363335303936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan udang rebon lalu aduk rata.",
+                "image_url": "content-images\/images\/20250322\/jCHshmPgMP9B3hVaHLHsQcz9cXZSZAUW-31373432363335313333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250322\/jCHshmPgMP9B3hVaHLHsQcz9cXZSZAUW-31373432363335313333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Goreng rebon hingga kering.",
+                "image_url": "content-images\/images\/20250322\/Pm042oKz11wV8Bmu4IkNsZlibeED0vIs-31373432363335313437d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250322\/Pm042oKz11wV8Bmu4IkNsZlibeED0vIs-31373432363335313437d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Bahan bumbu yang sudah direbus, diblender jangan terlalu halus.",
+                "image_url": "content-images\/images\/20250322\/EWrp2nDaQMnhzd0Nr2ncH0WMzIkmm6Xv-31373432363335313730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250322\/EWrp2nDaQMnhzd0Nr2ncH0WMzIkmm6Xv-31373432363335313730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukkan garam, kaldu jamur, gula, masak hingga sambal tanak.",
+                "image_url": "content-images\/images\/20250322\/4oukPhVGEDBNMcUTYAB6Nd364XqIvOEO-31373432363335313939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250322\/4oukPhVGEDBNMcUTYAB6Nd364XqIvOEO-31373432363335313939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukkan udang rebon goreng, aduk hingga kering ya.",
+                "image_url": "content-images\/images\/20250322\/3JYSU8Y7Ztp9svS6K3u4Jq2DSPXFupsB-31373432363335323231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250322\/3JYSU8Y7Ztp9svS6K3u4Jq2DSPXFupsB-31373432363335323231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Sajikan.",
+                "image_url": "content-images\/images\/20250322\/PdUDTIjbzbYDKbmTCPsxYo9W6Ulo4A3u-31373432363335323438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250322\/PdUDTIjbzbYDKbmTCPsxYo9W6Ulo4A3u-31373432363335323438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "yhMIYcwYDQ22BXNinjWclg==",
+                "name": "Sambal Indonesia",
+                "slug": "sambal-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "wjOI7jLd9RKri0o9Vn8t7A==",
+                "name": "Tepung Beras",
+                "slug": "tepung-beras"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "6uTHvVU6EKYkEusocn-bbg==",
+            "uuid": "c34551a6-c402-47af-8187-3c0c410bfd8a",
+            "username": "separuh-jiwaku",
+            "name": "Separuh jiwaku",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "200 gr udang rebon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr tepung bumbu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 sdm tepung beras",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Bahan Bumbu :",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah kecombrang, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm andaliman",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "15 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "7 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "12 buah cabe merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 buah cabe rawit merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

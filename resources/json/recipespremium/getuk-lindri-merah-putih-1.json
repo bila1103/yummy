@@ -1,0 +1,440 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "aZ1LsZOGqxKmnV8ufu6Nmw==",
+        "title": "Getuk Lindri Merah Putih",
+        "slug": "getuk-lindri-merah-putih-1",
+        "cover_url": "content-images/images/20220829/ad44800947290fb1d7509921eb1e1824.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220829/ad44800947290fb1d7509921eb1e1824.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Salah satu jajanan pasar khas Nusantara berbahan dasar singkong yang mudah dibuat",
+        "rating": 4,
+        "video_url": "content-videos/video/20220814/64847a367c1242238f376c0eae05fee4.mp4",
+        "price": 30000,
+        "price_premium": 5000,
+        "calories": "469,1 Kj",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 9,
+        "serving_max": 8,
+        "release_date": 1661781600,
+        "updated_date": 1669231587,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 10,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 2,
+        "recook_count": 1,
+        "original_image": "content-images/images/20220829/ad44800947290fb1d7509921eb1e1824.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/mdXtrjEKbFnK5zTu7",
+        "category": {
+            "name": "Cemilan",
+            "slug": "cemilan"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Kukus singkong kupas selama 30 menit atau sampai matang dan lembut",
+                "image_url": "content-images/images/20220829/cee109c1bee1385b496e5c7f0aebc893.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220829/cee109c1bee1385b496e5c7f0aebc893.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tumbuk singkong panas bersama dengan gula, garam dan vanilli bubuk hingga halus",
+                "image_url": "content-images/images/20220829/c43ceebd87ea9135200d0131fd4143fd.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220829/c43ceebd87ea9135200d0131fd4143fd.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "rF5J80rbWxSAArPJvzgt1w==",
+                "name": "Jajanan Pasar",
+                "slug": "jajanan-pasar"
+            },
+            {
+                "id": "vn4I3seg5RQD1L3zHy-Y5g==",
+                "name": "camilan manis",
+                "slug": "camilan-manis"
+            },
+            {
+                "id": "JOhVOgEjPexNkK2c3EF_OA==",
+                "name": "jajanan tradisional",
+                "slug": "jajanan-tradisional"
+            },
+            {
+                "id": "uxJ35qtItSaPQoDVK4fnrw==",
+                "name": "kukus",
+                "slug": "kukus"
+            },
+            {
+                "id": "eKtZIdqS2qF9yM_m7EcZWQ==",
+                "name": "cemilan sederhana",
+                "slug": "cemilan-sederhana"
+            },
+            {
+                "id": "21OMGCsGv7Gzrq-HAkj5kQ==",
+                "name": "aneka cemilan",
+                "slug": "aneka-cemilan"
+            },
+            {
+                "id": "5Utfz-YZJCjB8lZNV1E6JQ==",
+                "name": "Makanan Kukus",
+                "slug": "makanan-kukus"
+            },
+            {
+                "id": "CiWoEu755zB2n43M2u0kYw==",
+                "name": "Nusantara",
+                "slug": "nusantara"
+            },
+            {
+                "id": "zhH1PbJtEu0HvDgpTrn-og==",
+                "name": "Sederhana",
+                "slug": "sederhana"
+            },
+            {
+                "id": "aqgKmun69vpo862oEQd-0Q==",
+                "name": "Mudah",
+                "slug": "mudah"
+            },
+            {
+                "id": "_ZB0JXDgKfQ_iO15__04Ng==",
+                "name": "Durasi 60 Menit",
+                "slug": "60m"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "cR2C8zI6gmX_XXrAs_OXuw==",
+                "name": "Kelapa",
+                "slug": "kelapa"
+            },
+            {
+                "id": "H2a3gG-NMO2vqBnbonsTyA==",
+                "name": "Margarin",
+                "slug": "margarin"
+            },
+            {
+                "id": "ZIwW52fxo3KSPeOQxi9hfQ==",
+                "name": "Pewarna Makanan",
+                "slug": "pewarna-makanan"
+            },
+            {
+                "id": "tqfDf2P1f7HSkHXKPYTEOQ==",
+                "name": "Singkong",
+                "slug": "singkong"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "040a8a10-07c2-4d05-9319-773e5e16c23c",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "500 gr singkong kupas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbRVd",
+                        "media_url": "content-images/images/20220829/18a7908c522391a738041c462a2bf7f3.webp?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "80 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NB1N",
+                        "media_url": "content-images/images/20211025/7a572e1883391c73701f6d6d766bd4dd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt vanilli bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/2dc94219bc1e7c424dcb75040f04ceca.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm margarin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/75xKmA",
+                        "media_url": "content-images/images/20210712/e02ab215791f340558e88ab4735af817.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt pewarna merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20210805/59cbdc265aa79a5e9bab7d2aff30ca00.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Kelapa parut kukus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBjvr",
+                        "media_url": "content-images/images/20210803/82c9c9a2eb6ae7aee04394b76f9ad5cc.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Pisau",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20230725/bb3bd7b7e63281f32b9d480bf09c8dd1.png?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Rolling Pin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20230725/3c06e846c2f7e71bb25b135941d9aacc.png?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Pisau Roti",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/9gQrv0",
+                        "media_url": "content-images/images/20230725/f7926552b4419d9da7d0719f5cc73598.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Asam Folat (\u00b5g)",
+                "slug": "asam-folat-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin C (mg)",
+                "slug": "vutamin-c-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "rzAa4VwhZEqbteWsXjEytjPpntBmnhsf",
+                "created_at": 1669133339,
+                "image_url": "content-images/images/20221122/1nzX3rhJJFvEZaPLj3SfjnIdYSjCX37l-31363639313038313335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "#RecookYummy \n\njajanan yang mulai susah di dapat, Terima kasih chef resepnya, enak sekali \ud83e\udd24",
+                "is_liked": false,
+                "like_count": 2,
+                "author": {
+                    "id": "EM14rQdKXJxBmxtVDLbGpA==",
+                    "username": "dapur-bunda-vee",
+                    "name": "Dapur Bunda Vee",
+                    "avatar": "content-images/images/20231123/e5c75e2a8fa12b3bbb4fb3422d03b968.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Getuk Lindri Merah Putih",
+                    "slug": "getuk-lindri-merah-putih-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "2j8yrQcFqHuIroM3LRYSt9Adf7Q8H1MC",
+                "created_at": 1668970987,
+                "image_url": "content-images/images/20221120/DQTQjneZFQ61uQyE5sRmaf23QdRAx9Ka-31363638393435373130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "setor recooknya nih MinCef untuk ikutan event #RecookYummy #JagoMasak2022\n\nTerima kasih inspirasinya MinChef \ud83d\ude4f",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "wVeG7Utss5BBGMCY9-Qflw==",
+                    "username": "dapua-eka",
+                    "name": "Eka Susanti",
+                    "avatar": "content-images/images/20210812/z7KOIF0bxIYxpdEXtC2RsVoAg1H7gzau-31363238373830313933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Getuk Lindri Merah Putih",
+                    "slug": "getuk-lindri-merah-putih-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Kukusan",
+                "media_url": "content-images/images/20211105/6827212ddc1524867b5d11ad5e213769.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Telenan - Bentuk Bulat",
+                "media_url": "content-images/images/20210712/00a2e0763cd3ae9ab62cace5336a95af.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Rolling Pin",
+                "media_url": "content-images/images/20210712/a546bbf35515af4b7145d8be560b85a3.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

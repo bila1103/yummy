@@ -1,0 +1,201 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "rHjCVQkC7r5akHg13R-uJg==",
+        "title": "Sandwich for Diet",
+        "slug": "sandwich-for-diet",
+        "cover_url": "content-images\/images\/20250515\/so5WMvTnJ5SLsJV5MGF7OZMYPK92s5pA-31373437333235363737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250515\/so5WMvTnJ5SLsJV5MGF7OZMYPK92s5pA-31373437333235363737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Penggunaan telur bisa di ganti dengan daging dada ayam yang di rebus dan di suwir-suwir ya bund.",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 2,
+        "serving_max": 4,
+        "release_date": 1747651140,
+        "updated_date": 1747651225,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 5,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250515\/so5WMvTnJ5SLsJV5MGF7OZMYPK92s5pA-31373437333235363737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/eaJhaPvfoh4Tmr5w6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Rebus telur sampai matang. Lalu kupas",
+                "image_url": "content-images\/images\/20250212\/qwtTAHcOX55zjb6Nvn4Ux6VtBWmPruVu-31373339333135333331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250212\/qwtTAHcOX55zjb6Nvn4Ux6VtBWmPruVu-31373339333135333331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Siapkan wadah, masukan telur dan mayonaise wijen, lalu hancurkan.",
+                "image_url": "content-images\/images\/20250515\/qEwiT2HLBUWBvV5rvp4x5JVEbzwePDla-31373437333235373234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/qEwiT2HLBUWBvV5rvp4x5JVEbzwePDla-31373437333235373234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukan tomat lalu campur kembali. Sisihkan",
+                "image_url": "content-images\/images\/20250515\/oeqpkw9oXmwL6B6YuqizuauN6xYoD11o-31373437333235373439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/oeqpkw9oXmwL6B6YuqizuauN6xYoD11o-31373437333235373439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Panggang roti sampai agak garing atau sesuai selera.",
+                "image_url": "content-images\/images\/20250515\/w31tYJzb8QVWbdRxzIVKiTqkBzU50UF9-31373437333235373737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/w31tYJzb8QVWbdRxzIVKiTqkBzU50UF9-31373437333235373737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Letakan roti, susun telur di atasnya. Tambahkan selada, lalu tumpuk dengan roti lagi.",
+                "image_url": "content-images\/images\/20250515\/EZBKw1fjdCHPuYBpcyNvD3mLDcFxt9tn-31373437333235383037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/EZBKw1fjdCHPuYBpcyNvD3mLDcFxt9tn-31373437333235383037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Agar tampilannya lebih rapi, bungkus dengan plastik wrap khusus makanan.",
+                "image_url": "content-images\/images\/20250515\/MPGm7vZujqbZEa4hyjkgzxyBk2oKhlNL-31373437333235393934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/MPGm7vZujqbZEa4hyjkgzxyBk2oKhlNL-31373437333235393934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "Jc3z7OQqbXF-iBXoiQkBZQ==",
+                "name": "yummy tips",
+                "slug": "yummy-tips"
+            },
+            {
+                "id": "PnKlJFJzpnyBiz5TatWYnw==",
+                "name": "Makanan Diet",
+                "slug": "makanan-diet"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "29fKVyfCA5GKvNC6KRVBfQ==",
+                "name": "Mayonaise",
+                "slug": "mayonaise"
+            },
+            {
+                "id": "Xz4TmzEflGVjKxn-DJebKg==",
+                "name": "Roti",
+                "slug": "roti"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "cTVwHZu9hs10FSayqW_PYw==",
+            "uuid": "2e681345-10c7-421b-8d60-7a7b2fc7f849",
+            "username": "itz-nia",
+            "name": "Andara Derandra",
+            "avatar": "content-images\/images\/20230618\/Bb1hh1TApz4IdYW550PJgzunf5lsEfoy-31363837303437303333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "2 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 lembar roti gandum. Buang kulitnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Mayonaise wijen sangrai",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Selada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah tomat, buang bijinya. Potong kotak kotak.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

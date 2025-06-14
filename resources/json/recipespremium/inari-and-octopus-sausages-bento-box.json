@@ -1,0 +1,478 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "8usGNBykVgkK0jizTdc1rw==",
+        "title": "Inari And Octopus Sausages Bento Box",
+        "slug": "inari-and-octopus-sausages-bento-box",
+        "cover_url": "content-images/images/20220525/3a22ea17b4d43d9915eb65082281d00f.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220525/3a22ea17b4d43d9915eb65082281d00f.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Bekal bento dengan berbagai karakter yang dibuat dari bahan makanan.",
+        "rating": 5,
+        "video_url": "content-videos/video/20220525/21b72e99f5cdb772c3cad8412aad12a0.mp4",
+        "price": 40000,
+        "price_premium": 5000,
+        "calories": "2857,7 Kj",
+        "is_cvc": false,
+        "cooking_time": 40,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1653465600,
+        "updated_date": 1653883300,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 5,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 20,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images/images/20220525/3a22ea17b4d43d9915eb65082281d00f.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/Qc89LdocVNQ5wzHRA",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Dalam mangkuk berisi telur, beri garam dan lada. Lalu kocok hingga merata. Dengan teflon, goreng telur sedikit demi sedikit menggunakan sedikit minyak. Ketika bagian bawah sudah kering, gulung sampai ujung teflon, masukkan kembali telur, masak, dan gulung kembali hingga campuran telur sisa setengah. Letakkan keju, dan smoked beef, lalu gulung dan masak dan gulung hingga adonan telur habis. Angkat lalu sisihkan dan potong-potong.",
+                "image_url": "content-images/images/20220525/2df50f0874088f81daf1566614fe9af1.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220525/2df50f0874088f81daf1566614fe9af1.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Goreng sosis dengan sedikit minyak hingga semua sisinya matang.",
+                "image_url": "content-images/images/20220525/de9b19d035fc2ce30c234c14ec78ceba.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220525/de9b19d035fc2ce30c234c14ec78ceba.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "K1oEh7lTvTgrV0j6QfiU6g==",
+                "name": "Ide Bekal",
+                "slug": "ide-bekal"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "gNrR88sMxkuEF_74rCiJ1g==",
+                "name": "Daging Sapi",
+                "slug": "daging-sapi"
+            },
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "Opko9OFPSqnKtt6n3eH7Eg==",
+                "name": "Keju",
+                "slug": "keju"
+            },
+            {
+                "id": "CtwzKFqwt2hHez6OjZb2bw==",
+                "name": "Lada",
+                "slug": "lada"
+            },
+            {
+                "id": "irisT0BLKk4-M6scPYY77w==",
+                "name": "Minyak Wijen",
+                "slug": "minyak-wijen"
+            },
+            {
+                "id": "vggey1PfDOriqBpZA7_LRw==",
+                "name": "Nasi",
+                "slug": "nasi"
+            },
+            {
+                "id": "b6TOD1PW8sdLR97DXHhPuw==",
+                "name": "Sosis",
+                "slug": "sosis"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "040a8a10-07c2-4d05-9319-773e5e16c23c",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "4 telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20211025/390c39b995097e5b8eeb8b11e54a3dd6.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr parutan keju",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/k0bN7n",
+                        "media_url": "content-images/images/20211026/be99dfda38b453e651962ab67c99211c.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daging sapi asap",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqDam",
+                        "media_url": "content-images/images/20211026/5d3d8154f169659321ca0300f7c5cdfd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt lada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbok5",
+                        "media_url": "content-images/images/20210805/1bc723e6b42febeb800bb2d382500162.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Minyak",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/JzQZrR",
+                        "media_url": "content-images/images/20210712/fcb648cc17d6eb1c287f3c46691967d4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 sosis, potong bagian bawah sosis hingga membentuk seperti kaki gurita",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NB5N",
+                        "media_url": "content-images/images/20210712/84d3d1396829d1a835dfbd7e7a84742a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 inari atau kulit tahu, potong menjadi 2 bagian per inari membentuk segitiga",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqD3b",
+                        "media_url": "content-images/images/20220525/724741f67fcfd247633e22fc0598f7d3.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300 gr nasi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/R5aEP9",
+                        "media_url": "content-images/images/20210712/42e3cbeafc14a5fd07f418c02e8be46a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20211025/7a572e1883391c73701f6d6d766bd4dd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt minyak wiijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/JzQZrR",
+                        "media_url": "content-images/images/20211026/b493aca0e820d71b71f0ee67dcdd11a2.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": " Bahan Pelengkap",
+                "ingredients": [
+                    {
+                        "description": "Nori sushi, potong membentuk mata dan mulut",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/nLbVk6",
+                        "media_url": "content-images/images/20220525/f22b292e792e8f5a138d33abb1853935.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Selada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/B0A1qx",
+                        "media_url": "content-images/images/20211026/6b9a1c30625fa712c77414a84a926898.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Tomat cherry",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/EKVWkQ",
+                        "media_url": "content-images/images/20211025/89ae57eebc108b24d0f69c144d2b718b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Daging sapi asap, potong menjadi lingkaran kecil untuk bagian pipi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqDam",
+                        "media_url": "content-images/images/20211026/5d3d8154f169659321ca0300f7c5cdfd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Keju slice, potong lingkaran untuk menjadi mata octopus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/k0bN7n",
+                        "media_url": "content-images/images/20211025/e8cf23138d91cc8253ce3b4a96d63d6a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Wortel, iris tipis dan bentuk menjadi bunga",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLxR1",
+                        "media_url": "content-images/images/20211026/5c614dc4250ff2adf67d0a48f0f577b6.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Bento Box",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Teflon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin A (\u00b5g)",
+                "slug": "vitamin-a-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": false
+            },
+            {
+                "name": "Asam Folat (\u00b5g)",
+                "slug": "asam-folat-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin C (mg)",
+                "slug": "vutamin-c-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [],
+        "cooking_tool": [
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Telenan - Bentuk Bulat",
+                "media_url": "content-images/images/20210712/00a2e0763cd3ae9ab62cace5336a95af.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Garpu",
+                "media_url": "content-images/images/20220512/ac959c7b5c490ecf4ab95180a5847063.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Spatula",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Centong Nasi",
+                "media_url": "content-images/images/20220525/eaa3c93afbd68f45bb956b205fb2ae11.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Bento Box",
+                "media_url": "content-images/images/20220525/7c84ccc8de989871e01fb373ac471f9c.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

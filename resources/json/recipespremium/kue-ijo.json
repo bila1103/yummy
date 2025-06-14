@@ -1,0 +1,311 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "R38LiIKnwoVwGC2KbEb-eg==",
+        "title": "Kue Ijo",
+        "slug": "kue-ijo",
+        "cover_url": "content-images/images/20210908/a28ce890f7c1cb91ba36ddb9b654de8d.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20210908/a28ce890f7c1cb91ba36ddb9b654de8d.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20210906/0278acd3ed8752ada6e044424b4950db.mp4",
+        "price": 45000,
+        "price_premium": 5000,
+        "calories": "402,4 Kj",
+        "is_cvc": false,
+        "cooking_time": 35,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1631108460,
+        "updated_date": 1668520419,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.420000076293945,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 6,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 12,
+        "recook_count": 1,
+        "original_image": "content-images/images/20210908/a28ce890f7c1cb91ba36ddb9b654de8d.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/RVcgXHQebrvjtFid6",
+        "category": {
+            "name": "Makanan Penutup",
+            "slug": "makanan-penutup"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Campurkan seluruh bahan kering, aduk hingga merata.",
+                "image_url": "content-images/images/20210908/1f8cda84304072dfa980e023d8b92259.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20210908/1f8cda84304072dfa980e023d8b92259.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan air jus pandan dan aduk kembali hingga rata.",
+                "image_url": "content-images/images/20210908/4c04713c05cafbf3f3f7eb07a4d72e43.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20210908/4c04713c05cafbf3f3f7eb07a4d72e43.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "fZ8FKumT2zyDkTyDZtMSTw==",
+                "name": "Kue Tradisional",
+                "slug": "kue-tradisional"
+            },
+            {
+                "id": "ge5w_o4oqIjU0GrHP1wi7w==",
+                "name": "kue manis",
+                "slug": "kue-manis"
+            },
+            {
+                "id": "76WVWGtktZnQpvHOfoQAoA==",
+                "name": "kreasi kue",
+                "slug": "kreasi-kue"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "XoOQljKTIsthw9SvhP1iMQ==",
+                "name": "30-60m",
+                "slug": "30-60m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "XEHoR0n-0Ar-2K4Q8RVw4w==",
+                "name": "Daun Pandan",
+                "slug": "daun-pandan"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "cR2C8zI6gmX_XXrAs_OXuw==",
+                "name": "Kelapa",
+                "slug": "kelapa"
+            },
+            {
+                "id": "4k8pCLcc7BX1HDeJPutX8A==",
+                "name": "Tepung Tapioka",
+                "slug": "tepung-tapioka"
+            },
+            {
+                "id": "jZcHJrRJTlQwfLNj87Gw3g==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu-1"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "120 gr Tepung Tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/LXrWjo",
+                        "media_url": "content-images/images/20220324/e05966e36432a17b14ba647eb951c15a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "120 gr Tepung Terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBab",
+                        "media_url": "content-images/images/20220324/99e46586f7e9ecc98c34316624aca579.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "120 gr Gula Pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NB1N",
+                        "media_url": "content-images/images/20220324/01489e2ed6702c16a027c38cd908b7c9.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "480 ml Air Jus Pandan ( 10 Lembar daun pandan ukuran sedang, di blender dan di saring)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/4PKqk3",
+                        "media_url": "content-images/images/20220324/125de7824f95a551227acbe19a542dba.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1/2 sdt Garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220324/716657588c629059d747aa36d3dd6718.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr kelapa parut",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBjvr",
+                        "media_url": "content-images/images/20220324/9f751b7a9e0f4226521ebd75e7fe617d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "0tBGyOMsfeIhN8hMeailDiqjXMrjFDQa",
+                "created_at": 1668520518,
+                "image_url": "content-images/images/20221115/nWNHAAmZE0nxwb5OVVoTLELk9nFBp7Cl-31363638343935333239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak Banget",
+                "description": "terimakasih resepnya chef Yummy \ud83d\ude4f\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "ycCR0D6AV1aaMpMK9I2iDw==",
+                    "username": "heny-rosita",
+                    "name": "Heny Rosita",
+                    "avatar": "content-images/images/20220815/luSkMV5XbmQDxtTqbZpCxhev5ozSQ6rI-31363630353330363737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Kue Ijo",
+                    "slug": "kue-ijo",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Spatula Kue",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Kukusan",
+                "media_url": "content-images/images/20211105/6827212ddc1524867b5d11ad5e213769.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

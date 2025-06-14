@@ -1,0 +1,250 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "U0pGZYjNbRy32PiN5VZ9NQ==",
+        "title": "Bingka Singkong Buah Campur",
+        "slug": "bingka-singkong-buah-campur",
+        "cover_url": "content-images\/images\/20250119\/f8zNcrvqhAtqEuImintH0VbQSBXHjRQR-31373337323635303738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250119\/f8zNcrvqhAtqEuImintH0VbQSBXHjRQR-31373337323635303738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Bingka singkong dengan tambahan mix peel serta kismis enak dan sederhana favorite keluarga.\r\n\r\nUntuk: 28 kue bingka singkong buah campur.",
+        "rating": 5,
+        "video_url": "",
+        "price": 30000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 14,
+        "serving_max": 28,
+        "release_date": 1746629400,
+        "updated_date": 1746629549,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 12,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250119\/f8zNcrvqhAtqEuImintH0VbQSBXHjRQR-31373337323635303738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/5s88rVMBJcQeEpVUA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Parut singkong lalu peras, biarkan airnya mengendap lalu ambil pati singkongnya, campurkan ke singkong parut, aduk rata.",
+                "image_url": "content-images\/images\/20250119\/tDTQWWEzOt9ZeJAg5rgL7TKS4Kggk5qx-31373337323635303939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250119\/tDTQWWEzOt9ZeJAg5rgL7TKS4Kggk5qx-31373337323635303939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan gula pasir, garam halus, vanili bubuk, tepung custard, susu bubuk full cream, agar-agar bubuk, aduk rata.",
+                "image_url": "content-images\/images\/20250119\/vSyi0Xz7U6qAmpKNV0XRbrZZrjOgc4Me-31373337323635323531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250119\/vSyi0Xz7U6qAmpKNV0XRbrZZrjOgc4Me-31373337323635323531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan telur ayam, santan kelapa kental, margarin cair, kismis, buah campur (mix peel).",
+                "image_url": "content-images\/images\/20250119\/ZDMpOXct6ZiN2v1xiUMsfZra0rFSrQtU-31373337323635333230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250119\/ZDMpOXct6ZiN2v1xiUMsfZra0rFSrQtU-31373337323635333230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Aduk rata adonan.",
+                "image_url": "content-images\/images\/20250119\/vgVzey2hZyq5uiWP5BjJNFdinXLiSVtz-31373337323635333338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250119\/vgVzey2hZyq5uiWP5BjJNFdinXLiSVtz-31373337323635333338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Alas cetakan kue lumpur dengan plat alas tatakan kompor disini aku pakai loyang kue kering yang sudah ngga terpakai. Panaskan cetakan kue lumpur dengan api sedang selama 3 menit lalu oles dengan minyak sayur dan panaskan kembali jadikan api sedang menjadi api sedang cenderung kecil lalu tuangkan adonan, tutup dan masak hingga matang. Sajikan!.",
+                "image_url": "content-images\/images\/20250119\/V0fpgyUPnTMC6cmhAWEGfJ340ybAsrBM-31373337323635333438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250119\/V0fpgyUPnTMC6cmhAWEGfJ340ybAsrBM-31373337323635333438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "OVn1FXRZPmVFgDCUzl3xLw==",
+                "name": "Santan",
+                "slug": "santan"
+            },
+            {
+                "id": "tqfDf2P1f7HSkHXKPYTEOQ==",
+                "name": "Singkong",
+                "slug": "singkong"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "lvCw6JExPnHogfdrga4rrw==",
+            "uuid": "79619b5b-6216-4987-a0e1-98d58c7e91e5",
+            "username": "cloverdandelion17",
+            "name": "Rinna Ramadhayanty Panjaitan",
+            "avatar": "content-images\/images\/20230303\/78KT5JSeXEuZNDt32flQ0rwtQos94ga5-31363737383332363734d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 kg singkong parut, berat setelah diperas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr buah kering campur (mix peel)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr kismis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr tepung custard",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "90 gr susu bubuk full cream",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 gr agar-agar bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt vanili bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2\u00bd sdt garam halus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 btr telur ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "400 ml santan kelapa kental",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gr margarin, lelehkan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

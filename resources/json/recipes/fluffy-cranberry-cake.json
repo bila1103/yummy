@@ -1,0 +1,223 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "ISJTb3wwTh8dd-qOBg7OPg==",
+        "title": "Fluffy Cranberry Cake",
+        "slug": "fluffy-cranberry-cake",
+        "cover_url": "content-images\/images\/20250428\/lxU6RWBoAtIoTT29fJTJVA5ytEPi6F6Q-31373435383433333632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250428\/lxU6RWBoAtIoTT29fJTJVA5ytEPi6F6Q-31373435383433333632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Resep cake enak dan lembut. Bisa di praktek di rumah ya teman",
+        "rating": 5,
+        "video_url": "",
+        "price": 53000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 5,
+        "serving_max": 6,
+        "release_date": 1745921700,
+        "updated_date": 1745921749,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 6,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250428\/lxU6RWBoAtIoTT29fJTJVA5ytEPi6F6Q-31373435383433333632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/R5LY9eojAZ2sNxBk6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Campurkan 3 butir kuning telur, 35 ml susu cair, 20 gr minyak sayur, dan 65 gr tepung terigu protein rendah ke dalam satu mangkuk. Aduk rata hingga adonan halus dan tercampur sempurna",
+                "image_url": "content-images\/images\/20250428\/BEtujtihUzaIBb3GdisghD4W6qEA2qbq-31373435383433373435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250428\/BEtujtihUzaIBb3GdisghD4W6qEA2qbq-31373435383433373435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan 1 sdt air perasan lemon ke dalam putih telur.  Kocok putih telur hingga berbuih besar. Tambahkan gula sedikit demi sedikit sambil terus dikocok hingga mencapai soft peak",
+                "image_url": "content-images\/images\/20250428\/qZqr45qd1eK9m7i0iKMYDWnwTvS8kvG6-31373435383433373630d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250428\/qZqr45qd1eK9m7i0iKMYDWnwTvS8kvG6-31373435383433373630d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Campurkan adonan kuning telur dengan adonan putih telur, aduk hingga rata",
+                "image_url": "content-images\/images\/20250428\/GUZhzdv0lFPu5LUw0gPn118cw4uPT4I5-31373435383433373930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250428\/GUZhzdv0lFPu5LUw0gPn118cw4uPT4I5-31373435383433373930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan 15 gr cranberry kering ke dalam adonan, aduk rata",
+                "image_url": "content-images\/images\/20250428\/HcmXeaTCse9V8M9FAiI1OSHmDtCLGSnA-31373435383433383133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250428\/HcmXeaTCse9V8M9FAiI1OSHmDtCLGSnA-31373435383433383133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tuang adonan ke dalam loyang yang sudah dialasi baking paper atau dioles tipis minyak. Ketuk loyang perlahan untuk menghilangkan gelembung udara",
+                "image_url": "content-images\/images\/20250428\/vqELI8VllOxQqjDzXhvtKO1fMOZDbOU2-31373435383433383539d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250428\/vqELI8VllOxQqjDzXhvtKO1fMOZDbOU2-31373435383433383539d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Taburkan sisa cranberry di atas permukaan adonan. Tutup dengan plastik wrap",
+                "image_url": "content-images\/images\/20250428\/Uz5pifAJHpDuETq1doS5dHLKvIazMThs-31373435383433383631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250428\/Uz5pifAJHpDuETq1doS5dHLKvIazMThs-31373435383433383631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Kukus adonan dalam kukusan dengan air dingin, kukus selama 25 menit, lalu lanjutkan dengan mengukus dalam kondisi tutup terbuka selama 5 menit agar permukaan kue lebih kering",
+                "image_url": "content-images\/images\/20250428\/zlKY4A6gCxD5iBih8cLtRelTHlliCWVK-31373435383433383835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250428\/zlKY4A6gCxD5iBih8cLtRelTHlliCWVK-31373435383433383835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "y4OXVZVeikyNP7O3uWPS0g==",
+                "name": "Lemon",
+                "slug": "lemon"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "h_y3vGnoKORWZVSJEXpwzw==",
+            "uuid": "4228ab6a-43b8-4e63-9528-88cb57fbbbda",
+            "username": "elleanor-emma",
+            "name": "Elleanor emma",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "35 ml susu cair",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "15 gr cranberry kering",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "65 gr tepung terigu protein rendah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "20 gr minyak sayur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt air lemon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

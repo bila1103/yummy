@@ -1,0 +1,233 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "J8NANaOooL2iltkH4rVGwg==",
+        "title": "Spicy Tofu Pork Hotpot",
+        "slug": "spicy-tofu-pork-hotpot",
+        "cover_url": "content-images\/images\/20250422\/99jtfhXLl0wS2KrebtMtRcMPKOXfV7Jv-31373435323934343636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250422\/99jtfhXLl0wS2KrebtMtRcMPKOXfV7Jv-31373435323934343636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Siang sobat yummy, aku kali ini bagi resep masakan yang diajarkan teman ku",
+        "rating": 5,
+        "video_url": "",
+        "price": 48000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 2,
+        "serving_max": 2,
+        "release_date": 1745401500,
+        "updated_date": 1745401595,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250422\/99jtfhXLl0wS2KrebtMtRcMPKOXfV7Jv-31373435323934343636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/RqooxyKLyQD66fc87",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan 200 gr daging babi iris tipis ke dalam mangkuk, tambahkan 1 sdm kecap asin, 1 sdm minyak tiram, dan 1 sdm tepung maizena. Aduk rata dan diamkan selama 10 menit agar bumbu meresap",
+                "image_url": "content-images\/images\/20250422\/OBnvUBba2WeqM2IyPBCpgfw7OmxBZHEd-31373435323934353236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/OBnvUBba2WeqM2IyPBCpgfw7OmxBZHEd-31373435323934353236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Panaskan 1 sdm minyak goreng di dalam panci, tumis 15 gr daun bawang dan 1 sdm bubuk cabai hingga harum",
+                "image_url": "content-images\/images\/20250422\/YeAgll862GCdhM7Q9tXAQFKwzgoFDquO-31373435323934343930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/YeAgll862GCdhM7Q9tXAQFKwzgoFDquO-31373435323934343930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tuang 1000 ml air ke dalam panci, biarkan mendidih. Tambahkan 200 gr tahu, 100 gr tauge, dan 60 gr rumput laut. Rebus selama 3 menit",
+                "image_url": "content-images\/images\/20250422\/b0ihDWaOI7x9GhPLXvKddM0fLb8QRZp5-31373435323934353437d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/b0ihDWaOI7x9GhPLXvKddM0fLb8QRZp5-31373435323934353437d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan daging babi yang sudah dimarinasi ke dalam panci, aduk perlahan hingga daging berubah warna dan matang merata",
+                "image_url": "content-images\/images\/20250422\/sv2ME9bwH2bRk6je02pULh0zGjxO5QGh-31373435323934353636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/sv2ME9bwH2bRk6je02pULh0zGjxO5QGh-31373435323934353636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tambahkan 1 sdm kecap asin dan 1 sdt garam, aduk rata dan cicipi rasanya",
+                "image_url": "content-images\/images\/20250422\/0LaS4rLUdoHaMzxTFKzctj6330DL2Tsj-31373435323934363234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/0LaS4rLUdoHaMzxTFKzctj6330DL2Tsj-31373435323934363234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Taburi 10 gr daun bawang iris halus di atasnya sebagai pelengkap",
+                "image_url": "content-images\/images\/20250422\/nVCrgEmRRBftdbloPoB0ogb0RTa5HH90-31373435323934353931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/nVCrgEmRRBftdbloPoB0ogb0RTa5HH90-31373435323934353931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "rKLarsncTdNxdE1_KEkuVA==",
+                "name": "Daging Giling",
+                "slug": "daging-giling"
+            },
+            {
+                "id": "eUDumVCs5n3IHcFz7LWG0A==",
+                "name": "Tahu",
+                "slug": "tahu"
+            },
+            {
+                "id": "6A8R-vHQlxC7XUPmbB-Q1Q==",
+                "name": "Tauge",
+                "slug": "tauge"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Contains Pork",
+                "slug": "contains-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "iteos7dODoWKCUausNKa1g==",
+            "uuid": "96a95408-f0ea-43ce-9d02-5461748be125",
+            "username": "rian-wahida",
+            "name": "Rian Wahida",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "200 gr daging babi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 gr tahu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr tauge",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "60 gr rumput laut segar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm minyak tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm tepung maizena",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "15 gr daun bawang iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm bubuk cabai",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

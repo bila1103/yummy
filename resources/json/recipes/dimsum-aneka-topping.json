@@ -1,0 +1,306 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "CfBYB4v9Irp6WKxgVoPFqw==",
+        "title": "Dimsum Aneka Topping",
+        "slug": "dimsum-aneka-topping",
+        "cover_url": "content-images\/images\/20250220\/BkiedWeakCYlTDDXQ1Ow7wVuRO5IPxCc-31373430303133363538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250220\/BkiedWeakCYlTDDXQ1Ow7wVuRO5IPxCc-31373430303133363538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Simple but yummy!",
+        "rating": 5,
+        "video_url": "",
+        "price": 30000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 10,
+        "serving_max": 12,
+        "release_date": 1746440340,
+        "updated_date": 1746440600,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 13,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250220\/BkiedWeakCYlTDDXQ1Ow7wVuRO5IPxCc-31373430303133363538d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/MSjCvjxeC97aBBxq7",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Siapkan topping dan potong kecil, kemudian sisihkan.",
+                "image_url": "content-images\/images\/20250503\/YDC75BWKPLZjJit7ccFuIkpNqkBQUvtx-31373436323536333939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/YDC75BWKPLZjJit7ccFuIkpNqkBQUvtx-31373436323536333939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan ayam dan udang ke dalam chopper dan haluskan.",
+                "image_url": "content-images\/images\/20250503\/iDKgcmR1aGhhnMpddQbYpz0zdToLbmjq-31373436323536333635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/iDKgcmR1aGhhnMpddQbYpz0zdToLbmjq-31373436323536333635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan bawang putih bubuk, saus tiram, kecap asin, minyak wijen, dan kaldu jamur. Kemudian, blender sebentar hingga cukup rata.",
+                "image_url": "content-images\/images\/20250503\/MlxHLqonQa7WsoeChL9GyY3uqZrzNSad-31373436323536333733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/MlxHLqonQa7WsoeChL9GyY3uqZrzNSad-31373436323536333733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan tapioka ke dalam chopper dan aduk rata.",
+                "image_url": "content-images\/images\/20250503\/ym2fV9ImzOmzAB3v8udH4nrPfNoR9MZP-31373436323536333836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/ym2fV9ImzOmzAB3v8udH4nrPfNoR9MZP-31373436323536333836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Aduk rata menggunakan spatula.",
+                "image_url": "content-images\/images\/20250503\/VVkHoGUhC6LlFVu405ngZb0qAkccBzc1-31373436323536333932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/VVkHoGUhC6LlFVu405ngZb0qAkccBzc1-31373436323536333932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Ambil kulit dimsum, tambahkan adonan di dalam kulit pangsit, lalu tutup rapat.",
+                "image_url": "content-images\/images\/20250503\/dKROAjIACuYW2B2er7WnuhAsBAfV36x3-31373436323536343231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/dKROAjIACuYW2B2er7WnuhAsBAfV36x3-31373436323536343231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Letakkan dimsum di atas kukusan, tambahkan topping di atas dimsum. Kemudian, kukus dimsum 25 menit dan siap disajikan!",
+                "image_url": "content-images\/images\/20250503\/49aTZ9gaGFxiM3CwfPAdSHVFDdtn1ocH-31373436323536343236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/49aTZ9gaGFxiM3CwfPAdSHVFDdtn1ocH-31373436323536343236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Makanan Chinese",
+                "slug": "makanan-chinese"
+            },
+            {
+                "id": "DstFTETMX0lZXRU9ClmTlA==",
+                "name": "Makanan Ringan",
+                "slug": "makanan-ringan"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            },
+            {
+                "id": "14leuR2NXdp6BeIGEjBq-Q==",
+                "name": "cemilan kekinian",
+                "slug": "cemilan-kekinian"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "4k8pCLcc7BX1HDeJPutX8A==",
+                "name": "Tepung Tapioka",
+                "slug": "tepung-tapioka"
+            },
+            {
+                "id": "e4TpRRTQlvjlFZfP2dafrA==",
+                "name": "Udang",
+                "slug": "udang"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "uJ3aCOdjw7rQdXWlO1hhRQ==",
+            "uuid": "b4cd4067-dbe7-41be-90aa-9420ed267bd2",
+            "username": "laila-dawud",
+            "name": "Laila Dawud ",
+            "avatar": "content-images\/images\/20230509\/yjhfJFWfj8BBhfFz9Ww2a2Vd6ovpPIU9-31363833363132373531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "150 gr udang kupas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr daging ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt bawang putih bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm kecap asin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm minyak wijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kaldu jamur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gr tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Topping :",
+                "ingredients": [
+                    {
+                        "description": "Sosis secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Brokoli secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Mozarella secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Wortel secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Cabai rawit secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

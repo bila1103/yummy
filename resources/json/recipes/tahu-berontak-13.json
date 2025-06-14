@@ -1,0 +1,341 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "TUNa1w96kv4eLwEEaxHV8Q==",
+        "title": "Tahu Berontak",
+        "slug": "tahu-berontak-13",
+        "cover_url": "content-images\/images\/20250315\/LxrJVTyLMmIpVsJVjmeZnVUnl1YYXtkg-31373432303436393039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250315\/LxrJVTyLMmIpVsJVjmeZnVUnl1YYXtkg-31373432303436393039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Tahu berontak berisikan sayuran, digoreng lagi memakai tepung. \r\n\r\nCrispy dan juicy, sangat enak dan mudah.",
+        "rating": 5,
+        "video_url": "",
+        "price": 25000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 1,
+        "serving_max": 5,
+        "release_date": 1745321760,
+        "updated_date": 1745321923,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 16,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250315\/LxrJVTyLMmIpVsJVjmeZnVUnl1YYXtkg-31373432303436393039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/8CAJ17wJc69vNc4C7",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Blender bumbu halus. Panaskan minyak goreng, lalu masukkan bumbu halus. Tumis hingga harum.",
+                "image_url": "content-images\/images\/20250312\/4E5GPFBVVTiLTneGPayxNrhtQyo4nEkN-31373431373430303330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250312\/4E5GPFBVVTiLTneGPayxNrhtQyo4nEkN-31373431373430303330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan wortel.",
+                "image_url": "content-images\/images\/20250312\/7KwBHPIrGJ43aZxHljMI3Uu3zlRe0s9W-31373431373430303333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250312\/7KwBHPIrGJ43aZxHljMI3Uu3zlRe0s9W-31373431373430303333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan air. Biarkan hingga wortel setengah matang.",
+                "image_url": "content-images\/images\/20250312\/lQC3LIh71kAY1XCesMrOTPJXJWwmBDxg-31373431373430303337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250312\/lQC3LIh71kAY1XCesMrOTPJXJWwmBDxg-31373431373430303337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan kol.",
+                "image_url": "content-images\/images\/20250312\/SkiVrIYQEn3q1YzC8oFP38ext9eiIL0J-31373431373430303433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250312\/SkiVrIYQEn3q1YzC8oFP38ext9eiIL0J-31373431373430303433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan taoge.",
+                "image_url": "content-images\/images\/20250312\/LsMYlmyksxNe84ab5QaEnbRfcHb38n96-31373431373430303439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250312\/LsMYlmyksxNe84ab5QaEnbRfcHb38n96-31373431373430303439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Seasoning dengan kaldu jamur, garam, gula pasir dan merica bubuk. Aduk hingga rata.",
+                "image_url": "content-images\/images\/20250312\/QGCCO5hq4fgcQgXcV9909VMueODbEvm6-31373431373430303534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250312\/QGCCO5hq4fgcQgXcV9909VMueODbEvm6-31373431373430303534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukkan seledri dan daun pre.",
+                "image_url": "content-images\/images\/20250312\/7P78Oc1REfZv7CgiyxLQHFEl4eqzix2j-31373431373430303632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250312\/7P78Oc1REfZv7CgiyxLQHFEl4eqzix2j-31373431373430303632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Campur aduk dan biarkan hingga matang.",
+                "image_url": "content-images\/images\/20250312\/Fp1vaJ9fQkYLojDSfqDsmU6I9VB1t6Kx-31373431373430303636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250312\/Fp1vaJ9fQkYLojDSfqDsmU6I9VB1t6Kx-31373431373430303636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Belah tahu, lalu masukkan isian sayur.",
+                "image_url": "content-images\/images\/20250314\/qmiSM07piiBQh9jvdAZ16BCMjuxqJoXB-31373431393137393530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250314\/qmiSM07piiBQh9jvdAZ16BCMjuxqJoXB-31373431393137393530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 10",
+                "text": "Panaskan minyak goreng. Campur semua bahan tepung. Setelah minyak goreng panas, masukkan tahu ke dalam adonan tepung lalu goreng hingga matang.",
+                "image_url": "content-images\/images\/20250314\/TYhWJiZHA0nEww27V2WqkTaNdUN6qW49-31373431393137393831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 10,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250314\/TYhWJiZHA0nEww27V2WqkTaNdUN6qW49-31373431393137393831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "WpXdBor_sTS0zilbhSEJvw==",
+                "name": "cemilan enak",
+                "slug": "cemilan-enak"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "owSG5O0qm0rSUfwmznwmng==",
+                "name": "Kubis",
+                "slug": "kubis"
+            },
+            {
+                "id": "2hRXFoITKo_F8ODaNvTsJw==",
+                "name": "Saus Tiram",
+                "slug": "saus-tiram"
+            },
+            {
+                "id": "eUDumVCs5n3IHcFz7LWG0A==",
+                "name": "Tahu",
+                "slug": "tahu"
+            },
+            {
+                "id": "6A8R-vHQlxC7XUPmbB-Q1Q==",
+                "name": "Tauge",
+                "slug": "tauge"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "c3kTV0wAdP6aoqG7jQqx2w==",
+            "uuid": "065ea9af-e421-4c25-ad1d-e1cd4d24be90",
+            "username": "galia",
+            "name": "Galia Salfitri",
+            "avatar": "content-images\/images\/20200425\/lAMa4t2fwF7mvq917Kx8gs6726ATcc5L-31353837383133383736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "200 gram taoge",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 buah wortel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 lembar kol ( kubis )",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang seledri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang daun pre",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt kaldu jamur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1,5 sdt gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt merica bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "20 buah tahu pong",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu halus",
+                "ingredients": [
+                    {
+                        "description": "4 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "8 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sedikit minyak goreng untuk menumis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

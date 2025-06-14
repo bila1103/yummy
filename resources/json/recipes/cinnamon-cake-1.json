@@ -1,0 +1,305 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "e4j9QEmahadLzVpSQ2iyfQ==",
+        "title": "Cinnamon Cake",
+        "slug": "cinnamon-cake-1",
+        "cover_url": "content-images\/images\/20240323\/78bKPydjTc5lNXbVjJnmnW0SPsx6EINL-31373131313537363639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20240323\/78bKPydjTc5lNXbVjJnmnW0SPsx6EINL-31373131313537363639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Karena suka banget aroma kayu manis, jadilah ide buat kolaborasi rasa cake dan kayu manis ini.",
+        "rating": 5,
+        "video_url": "",
+        "price": 38000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 40,
+        "serving_min": 10,
+        "serving_max": 15,
+        "release_date": 1744810080,
+        "updated_date": 1744810585,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 10,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20240323\/78bKPydjTc5lNXbVjJnmnW0SPsx6EINL-31373131313537363639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/RpWC6raXVbjGukQLA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Mixer gula dan mentega atau margarin sampai berwarna pucat.",
+                "image_url": "content-images\/images\/20240323\/IT0uH0PiI5CGJr7hUvF8ihcuTdEsMUPm-31373131313538323239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/IT0uH0PiI5CGJr7hUvF8ihcuTdEsMUPm-31373131313538323239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan telur satu per satu berselang satu menit hingga habis, lalu tambahkan sejumput garam, mixer lagi selama 10 menit hingga kental.",
+                "image_url": "content-images\/images\/20240323\/82nDSt3Qsx4l5L3I8LctzaugFZsypbit-31373131313538323937d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/82nDSt3Qsx4l5L3I8LctzaugFZsypbit-31373131313538323937d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan maizena, soda kue, baking powder, susu bubuk, dan tepung terigu.",
+                "image_url": "content-images\/images\/20240323\/MIEinctcvSJ6BdozOC7gO7Zfa9Y3mdta-31373131313538343339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/MIEinctcvSJ6BdozOC7gO7Zfa9Y3mdta-31373131313538343339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Aduk hingga tercampur.",
+                "image_url": "content-images\/images\/20240323\/r6sLJ8l7F7usxpyyGiwmC4Bzl2EYnwLO-31373131313538353832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/r6sLJ8l7F7usxpyyGiwmC4Bzl2EYnwLO-31373131313538353832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tuang ke loyang kue sebanyak setengah adonan.",
+                "image_url": "content-images\/images\/20240323\/m8mCXWD5SnIICdxd3lDouO39jyjlGNeT-31373131313538363535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/m8mCXWD5SnIICdxd3lDouO39jyjlGNeT-31373131313538363535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tabur palm sugar yang telah dicampurkan dengan bubuk kayu manis.",
+                "image_url": "content-images\/images\/20240323\/SQEMTVclkuLMvhEcbqc7CVHXYVYbotw2-31373131313538373135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/SQEMTVclkuLMvhEcbqc7CVHXYVYbotw2-31373131313538373135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Tuang lagi adonan sisa di atasnya.",
+                "image_url": "content-images\/images\/20240323\/B0CFgLeicPyetgMmAGxyRbaWnUVrjSdE-31373131313538383037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/B0CFgLeicPyetgMmAGxyRbaWnUVrjSdE-31373131313538383037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Aduk dengan menggunakan sumpit.",
+                "image_url": "content-images\/images\/20240323\/T37s6M1utKRGzAOjGrgQ9aHVLeiFu5Sg-31373131313538383431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/T37s6M1utKRGzAOjGrgQ9aHVLeiFu5Sg-31373131313538383431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Panggang selama kurang lebih 30 menit dengan menggunakan api sedang.",
+                "image_url": "content-images\/images\/20240323\/FXb8J20jeWKFQVYXitpaJAuF701G3mOf-31373131313538383735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/FXb8J20jeWKFQVYXitpaJAuF701G3mOf-31373131313538383735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "TD8qrefERcSu9-NiY3DvQA==",
+                "name": "Makanan Kekinian",
+                "slug": "makanan-kekinian"
+            },
+            {
+                "id": "DstFTETMX0lZXRU9ClmTlA==",
+                "name": "Makanan Ringan",
+                "slug": "makanan-ringan"
+            },
+            {
+                "id": "cOYnmjKVWjvISzgTJ9eSyw==",
+                "name": "Makanan Pencuci Mulut",
+                "slug": "makanan-pencuci-mulut"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "cPFDFBvYXvdMy6OLQ4F6Jg==",
+                "name": "Kayu Manis",
+                "slug": "kayu-manis"
+            },
+            {
+                "id": "H2a3gG-NMO2vqBnbonsTyA==",
+                "name": "Margarin",
+                "slug": "margarin"
+            },
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Mentega",
+                "slug": "mentega"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "8eeNWzEojFpN60KRwjv3Yw==",
+            "uuid": "1fcdef7d-a4c8-429a-a244-2f5703e611c3",
+            "username": "bertha-2",
+            "name": "Bertha palunga",
+            "avatar": "content-images\/images\/20220322\/fPSUYuvroOWw67WElIrGtbykaMgMgTLY-31363437393135373631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "200 gr mentega atau margarin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "60 gr palm sugar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 gr tepung terigu protein sedang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm maizena",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm susu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt baking soda",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt baking powder",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sejumput garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

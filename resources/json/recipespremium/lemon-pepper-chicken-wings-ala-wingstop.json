@@ -1,0 +1,589 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "nJLlCI__B_rM7zVq-60MsQ==",
+        "title": "Lemon Pepper Chicken Wings Ala Wingstop",
+        "slug": "lemon-pepper-chicken-wings-ala-wingstop",
+        "cover_url": "content-images/images/20210908/5f799499160da538f0aab4459ade6262.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20210908/5f799499160da538f0aab4459ade6262.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20210906/ec71858feaa36c66ae8ac1569cbd052a.mp4",
+        "price": 50000,
+        "price_premium": 5000,
+        "calories": "1080,2 Kj",
+        "is_cvc": false,
+        "cooking_time": 55,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1631111940,
+        "updated_date": 1658572388,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.590000152587891,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 19,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 34,
+        "recook_count": 6,
+        "original_image": "content-images/images/20210908/5f799499160da538f0aab4459ade6262.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/4M3AZKoxjRQoamWZ6",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Dalam wadah, masukkan sayap ayam, bawang putih, kecap ikan, cuka, 3 sdm tepung terigu, dan air , aduk rata, biarkan selama 30 menit.",
+                "image_url": "content-images/images/20210908/cf13afc19e53eec9c781f74e89fdb05c.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20210908/cf13afc19e53eec9c781f74e89fdb05c.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Dalam wadah terpisah, masukkan sisa tepung terigu, maizena, bawang putih bubuk, dan garam, aduk rata. Balurkan sayap ayam hingga terbalur rata.",
+                "image_url": "content-images/images/20210908/a81af696e8433cb629b165af37f9b174.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20210908/a81af696e8433cb629b165af37f9b174.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "fLy1fBwqZNpc4zKQPmzhvA==",
+                "name": "Ayam goreng",
+                "slug": "ayam-goreng"
+            },
+            {
+                "id": "TD8qrefERcSu9-NiY3DvQA==",
+                "name": "Makanan Kekinian",
+                "slug": "makanan-kekinian"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "XoOQljKTIsthw9SvhP1iMQ==",
+                "name": "30-60m",
+                "slug": "30-60m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "CtwzKFqwt2hHez6OjZb2bw==",
+                "name": "Lada",
+                "slug": "lada"
+            },
+            {
+                "id": "y4OXVZVeikyNP7O3uWPS0g==",
+                "name": "Lemon",
+                "slug": "lemon"
+            },
+            {
+                "id": "4fXFQ2DhETQxP0Iru_aPVA==",
+                "name": "Tepung",
+                "slug": "tepung"
+            },
+            {
+                "id": "Y7u7FDSxNd95soU0OFqofw==",
+                "name": "Tepung Maizena",
+                "slug": "tepung-maizena"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "12 potong sayap ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/75xQZY",
+                        "media_url": "content-images/images/20220324/8731905e34ceeaa7036b04663a4c9280.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 siung bawang putih, cincang halus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20220324/468ddef3e72c47081d01dfdfef77944a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm kecap ikan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/DK1Jjo",
+                        "media_url": "content-images/images/20220324/f53bb7b998a98064f8b3edc50238d6f8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt merica",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Or5ERQ",
+                        "media_url": "content-images/images/20220324/db75c02b359b3019c18578a522c287e1.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd  sdm cuka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/JzQW3v",
+                        "media_url": "content-images/images/20220324/1a3d5d52def6d0f5b3d2c53809c7e59a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220324/3611a118224cbe29519166995bc49a3b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "9 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBab",
+                        "media_url": "content-images/images/20220324/3695e5fba189b17412626576962706ce.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 sdm maizena",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbo9A",
+                        "media_url": "content-images/images/20220324/878326acf7fa87b02b57ecb19f0cecbf.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm bawang putih bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/B0A1rB",
+                        "media_url": "content-images/images/20220324/2d4496bdab40820a1e8d57183913a59d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220324/ba34f89b2558adc884eb5ca1336b5379.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1000 ml minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq1jV",
+                        "media_url": "content-images/images/20220324/30043b2ccc277cc8b847fdf89d749a96.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Lemon Pepper :",
+                "ingredients": [
+                    {
+                        "description": "2 sdm mentega",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/vNbmnd",
+                        "media_url": "content-images/images/20220324/2e967df3db2d0630d98590492eb2f872.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm air perasan lemon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLzgj",
+                        "media_url": "content-images/images/20220324/3c1c06ca189d1de27d8f614b92301f00.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20220324/176003187e4bea145d55320132c5875a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt italian herbs",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220324/ac55a23dbc6c0c332bc13cde4a466755.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt bawang bombay bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBb91",
+                        "media_url": "content-images/images/20220324/eda43fe8fcaa981a08057726a2300348.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220324/1a20d3c3563afa171971d8a6d49c6b27.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1/4  sdm lemon zest",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLzgj",
+                        "media_url": "content-images/images/20220324/e1147a560b344c5aca6f5ffd57dd6225.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt lada hitam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4No4y",
+                        "media_url": "content-images/images/20220324/6a9759c5c1fdba9aba1efa295e43063d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "qQ3TBGKyekzXeK0kEqeiByBdrIXC6Xrb",
+                "created_at": 1666522713,
+                "image_url": "content-images/images/20221023/7aYpqf3Ul63tzzBOBJX852dAeFKG5WGj-31363636343937343739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "hai chef, terima kasih inspirasinya. ini hasil #recookyummy ayam lemon. enaakk kebangetan deh finger linking good pokoknya! ",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "MsMoRcT2_FlbMXvebkBQlA==",
+                    "username": "lila-wahyu",
+                    "name": "Lila Wahyu Lestari",
+                    "avatar": "content-images/images/20210513/qog2Eskg4yjeIlLACzudprSJ0CjfL3dI-31363230383739383432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Lemon Pepper Chicken Wings Ala Wingstop",
+                    "slug": "lemon-pepper-chicken-wings-ala-wingstop",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "PfCNeFeM06CR4eiMx3VDHfpbSNUMjUha",
+                "created_at": 1664447997,
+                "image_url": "content-images/images/20220612/qzgIwEajFkPqN1mI96CVpGKNyKs6fZyc-31363535303333363030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hai chef.. ini mantap rasanya,selain gurih juga ada asemnya bikin seger rasanya. Trimakasih resepnya\n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "_YU-QITaF0DU00dEk9e5Kw==",
+                    "username": "nulli",
+                    "name": "Nulli ",
+                    "avatar": "content-images/images/20220316/l2FZbrVmswPnAPzlb52aqJaZsfx4FmQI-31363437343032353736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Lemon Pepper Chicken Wings Ala Wingstop",
+                    "slug": "lemon-pepper-chicken-wings-ala-wingstop",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "WrjYiy8zqLNQUPeNxomUgtUUvogG6r7i",
+                "created_at": 1664447997,
+                "image_url": "content-images/images/20220612/APSpyZFpTpyacCvdjcPlYLEQEbvV98Nh-31363535303333393530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Terimakasih minchef inspirasinya..\nEnak banget ini.\nDimakan bareng sambel terasi lebih mantul ngabisin nasi\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "qoRURaR2k-BA8POLtH2fSw==",
+                    "username": "xavier-kitchen",
+                    "name": "Xavier Kitchen",
+                    "avatar": "content-images/images/20220308/0OQO7un6qbW6RIU8ktbxNPK83HtxuSBO-31363436373231353137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Lemon Pepper Chicken Wings Ala Wingstop",
+                    "slug": "lemon-pepper-chicken-wings-ala-wingstop",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "fa7Qa2EpDBdF14UVSo05ylMZHJEscao4",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220606/2WbdrjJgNxWIsGUoowzFv0DRvWLWlXae-31363534353039323137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hallo chef... Makasih resepnya... Rasanya unik banget. Saya pakai lada hitam bubuk. Mantep...\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "9DLwrMBS1ZxPMmoB7vyihQ==",
+                    "username": "liaas",
+                    "name": "Lia_Ariani",
+                    "avatar": "content-images/images/20231123/281d7341afcd50e9916bb3da77857ed1.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Lemon Pepper Chicken Wings Ala Wingstop",
+                    "slug": "lemon-pepper-chicken-wings-ala-wingstop",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "1Z8PYYv4XBMAJaXCf3VjAmU3qoD6jr2h",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220608/zYxWFxUMV5InTck1mcfhD3LyoMiWLUbS-31363534363531353230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selamat pagi Chef. Wah akhirnya bisa buat ini dengan rasa otentik resto. Tengkyu resepnya Chef. So Yummy banget. Bahan dan langkah sangat jelas. Keren banget ya resep teruji, memang beda. Once again, terima kasih chef. Ditunggu resep\u00b2 teruji lainnya #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "MsMoRcT2_FlbMXvebkBQlA==",
+                    "username": "lila-wahyu",
+                    "name": "Lila Wahyu Lestari",
+                    "avatar": "content-images/images/20210513/qog2Eskg4yjeIlLACzudprSJ0CjfL3dI-31363230383739383432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Lemon Pepper Chicken Wings Ala Wingstop",
+                    "slug": "lemon-pepper-chicken-wings-ala-wingstop",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "LnTPyfqcq3BHTsR48DIHFFoRWyULnRi9",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220610/uuO3J86lQXsAru0Q5AiNPBhtPIcrqfB8-31363534383432343338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hallo chef Yummy... \n\nSetor recook ya,,, jujur belum pernah makan ayam dicampur saus lemon seperti ini. Rasanya unik ya, ada asem\u00b2 segernya gitu. Lada hitamnya kurang halus aku nyincangnya jadi keliatan gede\u00b2 gitu \ud83e\udd2d.\n\nMakasih inspirasi resepnya chef,,, beneran teruji dan anti gagal. Sukses buat Yummy App... \n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "pVwH2-WVudP5Sb5vXvNp9g==",
+                    "username": "laila-fitria1",
+                    "name": "Laila Fitria",
+                    "avatar": "content-images/images/20231123/039830a2980b6837f0e64077faae4bb3.jpeg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Lemon Pepper Chicken Wings Ala Wingstop",
+                    "slug": "lemon-pepper-chicken-wings-ala-wingstop",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Talenan",
+                "media_url": "content-images/images/20210712/5bcf9d1ede5f68c8d7acf04bcf604504.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Fry Pan - Besar",
+                "media_url": "content-images/images/20210714/980057f47076afbd0ecaeea4a19a345d.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Sutil",
+                "media_url": "content-images/images/20210712/519f6acdec5c700b847229e696f8e62f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Kompor - Elektrik & Api",
+                "media_url": "content-images/images/20211105/d905e1fded75e11e15260176f66015a7.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

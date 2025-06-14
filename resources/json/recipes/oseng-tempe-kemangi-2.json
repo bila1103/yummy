@@ -1,0 +1,298 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "984g6qoGlFo7d1r_ChtQ5Q==",
+        "title": "Oseng Tempe Kemangi",
+        "slug": "oseng-tempe-kemangi-2",
+        "cover_url": "content-images\/images\/20250412\/7mdGyv3XGpNgiCd6CLkDufVmAgROxATr-31373434343439353638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250412\/7mdGyv3XGpNgiCd6CLkDufVmAgROxATr-31373434343439353638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Tempenya hampir busuk tp gak tau harus dibuat apa. Coba buat yang berbumbu. Enak juga lho",
+        "rating": 5,
+        "video_url": "",
+        "price": 5000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 4,
+        "serving_max": 6,
+        "release_date": 1746166440,
+        "updated_date": 1746166621,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 13,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250412\/7mdGyv3XGpNgiCd6CLkDufVmAgROxATr-31373434343439353638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/XKB9TnqtNDj6oF7fA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Campur bumbu II kemudian marinasi tempe selama 30 menit.",
+                "image_url": "content-images\/images\/20250412\/m8S4j1MRkwutUJJsP2mVJqLGo1eZM98W-31373434343439373930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/m8S4j1MRkwutUJJsP2mVJqLGo1eZM98W-31373434343439373930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Goreng tempe hingga berubah warna.",
+                "image_url": "content-images\/images\/20250412\/XeWVr4teT6bUuQCWS9lqzUxMwBlAnrtP-31373434343439383939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/XeWVr4teT6bUuQCWS9lqzUxMwBlAnrtP-31373434343439383939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Sambil dihancurkan juga saat penggorengan berlangsung. Angkat sisihkan.",
+                "image_url": "content-images\/images\/20250412\/2kwtFuRIT116OjEqvtyuTgUfUyE1TGxO-31373434343439393336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/2kwtFuRIT116OjEqvtyuTgUfUyE1TGxO-31373434343439393336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Ulek bawang putih dan rawit, sisihkan.",
+                "image_url": "content-images\/images\/20250412\/wrrX8wsmr26fnQ09SmgYgbTuQKn8Ia1G-31373434343439393837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/wrrX8wsmr26fnQ09SmgYgbTuQKn8Ia1G-31373434343439393837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tumis bumbu I hingga berubah warna.",
+                "image_url": "content-images\/images\/20250412\/f5InAfwFpOgKvilfubkvq0Z2RjqUCUlH-31373434343530303535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/f5InAfwFpOgKvilfubkvq0Z2RjqUCUlH-31373434343530303535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukkan sambal, tumis hingga harum.",
+                "image_url": "content-images\/images\/20250412\/wpSKhEcQ1hyQtjuItGEHNG1xu00ocM04-31373434343530303931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/wpSKhEcQ1hyQtjuItGEHNG1xu00ocM04-31373434343530303931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukan tempe aduk merata.",
+                "image_url": "content-images\/images\/20250412\/hEU3rhGg8DnW9z9iPWFfAYOViFHJvaKA-31373434343530313138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/hEU3rhGg8DnW9z9iPWFfAYOViFHJvaKA-31373434343530313138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Masukan kemangi dan daun bawang. Aduk merata. Angkat. Sajikan!",
+                "image_url": "content-images\/images\/20250412\/iwjoGGOLKrysMONNHPF1I7LlTLhKTvp0-31373434343530313431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/iwjoGGOLKrysMONNHPF1I7LlTLhKTvp0-31373434343530313431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "Vezf8tZUCtrZy0iIf03MLQ==",
+                "name": "Daun Kemangi",
+                "slug": "daun-kemangi"
+            },
+            {
+                "id": "QJ0crmlVerfAPuv2j1Yf9g==",
+                "name": "Tempe",
+                "slug": "tempe"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "7mD5tRjo5IBDxrZb7no7-w==",
+            "uuid": "8bc227c5-7400-4ee0-b48d-c73b2e31df7e",
+            "username": "azizam",
+            "name": "Rhezhe Cozzy",
+            "avatar": "content-images\/images\/20210301\/R2DO3jHpzyS5hluukjODdiWINkIcsqPh-31363134353739363938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 papan tempe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 gengam tangan kemangi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 gengam daun bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "12 buah rawit",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu I",
+                "ingredients": [
+                    {
+                        "description": "12 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 siung bawanh putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sereh putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 jempol lengkuas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu II",
+                "ingredients": [
+                    {
+                        "description": "1 sdm kunyit bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm ketumbar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

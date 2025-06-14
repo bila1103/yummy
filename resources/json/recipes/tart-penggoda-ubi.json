@@ -1,0 +1,189 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "sbNch_KP5vfTzqrkG0MbgQ==",
+        "title": "Tart Penggoda Ubi",
+        "slug": "tart-penggoda-ubi",
+        "cover_url": "content-images\/images\/20250422\/HCTKc7usLsfoAb5pQ1SkhZXmsERy9xed-31373435323938353231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250422\/HCTKc7usLsfoAb5pQ1SkhZXmsERy9xed-31373435323938353231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Resep hidangan penutup simple. Nama resep ini sedikit unik dan tentu rasanya enak",
+        "rating": 5,
+        "video_url": "",
+        "price": 48000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 23,
+        "serving_min": 5,
+        "serving_max": 6,
+        "release_date": 1745328180,
+        "updated_date": 1745328236,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 4,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250422\/HCTKc7usLsfoAb5pQ1SkhZXmsERy9xed-31373435323938353231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/rhCVQ3CYja9XMehW8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Kukus 150 gr ubi manis hingga matang. Kupas lalu haluskan hingga menjadi puree",
+                "image_url": "content-images\/images\/20250422\/R1NE87vv07XHsXffYSyzYP2rLPQQ9G2J-31373435323938353431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/R1NE87vv07XHsXffYSyzYP2rLPQQ9G2J-31373435323938353431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Siapkan mangkuk kecil. Ratakan puree ubi ke seluruh permukaan bagian dalam mangkuk hingga membentuk seperti mangkuk. Masukkan ke dalam air fryer, panggang pada suhu 180\u00b0C selama 15 menit",
+                "image_url": "content-images\/images\/20250422\/Flx4kasZ915FDjXCsQumlhA538dcwLpq-31373435323938353537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/Flx4kasZ915FDjXCsQumlhA538dcwLpq-31373435323938353537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Campurkan 15 gr tepung kedelai, 5 gr tepung jagung, dan 100 ml susu rendah lemak tanpa gula ke dalam wajan anti lengket. Aduk rata, nyalakan api kecil dan masak sambil terus diaduk hingga mengental",
+                "image_url": "content-images\/images\/20250422\/ke1Wak1gnq6hKGKk3eHJTtIFK3HQFN6o-31373435323938353832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/ke1Wak1gnq6hKGKk3eHJTtIFK3HQFN6o-31373435323938353832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tuangkan saus tofu panas ke dalam mangkuk ubi yang telah dipanggang",
+                "image_url": "content-images\/images\/20250422\/2OpqvrVI8ieAeH0gIE0qN44GaMZlSqzd-31373435323938353934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/2OpqvrVI8ieAeH0gIE0qN44GaMZlSqzd-31373435323938353934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Taburi bagian atasnya dengan tepung kedelai secukupnya, lalu masukkan ke dalam kulkas selama 2 jam",
+                "image_url": "content-images\/images\/20250422\/OPLWEno5HeHP9UQZbvyZvdTBIEHkKr1J-31373435323938363130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/OPLWEno5HeHP9UQZbvyZvdTBIEHkKr1J-31373435323938363130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "tLPZ6KbS2rvLzt6L1R5Nfg==",
+                "name": "Jagung",
+                "slug": "jagung"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            },
+            {
+                "id": "qQy8XZh2M-j6xIFwdedn0A==",
+                "name": "Ubi",
+                "slug": "ubi"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "iteos7dODoWKCUausNKa1g==",
+            "uuid": "96a95408-f0ea-43ce-9d02-5461748be125",
+            "username": "rian-wahida",
+            "name": "Rian Wahida",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "150 gr ubi manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "20 gr tepung kedelai",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 gr tepung jagung",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml susu rendah lemak",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

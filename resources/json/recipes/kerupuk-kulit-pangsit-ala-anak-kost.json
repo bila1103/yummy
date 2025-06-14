@@ -1,0 +1,226 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "kr7Gnn_PkZc5fDgcy_zhPA==",
+        "title": "Kerupuk Kulit Pangsit ala Anak Kost",
+        "slug": "kerupuk-kulit-pangsit-ala-anak-kost",
+        "cover_url": "content-images\/images\/20240323\/976pvXh5kmGG8mP5WuIXTCdjyGlvTEpm-31373131313531363136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20240323\/976pvXh5kmGG8mP5WuIXTCdjyGlvTEpm-31373131313531363136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Resep ini sederhana tapi pasti ludes kalau disajikan karena rasanya yang gurih, manis, dan pedas.",
+        "rating": 5,
+        "video_url": "",
+        "price": 5000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1744809420,
+        "updated_date": 1744809747,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 5,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20240323\/976pvXh5kmGG8mP5WuIXTCdjyGlvTEpm-31373131313531363136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/DSVSwUQAbvcY4tGT8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong kulit pangsit bentuk segitiga.",
+                "image_url": "content-images\/images\/20240323\/1alp7shZh7PJM9X3WDkX4QcLCrFdGpLQ-31373131313531363436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/1alp7shZh7PJM9X3WDkX4QcLCrFdGpLQ-31373131313531363436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Goreng hingga golden brown.",
+                "image_url": "content-images\/images\/20240323\/uSixdqOHnckncTgyIGtaytwpuxGt1dMh-31373131313531363935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/uSixdqOHnckncTgyIGtaytwpuxGt1dMh-31373131313531363935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tumis cabe dan bawang putih yang sudah dihaluskan.",
+                "image_url": "content-images\/images\/20240323\/STddu1tDaOlho2bEPWRNayQxmFXNKHqw-31373131313531373237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/STddu1tDaOlho2bEPWRNayQxmFXNKHqw-31373131313531373237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan daun jeruk yang telah diiris halus.",
+                "image_url": "content-images\/images\/20240323\/mVX57aYtEp0rvu20lf2iOJgfPZqtHZ5d-31373131313531383030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/mVX57aYtEp0rvu20lf2iOJgfPZqtHZ5d-31373131313531383030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tambahkan gula pasir dan aduk hingga menjadi karamel.",
+                "image_url": "content-images\/images\/20240323\/neECqpBWQZd9CfBFHpKgH75C3kOslbGt-31373131313531383336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/neECqpBWQZd9CfBFHpKgH75C3kOslbGt-31373131313531383336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukkan kulit pangsit, aduk hingga tercampur, kemudian hidangkan!",
+                "image_url": "content-images\/images\/20240323\/ur0aSt9qURLg8wQu8sPrsnkmchdyj9Oc-31373131313531393231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240323\/ur0aSt9qURLg8wQu8sPrsnkmchdyj9Oc-31373131313531393231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "uqJHyhAGNlLAhSL3ZYHumw==",
+                "name": "Makanan Pendamping",
+                "slug": "makanan-pendamping"
+            },
+            {
+                "id": "DstFTETMX0lZXRU9ClmTlA==",
+                "name": "Makanan Ringan",
+                "slug": "makanan-ringan"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            },
+            {
+                "id": "ODvGpFiwqbYLQNcJAVrkLw==",
+                "name": "Pelengkap",
+                "slug": "pelengkap"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "lbAPLbE8dqS8fdfiSOsAGg==",
+                "name": "Daun Jeruk",
+                "slug": "daun-jeruk"
+            },
+            {
+                "id": "mdGp_NX7gFuFh1jqNgODXA==",
+                "name": "Kulit Pangsit",
+                "slug": "kulit-pangsit"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "8eeNWzEojFpN60KRwjv3Yw==",
+            "uuid": "1fcdef7d-a4c8-429a-a244-2f5703e611c3",
+            "username": "bertha-2",
+            "name": "Bertha palunga",
+            "avatar": "content-images\/images\/20220322\/fPSUYuvroOWw67WElIrGtbykaMgMgTLY-31363437393135373631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "10 lembar kulit pangsit",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 biji cabe keriting, haluskan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 biji bawang putih, haluskan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 lembar daun jeruk, iris halus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

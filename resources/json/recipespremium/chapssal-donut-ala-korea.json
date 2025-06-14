@@ -1,0 +1,410 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "6caTwvhVm2km_vWCDiD-dA==",
+        "title": "Chapssal (donut ala Korea)",
+        "slug": "chapssal-donut-ala-korea",
+        "cover_url": "content-images/images/20220502/3a877fb1a91e592b43a0bd4c719a511a.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220502/3a877fb1a91e592b43a0bd4c719a511a.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Donut Korea yang terbuat dari tepung beras dan berisi pasta kacang merah",
+        "rating": 5,
+        "video_url": "content-videos/video/20220502/3dca4a657aed449ebd431d6d19c1d182.mp4",
+        "price": 20000,
+        "price_premium": 5000,
+        "calories": "866,9 Kj",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 4,
+        "serving_max": 5,
+        "release_date": 1651497000,
+        "updated_date": 1675558663,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 5,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 14,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 2,
+        "recook_count": 2,
+        "original_image": "content-images/images/20220502/3a877fb1a91e592b43a0bd4c719a511a.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/4dfXQJfVWNESjkV98",
+        "category": {
+            "name": "Cemilan",
+            "slug": "cemilan"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan tepung beras, tepung terigu, gula, garam, baking soda, dan wijen ke dalam mangkuk, aduk sebentar menggunakan spatula lalu masukkan lelehan mentega dan air panas.",
+                "image_url": "content-images/images/20220502/03b127cc0fdd442a9d090435d4396fa0.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220502/03b127cc0fdd442a9d090435d4396fa0.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Aduk kembali campuran adonan menggunakan spatula hingga adonan bertekstur seperti pasir, lalu uleni menggunakan tangan hingga adonan menyatu.",
+                "image_url": "content-images/images/20220502/630c63f596fc6b4774d47095908e530f.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220502/630c63f596fc6b4774d47095908e530f.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "36pVAjeRc8lpgEi_pH2hkQ==",
+                "name": "Makanan Korea",
+                "slug": "makanan-korea"
+            },
+            {
+                "id": "21OMGCsGv7Gzrq-HAkj5kQ==",
+                "name": "aneka cemilan",
+                "slug": "aneka-cemilan"
+            },
+            {
+                "id": "TNQqaJy8Shw6S8yfJSxeLA==",
+                "name": "Mentega",
+                "slug": "mentega"
+            },
+            {
+                "id": "uOUcelX0oseboW6JwuJVcQ==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "3ZhZZhDnYfI6af4amZ9llw==",
+                "name": "Korean",
+                "slug": "korean"
+            },
+            {
+                "id": "1zxCi6ssZiH943RKbgxmDg==",
+                "name": "Terigu",
+                "slug": "terigu"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Mentega",
+                "slug": "mentega"
+            },
+            {
+                "id": "wjOI7jLd9RKri0o9Vn8t7A==",
+                "name": "Tepung Beras",
+                "slug": "tepung-beras"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "040a8a10-07c2-4d05-9319-773e5e16c23c",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "120 gr tepung beras",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq2x9",
+                        "media_url": "content-images/images/20211026/551a9efe5140f1769c20fe1ba43a4501.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 gr tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBab",
+                        "media_url": "content-images/images/20210712/2c9f48803b2746a5c9bf48364ca51a34.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20211025/7a572e1883391c73701f6d6d766bd4dd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1/4 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1/4 sdt baking soda",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/DK1J9a",
+                        "media_url": "content-images/images/20211025/670f7d1080dbece99897a1fa0d2bbefc.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt wijen hitam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbRBR",
+                        "media_url": "content-images/images/20210712/82507733d86019bbb3126b42a16a0e76.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm mentega, lelehkan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/vNbmnd",
+                        "media_url": "content-images/images/20211025/4e8af3b257ee0945185d4794b8c43ecf.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml air panas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/a8f6e995116c81f4fbf4600a4520c6b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr pasta kacang merah (#YummyResepDasar)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/3eOLVX",
+                        "media_url": "content-images/images/20210803/2487614e6d31a440ab8f5ec858836d11.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq1jV",
+                        "media_url": "content-images/images/20210712/fcb648cc17d6eb1c287f3c46691967d4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20211025/7a572e1883391c73701f6d6d766bd4dd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Spatula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Plastic Wrap",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Spatula Kue",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin A (\u00b5g)",
+                "slug": "vitamin-a-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": false
+            },
+            {
+                "name": "Asam Folat (\u00b5g)",
+                "slug": "asam-folat-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": true
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "Lh2Qqfuf0wckYR5I7ZjS6N5jBHl1xYJk",
+                "created_at": 1668970688,
+                "image_url": "content-images/images/20221120/wyLxguywLYuN2Un9QrccGdiQJy9T1Jni-31363638393435343738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "Tok.. Tok.. Tok.. \n\nAssalamu'alaikum... \n\nMinChef apakah ada dirumah? \n\nIni saya buatin donat korea nih untuk cemilan malam MinChef, tapi ini isian pastanya saya skip MinChef. Karena menyesuaikan bahan yang ada di rumah saja \ud83e\udd2d\nSemoga MinChef suka ya \ud83d\ude01\ud83e\udd2d\n\nTerimakasih inspirasinya MinChef \ud83d\ude4f\ud83e\udd70\n\n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "wVeG7Utss5BBGMCY9-Qflw==",
+                    "username": "dapua-eka",
+                    "name": "Eka Susanti",
+                    "avatar": "content-images/images/20210812/z7KOIF0bxIYxpdEXtC2RsVoAg1H7gzau-31363238373830313933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Chapssal (donut ala Korea)",
+                    "slug": "chapssal-donut-ala-korea",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "YvHkPnpfMRvxqDGflDdkcksqNWNv1fRV",
+                "created_at": 1668970456,
+                "image_url": "content-images/images/20221120/UFiW6fgrJNNb85KQXpUYgH4YVsgWZ4ya-31363638393435313934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "Tok.. Tok.. Tok.. \n\nAssalamu'alaikum... \n\nMinChef apakah ada dirumah?? \n\nIni saya buatin donat korea nih untuk cemilan malam MinChef, tapi ini isian pastanya saya skip MinChef. Karena menyesuaikan bahan yang ada di rumah saja \ud83e\udd2d\nSemoga MinChef suka ya \ud83d\ude01\ud83e\udd2d\n\nTerimakasih inspirasinya MinChef \ud83d\ude4f\ud83e\udd70",
+                "is_liked": false,
+                "like_count": 2,
+                "author": {
+                    "id": "wVeG7Utss5BBGMCY9-Qflw==",
+                    "username": "dapua-eka",
+                    "name": "Eka Susanti",
+                    "avatar": "content-images/images/20210812/z7KOIF0bxIYxpdEXtC2RsVoAg1H7gzau-31363238373830313933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Chapssal (donut ala Korea)",
+                    "slug": "chapssal-donut-ala-korea",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Mangkuk Saji",
+                "media_url": "content-images/images/20211105/6b25d0e99ffbff542d2819b54b6f093f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Spatula",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Wajan",
+                "media_url": "content-images/images/20220413/b04bf5e5d54303c8d7b31ca486978630.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Saringan",
+                "media_url": "content-images/images/20210712/65e57dfb6b663cb4596ed05cbced0077.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

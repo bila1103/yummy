@@ -1,0 +1,185 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "jYwdemo5DRnBbyQuNsXIbw==",
+        "title": "Smoothies 3 Bahan",
+        "slug": "smoothies-3-bahan",
+        "cover_url": "content-images\/images\/20250507\/uBYa4mmJ6bXLU4w5KwvmD99OFvLw3TV7-31373436353932343331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250507\/uBYa4mmJ6bXLU4w5KwvmD99OFvLw3TV7-31373436353932343331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Resep mudah membuat smoothies yang rasanya dijamin enak",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1746698580,
+        "updated_date": 1746699106,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 3,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250507\/uBYa4mmJ6bXLU4w5KwvmD99OFvLw3TV7-31373436353932343331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/nSLNPm1tEYDt7gTW7",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong kecil 1 buah pisang",
+                "image_url": "content-images\/images\/20250507\/XHk1xiNbpelOVA0r8rWehY3awwwye0ie-31373436353932323834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250507\/XHk1xiNbpelOVA0r8rWehY3awwwye0ie-31373436353932323834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Potong-potong buah naga",
+                "image_url": "content-images\/images\/20250507\/kAHptCRyvS97jpFQe22ipIYnkBwLrxFw-31373436353932333035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250507\/kAHptCRyvS97jpFQe22ipIYnkBwLrxFw-31373436353932333035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Bekukan buah selama 1 hari",
+                "image_url": "content-images\/images\/20250507\/wzabrjnVsmDWVLjP7bgtI5xTZDH2ZFH5-31373436353932323136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250507\/wzabrjnVsmDWVLjP7bgtI5xTZDH2ZFH5-31373436353932323136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan dalam blender dan tambahkan susu",
+                "image_url": "content-images\/images\/20250507\/yKYdn6yZRjl59s12K5S6BzF4cNIq8YMe-31373436353932323434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250507\/yKYdn6yZRjl59s12K5S6BzF4cNIq8YMe-31373436353932323434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Blend hingga halus dan membentuk seperti ice cream, jika terlalu kental atau sulit diblend bisa ditambahkan susu kembali",
+                "image_url": "content-images\/images\/20250507\/KCs0pn5gj07z93ILWyioCkRbphVk1Ymh-31373436353932323530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250507\/KCs0pn5gj07z93ILWyioCkRbphVk1Ymh-31373436353932323530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "tjLwUn7mCQfa7d86yvsq3g==",
+                "name": "Minuman",
+                "slug": "minuman"
+            },
+            {
+                "id": "Jc3z7OQqbXF-iBXoiQkBZQ==",
+                "name": "yummy tips",
+                "slug": "yummy-tips"
+            },
+            {
+                "id": "PnKlJFJzpnyBiz5TatWYnw==",
+                "name": "Makanan Diet",
+                "slug": "makanan-diet"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "lg6AGgrx8swQcmDlDUBehw==",
+                "name": "Buah Naga",
+                "slug": "buah-naga"
+            },
+            {
+                "id": "5E06leA9af_ayn-5H4PqVA==",
+                "name": "Pisang",
+                "slug": "pisang"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "6bXoYmyy4t1G0UGdIoSm5A==",
+            "uuid": "c70da252-e523-4ea4-b314-f1aa9371631b",
+            "username": "nurinnm",
+            "name": "Nurin M",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 buah pisang cavendish",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd buah naga ukuran sedang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300 ml susu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

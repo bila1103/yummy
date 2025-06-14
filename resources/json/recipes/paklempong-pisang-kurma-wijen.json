@@ -1,0 +1,236 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "ZMszYSOBhLF5ini64IL6rw==",
+        "title": "Paklempong Pisang, Kurma, Wijen",
+        "slug": "paklempong-pisang-kurma-wijen",
+        "cover_url": "content-images\/images\/20250502\/Vb7x3tTAAHUCiDdVXUFYjyhjTw4OkqsM-31373436313730393532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250502\/Vb7x3tTAAHUCiDdVXUFYjyhjTw4OkqsM-31373436313730393532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Enak asli",
+        "rating": 5,
+        "video_url": "",
+        "price": 20000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 3,
+        "serving_max": 6,
+        "release_date": 1747756140,
+        "updated_date": 1747756220,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 9,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250502\/Vb7x3tTAAHUCiDdVXUFYjyhjTw4OkqsM-31373436313730393532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/bK8c4Fg725sRBo6n9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong dadu pisang, sisihkan",
+                "image_url": "content-images\/images\/20250502\/ZXgSCEoM0DMRTQNLnhNPGgZAb5pnSUKb-31373436313730393639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/ZXgSCEoM0DMRTQNLnhNPGgZAb5pnSUKb-31373436313730393639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Campur terigu, gula dan garam. Aduk rata",
+                "image_url": "content-images\/images\/20250502\/23xlK8h3eX3a4M17dPXx9JYWUFA63RjQ-31373436313730393830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/23xlK8h3eX3a4M17dPXx9JYWUFA63RjQ-31373436313730393830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan air sebagian,dan telur. Aduk rata. Jika dirasa kurang, baru tambahkan air lagi",
+                "image_url": "content-images\/images\/20250502\/1ViUg6NVZtmYrDv1q8IXFQMzYdyFHJ7w-31373436313730393931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/1ViUg6NVZtmYrDv1q8IXFQMzYdyFHJ7w-31373436313730393931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan pisang aduk rata",
+                "image_url": "content-images\/images\/20250502\/Q3iWT38FRj3x7TfX9OVeggnYDcEnFqq4-31373436313731303132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/Q3iWT38FRj3x7TfX9OVeggnYDcEnFqq4-31373436313731303132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan kurma, dan wijen. Aduk rata",
+                "image_url": "content-images\/images\/20250502\/vAzaWu1n0cnJsEguXwZB7cy2jgVNcDao-31373436313731303232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/vAzaWu1n0cnJsEguXwZB7cy2jgVNcDao-31373436313731303232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Panaskan minyak dengan api kecil, goreng sesendok - sesendok hingga matang.",
+                "image_url": "content-images\/images\/20250502\/dqE6ixMUvEyJASCvNCaeLIqu79w99nKc-31373436313731303335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/dqE6ixMUvEyJASCvNCaeLIqu79w99nKc-31373436313731303335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "xsM5meRjaRHAhr_BzSCzCA==",
+                "name": "Kurma",
+                "slug": "kurma"
+            },
+            {
+                "id": "5E06leA9af_ayn-5H4PqVA==",
+                "name": "Pisang",
+                "slug": "pisang"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            },
+            {
+                "id": "P6lH-3xu28amruJUQLeYrA==",
+                "name": "Wijen",
+                "slug": "wijen"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "Fby96-5xWLMpukPoxV3etw==",
+            "uuid": "0ae73e07-4d0e-4e57-9db2-c20c129056b2",
+            "username": "cicik-ary",
+            "name": "Cicik Ary",
+            "avatar": "content-images\/images\/20211017\/nUeJwrTxo7gHwbpgFN1m7h7BaPHs4V3B-31363334343530303338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "7 buah pisang kepok kukus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300 gr terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "7 buah kurma tanpa biji potong dadu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr wijen putih hitam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

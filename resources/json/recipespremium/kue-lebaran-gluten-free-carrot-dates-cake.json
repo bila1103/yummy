@@ -1,0 +1,518 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "v-bom2Xe5uZSUhxAK82wxg==",
+        "title": "Gluten Free Carrot Dates Cake",
+        "slug": "kue-lebaran-gluten-free-carrot-dates-cake",
+        "cover_url": "content-images/images/20220406/586b6c1df393e8b12e3320f6f003f8e4.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220406/586b6c1df393e8b12e3320f6f003f8e4.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Makanan ringan dengan sajian kurma khas lebaran memberikan citarasa manis bagi keluarga",
+        "rating": 4,
+        "video_url": "content-videos/video/20220406/10ab7ffedbd6f647f44649f6193b46f2.mp4",
+        "price": 50000,
+        "price_premium": 5000,
+        "calories": "1698,48 Kj",
+        "is_cvc": false,
+        "cooking_time": 40,
+        "serving_min": 8,
+        "serving_max": 8,
+        "release_date": 1649266200,
+        "updated_date": 1686306655,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.599999904632568,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 25,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 10,
+        "recook_count": 0,
+        "original_image": "content-images/images/20220406/586b6c1df393e8b12e3320f6f003f8e4.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/UZBfR1H8DDSJbCqC8",
+        "category": {
+            "name": "Makanan Penutup",
+            "slug": "makanan-penutup"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Menggunakan Food processor atau chopper, haluskan wortel lalu sisihkan. Kemudian menggunakan chopper campurkan telur, maple syrup, apple sauce, susu almond, minyak kelapa, bubuk kayu manis, bubuk jahe, bubuk pala, garam dan vanilla extract hingga merata.",
+                "image_url": "content-images/images/20220406/8439491b1b8b0fed515e401887c9b1b9.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220406/8439491b1b8b0fed515e401887c9b1b9.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Kemudian, tambahkan tepung almond, kelapa parut kering dan baking powder lalu campur menggunakan chopper hingga rata.",
+                "image_url": "content-images/images/20220406/d29c669719235f67959860af2fe31606.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220406/d29c669719235f67959860af2fe31606.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jzFsMjlvjTysNiDJQKRfNg==",
+                "name": "Makanan Ramadhan",
+                "slug": "makanan-ramadhan"
+            },
+            {
+                "id": "DstFTETMX0lZXRU9ClmTlA==",
+                "name": "Makanan Ringan",
+                "slug": "makanan-ringan"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "HvIwEy8giumfjc1nEpAd3Q==",
+                "name": "Apel",
+                "slug": "apel"
+            },
+            {
+                "id": "fZ8FKumT2zyDkTyDZtMSTw==",
+                "name": "Baking Powder",
+                "slug": "baking-powder"
+            },
+            {
+                "id": "ULVi2WStLHv35SbyTDE1iw==",
+                "name": "Cream Cheese",
+                "slug": "cream-cheese"
+            },
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            },
+            {
+                "id": "cPFDFBvYXvdMy6OLQ4F6Jg==",
+                "name": "Kayu Manis",
+                "slug": "kayu-manis"
+            },
+            {
+                "id": "xsM5meRjaRHAhr_BzSCzCA==",
+                "name": "Kurma",
+                "slug": "kurma"
+            },
+            {
+                "id": "s8Z4xXzDc2xtJaGqqCaucg==",
+                "name": "Minyak Sayur",
+                "slug": "minyak-sayur"
+            },
+            {
+                "id": "qlZBUf4I7KXqH1j_Vx9i7g==",
+                "name": "Pala",
+                "slug": "pala"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "fCS0v-JJK3U8fkNcVI6ooA==",
+                "name": "Vanilla",
+                "slug": "vanilla"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "Diet",
+                "slug": "diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "cd8e1b17-b7db-499b-b0a6-9207afff5b41",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "175 gr kurma",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PyknyY",
+                        "media_url": "content-images/images/20210712/45ccfd3b0e223d8ef55a1aa4579bfccb.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "220gr wortel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLxR1",
+                        "media_url": "content-images/images/20211026/5c614dc4250ff2adf67d0a48f0f577b6.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 butir telur (ukuran besar)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20211025/390c39b995097e5b8eeb8b11e54a3dd6.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "90 ml maple syrup",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20210712/8eca154f711441d461a0a90adf1acff3.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "62,5 gr applesauce tawar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20210712/508e72b5a07e0c77d96abeeb705940f3.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "60 ml susu almond",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/NkPm1b",
+                        "media_url": "content-images/images/20211026/3b0e6ef7c4464537656d16831a07e429.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "24 gr minyak kelapa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/JzQZrR",
+                        "media_url": "content-images/images/20211026/8a320db3b7a9c6afe168390d7985074e.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm bubuk kayu manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NBej",
+                        "media_url": "content-images/images/20210805/cb6bbdc2f9e9884f5ee0878d3673e316.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt bubuk jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/AWaGrN",
+                        "media_url": "content-images/images/20210805/d680c5184f4d79341b5db23384f99b31.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u215b sdt bubuk pala",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/an6DRW",
+                        "media_url": "content-images/images/20210803/d84322fe3ecf2db4808016873676e21b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00be sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20211026/2dc94219bc1e7c424dcb75040f04ceca.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt vanilla extract",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/ZQ4R2g",
+                        "media_url": "content-images/images/20211026/2ede731a1bbb226adefd984c5266d4d8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "165 gr tepung almond",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/JzQW97",
+                        "media_url": "content-images/images/20211026/6f1a8a369ff22c744a020fcaeebc7f98.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "42 gr kelapa parut kering",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBjvr",
+                        "media_url": "content-images/images/20211026/f5c84010b3e51950213ada1972109965.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt baking powder",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/jr2BvM",
+                        "media_url": "content-images/images/20211026/551a9efe5140f1769c20fe1ba43a4501.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "38 gr walnuts",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211025/4cab343443d27577d0a552833dbd8e04.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Adonan Cream Cheese",
+                "ingredients": [
+                    {
+                        "description": "230 gr cream cheese",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq262",
+                        "media_url": "content-images/images/20211026/16bad40807efcb17b309a31eb9832c67.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "65 ml maple syrup",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/77956593c3c387c37cb6d0a403de71f6.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Spatula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20230612/bfd7152ae9de6390115d392571431433.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Loyang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20230612/53ac96dee4c1a62941e8f6245eacb3b3.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Oven",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20230612/f380e1c6e803ae4cb3bff2d110e99738.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Chopper",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20230612/3588d0c605350cff18de1398870b4834.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Food Processor",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20230612/f7640f358c13ba925004fc7dc0853da0.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Kertas Roti",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/9gQrv0",
+                        "media_url": "content-images/images/20230612/8790c184e57c14a7e2275eaf84f51f78.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Spatula Kue",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20230612/876e67bf47f1f3d84ca817e85b1ab0ef.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin A (\u00b5g)",
+                "slug": "vitamin-a-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": false
+            },
+            {
+                "name": "Vitamin C (mg)",
+                "slug": "vutamin-c-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [],
+        "cooking_tool": [
+            {
+                "name": "Blender",
+                "media_url": "content-images/images/20210714/d663132b420d7d7367efac657734afe6.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Parutan Keju",
+                "media_url": "content-images/images/20211105/3bc2901efa29e519e8359da4ab1ef3b0.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Loyang",
+                "media_url": "content-images/images/20211105/77dbf601eafe60d23cc1d85c9070d939.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Pisau Oles Roti",
+                "media_url": "content-images/images/20210712/d2598f1fe2cdcb6c5f423e97528f8145.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Piring Saji",
+                "media_url": "content-images/images/20210712/fe7aa848e95ce4d5fd56fb78459844f2.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

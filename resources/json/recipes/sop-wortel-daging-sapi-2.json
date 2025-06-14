@@ -1,0 +1,245 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "WDTEpZcNA8JufBec0wET1A==",
+        "title": "Sop Wortel Daging Sapi",
+        "slug": "sop-wortel-daging-sapi-2",
+        "cover_url": "content-images\/images\/20250401\/o7kHizqzgV9m0xJqs0S5u31BvBymBZL9-31373433353034343031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250401\/o7kHizqzgV9m0xJqs0S5u31BvBymBZL9-31373433353034343031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Segar dan lezat.",
+        "rating": 5,
+        "video_url": "",
+        "price": 30000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 3,
+        "serving_max": 5,
+        "release_date": 1745837160,
+        "updated_date": 1745837237,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 10,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250401\/o7kHizqzgV9m0xJqs0S5u31BvBymBZL9-31373433353034343031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/TEwiLZSF63GSRmed8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Rebus Daging hingga empuk. Lalu potong sesuai selera.",
+                "image_url": "content-images\/images\/20250401\/nt8eWYKmvwwIJts0A3h47pwcOD3IGHUD-31373433353034343336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250401\/nt8eWYKmvwwIJts0A3h47pwcOD3IGHUD-31373433353034343336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Rebus air hingga mendidih. Lalu masukkan bawang merah dan bawang putih.",
+                "image_url": "content-images\/images\/20250401\/jHTTV8BndTmMMuOxfvKJEVA0Md86GkHe-31373433353035333234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250401\/jHTTV8BndTmMMuOxfvKJEVA0Md86GkHe-31373433353035333234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan daging sapi yang sudah dipotong-potong, biarkan hingga mendidih.",
+                "image_url": "content-images\/images\/20250401\/ipfZ1Q3ysxuDsBuKFWdkIfAsdYR2iArb-31373433353035333635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250401\/ipfZ1Q3ysxuDsBuKFWdkIfAsdYR2iArb-31373433353035333635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan wortel, masak hingga wortel setengah matang.",
+                "image_url": "content-images\/images\/20250401\/MY9APeIMZ6bGKtCtElcxaFqb5WmvOPHV-31373433353035343131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250401\/MY9APeIMZ6bGKtCtElcxaFqb5WmvOPHV-31373433353035343131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tambahkan kol, rebus hingga mendidih. Bumbui dengan lada bubuk, garam dan kaldu bubuk.",
+                "image_url": "content-images\/images\/20250401\/BfqEme84uVyzYKnY1YLhK2p4SOcyfjpf-31373433353035343339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250401\/BfqEme84uVyzYKnY1YLhK2p4SOcyfjpf-31373433353035343339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tambahkan irisan daun bawang. Aduk hingga mendidih serta wortel dan daging empuk. Tes rasa.",
+                "image_url": "content-images\/images\/20250401\/QN5NH1IUN8gx8b4jgzrfc1Wka6AsNx5R-31373433353035343736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250401\/QN5NH1IUN8gx8b4jgzrfc1Wka6AsNx5R-31373433353035343736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "gNrR88sMxkuEF_74rCiJ1g==",
+                "name": "Daging Sapi",
+                "slug": "daging-sapi"
+            },
+            {
+                "id": "owSG5O0qm0rSUfwmznwmng==",
+                "name": "Kubis",
+                "slug": "kubis"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "YBinvlBVZejdcFgftm7HGQ==",
+            "uuid": "6e0504c6-1ad1-44ae-ab6c-6c482efec6c5",
+            "username": "oliveiafaizin",
+            "name": "Rayna Kitchen",
+            "avatar": "content-images\/images\/20230225\/2V61uYGyCChloqUBcQjbg8nyE0P9hoQS-31363737323930333738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "200 gram daging sapi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah wortel ukuran besar, iris tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 lembar kol, rajang kasar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 batang daun bawang, rajang kasar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang putih, iris tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 butir bawang merah, iris tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/3 sdt lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/3 sdt kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "750 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

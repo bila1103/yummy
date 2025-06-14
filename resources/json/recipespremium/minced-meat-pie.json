@@ -1,0 +1,452 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "CUpnjf847DuW9gCnginxNQ==",
+        "title": "Minced Meat Pie",
+        "slug": "minced-meat-pie",
+        "cover_url": "content-images/images/20220122/7b14211bb72437ef196e897b9b460263.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220122/7b14211bb72437ef196e897b9b460263.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 5,
+        "video_url": "content-videos/video/20220121/dde328d8526df78d905df32cadc0b9f3.mp4",
+        "price": 45000,
+        "price_premium": 5000,
+        "calories": "1431,4 Kj",
+        "is_cvc": false,
+        "cooking_time": 45,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1642862160,
+        "updated_date": 1645642981,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 5,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 19,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 3,
+        "recook_count": 0,
+        "original_image": "content-images/images/20220122/7b14211bb72437ef196e897b9b460263.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/U1zgio7c2D5HUGch9",
+        "category": {
+            "name": "Cemilan",
+            "slug": "cemilan"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Pada sebuah pan, campurkan mix dried berries, kismis hitam dan apel yang telah di potong kecil-kecil. Aduk hingga tercampur rata.",
+                "image_url": "content-images/images/20220122/b22a473b5843bce84bee783e619e2ec4.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220122/b22a473b5843bce84bee783e619e2ec4.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Kemudian tambahkan garam, brown sugar, bubuk cengkeh, bubuk kayu manis, bubuk pala, parutan kulit lemon dan air lemon. Aduk rata lalu tambahkan butter dan aduk rata kembali hingga semua tercampur rata, kemudian masak hingga tercampur rata.",
+                "image_url": "content-images/images/20220122/b85668c418d88ca6971faa68d7e461fd.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220122/b85668c418d88ca6971faa68d7e461fd.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "76WVWGtktZnQpvHOfoQAoA==",
+                "name": "kreasi kue",
+                "slug": "kreasi-kue"
+            },
+            {
+                "id": "wKvcuu8EUtXoQ2XHRnZtSw==",
+                "name": "Pie",
+                "slug": "pie"
+            },
+            {
+                "id": "A20I7Vhecfn1UxEVSEg9EA==",
+                "name": "Tartlet",
+                "slug": "tartlet"
+            },
+            {
+                "id": "HE6okKmMhtNCydlGhaU_Zg==",
+                "name": "Menu Natal",
+                "slug": "menu-natal"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "XoOQljKTIsthw9SvhP1iMQ==",
+                "name": "30-60m",
+                "slug": "30-60m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "HvIwEy8giumfjc1nEpAd3Q==",
+                "name": "Apel",
+                "slug": "apel"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "Pqpraztc6nIwZ73SYclR0A==",
+                "name": "Gula Merah",
+                "slug": "gula-merah"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            },
+            {
+                "id": "y4OXVZVeikyNP7O3uWPS0g==",
+                "name": "Lemon",
+                "slug": "lemon"
+            },
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Mentega",
+                "slug": "mentega"
+            },
+            {
+                "id": "qlZBUf4I7KXqH1j_Vx9i7g==",
+                "name": "Pala",
+                "slug": "pala"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "4fXFQ2DhETQxP0Iru_aPVA==",
+                "name": "Tepung",
+                "slug": "tepung"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Kulit Pie :",
+                "ingredients": [
+                    {
+                        "description": "175 gr tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBab",
+                        "media_url": "content-images/images/20220218/1d52e4ef7e77d3577a8a3424fa6c4548.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr butter dingin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/9gQrR4",
+                        "media_url": "content-images/images/20220218/94dde7e271f1f0e38da819f653bb4212.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 kuning telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20220218/3a862d07545272f8a2ce978c14981109.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": " Bahan Isian:",
+                "ingredients": [
+                    {
+                        "description": "1 sdm air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220218/b12ad588de1323c22a308f2bc1082847.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr mix dried berries",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220218/694eeec27d03efbbbfe0040d79078a97.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr kismis hitam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/0ZOzZV",
+                        "media_url": "content-images/images/20220218/27f9d71e1ac380b5b745d0236a9a139e.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr apel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LB7N",
+                        "media_url": "content-images/images/20220218/98dcc928fd66e4b68f47de26c9ba18bb.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220218/e10cbe00e4ab99a61e5f7b1d920e7839.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc  sdt bubuk cengkeh",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/AWaGJa",
+                        "media_url": "content-images/images/20220218/22f4659eac8ab3e6a9a8660752602849.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt bubuk kayu manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NBej",
+                        "media_url": "content-images/images/20220218/5046dc3a35bec2e9e5c9b18fc0f45581.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt bubuk pala",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/an6DRW",
+                        "media_url": "content-images/images/20220218/6fe7c73e9d19f4c5cc1d2c4588292eb8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd buah air lemon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLzgj",
+                        "media_url": "content-images/images/20220218/9ba9efa9a4e078cc78ef9876b8a78270.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd buah parutan kulit lemon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLzgj",
+                        "media_url": "content-images/images/20220218/cf26659e056b71a749dac5701e53014b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30 gr brown sugar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220218/3baa1979e08507dea3089dee9e125f9b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "20 gr butter",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/9gQrR4",
+                        "media_url": "content-images/images/20220218/6b07804070cd0d1746575093d70f3ebe.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Taburan :",
+                "ingredients": [
+                    {
+                        "description": "1 butir telur untuk olesan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20220218/8406e1a97540aeae627dc744f89f0f1a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm gula halus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20220218/7038fc9a68cb87f4977dcc51df09eacb.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Loyang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Oven",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            }
+        ],
+        "recook": [],
+        "cooking_tool": [
+            {
+                "name": "Loyang",
+                "media_url": "content-images/images/20211105/77dbf601eafe60d23cc1d85c9070d939.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Spatula Kue",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

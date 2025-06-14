@@ -1,0 +1,212 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "zH0aF3cj7Sxcmj8KJZ42Sw==",
+        "title": "French Fries (Kentang Goreng)",
+        "slug": "french-fries-kentang-goreng-1",
+        "cover_url": "content-images\/images\/20240612\/Uf6uyBkizhuuHljtpCKXC1SHRLUNiqZ2-31373138323036303430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20240612\/Uf6uyBkizhuuHljtpCKXC1SHRLUNiqZ2-31373138323036303430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Salah satu menu favorit kalau pergi ke restoran cepat saji ya kentang goreng ini. Yukk bikin sendiri, jauh lebih sehat dan murah!",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1745994660,
+        "updated_date": 1745995130,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 4,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20240612\/Uf6uyBkizhuuHljtpCKXC1SHRLUNiqZ2-31373138323036303430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/xyQRdaufdbK7xUKb6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong-potong kentang dengan bentuk memanjang.",
+                "image_url": "content-images\/images\/20240612\/iWoKhF3HHDUxo7fpjufRopJvdv3cBQ2h-31373138323036303933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240612\/iWoKhF3HHDUxo7fpjufRopJvdv3cBQ2h-31373138323036303933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Rebus kentang di air mendidih dan tambahkan garam. Rebus hingga kentang matang, kurang lebih selama 10 menit menggunakan api sedang.",
+                "image_url": "content-images\/images\/20240612\/c8nTV9CUxxI2S54BDmnw8d0hvaMbu0ef-31373138323036313330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240612\/c8nTV9CUxxI2S54BDmnw8d0hvaMbu0ef-31373138323036313330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tiriskan kentang.",
+                "image_url": "content-images\/images\/20240612\/xNfWpc2pzljNEqtIinw9r8DtEQHK54lQ-31373138323036323539d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240612\/xNfWpc2pzljNEqtIinw9r8DtEQHK54lQ-31373138323036323539d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Lalu, keringkan menggunakan tisu dapur hingga benar-benar kering.",
+                "image_url": "content-images\/images\/20240612\/6QS9NcHXKK6yfjIPwpHA1RadPJm3BVSq-31373138323036323732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240612\/6QS9NcHXKK6yfjIPwpHA1RadPJm3BVSq-31373138323036323732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Kemudian, masukkan tepung maizena dan aduk hingga semua kentang terlapisi tepung.",
+                "image_url": "content-images\/images\/20240612\/ZVtCPAoZ6v1cY0msm99jMG6VekELz8nU-31373138323036333030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240612\/ZVtCPAoZ6v1cY0msm99jMG6VekELz8nU-31373138323036333030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Lalu, goreng kentang di minyak panas hingga matang.",
+                "image_url": "content-images\/images\/20240612\/W5WbzUxDctVPlqcBrU0EIHui6lcTv8ip-31373138323036333834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240612\/W5WbzUxDctVPlqcBrU0EIHui6lcTv8ip-31373138323036333834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "DstFTETMX0lZXRU9ClmTlA==",
+                "name": "Makanan Ringan",
+                "slug": "makanan-ringan"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "RkAHZYbrL58-78Y_ZBXAcw==",
+                "name": "Kentang",
+                "slug": "kentang"
+            },
+            {
+                "id": "Y7u7FDSxNd95soU0OFqofw==",
+                "name": "Tepung Maizena",
+                "slug": "tepung-maizena"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "EbYR-ivNxjirnP_JSM_JgQ==",
+            "uuid": "8604476e-c58b-4cc9-82c4-a455be81c74e",
+            "username": "aninda-nirastiti",
+            "name": "Aninda Nirastiti",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "4 buah kentang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm tepung maizena",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Minyak secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

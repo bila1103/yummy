@@ -1,0 +1,259 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "GSyGFNyVRI6uE9LZP2n7QQ==",
+        "title": "Martabak Telur dan Bakso",
+        "slug": "martabak-telur-dan-bakso",
+        "cover_url": "content-images\/images\/20240611\/kFiczlhZg5zn5WAq3Df8GNbLFABEqxt9-31373138303837353334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20240611\/kFiczlhZg5zn5WAq3Df8GNbLFABEqxt9-31373138303837353334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Cemilan enak di sore hari.",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 1,
+        "serving_max": 3,
+        "release_date": 1746011700,
+        "updated_date": 1746011929,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 9,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20240611\/kFiczlhZg5zn5WAq3Df8GNbLFABEqxt9-31373138303837353334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/g9ndRXEtcqjwaPQL6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Siapkan wadah, masukkan 3 butir telur. Tambahkan garam dan kaldu jamur.",
+                "image_url": "content-images\/images\/20240611\/QKrXk1w3e8FaqarVSxtLwcR7wBha1aE0-31373138303837353939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/QKrXk1w3e8FaqarVSxtLwcR7wBha1aE0-31373138303837353939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan irisan daun bawang, seledri, dan cabe.",
+                "image_url": "content-images\/images\/20240611\/I6uV5PSYOcjzlqVEvRLq5sKXnxKrsEvt-31373138303837363734d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/I6uV5PSYOcjzlqVEvRLq5sKXnxKrsEvt-31373138303837363734d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan irisan bakso.",
+                "image_url": "content-images\/images\/20240611\/QNnufUQvAywzRvDr40IyvaVHyFevehOv-31373138303837373034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/QNnufUQvAywzRvDr40IyvaVHyFevehOv-31373138303837373034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Isi kulit lumpia dengan adonan telur, kemudian lipat kulit lumpia.",
+                "image_url": "content-images\/images\/20240611\/uxZRWvbfB1zny3fsdRnW6FbVvSB0k3na-31373138303837373035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/uxZRWvbfB1zny3fsdRnW6FbVvSB0k3na-31373138303837373035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Goreng kulit lumpia mengunakan api sedang sampai berwarna kuning kecoklatan.",
+                "image_url": "content-images\/images\/20240611\/VlrSuHcqZpbM8PA2tVeXXDLKHD2QZvGk-31373138303837363939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/VlrSuHcqZpbM8PA2tVeXXDLKHD2QZvGk-31373138303837363939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "FrcGuNBVracfQ1LMbrq3BA==",
+                "name": "Gorengan",
+                "slug": "gorengan"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "DstFTETMX0lZXRU9ClmTlA==",
+                "name": "Makanan Ringan",
+                "slug": "makanan-ringan"
+            },
+            {
+                "id": "GlZXNP96qJdMVZEMNDv9fQ==",
+                "name": "Ide Jualan",
+                "slug": "ide-jualan"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "_UN5dYx-1LL1Qtq8-Ux9xg==",
+                "name": "Bakso",
+                "slug": "bakso"
+            },
+            {
+                "id": "zSJjtq7-tDDY-1wuoxi4lg==",
+                "name": "Kulit Lumpia",
+                "slug": "kulit-lumpia"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "hlpR0N7Ry1DiddxbNUL3xg==",
+            "uuid": "78beaaaf-6003-405a-a7da-dab6fb97c503",
+            "username": "nidya-wardani",
+            "name": "Nidya Wardani",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "10 lembar kulit lumpia",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 butir bakso",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daun bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daun seledri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah cabe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu-Bumbu",
+                "ingredients": [
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kaldu jamur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan pelengkap",
+                "ingredients": [
+                    {
+                        "description": "Minyak goreng secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

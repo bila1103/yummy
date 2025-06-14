@@ -1,0 +1,322 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "36mW2It97_FhEHWO4WJEzA==",
+        "title": "Sayur asem khas sunda",
+        "slug": "sayur-asem-sunda-29",
+        "cover_url": "content-images\/images\/20250305\/DdqOH74KB62l89swOSR8xRLIH49mLSRh-31373431313733333637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250305\/DdqOH74KB62l89swOSR8xRLIH49mLSRh-31373431313733333637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Annyeong, bulan puasa biasanya nggak telat sama yang namanya sayur asem, pasti selalu ada dan hampir seminggu 2x dimasak",
+        "rating": 5,
+        "video_url": "",
+        "price": 0,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1745234700,
+        "updated_date": 1745234795,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 18,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250305\/DdqOH74KB62l89swOSR8xRLIH49mLSRh-31373431313733333637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/ZEo8zkqqhZfPqTy99",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong potong labu Siam, daun melinjo dan jagung, cuci bersih.",
+                "image_url": "content-images\/images\/20250305\/MRNnirCFRIJg8ewq8w8G9ZUOX6tzhCBj-31373431313733373633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250305\/MRNnirCFRIJg8ewq8w8G9ZUOX6tzhCBj-31373431313733373633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Ulek sampai halus bawang merah, bawang putih, cabe merah keriting, kemiri dan terasi.",
+                "image_url": "content-images\/images\/20250305\/KWqd7sPyVw4dJcNE17nejoasAkMFgZyo-31373431313733373732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250305\/KWqd7sPyVw4dJcNE17nejoasAkMFgZyo-31373431313733373732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Didihkan air, masukan bumbu ulek, daun salam dan lengkuas masak sampai bumbu matang tidak langu.",
+                "image_url": "content-images\/images\/20250305\/Tfh6ueYr9VXj5m0i1H50aw0wuAicKwyT-31373431313733373732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250305\/Tfh6ueYr9VXj5m0i1H50aw0wuAicKwyT-31373431313733373732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan jagung, labu siam, dan daun melinjo, aduk sampai rata, masak setengah matang.",
+                "image_url": "content-images\/images\/20250305\/f55iCMvb38ewZgt6RKh84pyw0KGWuPc9-31373431313733373736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250305\/f55iCMvb38ewZgt6RKh84pyw0KGWuPc9-31373431313733373736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan kacang panjang, cabe ijo, tomat, garam, kaldu jamur, asam jawa dan gula merah, aduk rata.",
+                "image_url": "content-images\/images\/20250305\/iqDjQD7D7FJCaQeTMenu64MKJ8C7Hgo5-31373431313733373830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250305\/iqDjQD7D7FJCaQeTMenu64MKJ8C7Hgo5-31373431313733373830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masak sampai matang, koreksi rasanya.",
+                "image_url": "content-images\/images\/20250305\/1wJxRsuk0Ff0qYvlZm4FSeRkcDXZO82m-31373431313733373836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250305\/1wJxRsuk0Ff0qYvlZm4FSeRkcDXZO82m-31373431313733373836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "7Pw-KQ7rs49Juzcp7V1MtQ==",
+                "name": "Asam Jawa",
+                "slug": "asam-jawa"
+            },
+            {
+                "id": "tLPZ6KbS2rvLzt6L1R5Nfg==",
+                "name": "Jagung",
+                "slug": "jagung"
+            },
+            {
+                "id": "FrcGuNBVracfQ1LMbrq3BA==",
+                "name": "Kemiri",
+                "slug": "kemiri"
+            },
+            {
+                "id": "58Vm4p3BuAxLkaazd9oDOA==",
+                "name": "Labu Siam",
+                "slug": "labu-siam"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "ISpJuTstOfZ3P8LzKPoH3g==",
+            "uuid": "f8fda7bc-cb3e-4a9e-8cc3-65b26da24ec6",
+            "username": "azsha-ramadhani",
+            "name": "Azsha Ramadhani",
+            "avatar": "content-images\/images\/20230523\/XxxvGoSPwRzkzmfpv9g2wDW2czwn8zdF-31363834383438383230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1\/2 bonggol jagung",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Segenggam daun melinjo",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah labu siam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 lenjer kacang panjang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 buah cabe ijo",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah tomat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 iris lengkuas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "900 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt kaldu jamur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm gula merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 bungkus asam jawa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu Halus :",
+                "ingredients": [
+                    {
+                        "description": "4 butir bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 buah cabe merah keriting",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 butir kemiri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 bungkus terasi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

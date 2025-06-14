@@ -1,0 +1,204 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "F1r58Y9xvmi9M1SFgr8Big==",
+        "title": "Guacamole Tortilla",
+        "slug": "guacamole-tortilla",
+        "cover_url": "content-images\/images\/20250503\/ZpWAoD6LI9fBX0ujOspJPV46ApkWpDTT-31373436323332383131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250503\/ZpWAoD6LI9fBX0ujOspJPV46ApkWpDTT-31373436323332383131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Coba mencoba guacamole dari Meksico.. Dengan bahan seadanya.. Enak juga lhoo..",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 10,
+        "serving_min": 2,
+        "serving_max": 2,
+        "release_date": 1747756860,
+        "updated_date": 1747757817,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 6,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250503\/ZpWAoD6LI9fBX0ujOspJPV46ApkWpDTT-31373436323332383131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/wpXbFMQnzqsjxbDX6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Iris dadu tomat dan bawang bombay.",
+                "image_url": "content-images\/images\/20250503\/wLMR9SvveuajdjSuASAN9kkGXOtpJhdU-31373436323332393234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/wLMR9SvveuajdjSuASAN9kkGXOtpJhdU-31373436323332393234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Kerok lalu haluskan alpukat dengan garpu saja",
+                "image_url": "content-images\/images\/20250503\/WQqZCkrKNop8vmtrGJgQkoX2a1inXVN8-31373436323332393533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/WQqZCkrKNop8vmtrGJgQkoX2a1inXVN8-31373436323332393533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan garam.",
+                "image_url": "content-images\/images\/20250503\/vlr2mA9ywX821HlOsAwtlTGiHCgEfz6D-31373436323332393730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/vlr2mA9ywX821HlOsAwtlTGiHCgEfz6D-31373436323332393730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan lada bubuk.",
+                "image_url": "content-images\/images\/20250503\/Cy6vk18CK1W5Z3PJkYLCkWvz7oq5zmIi-31373436323332393834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/Cy6vk18CK1W5Z3PJkYLCkWvz7oq5zmIi-31373436323332393834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tambahkan jeruk nipis, tomat dan bawang bombay, aduk rata.",
+                "image_url": "content-images\/images\/20250503\/XRdwvTx9Jy6wdWBjt4s0xvwwsvvDvlK4-31373436323333303130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/XRdwvTx9Jy6wdWBjt4s0xvwwsvvDvlK4-31373436323333303130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Sajikan dengan keripik tortilla.",
+                "image_url": "content-images\/images\/20250503\/dEDFRkYVQiwAgnTcmbFNDNtqZKT6X7VM-31373436323333303636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/dEDFRkYVQiwAgnTcmbFNDNtqZKT6X7VM-31373436323333303636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "GAGuHuj6QprYGtL3p-Qxfw==",
+                "name": "Alpukat",
+                "slug": "alpukat"
+            },
+            {
+                "id": "agGYglzEVLUmxpiBbP0xFg==",
+                "name": "Bawang Bombay",
+                "slug": "bawang-bombay"
+            },
+            {
+                "id": "0mFpKKHkQARg6xI2agSxcQ==",
+                "name": "Tomat",
+                "slug": "tomat"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "GWhYFc1cpiyNhfPQl6_r7Q==",
+            "uuid": "0d348d0a-a64a-4fbb-904c-8d19eb3ea992",
+            "username": "haryantiandrie",
+            "name": "Dapur_Madina",
+            "avatar": "content-images\/images\/20230108\/9WmMkZlBxZhswf2dPAavPb7Vb9c3ePAS-31363733313533363034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1\/2 buah alpukat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 buah bawang bombay",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah tomat ukuran kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Seujung sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Seujung sdt lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt jeruk nipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

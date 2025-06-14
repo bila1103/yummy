@@ -1,0 +1,275 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "w0nZpFHqW-gld5Npk8_b-A==",
+        "title": "Cah Sayur Bakso Sapi",
+        "slug": "cah-sayur-bakso-sapi",
+        "cover_url": "content-images\/images\/20250424\/3K07AX142jrag2N78P1jHB9eCXDRejlU-31373435343935343131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250424\/3K07AX142jrag2N78P1jHB9eCXDRejlU-31373435343935343131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Mudah di buat dan rasanya enak. Yuk masak!",
+        "rating": 5,
+        "video_url": "",
+        "price": 20000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 35,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1747310760,
+        "updated_date": 1747310863,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 11,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250424\/3K07AX142jrag2N78P1jHB9eCXDRejlU-31373435343935343131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/1VP4RhL5K3gkNDfJ6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Panaskan minyak goreng. Tumis bawang putih dan bawang bombay hingga harum dan layu.",
+                "image_url": "content-images\/images\/20250424\/r4fZ8fWzfC5BFu73driyTffIA4Ekrr0I-31373435343935353738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/r4fZ8fWzfC5BFu73driyTffIA4Ekrr0I-31373435343935353738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan air,masak hingga mendidih.",
+                "image_url": "content-images\/images\/20250424\/6i2kNlnbKZGkPZwSZ5Bnwyso5HB6TGG1-31373435343935363535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/6i2kNlnbKZGkPZwSZ5Bnwyso5HB6TGG1-31373435343935363535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan wortel, aduk rata.",
+                "image_url": "content-images\/images\/20250424\/CatAG6S91vnqbdyi87fBcW0LL3aF1kYL-31373435343935363738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/CatAG6S91vnqbdyi87fBcW0LL3aF1kYL-31373435343935363738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Lalu masukkan bakso sapi, lada bubuk, kaldu bubuk, dan garam. Masak hingga mendidih.",
+                "image_url": "content-images\/images\/20250424\/L4tucvOhjULGc2CkvdJP7zQp1VpMv26h-31373435343935373339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/L4tucvOhjULGc2CkvdJP7zQp1VpMv26h-31373435343935373339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Lalu masukkan sawi hijau dan sawi putih. Aduk rata. Masak hingga sayuran setengah layu.",
+                "image_url": "content-images\/images\/20250424\/BYgjb1nuj26VDByUFweZYGCQgFWDHMO7-31373435343935373733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/BYgjb1nuj26VDByUFweZYGCQgFWDHMO7-31373435343935373733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Kemudian masukkan larutan maizena,aduk rata.",
+                "image_url": "content-images\/images\/20250424\/lyhkhM9JFsEgL4Lo0C7qNxBGYZRYg4R2-31373435343935393434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/lyhkhM9JFsEgL4Lo0C7qNxBGYZRYg4R2-31373435343935393434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masak hingga mendidih dan mengental. Angkat.",
+                "image_url": "content-images\/images\/20250424\/lzbt5TN0boDJ93XJaPrcdpV8VgbBn8UU-31373435343936323239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/lzbt5TN0boDJ93XJaPrcdpV8VgbBn8UU-31373435343936323239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Pindahkan ke piring dan sajikan hangat.",
+                "image_url": "content-images\/images\/20250424\/FMmA3ptJHNtJnnZaZMKylJzv4MhR51fs-31373435343936323534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/FMmA3ptJHNtJnnZaZMKylJzv4MhR51fs-31373435343936323534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "_UN5dYx-1LL1Qtq8-Ux9xg==",
+                "name": "Bakso",
+                "slug": "bakso"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "vs_JsRjc8t-nTiFV2WuwnQ==",
+                "name": "Sawi",
+                "slug": "sawi"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "x_tdVHzL5wqZxsz9FmNm1A==",
+            "uuid": "ed022034-c8a7-4a71-bde0-a9028ab03ed0",
+            "username": "riska-aprias",
+            "name": "Riska Wijaya",
+            "avatar": "content-images\/images\/20221230\/PDje3MxmVGoGD6UGfTwcDYvBAWAU55mh-31363732343130383235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "10 buah bakso sapi, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah wortel, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 bonggol sawi hijau, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd bonggol sawi putih, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "400 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm tepung maizena, larutkan dengan sedikit air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Garam secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu :",
+                "ingredients": [
+                    {
+                        "description": "3 siung bawang putih, cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd siung bawang bombay, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

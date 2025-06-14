@@ -1,0 +1,185 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "wMHHx75U7lBVx_RAG2TCGw==",
+        "title": "Hot Milk Coffee",
+        "slug": "hot-milk-coffee",
+        "cover_url": "content-images\/images\/20250322\/NWzD5MQX8k2f0Wfc3ki8rI4CHFfkmDFC-31373432363134333037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250322\/NWzD5MQX8k2f0Wfc3ki8rI4CHFfkmDFC-31373432363134333037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Biar gak ngantuk waktu berburu Lailatul Qadar! \ud83d\udcaa",
+        "rating": 5,
+        "video_url": "",
+        "price": 7000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 5,
+        "serving_min": 1,
+        "serving_max": 1,
+        "release_date": 1747135260,
+        "updated_date": 1747224275,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 3,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250322\/NWzD5MQX8k2f0Wfc3ki8rI4CHFfkmDFC-31373432363134333037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/vNoZsErnJWUKMCie7",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan bubuk kopi ke dalam gelas.",
+                "image_url": "content-images\/images\/20250322\/UXB2G1GewyqrREeQH3oNGycVHVt266US-31373432363134353239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250322\/UXB2G1GewyqrREeQH3oNGycVHVt266US-31373432363134353239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan susu kental manis.",
+                "image_url": "content-images\/images\/20250322\/fTRyE9qqIOCKpomOYz33PtaJbwpb46Ze-31373432363134353438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250322\/fTRyE9qqIOCKpomOYz33PtaJbwpb46Ze-31373432363134353438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tuang air panas.",
+                "image_url": "content-images\/images\/20250322\/vYodcBUt51oR71AlGRRhrSaHqnyLokRD-31373432363134353735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250322\/vYodcBUt51oR71AlGRRhrSaHqnyLokRD-31373432363134353735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Saring kopi, 2 kali atau sampai ampas kasar berkurang.",
+                "image_url": "content-images\/images\/20250322\/24om63pc8xavqhPFbfqay09b0TQdMjDG-31373432363134353937d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250322\/24om63pc8xavqhPFbfqay09b0TQdMjDG-31373432363134353937d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Sajikan selagi hangat!",
+                "image_url": "content-images\/images\/20250322\/4ttB6A4G1zq19if1unfg1cjVcsRf4stK-31373432363134363330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250322\/4ttB6A4G1zq19if1unfg1cjVcsRf4stK-31373432363134363330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tjLwUn7mCQfa7d86yvsq3g==",
+                "name": "Minuman",
+                "slug": "minuman"
+            },
+            {
+                "id": "7ftk8o1JprYrhNamN1tXxQ==",
+                "name": "minuman hangat",
+                "slug": "minuman-hangat"
+            },
+            {
+                "id": "jyEdVi24to2WwvgDNvpshg==",
+                "name": "Minuman Panas",
+                "slug": "minuman-panas"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "BfY_VSPPjt_QtNdFh4XoXw==",
+                "name": "Kopi",
+                "slug": "kopi"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "AwQyebM5piRhty_-sRmF6Q==",
+            "uuid": "9dc3c941-f237-4914-8f70-d0795b3cbda1",
+            "username": "akuzayyy",
+            "name": "Zainab",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "2 sdm bubuk kopi robusta",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3-4 sdm susu kental manis, sesuaikan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 ml air panas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

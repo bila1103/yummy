@@ -1,0 +1,528 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "q_OOS9z6NCFdrjEKLkxZbw==",
+        "title": "Peyek Teri Daun Jeruk",
+        "slug": "peyek-teri-daun-jeruk",
+        "cover_url": "content-images/images/20220324/38df59d2ff7d236e33aa1519dffc41aa.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220324/38df59d2ff7d236e33aa1519dffc41aa.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Makanan pendamping yang renyah dan cocok disajikan dengan nasi maupun lauk lainnya.",
+        "rating": 4,
+        "video_url": "content-videos/video/20220321/099970fc13b62670ab0989e83f04e234.mp4",
+        "price": 25000,
+        "price_premium": 5000,
+        "calories": "104,8 Kj",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1648087200,
+        "updated_date": 1656132839,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.579999923706055,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 21,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 12,
+        "recook_count": 3,
+        "original_image": "content-images/images/20220324/38df59d2ff7d236e33aa1519dffc41aa.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/RXvPc8b2biLtUFhz9",
+        "category": {
+            "name": "Cemilan",
+            "slug": "cemilan"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan kemiri, ketumbar, kencur, bawang putih, dan garam ke dalam blender, haluskan hingga merata.",
+                "image_url": "content-images/images/20220324/52632808d9e6dacd9399934ca65f7cdb.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220324/52632808d9e6dacd9399934ca65f7cdb.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Dalam wadah terpisah, masukkan tepung beras, tepung tapioka, kunyit bubuk, garam, kaldu bubuk, telur, dan daun jeruk iris.",
+                "image_url": "content-images/images/20220324/aa708bd26cad53fafef1354f1096b6d3.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220324/aa708bd26cad53fafef1354f1096b6d3.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "ktZv-D_pmxWogwtMPbIW-w==",
+                "name": "Peyek",
+                "slug": "peyek"
+            },
+            {
+                "id": "me0Ll8ktGZ3dken4IG3ivg==",
+                "name": "Rempeyek",
+                "slug": "rempeyek"
+            },
+            {
+                "id": "A8ZKkDLN0jqVTAWEmNRq0Q==",
+                "name": "Kerupuk",
+                "slug": "kerupuk"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "G-iV06z6OJMMRDtOrTq50A==",
+                "name": "30m",
+                "slug": "30m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "lbAPLbE8dqS8fdfiSOsAGg==",
+                "name": "Daun Jeruk",
+                "slug": "daun-jeruk"
+            },
+            {
+                "id": "QLILR9zFtjzuT5c3pmu1vw==",
+                "name": "Ikan Teri",
+                "slug": "ikan-teri"
+            },
+            {
+                "id": "FrcGuNBVracfQ1LMbrq3BA==",
+                "name": "Kemiri",
+                "slug": "kemiri"
+            },
+            {
+                "id": "ku1zBuN_G28Kv2ao96vdEw==",
+                "name": "Ketupat",
+                "slug": "ketupat"
+            },
+            {
+                "id": "OVn1FXRZPmVFgDCUzl3xLw==",
+                "name": "Santan",
+                "slug": "santan"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "wjOI7jLd9RKri0o9Vn8t7A==",
+                "name": "Tepung Beras",
+                "slug": "tepung-beras"
+            },
+            {
+                "id": "4k8pCLcc7BX1HDeJPutX8A==",
+                "name": "Tepung Tapioka",
+                "slug": "tepung-tapioka"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "250 gr tepung beras",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq2x9",
+                        "media_url": "content-images/images/20211026/551a9efe5140f1769c20fe1ba43a4501.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "40 gr tepung tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/LXrWjo",
+                        "media_url": "content-images/images/20211026/d45cd7a739b0e61f5bf087f3afae5677.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kunyit bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLzgL",
+                        "media_url": "content-images/images/20210805/59527da760a4b9cec308b631da75ac70.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20211025/e3b5d345af51a318e964326208435064.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "20 lembar daun jeruk, iris tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLx23",
+                        "media_url": "content-images/images/20210805/d6f817581df5b7037c9a720d70f67f78.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/a8f6e995116c81f4fbf4600a4520c6b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "75 gr santan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBGv",
+                        "media_url": "content-images/images/20210712/3a2ff71ee37fd78203e7ccbfa8e91136.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00be sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/daZEbq",
+                        "media_url": "content-images/images/20210803/0575f3875f3b48ef851b2cc4f6d19607.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gr ikan teri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/9gQrNj",
+                        "media_url": "content-images/images/20210712/774398c017f1d6088c22488ea4027bbb.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": " Bahan Pelengkap : ",
+                "ingredients": [
+                    {
+                        "description": "5 butir kemiri, sangrai",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/ZQ4Ebq",
+                        "media_url": "content-images/images/20210805/b7811eb46835c76104fdd77c9770663c.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt ketumbar, sangrai",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqzer",
+                        "media_url": "content-images/images/20210805/29f1309e828b2c843dedbea1a9c6bf64.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 ruas kencur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/g1N5Pr",
+                        "media_url": "content-images/images/20210805/31429446296e3c3e3c7f6f16a80a5b5b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "7 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20211026/4f0b23b2175253b3e759de3d6229f244.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Spatula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Blender",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Wajan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Spatula Kue",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "PoiOCns8kaqinTKwH3AwkJG5InivkyIV",
+                "created_at": 1668987999,
+                "image_url": "content-images/images/20221120/VAjDqURS3cULg4BoeuE8VO3DOFbHsoTm-31363638393632363235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "selamat malam chef setor recook, rempeyek tercinta, karena keluarga ada alergi sama ikan teri ,jadi teri nya aku skip ,aku ganti kacang tetap mantulll banget, terimakasih banyak inspirasi resep nya \n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "5MiQ4KHlsWGpbs7H6qfNCA==",
+                    "username": "rani-elizabeth-rarun",
+                    "name": "Rani Rarun",
+                    "avatar": "content-images/images/20231123/4ac98fccfb74d9f8333b7343ed7c958b.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Peyek Teri Daun Jeruk",
+                    "slug": "peyek-teri-daun-jeruk",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "fCWt54QLkbfPuTJWqStOBaVhHYbxmGYt",
+                "created_at": 1668981973,
+                "image_url": "content-images/images/20221120/TPyjODWFMDtLLvcoV6FHBodVUNoWoR0C-31363638393536363332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "selamat malam chef setor recook, terinya saya nganti kacang , because semua keluarga ku alergi teri tapi tetap mantull, terimakasih banyak inspirasi resep\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "5MiQ4KHlsWGpbs7H6qfNCA==",
+                    "username": "rani-elizabeth-rarun",
+                    "name": "Rani Rarun",
+                    "avatar": "content-images/images/20231123/4ac98fccfb74d9f8333b7343ed7c958b.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Peyek Teri Daun Jeruk",
+                    "slug": "peyek-teri-daun-jeruk",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "kkeUvBPBRqxQXwzgbIRYQLPSkKuVN9RT",
+                "created_at": 1668524110,
+                "image_url": "content-images/images/20221115/7YnpeHaR6Zn4EQFiaZObzFqrPoUVuYap-31363638343938383033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "bikin sayur asem sama ikan goreng, pas banget tambah peyek, aku lg g ada teri di ganti rebon, tetap enak \ud83d\udc4d. buat nya gampang cuma harus sabar gorengnya  krn agar garing 1 peyek harus agak lama dan api harus terus di kontrol supaya tdk gosong tp jg gak layu, pas jadi puas sih garing dan bs juga di jadiin peyek udang padang... :), gak rugi beli resep ini #RecookYummy thanks resep nya chef ",
+                "is_liked": false,
+                "like_count": 2,
+                "author": {
+                    "id": "o4Iz6HDW_MllcrVp4ZEhdw==",
+                    "username": "adika-annisa",
+                    "name": "AdikaAnnisa",
+                    "avatar": "content-images/images/20231123/ba07f57690928fa3bc77a62435106a26.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Peyek Teri Daun Jeruk",
+                    "slug": "peyek-teri-daun-jeruk",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Whisker",
+                "media_url": "content-images/images/20210712/4dfd8856cfd1df1585ecb6d8cdabe7fd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Spatula",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Fry Pan - Besar",
+                "media_url": "content-images/images/20210714/980057f47076afbd0ecaeea4a19a345d.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Ladle / Sendok Sayur",
+                "media_url": "content-images/images/20211105/b6f6c4206d16e40dcd2bfee5b6e34325.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

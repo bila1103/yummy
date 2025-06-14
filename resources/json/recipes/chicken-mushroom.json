@@ -1,0 +1,264 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "smx4kDeFj_lV7HsQbL1oEg==",
+        "title": "Chicken Creamy Mushroom",
+        "slug": "chicken-mushroom",
+        "cover_url": "content-images\/images\/20250411\/DXecvNKc6UEyWLCHJwkzfPbK4PXrGJAo-31373434333434383938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250411\/DXecvNKc6UEyWLCHJwkzfPbK4PXrGJAo-31373434333434383938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Simple chicken mushroom yang creamy.\r\nTambahkan kentang untuk pengganti karbonya.",
+        "rating": 5,
+        "video_url": "",
+        "price": 40000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 1,
+        "serving_max": 3,
+        "release_date": 1746022140,
+        "updated_date": 1746022237,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250411\/DXecvNKc6UEyWLCHJwkzfPbK4PXrGJAo-31373434333434383938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/9cMBymhCCiMpp8KF7",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Panaskan wajan, masukkan 50 gram butter.",
+                "image_url": "content-images\/images\/20250411\/qeMfcsuFgpNPvM87hsgjA11kIeaexigo-31373434333333383430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/qeMfcsuFgpNPvM87hsgjA11kIeaexigo-31373434333333383430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan paha ayam.",
+                "image_url": "content-images\/images\/20250411\/mdlPZWWg4ltXWnJZkVIPdv7Ib9SozvqG-31373434333333383532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/mdlPZWWg4ltXWnJZkVIPdv7Ib9SozvqG-31373434333333383532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masak hingga coklat.",
+                "image_url": "content-images\/images\/20250411\/76QkAsxaUg0psiuyzQOepA6tIzKaHslW-31373434333333383834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/76QkAsxaUg0psiuyzQOepA6tIzKaHslW-31373434333333383834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Panaskan wajan, masukkan 50 gram butter.",
+                "image_url": "content-images\/images\/20250411\/ahjvep9l2FJ0OlywtlK4zfyc5rma2G6e-31373434333333393032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/ahjvep9l2FJ0OlywtlK4zfyc5rma2G6e-31373434333333393032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan tepung terigu, aduk cepat.",
+                "image_url": "content-images\/images\/20250411\/hdkDRICk6UjnZddOM0mXn8LnMd7MxNtw-31373434333333393335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/hdkDRICk6UjnZddOM0mXn8LnMd7MxNtw-31373434333333393335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukkan susu cair.",
+                "image_url": "content-images\/images\/20250411\/LMpwis72yxwgzzn57odvf7Knh4evNQTD-31373434333333393533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/LMpwis72yxwgzzn57odvf7Knh4evNQTD-31373434333333393533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukkan creamer.",
+                "image_url": "content-images\/images\/20250411\/CKK4Ku0sTuTcP0XdWussMvlBfuFtWCCp-31373434333333393639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/CKK4Ku0sTuTcP0XdWussMvlBfuFtWCCp-31373434333333393639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Masukkan kentang, masak hingga 1\/2 matang.",
+                "image_url": "content-images\/images\/20250411\/SVlg7BFs9hlUhLdoCGmWZ2MSJEzBkUkT-31373434333333393933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/SVlg7BFs9hlUhLdoCGmWZ2MSJEzBkUkT-31373434333333393933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Masukkan ayam.",
+                "image_url": "content-images\/images\/20250411\/O4o8nEl0DOfSivXsZKy6CXX3vc3gjJUE-31373434333334303135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/O4o8nEl0DOfSivXsZKy6CXX3vc3gjJUE-31373434333334303135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 10",
+                "text": "Bumbui dengan italian herbs, kaldu jamur dan garam. Masak hingga ayam dan kentang matang.",
+                "image_url": "content-images\/images\/20250411\/hEquNtAbkO8V1UMMpyXufHBO5Ebz3mW6-31373434333334303239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 10,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250411\/hEquNtAbkO8V1UMMpyXufHBO5Ebz3mW6-31373434333334303239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Makanan Sehat",
+                "slug": "makanan-sehat"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "0gron32Xnrz-2_9pd3Nxzw==",
+                "name": "Jamur",
+                "slug": "jamur"
+            },
+            {
+                "id": "RkAHZYbrL58-78Y_ZBXAcw==",
+                "name": "Kentang",
+                "slug": "kentang"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "c3kTV0wAdP6aoqG7jQqx2w==",
+            "uuid": "065ea9af-e421-4c25-ad1d-e1cd4d24be90",
+            "username": "galia",
+            "name": "Galia Salfitri",
+            "avatar": "content-images\/images\/20200425\/lAMa4t2fwF7mvq917Kx8gs6726ATcc5L-31353837383133383736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "500 gram paha ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "750 ml susu cair",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm creamer bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gram butter",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt italian herbs",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt kaldu jamur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

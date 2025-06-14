@@ -1,0 +1,225 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "tyeYxtL8vK5g0J6o8xmekw==",
+        "title": "Spicy Brewed Chicken",
+        "slug": "spicy-brewed-chicken",
+        "cover_url": "content-images\/images\/20250423\/3hmz7FNpmAu0hzktoEeF9VbwakcHFtNa-31373435333733353737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250423\/3hmz7FNpmAu0hzktoEeF9VbwakcHFtNa-31373435333733353737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Resep masakan untuk makan siang, enak banget",
+        "rating": 5,
+        "video_url": "",
+        "price": 53000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 23,
+        "serving_min": 3,
+        "serving_max": 5,
+        "release_date": 1747217460,
+        "updated_date": 1747217592,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250423\/3hmz7FNpmAu0hzktoEeF9VbwakcHFtNa-31373435333733353737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/wa9LBMGzq4Gxjt1g8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Panaskan sedikit minyak dalam wajan. Tumis 10 gr jahe hingga harum, lalu masukkan 800 gr ayam. Tumis hingga permukaan ayam kering dan airnya habis",
+                "image_url": "content-images\/images\/20250423\/G7BlfgIPme0deke2fiSHcSLMXzIGnz7d-31373435333733363135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250423\/G7BlfgIPme0deke2fiSHcSLMXzIGnz7d-31373435333733363135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan 10 ml arak masak, 2 gr garam, dan 10 ml kecap asin. Aduk rata sambil terus menumis",
+                "image_url": "content-images\/images\/20250423\/jCeQ4MiTBjkKCcnu8Qt3TwkDCkaAqlmd-31373435333733363530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250423\/jCeQ4MiTBjkKCcnu8Qt3TwkDCkaAqlmd-31373435333733363530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan 30 gr daun bawang, 30 gr cabai rawit merah, dan 20 gr cabai acar. Tumis hingga aroma keluar",
+                "image_url": "content-images\/images\/20250423\/y6lsh5Mkpq5vdXuX3CoWujb3gQ4wWEOm-31373435333733363838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250423\/y6lsh5Mkpq5vdXuX3CoWujb3gQ4wWEOm-31373435333733363838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan 10 ml kecap hitam, 10 ml minyak tiram, 2 gr garam, dan 2 gr merica bubuk. Aduk rata hingga bumbu meresap",
+                "image_url": "content-images\/images\/20250423\/leYCVqOpcrV2Xu6V1uyhloHeQb13LkL7-31373435333733373335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250423\/leYCVqOpcrV2Xu6V1uyhloHeQb13LkL7-31373435333733373335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tuangkan 300 ml bir, lalu masak selama beberapa menit hingga kuah sedikit menyusut dan ayam matang sempurna. Tambahkan 2 gr kaldu ayam instan. Aduk rata",
+                "image_url": "content-images\/images\/20250423\/kMJbWF4gDAcPN0dlCLQ9R1ALAwB1yRTA-31373435333733373732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250423\/kMJbWF4gDAcPN0dlCLQ9R1ALAwB1yRTA-31373435333733373732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "OTrclgVOZxmXTlsXf-ffYw==",
+                "name": "Daun Bawang",
+                "slug": "daun-bawang"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Contains Alcohol",
+                "slug": "contains-alcohol",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "5GcT_tq4uRdbkXhnAQWOpw==",
+            "uuid": "893f3333-02fa-43e1-bb50-68963bfb9dd4",
+            "username": "chyra",
+            "name": "Chyra",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "800 gr daging ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 gr jahe iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 ml arak masak",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30 gr daun bawang iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30 gr cabai rawit merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "20 gr cabai acar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 ml minyak tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300 ml bir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

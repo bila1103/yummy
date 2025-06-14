@@ -1,0 +1,371 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "vAGU2buvBpGx2jH_vv603A==",
+        "title": "Ubi Pisang Goreng Tepung",
+        "slug": "ubi-pisang-goreng-tepung",
+        "cover_url": "content-images\/images\/20250520\/125qBx4ETNE6dDfXAGTqLccOw7fqfgxj-31373437373139343534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250520\/125qBx4ETNE6dDfXAGTqLccOw7fqfgxj-31373437373139343534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Enak untuk camilan minum teh",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 25,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1747725660,
+        "updated_date": 1747725702,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 14,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250520\/125qBx4ETNE6dDfXAGTqLccOw7fqfgxj-31373437373139343534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/dNMzRDjD5v4ji6bi8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Cairkan 3 sdm tepung, lalu masukan pisang, aduk sambil di tekan",
+                "image_url": "content-images\/images\/20250520\/G6zHepoAoPrpiuU3jGVFCTL4xBGB8vzv-31373437373139353032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/G6zHepoAoPrpiuU3jGVFCTL4xBGB8vzv-31373437373139353032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Cairkan 3 sdm tepung, lalu masukan pisang, aduk sambil di tekan",
+                "image_url": "content-images\/images\/20250520\/G6zHepoAoPrpiuU3jGVFCTL4xBGB8vzv-31373437373139353032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/G6zHepoAoPrpiuU3jGVFCTL4xBGB8vzv-31373437373139353032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Kupas ubi putih, rendam di air supaya tidak menghitam",
+                "image_url": "content-images\/images\/20250520\/pkwRpRVUQg5ag8WWXE3rIDz7Hp4YE9Wt-31373437373139353133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/pkwRpRVUQg5ag8WWXE3rIDz7Hp4YE9Wt-31373437373139353133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Kupas ubi putih, rendam di air supaya tidak menghitam",
+                "image_url": "content-images\/images\/20250520\/pkwRpRVUQg5ag8WWXE3rIDz7Hp4YE9Wt-31373437373139353133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/pkwRpRVUQg5ag8WWXE3rIDz7Hp4YE9Wt-31373437373139353133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Iris bentuk korek api",
+                "image_url": "content-images\/images\/20250520\/BWCDRu9GpbG9PJrHdrs9jJ5PcRdsO8VO-31373437373139353230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/BWCDRu9GpbG9PJrHdrs9jJ5PcRdsO8VO-31373437373139353230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Iris bentuk korek api",
+                "image_url": "content-images\/images\/20250520\/BWCDRu9GpbG9PJrHdrs9jJ5PcRdsO8VO-31373437373139353230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/BWCDRu9GpbG9PJrHdrs9jJ5PcRdsO8VO-31373437373139353230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukan ke dalam adonan",
+                "image_url": "content-images\/images\/20250520\/NtplhfmMvqfGqYhGbfu8EBQoe9nDuWiN-31373437373139353238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/NtplhfmMvqfGqYhGbfu8EBQoe9nDuWiN-31373437373139353238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Masukan ke dalam adonan",
+                "image_url": "content-images\/images\/20250520\/NtplhfmMvqfGqYhGbfu8EBQoe9nDuWiN-31373437373139353238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/NtplhfmMvqfGqYhGbfu8EBQoe9nDuWiN-31373437373139353238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Beri sisa tepung dan air sedikit demi sedikit hingga kekentalannya pas. Lalu masukan garam, gula dan vanili bubuk, aduk",
+                "image_url": "content-images\/images\/20250520\/4exObEsmzpDkpTbuuG8nCS2ADqnD2wOs-31373437373139353335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/4exObEsmzpDkpTbuuG8nCS2ADqnD2wOs-31373437373139353335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 10",
+                "text": "Beri sisa tepung dan air sedikit demi sedikit hingga kekentalannya pas. Lalu masukan garam, gula dan vanili bubuk, aduk",
+                "image_url": "content-images\/images\/20250520\/4exObEsmzpDkpTbuuG8nCS2ADqnD2wOs-31373437373139353335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/4exObEsmzpDkpTbuuG8nCS2ADqnD2wOs-31373437373139353335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 11",
+                "text": "Panaskan minyak, ambil 1 sdm adonan. Goreng hingga golden brown",
+                "image_url": "content-images\/images\/20250520\/5u27BKBDMgUBwmmhP66IS5lOvGIWP50C-31373437373139353433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/5u27BKBDMgUBwmmhP66IS5lOvGIWP50C-31373437373139353433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 12",
+                "text": "Panaskan minyak, ambil 1 sdm adonan. Goreng hingga golden brown",
+                "image_url": "content-images\/images\/20250520\/5u27BKBDMgUBwmmhP66IS5lOvGIWP50C-31373437373139353433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/5u27BKBDMgUBwmmhP66IS5lOvGIWP50C-31373437373139353433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 13",
+                "text": "Sajikan",
+                "image_url": "content-images\/images\/20250520\/iHjHOrSLAbq3VlmtyI0IAse2l7q7Rc1X-31373437373139353531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/iHjHOrSLAbq3VlmtyI0IAse2l7q7Rc1X-31373437373139353531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 14",
+                "text": "Sajikan",
+                "image_url": "content-images\/images\/20250520\/iHjHOrSLAbq3VlmtyI0IAse2l7q7Rc1X-31373437373139353531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/iHjHOrSLAbq3VlmtyI0IAse2l7q7Rc1X-31373437373139353531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "Cil1aGffCF64L1bZoyR6UA==",
+                "name": "MPASI",
+                "slug": "mpasi"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "5E06leA9af_ayn-5H4PqVA==",
+                "name": "Pisang",
+                "slug": "pisang"
+            },
+            {
+                "id": "5E06leA9af_ayn-5H4PqVA==",
+                "name": "Pisang",
+                "slug": "pisang"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            },
+            {
+                "id": "qQy8XZh2M-j6xIFwdedn0A==",
+                "name": "Ubi",
+                "slug": "ubi"
+            },
+            {
+                "id": "qQy8XZh2M-j6xIFwdedn0A==",
+                "name": "Ubi",
+                "slug": "ubi"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "5dvnNnEB3VSa6mOMMzc4Lw==",
+            "uuid": "78e64760-6fee-4ceb-930d-a23155b5d4bc",
+            "username": "lina-dwis",
+            "name": "Lina Dwi S",
+            "avatar": "content-images\/images\/20211129\/qblYVAYq5ZGi0Z6vrVZp61BUDF2ghpr6-31363338313938323132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 buah pisang kepok matang, potong dadu kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 buah ubi putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "9 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2-3 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/8 sdt vanili bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "80-100 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah pisang kepok matang, potong dadu kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 buah ubi putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "9 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2-3 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/8 sdt vanili bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "80-100 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

@@ -1,0 +1,314 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "VD2hjHIkjK_SLR1j75UKZQ==",
+        "title": "Ikan Cakalang Bumbu Habang",
+        "slug": "ikan-cakalang-bumbu-habang",
+        "cover_url": "content-images\/images\/20250310\/pP5op4CuSyLjwpaS4s3YsBDiixVECRNR-31373431353830323932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250310\/pP5op4CuSyLjwpaS4s3YsBDiixVECRNR-31373431353830323932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Enak sekali, sajikan dengan tambahan taburan bawang goreng.",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 40,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1745292420,
+        "updated_date": 1745292511,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 16,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250310\/pP5op4CuSyLjwpaS4s3YsBDiixVECRNR-31373431353830323932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/1nF16LgFBh18nTp99",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Goreng ikan sampai matang, angkat dan tiriskan.",
+                "image_url": "content-images\/images\/20250310\/e8PdgMs6YGxfAh5jGXDYFuvVduziKxNj-31373431353830333134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250310\/e8PdgMs6YGxfAh5jGXDYFuvVduziKxNj-31373431353830333134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tumis bumbu halus, kayu manis, cengkeh, gula merah dan air asam jawa.",
+                "image_url": "content-images\/images\/20250310\/TjADGAHEvJwPIKGAtHSNihvD0g1m6J2N-31373431353830333235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250310\/TjADGAHEvJwPIKGAtHSNihvD0g1m6J2N-31373431353830333235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tumis bumbu sampai benar-benar matang dan berminyak.",
+                "image_url": "content-images\/images\/20250310\/AChdY05dEybMGP3OhwBbJGP3JMcthZqx-31373431353830333337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250310\/AChdY05dEybMGP3OhwBbJGP3JMcthZqx-31373431353830333337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tuang air dan setelah mendidih masukkan ikan goreng.",
+                "image_url": "content-images\/images\/20250310\/uyrYQhiPdQwbXX2m758ZrKHX6OruSW5g-31373431353830333435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250310\/uyrYQhiPdQwbXX2m758ZrKHX6OruSW5g-31373431353830333435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tambahkan bumbu penyedap, masak dengan menggunakan api sedang cenderung kecil saja.",
+                "image_url": "content-images\/images\/20250310\/55C3hfEztaD7ahNqdWoun1nOtoJn9cFU-31373431353830333532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250310\/55C3hfEztaD7ahNqdWoun1nOtoJn9cFU-31373431353830333532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masak sampai bumbu meresap pada ikan dan kuahnya mengental. Koreksi rasa masakan dan siap disajikan.",
+                "image_url": "content-images\/images\/20250310\/oyQuYsMsiVqe0kHBiUEqf5DvECbpNxtA-31373431353830333630d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250310\/oyQuYsMsiVqe0kHBiUEqf5DvECbpNxtA-31373431353830333630d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "7Pw-KQ7rs49Juzcp7V1MtQ==",
+                "name": "Asam Jawa",
+                "slug": "asam-jawa"
+            },
+            {
+                "id": "-HX-cFLvXoLpJV2m_QDmpg==",
+                "name": "Cengkeh",
+                "slug": "cengkeh"
+            },
+            {
+                "id": "Pqpraztc6nIwZ73SYclR0A==",
+                "name": "Gula Merah",
+                "slug": "gula-merah"
+            },
+            {
+                "id": "3s5JR7UJq706BhMuVv274A==",
+                "name": "Ikan",
+                "slug": "ikan"
+            },
+            {
+                "id": "cPFDFBvYXvdMy6OLQ4F6Jg==",
+                "name": "Kayu Manis",
+                "slug": "kayu-manis"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "ycCR0D6AV1aaMpMK9I2iDw==",
+            "uuid": "259e9e90-d1f4-4157-b357-ba12724d1074",
+            "username": "heny-rosita",
+            "name": "Heny Rosita",
+            "avatar": "content-images\/images\/20220815\/luSkMV5XbmQDxtTqbZpCxhev5ozSQ6rI-31363630353330363737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "400 ikan cakalang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "250 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm air asam jawa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 cm kayumanis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 butir cengkeh",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm gula merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 sdm minyak goreng, untuk menumis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu halus",
+                "ingredients": [
+                    {
+                        "description": "6 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 butir kemiri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 buah cabai merah kering",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 ruas jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt pala bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu Penyedap",
+                "ingredients": [
+                    {
+                        "description": "Secukupnya garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya penyedap rasa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

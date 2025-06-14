@@ -1,0 +1,233 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "Qsr_abS1EFlfZq-7IqK4ZA==",
+        "title": "Smoke Beef Burger",
+        "slug": "smoke-beef-burger",
+        "cover_url": "content-images\/images\/20250420\/BbGOBbbskzNuNiWWJS5Swmt4smgOecOI-31373435313131363632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250420\/BbGOBbbskzNuNiWWJS5Swmt4smgOecOI-31373435313131363632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Burger simpel buat weekend anak anak dirumah",
+        "rating": 5,
+        "video_url": "",
+        "price": 0,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1747192440,
+        "updated_date": 1747192537,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 9,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250420\/BbGOBbbskzNuNiWWJS5Swmt4smgOecOI-31373435313131363632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/12puTqFvTYyK49iP6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Belah 2 roti burger lalu panggang dengan margarin sampai matang, angkat.",
+                "image_url": "content-images\/images\/20250420\/LB2rvaCFLIbI87ontco2CM2FdFzfeBCV-31373435313131373934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/LB2rvaCFLIbI87ontco2CM2FdFzfeBCV-31373435313131373934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Panaskan margarin lagi sedikit tumis bawang bombai dan panggang smoke beef sampai matang juga, angkat.",
+                "image_url": "content-images\/images\/20250420\/Dj9DqCc2055UYFSLX8TAogVnnfDxIkKa-31373435313131373939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/Dj9DqCc2055UYFSLX8TAogVnnfDxIkKa-31373435313131373939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Olesi sebagian roti dengan saus sambal.",
+                "image_url": "content-images\/images\/20250420\/PuW7EE9u24dhyTcVgGwt180L6BtNEJCa-31373435313131383035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/PuW7EE9u24dhyTcVgGwt180L6BtNEJCa-31373435313131383035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Lalu tata selada, keju slice, smoke beef, beri saus sambal dan mayones terakhir irisan timun.",
+                "image_url": "content-images\/images\/20250420\/7EIa9i8vyejiP1i38NrEjaLWr3VkjfAF-31373435313131383039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/7EIa9i8vyejiP1i38NrEjaLWr3VkjfAF-31373435313131383039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tutup dengan burger lainnya, siap disajikan.",
+                "image_url": "content-images\/images\/20250420\/vSpuCVzUvHKL2oSYKsrO0XS7HgfHIVpB-31373435313131383135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/vSpuCVzUvHKL2oSYKsrO0XS7HgfHIVpB-31373435313131383135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "WpXdBor_sTS0zilbhSEJvw==",
+                "name": "cemilan enak",
+                "slug": "cemilan-enak"
+            },
+            {
+                "id": "RjoysWy7NDd9uWTdtX01FA==",
+                "name": "Burger",
+                "slug": "burger"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "agGYglzEVLUmxpiBbP0xFg==",
+                "name": "Bawang Bombay",
+                "slug": "bawang-bombay"
+            },
+            {
+                "id": "Opko9OFPSqnKtt6n3eH7Eg==",
+                "name": "Keju",
+                "slug": "keju"
+            },
+            {
+                "id": "H2a3gG-NMO2vqBnbonsTyA==",
+                "name": "Margarin",
+                "slug": "margarin"
+            },
+            {
+                "id": "Xz4TmzEflGVjKxn-DJebKg==",
+                "name": "Roti",
+                "slug": "roti"
+            },
+            {
+                "id": "Ilp-VgNtuky9zzgnLLngsw==",
+                "name": "Timun",
+                "slug": "timun"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "ISpJuTstOfZ3P8LzKPoH3g==",
+            "uuid": "f8fda7bc-cb3e-4a9e-8cc3-65b26da24ec6",
+            "username": "azsha-ramadhani",
+            "name": "Azsha Ramadhani",
+            "avatar": "content-images\/images\/20230523\/XxxvGoSPwRzkzmfpv9g2wDW2czwn8zdF-31363834383438383230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "3 potong roti burger",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 slice smoke beef",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "9 iris timun",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar selada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar keju slice",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 butir bawang bombai",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm margarin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya saus sambal",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya mayones",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

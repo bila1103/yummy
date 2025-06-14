@@ -1,0 +1,262 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "8O3yNW1Z27XNjDSuFM_75g==",
+        "title": "Sambal Teri",
+        "slug": "sambal-teri-24",
+        "cover_url": "content-images\/images\/20250419\/H0RJPehzSaPPW3UFLcBVDLjEHuTqWKB4-31373435303830383738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250419\/H0RJPehzSaPPW3UFLcBVDLjEHuTqWKB4-31373435303830383738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Buat banyak untuk stok persambalan. Masukkan kulkas keluarkan saat dibutuhkan",
+        "rating": 5,
+        "video_url": "",
+        "price": 30000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 5,
+        "serving_max": 20,
+        "release_date": 1747219920,
+        "updated_date": 1747220009,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 11,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250419\/H0RJPehzSaPPW3UFLcBVDLjEHuTqWKB4-31373435303830383738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/a56kDWBsJDSP1hEK6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Cuci teri kering, goreng hingga matang kecoklatan. Angkat dan sisihkan.",
+                "image_url": "content-images\/images\/20250419\/KHe0I0OvjzuRr0wYYmyBY3QNyccMoGZH-31373435303831323038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250419\/KHe0I0OvjzuRr0wYYmyBY3QNyccMoGZH-31373435303831323038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Goreng cabe dan tomat dengan sisa minyak menggoreng teri hingga layu.",
+                "image_url": "content-images\/images\/20250419\/EugFYOS8k7gReP5UHZLUsJRxdXSQ2DFR-31373435303831323238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250419\/EugFYOS8k7gReP5UHZLUsJRxdXSQ2DFR-31373435303831323238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan chopper, haluskan.",
+                "image_url": "content-images\/images\/20250419\/fFawILtDEssZko1fJ2jvpPOM3Q97yKSt-31373435303831323433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250419\/fFawILtDEssZko1fJ2jvpPOM3Q97yKSt-31373435303831323433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tumis bawang merah dan putih hingga matang.",
+                "image_url": "content-images\/images\/20250419\/L2pE0NxBloJBYYrfDd1uR97xUn5468HA-31373435303831323535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250419\/L2pE0NxBloJBYYrfDd1uR97xUn5468HA-31373435303831323535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Haluskan.",
+                "image_url": "content-images\/images\/20250419\/vcXqctJSfH2MWdf7E51zxcbGgUr9hXPW-31373435303831323637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250419\/vcXqctJSfH2MWdf7E51zxcbGgUr9hXPW-31373435303831323637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukkan sambal ke wajan, tambahkan seasoning dan sereh. Aduk rata hingga matang. Jika minyak goreng dirasa kurang bisa ditambah.",
+                "image_url": "content-images\/images\/20250419\/6kTf6xZaAnbEiFp0lWZxWhyybLuZFcYC-31373435303831323837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250419\/6kTf6xZaAnbEiFp0lWZxWhyybLuZFcYC-31373435303831323837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukkan teri goreng, aduk rata. Koreksi rasa. Sajikan",
+                "image_url": "content-images\/images\/20250419\/ZOqHRBOTsVfMulR7rQj9dpfiF0Q6jrNf-31373435303831333032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250419\/ZOqHRBOTsVfMulR7rQj9dpfiF0Q6jrNf-31373435303831333032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "yhMIYcwYDQ22BXNinjWclg==",
+                "name": "Sambal Indonesia",
+                "slug": "sambal-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "QLILR9zFtjzuT5c3pmu1vw==",
+                "name": "Ikan Teri",
+                "slug": "ikan-teri"
+            },
+            {
+                "id": "QvsDybc6uM6-8M_OksDGVw==",
+                "name": "Serai",
+                "slug": "serai"
+            },
+            {
+                "id": "0mFpKKHkQARg6xI2agSxcQ==",
+                "name": "Tomat",
+                "slug": "tomat"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "Fby96-5xWLMpukPoxV3etw==",
+            "uuid": "0ae73e07-4d0e-4e57-9db2-c20c129056b2",
+            "username": "cicik-ary",
+            "name": "Cicik Ary",
+            "avatar": "content-images\/images\/20211017\/nUeJwrTxo7gHwbpgFN1m7h7BaPHs4V3B-31363334343530303338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "100 gr cabe rawit",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 buah cabe merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "7 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr teri medan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 btg sereh",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr tomat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kaldu jamur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

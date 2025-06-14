@@ -1,0 +1,201 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "mAwNw5Jj3kMuxH6W5SslcA==",
+        "title": "Jenang singkong",
+        "slug": "jenang-singkong",
+        "cover_url": "content-images\/images\/20250513\/vDRPi0v9SFir0IYQ6SYb1cEoou7q2rvu-31373437313234373232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250513\/vDRPi0v9SFir0IYQ6SYb1cEoou7q2rvu-31373437313234373232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Kalau lagi ga enak badan enak bgt nih.",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 3,
+        "serving_max": 5,
+        "release_date": 1747218300,
+        "updated_date": 1747218343,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 5,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250513\/vDRPi0v9SFir0IYQ6SYb1cEoou7q2rvu-31373437313234373232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/9aokydtDbu18X9jZ6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Rebus santan dengan daun pandan dan sedikit garam.",
+                "image_url": "content-images\/images\/20250513\/HyHf3QRPVLXYjHJ0zlberMxeHaURJ14N-31373437313234383335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250513\/HyHf3QRPVLXYjHJ0zlberMxeHaURJ14N-31373437313234383335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Parut singkong lalu tambahkan 400ml air",
+                "image_url": "content-images\/images\/20250513\/axxgcaPB7kGrsjn42xcbqhrsUcs393zh-31373437313234383830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250513\/axxgcaPB7kGrsjn42xcbqhrsUcs393zh-31373437313234383830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan daun pandan",
+                "image_url": "content-images\/images\/20250513\/oHGl4NB3fYsItOC53SQh5Oe4e4sZlAbp-31373437313234393138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250513\/oHGl4NB3fYsItOC53SQh5Oe4e4sZlAbp-31373437313234393138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Setelah air menyusut tambahkan gula merah sisir.",
+                "image_url": "content-images\/images\/20250513\/ZqPwSksCkejRVIPpbj0u4ZkT7KdmLit7-31373437313234393336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250513\/ZqPwSksCkejRVIPpbj0u4ZkT7KdmLit7-31373437313234393336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masak hingga matang, berbuah warna dan mengental.",
+                "image_url": "content-images\/images\/20250513\/oHBytcjTIM7aTFoCXUrxd3ufcA1HWXhF-31373437313234393732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250513\/oHBytcjTIM7aTFoCXUrxd3ufcA1HWXhF-31373437313234393732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Sajikan dengan kuah santan.",
+                "image_url": "content-images\/images\/20250513\/luiYcbl2IYe0ZLR0N4r0493inGH9fzRD-31373437313235303134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250513\/luiYcbl2IYe0ZLR0N4r0493inGH9fzRD-31373437313235303134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "KjxaEsFa0tX6RzxykKepCg==",
+                "name": "Harga Di Bawah 10 Ribu",
+                "slug": "10k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Pqpraztc6nIwZ73SYclR0A==",
+                "name": "Gula Merah",
+                "slug": "gula-merah"
+            },
+            {
+                "id": "OVn1FXRZPmVFgDCUzl3xLw==",
+                "name": "Santan",
+                "slug": "santan"
+            },
+            {
+                "id": "tqfDf2P1f7HSkHXKPYTEOQ==",
+                "name": "Singkong",
+                "slug": "singkong"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "aeptKAKzj1jx-Y1vaQTVsA==",
+            "uuid": "836fb39c-f004-4462-9af1-6bbfcfa02a1f",
+            "username": "triwin",
+            "name": "Tri Winarny",
+            "avatar": "content-images\/images\/20191223\/GbHcNGbYMFNJV58dSkANIKkZA4Sy2ph8-31353631323031363534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "2 buah singkong",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "400ml santan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200gram gula merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang daun pandan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

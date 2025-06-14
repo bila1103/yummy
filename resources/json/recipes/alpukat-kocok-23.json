@@ -1,0 +1,216 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "tfGCGBQZt4FysEQpa87Cyw==",
+        "title": "Alpukat Kocok",
+        "slug": "alpukat-kocok-23",
+        "cover_url": "content-images\/images\/20250319\/6npYzWPmCmizGx32e1NhatlMfV3Taoys-31373432333636353735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250319\/6npYzWPmCmizGx32e1NhatlMfV3Taoys-31373432333636353735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Alpukat kocok ini sangat lezat, karena dipadukan dengan krim dan gula.",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 25,
+        "serving_min": 4,
+        "serving_max": 5,
+        "release_date": 1744781520,
+        "updated_date": 1744782279,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 7,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250319\/6npYzWPmCmizGx32e1NhatlMfV3Taoys-31373432333636353735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/EMWNJ3vLehXpNufR8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Rebus pandan dan gula hingga mendidih, matikan api kompor",
+                "image_url": "content-images\/images\/20250319\/P2zhOzf7GfWxOPRx5Phc38aNcMH56spd-31373432333636363931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250319\/P2zhOzf7GfWxOPRx5Phc38aNcMH56spd-31373432333636363931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan kirim, aduk hingga tercampur rata, hidupkan api kompor, masak hingga mendidih, dinginkan",
+                "image_url": "content-images\/images\/20250319\/1cEboobQPJH2T5QMKBmAGZQJAg5q3TMF-31373432333636373233d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250319\/1cEboobQPJH2T5QMKBmAGZQJAg5q3TMF-31373432333636373233d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Setelah dingin, tambahkan garam dan vanili, aduk",
+                "image_url": "content-images\/images\/20250319\/zfctyRjhRljjmA3G2eMLRGYgWeeCjUts-31373432333636383231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250319\/zfctyRjhRljjmA3G2eMLRGYgWeeCjUts-31373432333636383231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Ambil daging alpukat, kocok hingga hancur",
+                "image_url": "content-images\/images\/20250319\/LVhX3aKLzTfVt3a7T7aruqtt2YpwFeOF-31373432333636383530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250319\/LVhX3aKLzTfVt3a7T7aruqtt2YpwFeOF-31373432333636383530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tuang krim, aduk. Kalau suka bisa ditambahkan es batu",
+                "image_url": "content-images\/images\/20250319\/6j5QTJP7La3vg0bHsEIxcRbrUY20GCcV-31373432333637353032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250319\/6j5QTJP7La3vg0bHsEIxcRbrUY20GCcV-31373432333637353032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tjLwUn7mCQfa7d86yvsq3g==",
+                "name": "Minuman",
+                "slug": "minuman"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "GAGuHuj6QprYGtL3p-Qxfw==",
+                "name": "Alpukat",
+                "slug": "alpukat"
+            },
+            {
+                "id": "XEHoR0n-0Ar-2K4Q8RVw4w==",
+                "name": "Daun Pandan",
+                "slug": "daun-pandan"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "PB4Spc5ALyf9zqmbriHvig==",
+            "uuid": "60c8733a-9f22-477d-8b13-bf04e1389c63",
+            "username": "ahmad-fadil-rajab",
+            "name": "Fadil's Kitchen",
+            "avatar": "content-images\/images\/20210831\/vMSJC9JbkaDAtURNLaqBFNtPSoXrhxDV-31363330333831363938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "Satu buah alpukat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gram krim nabati",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 sdm gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 lembar pandan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt vanili",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "750 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

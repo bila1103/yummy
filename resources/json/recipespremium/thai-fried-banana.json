@@ -1,0 +1,323 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "2CfdrUKFM859CJoE2_C-iA==",
+        "title": "Thai Fried Banana",
+        "slug": "thai-fried-banana",
+        "cover_url": "content-images/images/20220511/fa414774bf1d274ea30283a5758d883f.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220511/fa414774bf1d274ea30283a5758d883f.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Hidangan pisang goreng khas Thailand yang gurih, krispy dan wangi dengan aroma wijen dan kelapa.",
+        "rating": 5,
+        "video_url": "content-videos/video/20220511/f2de4a139fa8b93bd6a876d4ffe25da7.mp4",
+        "price": 40000,
+        "price_premium": 5000,
+        "calories": "1354 Kj",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 31,
+        "serving_max": 32,
+        "release_date": 1652277600,
+        "updated_date": 1659533429,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 5,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images/images/20220511/fa414774bf1d274ea30283a5758d883f.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/QzM2PaZixg3bDPvz5",
+        "category": {
+            "name": "Cemilan",
+            "slug": "cemilan"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Menggunakan sebuah talenan, potong pisang kepok menjadi 2 bagian lalu bagi setiap bagiannya menjadi 4 irisan tipis.",
+                "image_url": "content-images/images/20220511/f615ffcc0c4a0d836adb801a29058734.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220511/f615ffcc0c4a0d836adb801a29058734.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Pada sebuah mangkuk campurkan tepung beras, gula, garam, baking powder. Aduk hingga semua tercampur rata.",
+                "image_url": "content-images/images/20220511/780adc55fb521d578a4d391b06faf2fc.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220511/780adc55fb521d578a4d391b06faf2fc.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "vn4I3seg5RQD1L3zHy-Y5g==",
+                "name": "camilan manis",
+                "slug": "camilan-manis"
+            },
+            {
+                "id": "YcaUBUEuIT-EZCRZuWH3oA==",
+                "name": "Cemilan",
+                "slug": "cemilan"
+            },
+            {
+                "id": "EFLsf4tQ3OFeg6Jue2_hMQ==",
+                "name": "Murah",
+                "slug": "murah"
+            },
+            {
+                "id": "aqgKmun69vpo862oEQd-0Q==",
+                "name": "Mudah",
+                "slug": "mudah"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "fZ8FKumT2zyDkTyDZtMSTw==",
+                "name": "Baking Powder",
+                "slug": "baking-powder"
+            },
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "cR2C8zI6gmX_XXrAs_OXuw==",
+                "name": "Kelapa",
+                "slug": "kelapa"
+            },
+            {
+                "id": "5E06leA9af_ayn-5H4PqVA==",
+                "name": "Pisang",
+                "slug": "pisang"
+            },
+            {
+                "id": "wjOI7jLd9RKri0o9Vn8t7A==",
+                "name": "Tepung Beras",
+                "slug": "tepung-beras"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "040a8a10-07c2-4d05-9319-773e5e16c23c",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "6 buah pisang kepok",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/VmV0La",
+                        "media_url": "content-images/images/20220511/917b6dd255ed95dd3fabc724288f42f5.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "32 gr kelapa parut",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBjvr",
+                        "media_url": "content-images/images/20210803/82c9c9a2eb6ae7aee04394b76f9ad5cc.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "96 gr tepung beras",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq2x9",
+                        "media_url": "content-images/images/20211026/551a9efe5140f1769c20fe1ba43a4501.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20211025/7a572e1883391c73701f6d6d766bd4dd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt baking powder",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/jr2BvM",
+                        "media_url": "content-images/images/20211025/670f7d1080dbece99897a1fa0d2bbefc.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 \u00bd sdm biji wijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbRBR",
+                        "media_url": "content-images/images/20210712/6589a06d9c9d2d33fbeb2602f2e7e487.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "80 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/a8f6e995116c81f4fbf4600a4520c6b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin A (\u00b5g)",
+                "slug": "vitamin-a-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": false
+            },
+            {
+                "name": "Vitamin C (mg)",
+                "slug": "vutamin-c-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [],
+        "cooking_tool": [
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Telenan - Bentuk Bulat",
+                "media_url": "content-images/images/20210712/00a2e0763cd3ae9ab62cace5336a95af.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Saringan",
+                "media_url": "content-images/images/20210712/65e57dfb6b663cb4596ed05cbced0077.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Piring Saji",
+                "media_url": "content-images/images/20210712/fe7aa848e95ce4d5fd56fb78459844f2.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Fry Pan - Besar",
+                "media_url": "content-images/images/20210714/980057f47076afbd0ecaeea4a19a345d.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

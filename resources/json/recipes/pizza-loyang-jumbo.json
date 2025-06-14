@@ -1,0 +1,360 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "xrtkW733X5e6weLQmh61AQ==",
+        "title": "Pizza Loyang Jumbo",
+        "slug": "pizza-loyang-jumbo",
+        "cover_url": "content-images\/images\/20241109\/ZwM2gxvT3K3gybc3mqsXsJolEJNj7YG7-31373331313333363637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20241109\/ZwM2gxvT3K3gybc3mqsXsJolEJNj7YG7-31373331313333363637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Beneran lembut dan toping mozarella yang berlimpah, enak lho!",
+        "rating": 5,
+        "video_url": "",
+        "price": 50000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 50,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1747809840,
+        "updated_date": 1747810333,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 17,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20241109\/ZwM2gxvT3K3gybc3mqsXsJolEJNj7YG7-31373331313333363637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/G9scziBNcqDFHpgVA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan semua bahan kecuali air margarin dan garam  ke dalam wadah.",
+                "image_url": "content-images\/images\/20241109\/IE116kpQjqJ6zrDenY7kirJg5mthllyy-31373331313333393131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241109\/IE116kpQjqJ6zrDenY7kirJg5mthllyy-31373331313333393131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tuang air secara perlahan, kemudian aduk rata.",
+                "image_url": "content-images\/images\/20241109\/gJxmAuKTh6pC34F6amxSVkFHP8otblcF-31373331313333393237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241109\/gJxmAuKTh6pC34F6amxSVkFHP8otblcF-31373331313333393237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan margarin dan garam, kemudian aduk hingga kalis rata.",
+                "image_url": "content-images\/images\/20241109\/6gl19LGNnq837sdFUV4qTQutARKM1btP-31373331313333393430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241109\/6gl19LGNnq837sdFUV4qTQutARKM1btP-31373331313333393430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Fermentasi selama 10 menit dengan menggunakan oven.",
+                "image_url": "content-images\/images\/20241109\/2OxdcF3JSJHfmQQPBTXpDF4g2ngtOZe3-31373331313333393632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241109\/2OxdcF3JSJHfmQQPBTXpDF4g2ngtOZe3-31373331313333393632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Letakkan adonan di atas loyang, lalu beri semua bahan pelengkap toping.",
+                "image_url": "content-images\/images\/20241109\/7O1EGhSgCMk0Sj81iLZJexvrEnbpDngw-31373331313333393832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241109\/7O1EGhSgCMk0Sj81iLZJexvrEnbpDngw-31373331313333393832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Panggang selama 20 menit menggunakan suhu 200\u2070C.",
+                "image_url": "content-images\/images\/20241109\/xgHe5lnvxiTEOTop5Sy0vu21c9g5vqEy-31373331313334303035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241109\/xgHe5lnvxiTEOTop5Sy0vu21c9g5vqEy-31373331313334303035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Keluarkan dari oven, lalu tunggu adonan dingin.",
+                "image_url": "content-images\/images\/20241109\/BXniP4VUg2IrUChtOlhUqEF3ejWRIECx-31373331313334303332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241109\/BXniP4VUg2IrUChtOlhUqEF3ejWRIECx-31373331313334303332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Potong sesuai selera dan siap dinikmati!",
+                "image_url": "content-images\/images\/20241109\/MyF2Scrz708aAnDls36obY9ZzGX0YXzp-31373331313334303534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20241109\/MyF2Scrz708aAnDls36obY9ZzGX0YXzp-31373331313334303534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "usXEbkynVf0iKZw3CB1LvQ==",
+                "name": "Makanan Italia",
+                "slug": "makanan-italia"
+            },
+            {
+                "id": "DstFTETMX0lZXRU9ClmTlA==",
+                "name": "Makanan Ringan",
+                "slug": "makanan-ringan"
+            },
+            {
+                "id": "EnxfCIxNJ_p6oeBoy7OjaQ==",
+                "name": "Menu Sarapan",
+                "slug": "menu-sarapan"
+            },
+            {
+                "id": "-dBITgwJuXFWGsxK1BLFeg==",
+                "name": "Makanan Mancanegara",
+                "slug": "makanan-mancanegara"
+            },
+            {
+                "id": "GlZXNP96qJdMVZEMNDv9fQ==",
+                "name": "Ide Jualan",
+                "slug": "ide-jualan"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "j7ezTztbkf-aUKNMSF2Dvw==",
+                "name": "Keju Mozarella",
+                "slug": "keju-mozarella"
+            },
+            {
+                "id": "H2a3gG-NMO2vqBnbonsTyA==",
+                "name": "Margarin",
+                "slug": "margarin"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "V-Kjssmqv8xxzf8Yl_HKMg==",
+            "uuid": "e6bfae2a-d0cf-4878-ac06-b906e282d319",
+            "username": "ayu-aura",
+            "name": "Ayu Aura",
+            "avatar": "content-images\/images\/20231123\/16d814b0b5d171a1f903917743a00f96.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Roti Pizza",
+                "ingredients": [
+                    {
+                        "description": "250 gr tepung protein tinggi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "20 gr susu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt pelembut roti",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt ragi instan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "20 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml air dingin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr margarin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Topping",
+                "ingredients": [
+                    {
+                        "description": "\u00bd bulat bawang bombay",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah sosis sapi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya saus bolognese",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya saus tomat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya saus sambal",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya oregano",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr mozarella",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya mayonaise",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

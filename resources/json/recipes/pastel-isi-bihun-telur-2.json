@@ -1,0 +1,356 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "9G8GtuhQdTpzoDXu-xVWkQ==",
+        "title": "Pastel Isi Bihun Telur",
+        "slug": "pastel-isi-bihun-telur-2",
+        "cover_url": "content-images\/images\/20250209\/Ygd0nWxGkR4dFVvF0186Nxz3VNnQlLk1-31373339313032373234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250209\/Ygd0nWxGkR4dFVvF0186Nxz3VNnQlLk1-31373339313032373234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Pastel isi bihun telur rasanya gurih dan renyah, pas buat camilan!\r\nSemoga bermanfaat! \ud83e\udd17",
+        "rating": 5,
+        "video_url": "",
+        "price": 20000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 5,
+        "serving_max": 8,
+        "release_date": 1746610740,
+        "updated_date": 1746611156,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 17,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250209\/Ygd0nWxGkR4dFVvF0186Nxz3VNnQlLk1-31373339313032373234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/SaqwkYMSd6b5JMTH8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Haluskan bawang merah, bawang putih, cabe keriting merah, lada bulat, dan kemiri.",
+                "image_url": "content-images\/images\/20250209\/86cdJo4KihKgNYiQRBk2ZexdWYLpBUXT-31373339313033313133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250209\/86cdJo4KihKgNYiQRBk2ZexdWYLpBUXT-31373339313033313133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Kemudian, tumis bumbu yang sudah dihaluskan sampai matang. Tambahkan kaldu bubuk, garam, gula pasir, micin, dan air sedikit.",
+                "image_url": "content-images\/images\/20250209\/IBVmTW1OvhCiXr70d2AKRn0BHIjFPWiS-31373339313033313238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250209\/IBVmTW1OvhCiXr70d2AKRn0BHIjFPWiS-31373339313033313238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan bihun yang sudah direndam dan daun bawang yang sudah dipotong-potong, lalu aduk-aduk merata dan tunggu sampai bumbu meresap.",
+                "image_url": "content-images\/images\/20250209\/bz2xoMFZnh11R67RQlIIut1o9C9QWhEl-31373339313033313531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250209\/bz2xoMFZnh11R67RQlIIut1o9C9QWhEl-31373339313033313531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Rebus telur hinggga matang, kemudian potong-potong sesuai selera.",
+                "image_url": "content-images\/images\/20250209\/c9MUoAfewbT7GPe8vgvhGK7C3RTZTgv1-31373339313033313738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250209\/c9MUoAfewbT7GPe8vgvhGK7C3RTZTgv1-31373339313033313738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Siapkan wadah lalu masukkan tepung terigu, margarin yang sudah dicairkan, minyak goreng, kaldu bubuk, dan garam.",
+                "image_url": "content-images\/images\/20250209\/WHmxzcoN5n4mhU18lVXZeC6erC9DIFGS-31373339313033323038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250209\/WHmxzcoN5n4mhU18lVXZeC6erC9DIFGS-31373339313033323038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Lalu masukkan air sedikit demi sedikit sembari diuleni hingga tercampur merata dan membentuk adonan, diamkan selama 20 menit.",
+                "image_url": "content-images\/images\/20250209\/WHhS3Bce3piB5jDL8uVoG48w61OSKbuC-31373339313033323334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250209\/WHhS3Bce3piB5jDL8uVoG48w61OSKbuC-31373339313033323334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Setelah 20 menit, ambil adonan secukupnya. Kemudian, rolling dan beri isian bihun dan telur.",
+                "image_url": "content-images\/images\/20250209\/Fu46VnzbAiMssg7lt88HMgUsn66Vl6jt-31373339313033323537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250209\/Fu46VnzbAiMssg7lt88HMgUsn66Vl6jt-31373339313033323537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Tutup rapat dan pilin pinggirnya sampai selesai.",
+                "image_url": "content-images\/images\/20250209\/59CFAwyi9qtmLe2bytXF9cK139ufMigV-31373339313033333036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250209\/59CFAwyi9qtmLe2bytXF9cK139ufMigV-31373339313033333036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Kemudian, goreng pastel hingga kuning kecokelatan.",
+                "image_url": "content-images\/images\/20250209\/8PyODpYqdCFpialhXuCzEumbnyDmtCxk-31373339313033333236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250209\/8PyODpYqdCFpialhXuCzEumbnyDmtCxk-31373339313033333236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 10",
+                "text": "Pastel isi bihun telur siap dinikmati!",
+                "image_url": "content-images\/images\/20250209\/ceo3Z5l1dnMa7WpO28HrFx0vBZj8pKWl-31373339313033333533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 10,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250209\/ceo3Z5l1dnMa7WpO28HrFx0vBZj8pKWl-31373339313033333533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "FrcGuNBVracfQ1LMbrq3BA==",
+                "name": "Gorengan",
+                "slug": "gorengan"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "DstFTETMX0lZXRU9ClmTlA==",
+                "name": "Makanan Ringan",
+                "slug": "makanan-ringan"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "fyjUygRQT-HmVvqW0j3hwA==",
+                "name": "Bihun",
+                "slug": "bihun"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "FdTvpzEep6GWE1157ZG1uw==",
+            "uuid": "e6781650-0c1e-4575-add2-ca35655b6444",
+            "username": "lestari-0120",
+            "name": "Lestari 0120",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "300 gr tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr margarin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sendok makan minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sendok teh kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sendok teh garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan isian",
+                "ingredients": [
+                    {
+                        "description": "2 bungkus bihun",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 buah cabe keriting merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 batang daun bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sendok teh lada bulat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 butir kemiri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sendok teh kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sendok teh garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sendok teh gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sendok teh micin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

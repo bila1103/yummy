@@ -1,0 +1,338 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "vOVrF8QNRKO75biWEmovEQ==",
+        "title": "Ayam Kecap Cabe Hijau",
+        "slug": "ayam-kecap-cabe-hijau-4",
+        "cover_url": "content-images\/images\/20250412\/1knOeVrLjP8WSOanSlhwep1v5jofugkn-31373434343433313633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250412\/1knOeVrLjP8WSOanSlhwep1v5jofugkn-31373434343433313633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Yummy..\r\nMasak enak dan simpel.",
+        "rating": 5,
+        "video_url": "",
+        "price": 35000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 45,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1746166800,
+        "updated_date": 1746166920,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 16,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250412\/1knOeVrLjP8WSOanSlhwep1v5jofugkn-31373434343433313633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/6QAQuCpUbCYkTBh98",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Didihkan air, tambahkan daun salam, garam dan jahe.",
+                "image_url": "content-images\/images\/20250412\/lgqqNbjHMikUXFCKclzgU3BwyPmKFk8Y-31373434343430323434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/lgqqNbjHMikUXFCKclzgU3BwyPmKFk8Y-31373434343430323434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan ayam, rebud hingga ayam setengah matang. Lalu angkat ayam, dan sisihkan air kaldunya.",
+                "image_url": "content-images\/images\/20250412\/6ZvRm8vNt039bnayHPvmZ5SLReKXGoel-31373434343430333036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/6ZvRm8vNt039bnayHPvmZ5SLReKXGoel-31373434343430333036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Goreng ayam menggunakan air fryer hingga sedikit kecoklatan.",
+                "image_url": "content-images\/images\/20250412\/MO6r6ky3kR3aCOzzcYUgUWrb8VxMWAUN-31373434343430333434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/MO6r6ky3kR3aCOzzcYUgUWrb8VxMWAUN-31373434343430333434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tumis bumbu halus hingga harum.",
+                "image_url": "content-images\/images\/20250412\/HNHByJsepmwPfK0E1eaoPcXwM1aa4SYi-31373434343430333636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/HNHByJsepmwPfK0E1eaoPcXwM1aa4SYi-31373434343430333636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tambahkan serai, daun jeruk, irisan cabe rawit setan dan lengkuas. Aduk rata.",
+                "image_url": "content-images\/images\/20250412\/9Mvo9X7MYY7fSGlP5Nxqm9oBjTd1bKuZ-31373434343430333834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/9Mvo9X7MYY7fSGlP5Nxqm9oBjTd1bKuZ-31373434343430333834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukkan irisan bawang bombay, aduk rata.",
+                "image_url": "content-images\/images\/20250412\/yCSPn4XG0Rp4nFLgW1dAWKHlP7auqO4d-31373434343431303133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/yCSPn4XG0Rp4nFLgW1dAWKHlP7auqO4d-31373434343431303133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukkan ayam, air kaldu, kecap manis, garam, gula dan lada bubuk. Masak hingga mendidih.",
+                "image_url": "content-images\/images\/20250412\/hOqhuWAeTQRWAwdi0aqpC7kl1MRZZFhP-31373434343431303338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/hOqhuWAeTQRWAwdi0aqpC7kl1MRZZFhP-31373434343431303338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Tambahkan irisan cabe hijau. Aduk rata.",
+                "image_url": "content-images\/images\/20250412\/6x2eQ20DfOg9SpligInCH2DUYisQCqet-31373434343433313731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/6x2eQ20DfOg9SpligInCH2DUYisQCqet-31373434343433313731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Masak hingga ayam matang dan bumbu meresap. Koreksi rasa siap disajikan.",
+                "image_url": "content-images\/images\/20250412\/Au8T02uKdFEovtyqGqXWILCaY2grUB4h-31373434343433313939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/Au8T02uKdFEovtyqGqXWILCaY2grUB4h-31373434343433313939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "_GHgkJBuk8m9BdjjhmCfhw==",
+                "name": "Daun Salam",
+                "slug": "daun-salam"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            },
+            {
+                "id": "zz7VvQtuZ_entrgdutA7dQ==",
+                "name": "Kecap Manis",
+                "slug": "kecap-manis"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "Dj9Fs92z13dtucDql9mP-A==",
+            "uuid": "2824ebcc-8ea1-4a7c-93d2-989872ad584b",
+            "username": "diana-nurjanah",
+            "name": "Diana Nurjanah ",
+            "avatar": "content-images\/images\/20201122\/JQRmh4jJxeheD27ne1L64mkA1QonHy31-31363036303131303436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "500 gram ayam broiler, potong-potong kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang serai, geprek",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 lembar daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 lembar daun jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 ruas lengkuas, iris tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 ruas jahe, geprek",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Garam secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Gula pasir secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Lada bubuk secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Kaldu bubuk secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "500 ml air mineral",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Minyak sayur secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu Iris:",
+                "ingredients": [
+                    {
+                        "description": "\u00bc siung bawang bombay",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah cabe hijau besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu Halus:",
+                "ingredients": [
+                    {
+                        "description": "2 sdm bumbu dasar merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah cabe rawit setan, iris tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

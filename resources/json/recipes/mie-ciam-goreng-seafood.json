@@ -1,0 +1,328 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "fgJkiDgN42C6mKIB8Zk2FQ==",
+        "title": "Mie Ciam Goreng Seafood",
+        "slug": "mie-ciam-goreng-seafood",
+        "cover_url": "content-images\/images\/20240530\/bb57LdAAbmMpUCBDA6RCOvN7cN84BnOx-31373137303331333139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20240530\/bb57LdAAbmMpUCBDA6RCOvN7cN84BnOx-31373137303331333139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Dapat oleh-oleh mie ciam khas Bagan, langsung diolah dan disantap bersama keluarga.",
+        "rating": 5,
+        "video_url": "",
+        "price": 25000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1745484600,
+        "updated_date": 1745485076,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 16,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20240530\/bb57LdAAbmMpUCBDA6RCOvN7cN84BnOx-31373137303331333139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/8h5kSGSSZB8sHTab9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Panaskan air secukupnya. Setelah air mendidih, masukkan mie ciam, rebus hingga tekstur mi lembut.",
+                "image_url": "content-images\/images\/20240504\/ZuGKpjS1C0kSZhl2EFfVnV60ArYhmE9q-31373134373830343830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240504\/ZuGKpjS1C0kSZhl2EFfVnV60ArYhmE9q-31373134373830343830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tiriskan mi lalu tuangkan kecap asin, kecap manis, saus tiram, minyak wijen, kecap ikan, dan merica. Aduk rata, lalu biarkan dan lanjutkan menyiapkan bahan lainnya.",
+                "image_url": "content-images\/images\/20240504\/6spzJ8nZGtxk5KrYI0ggE45XCgGKIeKL-31373134373830363232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240504\/6spzJ8nZGtxk5KrYI0ggE45XCgGKIeKL-31373134373830363232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Siangi dan rajang udang, cumi, dan crab stick. Begitu juga dengan sawi dan daun sop. Untuk sawi, cukup potong bongkolnya saja.",
+                "image_url": "content-images\/images\/20240504\/SqSdTIsWSCos5xo36WMYvi2xTTev0rcX-31373134373830373038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240504\/SqSdTIsWSCos5xo36WMYvi2xTTev0rcX-31373134373830373038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Panaskan minyak secukupnya, lalu orak arik telur agar lebih harum, berikan sedikit kecap asin pada telur.",
+                "image_url": "content-images\/images\/20240504\/1bUTzc2NxF90OP9g5GAjBsumIBWHOpTS-31373134373830373735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240504\/1bUTzc2NxF90OP9g5GAjBsumIBWHOpTS-31373134373830373735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan bawang putih, tumis sampai harum. Masukkan udang, cumi, dan crab stick. Masak sampai berubah warna.",
+                "image_url": "content-images\/images\/20240504\/7qvEwjabbg38fZzUqAVmx5R0rpMQPgG9-31373134373830373935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240504\/7qvEwjabbg38fZzUqAVmx5R0rpMQPgG9-31373134373830373935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tambahkan sedikit air, lalu masukkan sawi, masak sampai layu.",
+                "image_url": "content-images\/images\/20240504\/9abGjYMde2gjLoCko5PGiUj4NAnZRQST-31373134373830383535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240504\/9abGjYMde2gjLoCko5PGiUj4NAnZRQST-31373134373830383535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukkan mie ciam, aduk-aduk dan biarkan selama 1 menit agar bumbu lebih meresap. Kalau tidak ingin mi terlalu kering, boleh tambahkan air sedikit lagi, koreksi rasa lalu sajikan!",
+                "image_url": "content-images\/images\/20240504\/mSGo3ehemOCkQ1V5lixSCByOa7ZBXufc-31373134373830383933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240504\/mSGo3ehemOCkQ1V5lixSCByOa7ZBXufc-31373134373830383933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "4VqozgExmZcDQaj0VyJ82Q==",
+                "name": "kreasi mie",
+                "slug": "kreasi-mie"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "1kwJETj5xb3Xz1-yXUbdQw==",
+                "name": "Cumi",
+                "slug": "cumi"
+            },
+            {
+                "id": "dvJeivPNZ9ky2GKQO6FguQ==",
+                "name": "Mie",
+                "slug": "mie"
+            },
+            {
+                "id": "vs_JsRjc8t-nTiFV2WuwnQ==",
+                "name": "Sawi",
+                "slug": "sawi"
+            },
+            {
+                "id": "e4TpRRTQlvjlFZfP2dafrA==",
+                "name": "Udang",
+                "slug": "udang"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "UvsOWSrkLwrRyzOw_99KCg==",
+            "uuid": "0d26e9a9-6541-46b2-8645-fd29120434a8",
+            "username": "chandra-wu",
+            "name": "Chandra-wu",
+            "avatar": "content-images\/images\/20220718\/0A4yvXfpM8OzwypFe5jYlHRybw1UK1kg-31363538313036353731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "3 keping mie ciam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 helai daun sop atau seledri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm bawang putih halus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 buah sawi manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 buah udang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah cumi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah crab stick",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm kecap asin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm kecap manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm kecap ikan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdm minyak wijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdm merica",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

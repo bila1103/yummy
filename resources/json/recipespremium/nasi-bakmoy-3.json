@@ -1,0 +1,514 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "UNcQ51r1M9KgkDKuUy2ERQ==",
+        "title": "Nasi Bakmoy",
+        "slug": "nasi-bakmoy-3",
+        "cover_url": "content-images/images/20210829/727b96811eeef1751cb166045f94ab23.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20210829/727b96811eeef1751cb166045f94ab23.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20210829/69c2960274f79da7552ae3f716feb3e9.mp4",
+        "price": 45000,
+        "price_premium": 5000,
+        "calories": "1399,8 Kj",
+        "is_cvc": false,
+        "cooking_time": 45,
+        "serving_min": 4,
+        "serving_max": 5,
+        "release_date": 1630202400,
+        "updated_date": 1659528785,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.860000133514404,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 20,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 21,
+        "recook_count": 2,
+        "original_image": "content-images/images/20210829/727b96811eeef1751cb166045f94ab23.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/bcaEW7nvvKGwztCn8",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Tumis bawang putih hingga harum dengan minyak, tambahkan kaldu ayam, garam, gula, lada bubuk, penyedap rasa, masak hingga mendidih, sisihkan.",
+                "image_url": "content-images/images/20210829/2c7ced5478258fb623c39dcbc2fcf12b.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20210829/2c7ced5478258fb623c39dcbc2fcf12b.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tumis bawang merah dan bawang putih hingga layu, tambahkan ayam rebus dan tahu yang telah digoreng.",
+                "image_url": "content-images/images/20210829/2b410e93781fec425f3454c8a5f05e42.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20210829/2b410e93781fec425f3454c8a5f05e42.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "gbXzyZo67EuopKRB2wVDpg==",
+                "name": "Makanan Tradisional",
+                "slug": "makanan-tradisional"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "QJ0crmlVerfAPuv2j1Yf9g==",
+                "name": "Ayam kuah",
+                "slug": "ayam-kuah"
+            },
+            {
+                "id": "cZg-RLTXw-LNxDdWc_vQbA==",
+                "name": "Nasi Ayam",
+                "slug": "nasi-ayam"
+            },
+            {
+                "id": "09qixFV2VkI_lmE5V9ogIw==",
+                "name": "Makanan Berkuah",
+                "slug": "makanan-berkuah"
+            },
+            {
+                "id": "GallqO4RLGO63TrMKTTrHA==",
+                "name": "Bakmoy",
+                "slug": "bakmoy"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "XoOQljKTIsthw9SvhP1iMQ==",
+                "name": "30-60m",
+                "slug": "30-60m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            },
+            {
+                "id": "zz7VvQtuZ_entrgdutA7dQ==",
+                "name": "Kecap Manis",
+                "slug": "kecap-manis"
+            },
+            {
+                "id": "2hRXFoITKo_F8ODaNvTsJw==",
+                "name": "Saus Tiram",
+                "slug": "saus-tiram"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Kuah :",
+                "ingredients": [
+                    {
+                        "description": "3 siung bawang putih, cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20220326/e9ba9407d4466edf27aabede58c8bc40.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq1jV",
+                        "media_url": "content-images/images/20220326/7d427bf51db7ed99ca7f23a604561420.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1000 ml kaldu ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Y9o0rm",
+                        "media_url": "content-images/images/20220326/292fec2522efe46dfe8286c9dace3faa.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220326/81040348db89fc3e0d498863ae8b3573.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt penyedap rasa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/B0A1Dx",
+                        "media_url": "content-images/images/20220326/884bf979bdb1e2da6691744134902dbe.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NB1N",
+                        "media_url": "content-images/images/20220326/ceff64af74906de53c0d2805e6b57e0e.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt lada putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbok5",
+                        "media_url": "content-images/images/20220326/0d9c3d5c315223b4dfbd0917961ebdce.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd  batang bawang pre, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/XYZKbG",
+                        "media_url": "content-images/images/20220326/150875871f26cbc8279018327787f157.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Isian Lauk",
+                "ingredients": [
+                    {
+                        "description": "200 gr daging ayam, rebus, potong dadu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/B0A1WJ",
+                        "media_url": "content-images/images/20220326/a5e3e5fea869dd5b0c6ff37cbf96c881.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gr tahu putih, potong kotak, goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqD3b",
+                        "media_url": "content-images/images/20220326/6cb5daf4983b25034cf8109f2dab02d0.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang merah, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/ZQ4ROK",
+                        "media_url": "content-images/images/20220326/971c176de7281f770a876debc5811ab2.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang putih, iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20220326/ecfa77ee12c73f02348d6ea3fda1774d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm kecap manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLxX9",
+                        "media_url": "content-images/images/20220326/3a2df63844be16268714a3da9b9c2d7f.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/EKVWQe",
+                        "media_url": "content-images/images/20220326/307bed5fc01f34092f72bec92d7b95a4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220326/8cfb5453751a791c50ad1e8a7008af7a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt lada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbok5",
+                        "media_url": "content-images/images/20220326/2887ddfbde6732ddde54e70ad8ad88b4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Pelengkap  :",
+                "ingredients": [
+                    {
+                        "description": "1 pcs telur rebus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20220326/a15962b9624dc5347260906d714240f4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm bawang goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBb91",
+                        "media_url": "content-images/images/20220326/a61be2f4b8682a7ce4a38310f5140ab4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Piring",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Piring Saji",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "JNDsyzlpNDZ0qU84LUFei3T8g7KHiTv5",
+                "created_at": 1668683029,
+                "image_url": "content-images/images/20221117/OvzWqJ9tikP5XTy5T0i14iXMz4hpbKsQ-31363638363537373031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "siang minchef, aku buat nasi bakmoy ya. baru coba tadi buat sarapan, bikinnya sat set rasanya enak, pasti recook lagi sih ini makasih resepnya, telurnya.aku ganti pake kentang dan wortel #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "g0htuRkaq3bw8zYljBi3hQ==",
+                    "username": "nirastorytummy-id",
+                    "name": "Nirastorytummy",
+                    "avatar": "content-images/images/20230403/cUzmx7WP31dzHFKESvLGtUgexWHcYpy4-31363830353136323832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Nasi Bakmoy",
+                    "slug": "nasi-bakmoy-3",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "xKXDA0TjemCkbDTBu3EwKdRYdEEho2Ib",
+                "created_at": 1664447999,
+                "image_url": "content-images/images/20220803/ywEriw28ic1pjYfytCO4ZZ0jctJpUeqD-31363539353033363335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hallo Chef, saya masih ingat dulu, pernah sekali makan nasi bakmoy di rumah teman. Rasanya enak dan kupikir masaknya sulit dan ribet nih. Dan hari ini saya coba recook nasi bakmoy dengan resep teruji. Wah, mantep banget rasanya. Enak, segar dan keluarga suka. Jadi tambah lagi nih resep favorit keluarga. Thank you resepnya Chef \ud83d\ude4f\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "rEFeSY9tbKG-MBYPz-N9iw==",
+                    "username": "vhita-hani",
+                    "name": "Vhita Hani",
+                    "avatar": "content-images/images/20231123/ef16c6b267c78f4d9460d72fcdcb0645.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Nasi Bakmoy",
+                    "slug": "nasi-bakmoy-3",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Talenan",
+                "media_url": "content-images/images/20210712/5bcf9d1ede5f68c8d7acf04bcf604504.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Panci Besar (Sop)",
+                "media_url": "content-images/images/20211105/a9f867c4bf54b613b7e7d6a82a980b7f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Ladle / Sendok Sayur",
+                "media_url": "content-images/images/20211105/b6f6c4206d16e40dcd2bfee5b6e34325.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

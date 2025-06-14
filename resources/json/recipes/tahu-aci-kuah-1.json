@@ -1,0 +1,270 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "DJqBuFtVWD-tXfMQ9Yy1Sw==",
+        "title": "Tahu Aci Kuah",
+        "slug": "tahu-aci-kuah-1",
+        "cover_url": "content-images\/images\/20250512\/w6FazHVXbqkSChvOZk2M7YkZQO8g9ljy-31373437303332313239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250512\/w6FazHVXbqkSChvOZk2M7YkZQO8g9ljy-31373437303332313239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Sedap enak",
+        "rating": 5,
+        "video_url": "",
+        "price": 8000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 25,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1747132020,
+        "updated_date": 1747132068,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 10,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250512\/w6FazHVXbqkSChvOZk2M7YkZQO8g9ljy-31373437303332313239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/CkP2s3qmXmAsdk3W7",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Siapkan tahu kopong yang akan diolah",
+                "image_url": "content-images\/images\/20250512\/ak3JnGZUogCXpfQh4ZrTnmyEMR0wDYlG-31373437303332343237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/ak3JnGZUogCXpfQh4ZrTnmyEMR0wDYlG-31373437303332343237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Parut bawang putih dan iris daun bawang",
+                "image_url": "content-images\/images\/20250512\/wQgAEXmKfLusz7muC6Ggy1VX3vjTQSxg-31373437303332343531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/wQgAEXmKfLusz7muC6Ggy1VX3vjTQSxg-31373437303332343531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Campurkan tepung terigu, tepung tapioka, lada bubuk, penyedap, garam aduk rata",
+                "image_url": "content-images\/images\/20250512\/Blwn5NSNQSKkQNJ435MTfEEV7gdHPRQV-31373437303332343739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/Blwn5NSNQSKkQNJ435MTfEEV7gdHPRQV-31373437303332343739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan daun bawang dan air aduk rata adonan tidak encer",
+                "image_url": "content-images\/images\/20250512\/ZLJSmwhwvI3gNlHsmGY4K7dC3zFZ9v9w-31373437303332353236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/ZLJSmwhwvI3gNlHsmGY4K7dC3zFZ9v9w-31373437303332353236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Belah tahu kopong bagian tengahnya dan isi dengan adonan tepung, sisihkan",
+                "image_url": "content-images\/images\/20250512\/8cJwzqkfPkc33YiuyrdqCsuA7xnw3isU-31373437303332353832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/8cJwzqkfPkc33YiuyrdqCsuA7xnw3isU-31373437303332353832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Ambil adonan tepung dengan dua sendok rebus ke dalam air mendidih hingga matang, tiriskan",
+                "image_url": "content-images\/images\/20250512\/gM9IWv22mOqXU95uaD6XW1RX5ytp6k5h-31373437303332363234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/gM9IWv22mOqXU95uaD6XW1RX5ytp6k5h-31373437303332363234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Kukus tahu aci hingga matang",
+                "image_url": "content-images\/images\/20250512\/vTbMEm2Nl2nwSqbijRTRf5yNw505jC2u-31373437303332363736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/vTbMEm2Nl2nwSqbijRTRf5yNw505jC2u-31373437303332363736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Didihkan air, masukkan daun bawang, parutan bawang putih, lada bubuk, penyedap dan garam aduk rata",
+                "image_url": "content-images\/images\/20250512\/KXDYr4LTE1QwE16XDVj8haPIydWgCsJ4-31373437303332373034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/KXDYr4LTE1QwE16XDVj8haPIydWgCsJ4-31373437303332373034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Siapkan mangkok tata tahu aci dan aci rebus tadi kemudian bisa tuang kuah ke dalamnya, siap disajikan",
+                "image_url": "content-images\/images\/20250512\/b0kyWEa1wpUnHZc24z9Gc4maZi576jWn-31373437303332373633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/b0kyWEa1wpUnHZc24z9Gc4maZi576jWn-31373437303332373633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "eUDumVCs5n3IHcFz7LWG0A==",
+                "name": "Tahu",
+                "slug": "tahu"
+            },
+            {
+                "id": "4k8pCLcc7BX1HDeJPutX8A==",
+                "name": "Tepung Tapioka",
+                "slug": "tepung-tapioka"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "sgnztYt4AUxYwC7_onReAQ==",
+            "uuid": "59119c2a-f8f6-4357-8f71-7bb50941fa25",
+            "username": "eriana03",
+            "name": "Endah Triana",
+            "avatar": "content-images\/images\/20211224\/DTYHcBtTyduxCVgM51K14bd77f9xZmh1-31363430333135393835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "8 buah tahu kopong",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang daun bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm tepung tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt penyedap",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

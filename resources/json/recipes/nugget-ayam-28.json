@@ -1,0 +1,255 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "tSnsrF3OUHqLFoFQL-kjrw==",
+        "title": "Nugget Ayam",
+        "slug": "nugget-ayam-28",
+        "cover_url": "content-images\/images\/20250115\/S8eMJA1Vheh8zoTIAtmmRq42czIGAXRm-31373336393136353533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250115\/S8eMJA1Vheh8zoTIAtmmRq42czIGAXRm-31373336393136353533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Stok frozen food",
+        "rating": 5,
+        "video_url": "",
+        "price": 30000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 35,
+        "serving_min": 2,
+        "serving_max": 10,
+        "release_date": 1746590220,
+        "updated_date": 1746590492,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 7,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250115\/S8eMJA1Vheh8zoTIAtmmRq42czIGAXRm-31373336393136353533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/Srw86CSD7DFVRGm59",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong semua bahan yaitu ayam, labu, dan wortel",
+                "image_url": "content-images\/images\/20250115\/rm8dI8gg3o6U922Ykh2kKncivNXo4mLq-31373336393137363839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250115\/rm8dI8gg3o6U922Ykh2kKncivNXo4mLq-31373336393137363839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan semua bahan ke copper",
+                "image_url": "content-images\/images\/20250115\/102dMs2EVvJ4dTPuC69kl7zzjXatASTb-31373336393137373039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250115\/102dMs2EVvJ4dTPuC69kl7zzjXatASTb-31373336393137373039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Copper hingga halus",
+                "image_url": "content-images\/images\/20250115\/qABQMkBV3ylT9BEvyoXFEN58DWthnEEj-31373336393137373334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250115\/qABQMkBV3ylT9BEvyoXFEN58DWthnEEj-31373336393137373334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan ke cetakan kukus selama kurang lebih 10 menit",
+                "image_url": "content-images\/images\/20250115\/lTdd3TDxanrbSAbh7c4qs5X2NBQ7q4yS-31373336393137373731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250115\/lTdd3TDxanrbSAbh7c4qs5X2NBQ7q4yS-31373336393137373731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Angkat dan potong - potong sesuai selera",
+                "image_url": "content-images\/images\/20250115\/AH8mIsAkmHKIFI93RxwLy6tCAqjnSTNp-31373336393137383033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250115\/AH8mIsAkmHKIFI93RxwLy6tCAqjnSTNp-31373336393137383033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukkan potongan ke adonan tepung",
+                "image_url": "content-images\/images\/20250115\/XOExgpB3ylHBXBcG1iOzSzw0g60jKcrS-31373336393137383231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250115\/XOExgpB3ylHBXBcG1iOzSzw0g60jKcrS-31373336393137383231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Lalu masukkan ke tepung panir",
+                "image_url": "content-images\/images\/20250115\/NY7oHF0VAH33qAs4jDsMWSmVUqNbrDBR-31373336393137383537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250115\/NY7oHF0VAH33qAs4jDsMWSmVUqNbrDBR-31373336393137383537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Dan simpan dalam kotak makan jika ingin di simpan di freezer untuk stok frozen",
+                "image_url": "content-images\/images\/20250115\/DpK5eGP3RPdXzvMLTSgczTbWcVaX5Hal-31373336393137383732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250115\/DpK5eGP3RPdXzvMLTSgczTbWcVaX5Hal-31373336393137383732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Goreng nugget untuk langsung disajikan",
+                "image_url": "content-images\/images\/20250115\/jJSPt7cfqPiwxAbu2FCSLwv4ekTjv6J2-31373336393137393338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250115\/jJSPt7cfqPiwxAbu2FCSLwv4ekTjv6J2-31373336393137393338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 10",
+                "text": "Tiriskan dan siap untuk di santap.",
+                "image_url": "content-images\/images\/20250115\/S770yJS1SyHVm2fHBj1V3nLrv8IC4d14-31373336393137393534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 10,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250115\/S770yJS1SyHVm2fHBj1V3nLrv8IC4d14-31373336393137393534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "Jc3z7OQqbXF-iBXoiQkBZQ==",
+                "name": "yummy tips",
+                "slug": "yummy-tips"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "iKabIbXBJLKI6NuHXAqmyw==",
+                "name": "Labu",
+                "slug": "labu"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "Gb1L54VzeSKTMuAgzPkswA==",
+            "uuid": "f897b9ab-dc0c-457a-8195-b186d31c5c90",
+            "username": "rizka-malinda",
+            "name": "Rizka malinda",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1\/4 ayam fillet",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah labu siam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah wortel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 sdm tepung bumbu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Bawang putih bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

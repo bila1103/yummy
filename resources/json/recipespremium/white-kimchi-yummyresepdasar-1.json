@@ -1,0 +1,495 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "NkgeqdCSkThoeeJH5DUhUQ==",
+        "title": "White Kimchi #YummyResepDasar",
+        "slug": "white-kimchi-yummyresepdasar-1",
+        "cover_url": "content-images/images/20220517/53e01f3b434fea0baeced663985b7257.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220517/53e01f3b434fea0baeced663985b7257.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Kimchi putih yang tidak pedas, cocok disajikan sebagai makanan pembuka.",
+        "rating": 5,
+        "video_url": "content-videos/video/20220517/c5aeacde6bebdbe391dea6f6249e95db.mp4",
+        "price": 20000,
+        "price_premium": 5000,
+        "calories": "157,9 Kj",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 9,
+        "serving_max": 10,
+        "release_date": 1652799600,
+        "updated_date": 1653609996,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 5,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 21,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 1,
+        "original_image": "content-images/images/20220517/53e01f3b434fea0baeced663985b7257.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/P3Kgrt77s9niqNvQ8",
+        "category": {
+            "name": "Makanan Pembuka",
+            "slug": "makanan-pembuka"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Larutkan setengah garam kasar ke dalam air, kemudian celupkan sawi putih yang telah dipotong ke dalam air garam, kemudian taburkan garam ke tiap lapisan sawi putih. Beri pemberat di atasnya, biarkan selama 1 jam atau semalaman hingga sawi putih elastis. Setelah itu, buang airnya dan bilas sawi putih di air mengalir.",
+                "image_url": "content-images/images/20220517/815490f224cec9979b273607bd566c12.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220517/815490f224cec9979b273607bd566c12.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Siapkan panci, tuangkan air dan tepung ke dalamnya, masak dengan api kecil hingga mengental dan biarkan hingga dingin.",
+                "image_url": "content-images/images/20220517/b6e71542ed13d13ec5d17c2eb6784ed3.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220517/b6e71542ed13d13ec5d17c2eb6784ed3.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "tR2WL-_XYOXtNw5lAVS_2A==",
+                "name": "Kimchi",
+                "slug": "kimchi"
+            },
+            {
+                "id": "qxK2CczH-v8go8wsb4OmWQ==",
+                "name": "Masakan Korea",
+                "slug": "masakan-korea"
+            },
+            {
+                "id": "_ZB0JXDgKfQ_iO15__04Ng==",
+                "name": "Durasi 60 Menit",
+                "slug": "60m"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "agGYglzEVLUmxpiBbP0xFg==",
+                "name": "Bawang Bombay",
+                "slug": "bawang-bombay"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "OTrclgVOZxmXTlsXf-ffYw==",
+                "name": "Daun Bawang",
+                "slug": "daun-bawang"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "JDq-S-Tu3F8DhgjiWRvsMg==",
+                "name": "Lobak",
+                "slug": "lobak"
+            },
+            {
+                "id": "4_5MGCFUDPVdeIGYCWiAKw==",
+                "name": "Paprika",
+                "slug": "paprika"
+            },
+            {
+                "id": "wjOI7jLd9RKri0o9Vn8t7A==",
+                "name": "Tepung Beras",
+                "slug": "tepung-beras"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "040a8a10-07c2-4d05-9319-773e5e16c23c",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "1 pcs sawi putih ukuran besar, bagi menjadi 4",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/zNqB1e",
+                        "media_url": "content-images/images/20220517/9539e59e871311c3e7abcf73e8d8b731.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gr garam kasar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220517/27ac5e7a4ce081675aff5751bfa20bb4.webp?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1,5 liter air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/a8f6e995116c81f4fbf4600a4520c6b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Isian Kimchi",
+                "ingredients": [
+                    {
+                        "description": "125 gr air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/a8f6e995116c81f4fbf4600a4520c6b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm tepung beras",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq2x9",
+                        "media_url": "content-images/images/20211026/551a9efe5140f1769c20fe1ba43a4501.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 gr lobak putih jepang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/rQbWQQ",
+                        "media_url": "content-images/images/20210803/87875c17e3c69cf0fd21276f428af4d8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd buah paprika merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbR0d",
+                        "media_url": "content-images/images/20210712/f60596eef8258dc76882713895893472.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 batang daun bawang, bagi 4",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Or5WNP",
+                        "media_url": "content-images/images/20210712/82ba8263e8b03cd0b1336c786ed7c709.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr wortel, potong memanjang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLxR1",
+                        "media_url": "content-images/images/20211026/5c614dc4250ff2adf67d0a48f0f577b6.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Jus Kimchi",
+                "ingredients": [
+                    {
+                        "description": "2 liter air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/a8f6e995116c81f4fbf4600a4520c6b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300 gr buah pear, kupas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220519/966c4e1d0b01f3f8ae9597125169dfee.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd pcs bawang bombay",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBb91",
+                        "media_url": "content-images/images/20211026/20101eea8e3b9bf3187aab0c2a6fb407.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 ruas jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/AWaGrN",
+                        "media_url": "content-images/images/20210805/20a9f334a569419e6cd4ef41f9343c30.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20211026/4f0b23b2175253b3e759de3d6229f244.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm kecap ikan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/DK1Jjo",
+                        "media_url": "content-images/images/20211026/d12c17f80e97a60f453f009e248500ab.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NB1N",
+                        "media_url": "content-images/images/20211025/7a572e1883391c73701f6d6d766bd4dd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Blender",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin A (\u00b5g)",
+                "slug": "vitamin-a-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": false
+            },
+            {
+                "name": "Asam Folat (\u00b5g)",
+                "slug": "asam-folat-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin C (mg)",
+                "slug": "vutamin-c-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "OCv4lRfzxS6xoKuwqLRfhRlOu53yNcdt",
+                "created_at": 1668863254,
+                "image_url": "content-images/images/20221119/CrWBeNx1RqeAOGMKQlrq2CUVoFxn11Ga-31363638383337393135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "#RecookYummy\nIni recook saya ya chef. Selalu suka kimchi. Terima kasih resepnya, izin reshare ya chef",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "-bYSwPyd0WA5z8BB0pDx9A==",
+                    "username": "diandra-nareswari",
+                    "name": "nareswari",
+                    "avatar": "content-images/images/20200218/6tV3cN75RiRmQbao4XhgR3aPUU2XVtzk-31353831393737333638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "White Kimchi #YummyResepDasar",
+                    "slug": "white-kimchi-yummyresepdasar-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Whisker",
+                "media_url": "content-images/images/20210712/4dfd8856cfd1df1585ecb6d8cdabe7fd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Panci Kecil",
+                "media_url": "content-images/images/20211105/8773acd6b750d0eefd2bcb59da811a1a.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Saringan",
+                "media_url": "content-images/images/20210712/65e57dfb6b663cb4596ed05cbced0077.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Blender",
+                "media_url": "content-images/images/20210714/d663132b420d7d7367efac657734afe6.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

@@ -1,0 +1,382 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "rzan5MqnEMf7sAquFvmDYQ==",
+        "title": "Bikang Ambon Pandan Ekonomis",
+        "slug": "bikang-ambon-pandan-ekonomis",
+        "cover_url": "content-images/images/20210908/c21d2adaccfdaacdf7dfebbd113b0291.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20210908/c21d2adaccfdaacdf7dfebbd113b0291.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20210906/25b9dd571ac98a1903fe0f5eef9af8fa.mp4",
+        "price": 45000,
+        "price_premium": 5000,
+        "calories": "553,4 Kj",
+        "is_cvc": false,
+        "cooking_time": 35,
+        "serving_min": 4,
+        "serving_max": 5,
+        "release_date": 1631107680,
+        "updated_date": 1648160106,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.5,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 13,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 6,
+        "recook_count": 0,
+        "original_image": "content-images/images/20210908/c21d2adaccfdaacdf7dfebbd113b0291.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/CHnQkatkty7GrGPi8",
+        "category": {
+            "name": "Makanan Penutup",
+            "slug": "makanan-penutup"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Buat adonan biang dan diamkan selama 1 jam.",
+                "image_url": "content-images/images/20210908/5e0ffa592623cab3a040708ba46b6f7c.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20210908/5e0ffa592623cab3a040708ba46b6f7c.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Blender pandan dan santan, saring lalu rebus bersama sisa bahan C",
+                "image_url": "content-images/images/20210908/1a61324a694f26af7726cf7a4cc8093a.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20210908/1a61324a694f26af7726cf7a4cc8093a.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "rF5J80rbWxSAArPJvzgt1w==",
+                "name": "Jajanan Pasar",
+                "slug": "jajanan-pasar"
+            },
+            {
+                "id": "fZ8FKumT2zyDkTyDZtMSTw==",
+                "name": "Kue Tradisional",
+                "slug": "kue-tradisional"
+            },
+            {
+                "id": "ge5w_o4oqIjU0GrHP1wi7w==",
+                "name": "kue manis",
+                "slug": "kue-manis"
+            },
+            {
+                "id": "tlPZuGgFFAwj5SLKGV9Gwg==",
+                "name": "Resep Komunitas",
+                "slug": "resep-komunitas"
+            },
+            {
+                "id": "5MqdlJj8wC9e4rHANe9X4A==",
+                "name": "Bika",
+                "slug": "bika"
+            },
+            {
+                "id": "ThZogjkW9tWPVC4IrhksNg==",
+                "name": "Bikang",
+                "slug": "bikang"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "XEHoR0n-0Ar-2K4Q8RVw4w==",
+                "name": "Daun Pandan",
+                "slug": "daun-pandan"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "ZIwW52fxo3KSPeOQxi9hfQ==",
+                "name": "Pewarna Makanan",
+                "slug": "pewarna-makanan"
+            },
+            {
+                "id": "_2EBsIe5ehy1CflLzkmjYg==",
+                "name": "Ragi",
+                "slug": "ragi"
+            },
+            {
+                "id": "OVn1FXRZPmVFgDCUzl3xLw==",
+                "name": "Santan",
+                "slug": "santan"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "4fXFQ2DhETQxP0Iru_aPVA==",
+                "name": "Tepung",
+                "slug": "tepung"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Biang :",
+                "ingredients": [
+                    {
+                        "description": "2 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NB1N",
+                        "media_url": "content-images/images/20220324/9548cf5a9d9d3cb27358636105198fd1.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBab",
+                        "media_url": "content-images/images/20220324/6ba4cc553da99e70f1b7915a35df6e9f.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "12 sdm air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220324/d0413a5048948d8d66a91bf36349adf6.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 bungkus ragi instan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/k0bNLn",
+                        "media_url": "content-images/images/20220324/f264ffdf75f1f8f838ffb1e85893775d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan A :",
+                "ingredients": [
+                    {
+                        "description": "6 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20220324/71d6cd241d0b16e66fa98714bfa39bfe.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "280 gr gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20220324/441d3155d206e409ce719b04d2647299.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan B :",
+                "ingredients": [
+                    {
+                        "description": "150 gr tepung sagu tani",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbReR",
+                        "media_url": "content-images/images/20220324/e7d5fcbf9ba146043cbf5bccbb4c3032.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan C : ",
+                "ingredients": [
+                    {
+                        "description": "300 ml santan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBGv",
+                        "media_url": "content-images/images/20220324/e8c20412ce265cb0436d5906140eaa43.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 lembar daun pandan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/4PKqk3",
+                        "media_url": "content-images/images/20220324/c5f6ae2e5d31f2db6224712477e740c0.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 lembar daun jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLx23",
+                        "media_url": "content-images/images/20220324/0fd5801f541da42a566f4904e7998a0d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah batang serai",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBbyD",
+                        "media_url": "content-images/images/20220324/06b1447378a81fcb03322a55e2f245bb.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220324/28246d44c90a71ff22c5cbded63d101d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Blender",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            }
+        ],
+        "recook": [],
+        "cooking_tool": [
+            {
+                "name": "Loyang",
+                "media_url": "content-images/images/20211105/77dbf601eafe60d23cc1d85c9070d939.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Cetakan Bikang",
+                "media_url": "content-images/images/20210714/669f8a83ed231998190f25e5ef8d3bac.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Sutil",
+                "media_url": "content-images/images/20210712/519f6acdec5c700b847229e696f8e62f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Spatula Kue",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

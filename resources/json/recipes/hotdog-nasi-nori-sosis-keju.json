@@ -1,0 +1,236 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "0zq0gPPUs-chG0ZTMfrDnA==",
+        "title": "Spicy Nasi Hotdog Nori",
+        "slug": "hotdog-nasi-nori-sosis-keju",
+        "cover_url": "content-images\/images\/20250515\/sSMTZNtgCmanVYSyTwRN1T2PexzEhEY4-31373437323937353634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250515\/sSMTZNtgCmanVYSyTwRN1T2PexzEhEY4-31373437323937353634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Cita rasa Jepang-Korea yang pedas, gurih, dan bikin nagih! Cocok jadi camilan sore, bekal anak, atau ide jualan kekinian. Rasanya unik, tampilannya kece!",
+        "rating": 5,
+        "video_url": "",
+        "price": 40000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 2,
+        "serving_max": 4,
+        "release_date": 1747366560,
+        "updated_date": 1747622520,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250515\/sSMTZNtgCmanVYSyTwRN1T2PexzEhEY4-31373437323937353634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/p1FKz6NHmaKxX2rt8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Panggang sosis sampai kecokelatan.",
+                "image_url": "content-images\/images\/20250515\/GhYsK7whM7xvCUjxEA3ffjvA8qfBhQfj-31373437323937363235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/GhYsK7whM7xvCUjxEA3ffjvA8qfBhQfj-31373437323937363235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Campur nasi hangat dengan sedikit garam dan minyak wijen agar lebih gurih.",
+                "image_url": "content-images\/images\/20250515\/7xFew8DVo6LwRyXg3HerfK9ZlLkcvRsm-31373437323937363331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/7xFew8DVo6LwRyXg3HerfK9ZlLkcvRsm-31373437323937363331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Letakkan sosis di atas keju, lalu gulung dengan nori.",
+                "image_url": "content-images\/images\/20250515\/r7QvDAqi1ayMtkSJjh530OKtmy10ZtEc-31373437333030313639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/r7QvDAqi1ayMtkSJjh530OKtmy10ZtEc-31373437333030313639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Ambil nasi, pipihkan di tangan, bungkus gulungan nori-keju-sosis dengan nasi hingga menyerupai hotdog.",
+                "image_url": "content-images\/images\/20250515\/Oh7cOF5TBueoRuLeiEJ2CA8MGDDlv2bX-31373437333030323635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/Oh7cOF5TBueoRuLeiEJ2CA8MGDDlv2bX-31373437333030323635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Panggang di teflon dengan api kecil.",
+                "image_url": "content-images\/images\/20250515\/cpc24FMWjOeymG8gWKRZku6GnYrSlnf4-31373437333030323730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/cpc24FMWjOeymG8gWKRZku6GnYrSlnf4-31373437333030323730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Campur chili oil & minyak wijen, lalu oleskan di permukaan nasi. Panggang kembali 3\u20135 menit hingga kecokelatan.",
+                "image_url": "content-images\/images\/20250515\/347ZOp72vVFdzPTqDhcJqCM7siuQb3qX-31373437333030333031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/347ZOp72vVFdzPTqDhcJqCM7siuQb3qX-31373437333030333031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Sajikan hangat. Tambahkan wijen sangrai agar tampilan lebih menarik.",
+                "image_url": "content-images\/images\/20250515\/G1aU5rTCT9XfbRcvJ01O7YnaP7DopAHw-31373437333030333334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/G1aU5rTCT9XfbRcvJ01O7YnaP7DopAHw-31373437333030333334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "vggey1PfDOriqBpZA7_LRw==",
+                "name": "Nasi",
+                "slug": "nasi"
+            },
+            {
+                "id": "MXkIeGcxy7zj8sCBOII3bQ==",
+                "name": "Rumput Laut",
+                "slug": "rumput-laut"
+            },
+            {
+                "id": "b6TOD1PW8sdLR97DXHhPuw==",
+                "name": "Sosis",
+                "slug": "sosis"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "8QB4H2PPV8vX4ok3y-Q7Fg==",
+            "uuid": "ff2bff71-d392-43c2-8bed-70eea30898c5",
+            "username": "mamytwins",
+            "name": "iwin",
+            "avatar": "content-images\/images\/20210729\/q9WtkwnkknbPZJOqqhZrtjCWnrd8Ra5K-31363237353339313633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "4 porsi nasi hangat (kurleb 500 gram)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar nori (potong 2)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 sosis besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "8 lembar keju slice melt",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt chili oil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt minyak wijen (campur)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt garam (untuk nasi)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Wijen sangrai untuk topping",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

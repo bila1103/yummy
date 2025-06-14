@@ -1,0 +1,345 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "eySrGT-gTDVrSJGCH1m89w==",
+        "title": "Gambas Al Ajilo",
+        "slug": "gambas-al-ajilo",
+        "cover_url": "content-images/images/20220523/9199fb7d9388b88ebea833beb107df45.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220523/9199fb7d9388b88ebea833beb107df45.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Hidangan udang khas spanyol yang sangat sederhana dan mudah dibuat, memiliki citarasa gurih.",
+        "rating": 5,
+        "video_url": "content-videos/video/20220514/e836b40b3fae9fa45ffc3102003e84bf.mp4",
+        "price": 40000,
+        "price_premium": 5000,
+        "calories": "1112,2 Kj",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 1,
+        "serving_max": 1,
+        "release_date": 1653318000,
+        "updated_date": 1654346022,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 5,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 2,
+        "recook_count": 1,
+        "original_image": "content-images/images/20220523/9199fb7d9388b88ebea833beb107df45.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/AUNKBjnyf2Mu3A218",
+        "category": {
+            "name": "Cemilan",
+            "slug": "cemilan"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Menggunakan sebuah talenan, iris tipis bawang putih lalu sisihkan.",
+                "image_url": "content-images/images/20220523/f51ec1e17218f12501c88e6e869f6d8c.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220523/f51ec1e17218f12501c88e6e869f6d8c.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Kemudian iris - iris jamur menjadi 4 bagian lalu sisihkan.",
+                "image_url": "content-images/images/20220523/464954ebc4d27c539eae04dbaac5626e.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220523/464954ebc4d27c539eae04dbaac5626e.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "_n6mbhQ4YqEg6l9PnjnqKg==",
+                "name": "Street Food",
+                "slug": "street-food"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "-dBITgwJuXFWGsxK1BLFeg==",
+                "name": "Makanan Mancanegara",
+                "slug": "makanan-mancanegara"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "0gron32Xnrz-2_9pd3Nxzw==",
+                "name": "Jamur",
+                "slug": "jamur"
+            },
+            {
+                "id": "KXvwH_qoQhNOvPnMk8VxbQ==",
+                "name": "Minyak Zaitun",
+                "slug": "minyak-zaitun"
+            },
+            {
+                "id": "e4TpRRTQlvjlFZfP2dafrA==",
+                "name": "Udang",
+                "slug": "udang"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "040a8a10-07c2-4d05-9319-773e5e16c23c",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "15 buah udang kupas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/B0A1jW",
+                        "media_url": "content-images/images/20211026/00446f893a283b26573e6e16fb9df9cf.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "15 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20211026/4f0b23b2175253b3e759de3d6229f244.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 buah jamur kancing",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/JzQW17",
+                        "media_url": "content-images/images/20220523/4288bfb6954a84db004e16f05a66ce6f.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm bubuk paprikan (peperoncino)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLzaj",
+                        "media_url": "content-images/images/20210712/d1b3c9124f257e36a79eacf96a02cc1d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml olive oil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/zNqOgO",
+                        "media_url": "content-images/images/20211026/ab9ffb21fb2894caf52730ecf48965a1.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt lada hitam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4No4y",
+                        "media_url": "content-images/images/20210805/1bc723e6b42febeb800bb2d382500162.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "baguette",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220523/ebcee29771bdfb40b30ee5461d576920.jpeg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Asam Folat (\u00b5g)",
+                "slug": "asam-folat-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin C (mg)",
+                "slug": "vutamin-c-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "0jUY2VaER5ys5bWQwOUoVq0nKEp86O4X",
+                "created_at": 1668753139,
+                "image_url": "content-images/images/20221118/ClquFqTJNj0Y6jrNCU4X5Q0MM1Y9whoV-31363638373237383032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Kompleks",
+                "taste": "Enak Banget",
+                "description": "Assalamualaikum Chef Yummy..\nSelamat pagi, setor Recooknya.\nBeli resep ini udah lama banget dan baru sempet cobain recook, hasilnya diluar nalar banget enaknya, kenyal jamur dan aroma gurihnya bikin nendang, awalnya mikir nama Gambas itu nama sayur Indonesia yaitu Bludru ternyata bukan hehehe..\nIzin reshare \ud83e\udd17\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 2,
+                "author": {
+                    "id": "uJ3aCOdjw7rQdXWlO1hhRQ==",
+                    "username": "laila-dawud",
+                    "name": "Laila Dawud ",
+                    "avatar": "content-images/images/20230509/yjhfJFWfj8BBhfFz9Ww2a2Vd6ovpPIU9-31363833363132373531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Gambas Al Ajilo",
+                    "slug": "gambas-al-ajilo",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Telenan - Bentuk Bulat",
+                "media_url": "content-images/images/20210712/00a2e0763cd3ae9ab62cace5336a95af.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Pan",
+                "media_url": "content-images/images/20220428/cc4324d875a41372d499f7be1964234f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Spatula",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Piring Saji",
+                "media_url": "content-images/images/20210712/fe7aa848e95ce4d5fd56fb78459844f2.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

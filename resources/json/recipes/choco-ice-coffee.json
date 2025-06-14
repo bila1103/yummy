@@ -1,0 +1,340 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "K2joaBDFP1AEtt19iFKH9Q==",
+        "title": "Choco Ice Coffee",
+        "slug": "choco-ice-coffee",
+        "cover_url": "content-images\/images\/20250416\/90VvGQ0UNdMazt4rmw81Z487vQgC0B6p-31373434373839343932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250416\/90VvGQ0UNdMazt4rmw81Z487vQgC0B6p-31373434373839343932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Bapak-bapak pasti suka nih resep coffee, yuk bun di buatin suaminya",
+        "rating": 5,
+        "video_url": "",
+        "price": 23000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 6,
+        "serving_min": 1,
+        "serving_max": 1,
+        "release_date": 1744883160,
+        "updated_date": 1747280637,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 7,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 5,
+        "recook_count": 5,
+        "original_image": "content-images\/images\/20250416\/90VvGQ0UNdMazt4rmw81Z487vQgC0B6p-31373434373839343932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/gqY1G3WJyF6hyymk9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Oleskan 20 gr saus cokelat ke sisi dalam gelas hingga merata",
+                "image_url": "content-images\/images\/20250416\/hqk9Wi6AfG8TF6e2UsDGhmhbphR7pWTx-31373434373839353039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250416\/hqk9Wi6AfG8TF6e2UsDGhmhbphR7pWTx-31373434373839353039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tuang 80 ml kopi hitam pekat ke dalam gelas yang telah diberi saus cokelat",
+                "image_url": "content-images\/images\/20250416\/WgTq3BVvfiZ4SNyP83hATwR57ucnTQxu-31373434373839353239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250416\/WgTq3BVvfiZ4SNyP83hATwR57ucnTQxu-31373434373839353239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan 100 gr es batu ke dalam gelas",
+                "image_url": "content-images\/images\/20250416\/gv2eLY7YwPVFFMyQmvTjpFFT7IhYEh1P-31373434373839353431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250416\/gv2eLY7YwPVFFMyQmvTjpFFT7IhYEh1P-31373434373839353431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tuang 100 ml susu cair ke atas es batu dan kopi",
+                "image_url": "content-images\/images\/20250416\/lkA2EqDCBXpR9T8vUlKHxDUn2ELg6y6U-31373434373839353537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250416\/lkA2EqDCBXpR9T8vUlKHxDUn2ELg6y6U-31373434373839353537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Semprotkan 50 gr krim kocok di atas minuman",
+                "image_url": "content-images\/images\/20250416\/qwt4vt7L7lrLUG5M3DHovhQqf8jh5pRg-31373434373839353734d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250416\/qwt4vt7L7lrLUG5M3DHovhQqf8jh5pRg-31373434373839353734d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tuangkan susu kental manis diatas krim. Tambahkan 1 pcs biskuit cokelat stik sebagai hiasan. Taburi bagian atas cokelat bubuk",
+                "image_url": "content-images\/images\/20250416\/XX2qtUWerBfkl3Jx3wMLk0nHAihXxUqU-31373434373839363833d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250416\/XX2qtUWerBfkl3Jx3wMLk0nHAihXxUqU-31373434373839363833d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tjLwUn7mCQfa7d86yvsq3g==",
+                "name": "Minuman",
+                "slug": "minuman"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "HP3_VE7oOYl_AaGLCEgP9g==",
+                "name": "Cokelat",
+                "slug": "cokelat"
+            },
+            {
+                "id": "BfY_VSPPjt_QtNdFh4XoXw==",
+                "name": "Kopi",
+                "slug": "kopi"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "YL3xJa3gCJ5yXxNmVSVlnw==",
+            "uuid": "55f92020-1ac4-43a7-8683-16ffe3895b47",
+            "username": "ara-ranara",
+            "name": "Ara Ranara",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "20 gr saus cokelat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "80 ml kopi hitam pekat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr es batu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml susu cair",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr krim kocok",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "8 gr biskuit cokelat stik",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm susu kental manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [
+            {
+                "random_key": "z3Zv5Wz43lwHVCAVtGV30tE1NBoSVN5g",
+                "created_at": 1746020862,
+                "image_url": "content-images\/images\/20250430\/TxKyI77xESJkyrk2PQGW93YJM2YZvBvs-31373436303230373335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak Banget",
+                "description": "Terima kasih resepnya mba, maaf penampilannya kurang cantik \ud83d\ude4f\ud83e\udd2d saya skip susu kental manisnya ya. Izin reshare ya.",
+                "is_liked": false,
+                "like_count": 3,
+                "author": {
+                    "id": "yVODgBrbN8YJUfFO1mCzNA==",
+                    "username": "mykitchen",
+                    "name": "ER's Kitchen Ytb shorts",
+                    "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Choco Ice Coffee",
+                    "slug": "choco-ice-coffee",
+                    "is_editorial": false,
+                    "premium_content": false
+                }
+            },
+            {
+                "random_key": "jcvXP2LML5vwMYsYISyhNQhvdaa8y89R",
+                "created_at": 1746001317,
+                "image_url": "content-images\/images\/20250430\/8zdBcXTM88ENRp6MXPBNOA2FWEmsU83k-31373436303031313334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "sore, recooknya mbak ara, makasih bwt ide minuman segarnya, yummy rasanya, bikinnya mudah, bahan2 nya juga mudah di dapat, kebetulan ready semua di rumah, lgsg deh eksekusi, enak, seger, perpaduan kopi, susu dan coklat \ud83e\udd70",
+                "is_liked": false,
+                "like_count": 5,
+                "author": {
+                    "id": "Snf4fV0DORezuxJyLIZjzA==",
+                    "username": "anna-hadi",
+                    "name": "Anna Hadi",
+                    "avatar": "content-images\/images\/20231123\/caf680bcc04430fae6aa9c889875ff79.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Choco Ice Coffee",
+                    "slug": "choco-ice-coffee",
+                    "is_editorial": false,
+                    "premium_content": false
+                }
+            },
+            {
+                "random_key": "KoHGqeZvQuEFsvGORrm0YedVIYHY5MWw",
+                "created_at": 1746000665,
+                "image_url": "content-images\/images\/20250430\/tfLgbjHofxhrZP6ATcFmhcuDdWpJFtl4-31373435393735343433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak Banget",
+                "description": "halo chef, salam kenal ya. thank you ya resepnya. ini bisa jadi alternatif minum kopi nih bagi saya yang pecinta kopi. seger betul chef dan enak banget",
+                "is_liked": false,
+                "like_count": 6,
+                "author": {
+                    "id": "5dvnNnEB3VSa6mOMMzc4Lw==",
+                    "username": "lina-dwis",
+                    "name": "Lina Dwi S",
+                    "avatar": "content-images\/images\/20211129\/qblYVAYq5ZGi0Z6vrVZp61BUDF2ghpr6-31363338313938323132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Choco Ice Coffee",
+                    "slug": "choco-ice-coffee",
+                    "is_editorial": false,
+                    "premium_content": false
+                }
+            },
+            {
+                "random_key": "JEs8zilejQXiFAKkWg3qvfGy4je883lx",
+                "created_at": 1745753390,
+                "image_url": "content-images\/images\/20250427\/JmxuZQge2ghtWVtnK1IM0v0XMBseJGus-31373435373238313835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "selamat siang chef, recook choco ice coffee nya, bikin buat suami yang lagi libur kerja katanya enak banget seperti ngopi diluar, bikin family time makin berkesan, terimakasih resepnya ",
+                "is_liked": false,
+                "like_count": 3,
+                "author": {
+                    "id": "ISpJuTstOfZ3P8LzKPoH3g==",
+                    "username": "azsha-ramadhani",
+                    "name": "Azsha Ramadhani",
+                    "avatar": "content-images\/images\/20230523\/XxxvGoSPwRzkzmfpv9g2wDW2czwn8zdF-31363834383438383230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Choco Ice Coffee",
+                    "slug": "choco-ice-coffee",
+                    "is_editorial": false,
+                    "premium_content": false
+                }
+            },
+            {
+                "random_key": "nVKotDKocPVk8ylJfhr0Vun6ZdKlzgnz",
+                "created_at": 1745728090,
+                "image_url": "content-images\/images\/20250427\/5MLzMEn2HARsnu4ZqFy2D9hF8vATpMKh-31373435373238303733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "selamat siang chef, recook choco ice coffee nya..",
+                "is_liked": false,
+                "like_count": 3,
+                "author": {
+                    "id": "ISpJuTstOfZ3P8LzKPoH3g==",
+                    "username": "azsha-ramadhani",
+                    "name": "Azsha Ramadhani",
+                    "avatar": "content-images\/images\/20230523\/XxxvGoSPwRzkzmfpv9g2wDW2czwn8zdF-31363834383438383230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Choco Ice Coffee",
+                    "slug": "choco-ice-coffee",
+                    "is_editorial": false,
+                    "premium_content": false
+                }
+            }
+        ],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

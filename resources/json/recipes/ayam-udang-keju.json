@@ -1,0 +1,293 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "C8OdIyJfW1NTv8CJeG71Ew==",
+        "title": "Ayam Udang Keju",
+        "slug": "ayam-udang-keju",
+        "cover_url": "content-images\/images\/20250422\/0eo5sEyHzsSQaV2UKqxdpRyC7GSajmbz-31373435333230383133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250422\/0eo5sEyHzsSQaV2UKqxdpRyC7GSajmbz-31373435333230383133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Biasanya kalau makan di restoran mie yang sedang viral itu selalu pesan menu ini. Emang bikin nagih sih. Tapi kali ini coba bikin sendiri aja.",
+        "rating": 5,
+        "video_url": "",
+        "price": 80000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 5,
+        "serving_max": 10,
+        "release_date": 1745376840,
+        "updated_date": 1745376888,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 15,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250422\/0eo5sEyHzsSQaV2UKqxdpRyC7GSajmbz-31373435333230383133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/tMkNG1VnvPz7uFNa6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Campurkan semua bahan diatas kecuali udang cincang, minyak goreng, keju quick melt dan tepung panir. Chopper hingga halus dan tercampur rata.",
+                "image_url": "content-images\/images\/20250422\/VK9DuFUdgS2GVXNZ0xb73gWiXfkkc9aE-31373435333231303336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/VK9DuFUdgS2GVXNZ0xb73gWiXfkkc9aE-31373435333231303336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Pindahkan ke wadah besar. Masukkan udang kedalam adonan. Aduk rata.",
+                "image_url": "content-images\/images\/20250422\/wBAVKQyUBCRjGtnXKZaIpUSpmuFeu6A5-31373435333231303934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/wBAVKQyUBCRjGtnXKZaIpUSpmuFeu6A5-31373435333231303934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Ambil 1 sdm adonan, kemudian ratakan. Isi dengan keju quick melt. Bentuk adonan menjadi bulat panjang, atau gepeng, sampai keju tertutup sempurna.",
+                "image_url": "content-images\/images\/20250422\/JI0la7G2pqNHTg2gd6IRmdVuUjy2XkKr-31373435333231313831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/JI0la7G2pqNHTg2gd6IRmdVuUjy2XkKr-31373435333231313831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Gulingkan kedalam tepung panir. Balur adonan hingga tertutup dengan tepung panir. Lakukan berulang hingga adonan habis.",
+                "image_url": "content-images\/images\/20250422\/FUIkY1prbqZLsw2DAl7Qh9eiFCAd5YUR-31373435333231323531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/FUIkY1prbqZLsw2DAl7Qh9eiFCAd5YUR-31373435333231323531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Panaskan minyak goreng dengan api sedang cenderung kecil. Goreng ayam udang hingga kuning keemasan. Angkat dan tiriskan. Nikmati bersama saus sambal lebih nikmat.",
+                "image_url": "content-images\/images\/20250422\/6QdnHI65dyMvOz58NDwzSoKMmHIyX9Uf-31373435333231333139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/6QdnHI65dyMvOz58NDwzSoKMmHIyX9Uf-31373435333231333139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "FrcGuNBVracfQ1LMbrq3BA==",
+                "name": "Gorengan",
+                "slug": "gorengan"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "_ZB0JXDgKfQ_iO15__04Ng==",
+                "name": "Durasi 60 Menit",
+                "slug": "60m"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "Opko9OFPSqnKtt6n3eH7Eg==",
+                "name": "Keju",
+                "slug": "keju"
+            },
+            {
+                "id": "e4TpRRTQlvjlFZfP2dafrA==",
+                "name": "Udang",
+                "slug": "udang"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "F17n_oy97VKPZHAgruY-Jg==",
+            "uuid": "259de4db-ed43-473c-9470-5734d127fe2a",
+            "username": "vinahimatur",
+            "name": "Vina Himatur",
+            "avatar": "content-images\/images\/20211128\/kLiEAeIvNsaHKgUi6eJe0GzA9b7YqQyl-31363338303638333436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "450 gr ayam fillet",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gr udang cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "7 sdm tepung tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 sdm kecap asin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm minyak wijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 siung bawang putih halus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2-3 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan isian",
+                "ingredients": [
+                    {
+                        "description": "50 gr keju quick melt",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Pelapis",
+                "ingredients": [
+                    {
+                        "description": "200 gr tepung panir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "4ZnyovAbj4ZwIDAvW6Mt_g==",
+        "title": "Brownies Creamcheese",
+        "slug": "brownies-creamcheese",
+        "cover_url": "content-images\/images\/20250517\/A4VjS3zKqLKFa1oJFGrWWfNr2IqamSU4-31373437343930383037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250517\/A4VjS3zKqLKFa1oJFGrWWfNr2IqamSU4-31373437343930383037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Yummy banget kombinasi coklat dan keju",
+        "rating": 5,
+        "video_url": "",
+        "price": 60000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 45,
+        "serving_min": 4,
+        "serving_max": 8,
+        "release_date": 1747649580,
+        "updated_date": 1747649699,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 10,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250517\/A4VjS3zKqLKFa1oJFGrWWfNr2IqamSU4-31373437343930383037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/sVD5PUxEfyLC1XN26",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Tim dcc, margarin dan minyak goreng",
+                "image_url": "content-images\/images\/20250517\/6bexSpOGq7ZYOZG4TgVFaD1PNdOc4bjs-31373437343931303731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250517\/6bexSpOGq7ZYOZG4TgVFaD1PNdOc4bjs-31373437343931303731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Kocok gula halus dan telur",
+                "image_url": "content-images\/images\/20250517\/pXjAQyt4s7x7EihT1uvcBscuDLgcEM4J-31373437343931303838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250517\/pXjAQyt4s7x7EihT1uvcBscuDLgcEM4J-31373437343931303838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Kocok hingga larut",
+                "image_url": "content-images\/images\/20250517\/8ifvw9xTpz82zjMVObcT7X5QKeWVdZEd-31373437343931313532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250517\/8ifvw9xTpz82zjMVObcT7X5QKeWVdZEd-31373437343931313532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan coklat kedalam adonan telur",
+                "image_url": "content-images\/images\/20250517\/jnxZafX3uNuvrNSzXAYdqnY9bpmwyQPP-31373437343931313732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250517\/jnxZafX3uNuvrNSzXAYdqnY9bpmwyQPP-31373437343931313732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Kemudian masukkan tepung dan coklat bubuk aduk rata",
+                "image_url": "content-images\/images\/20250517\/vzsKcOvsmpSVzqmMxmogDlKK7qvejfE3-31373437343931313937d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250517\/vzsKcOvsmpSVzqmMxmogDlKK7qvejfE3-31373437343931313937d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tata adonan brownies diloyang dan taruh adonan creamcheese diatasnya dan sisakan sedikit adonan brownies",
+                "image_url": "content-images\/images\/20250517\/ap9axFC39yH2iF5nONVoZcQrlnwq8Vhf-31373437343931323230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250517\/ap9axFC39yH2iF5nONVoZcQrlnwq8Vhf-31373437343931323230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Ambil sisa adonan brownies dan bentuk pake lidi",
+                "image_url": "content-images\/images\/20250517\/JhZdNWnl8u2ae4MIhJ4StWuukoQjtV2B-31373437343931323631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250517\/JhZdNWnl8u2ae4MIhJ4StWuukoQjtV2B-31373437343931323631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Kemudian panggang hingga matang",
+                "image_url": "content-images\/images\/20250517\/yjhqzzIwavUAfdfPt4DXzz0qoL6i6vsd-31373437343931333034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250517\/yjhqzzIwavUAfdfPt4DXzz0qoL6i6vsd-31373437343931333034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Siap disajikan",
+                "image_url": "content-images\/images\/20250517\/wWbA4vdRVvbmS8v3YZMKexLzHJ3BjvpW-31373437343931333234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250517\/wWbA4vdRVvbmS8v3YZMKexLzHJ3BjvpW-31373437343931333234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "Wn1InkHYeJEwAc6NccMkxg==",
+                "name": "Brownies",
+                "slug": "brownies"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "kJ264ICkx0ZrAHD5D7zhXQ==",
+                "name": "Harga 100 Ribu",
+                "slug": "100k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Nqvc7IvHC2XyIQHf0FPlkQ==",
+                "name": "Cokelat Bubuk",
+                "slug": "cokelat-bubuk"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "X8xl2NfDIIumA6Kj64h70g==",
+            "uuid": "e1df6bb1-1c8d-4b29-9ddb-5251d2cfd9d0",
+            "username": "reni-marlina-8",
+            "name": "Reni marlina",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "2 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gr gula halus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "40 ml minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr margarin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gr dcc",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "35 gr coklat bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Creamcheese",
+                "ingredients": [
+                    {
+                        "description": "300 gr creamcheese",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah  putih telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

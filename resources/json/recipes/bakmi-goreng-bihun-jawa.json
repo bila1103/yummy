@@ -1,0 +1,301 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "XkPmQPBGVgLm7vPekSsUng==",
+        "title": "Bakmi Goreng Bihun Jawa",
+        "slug": "bakmi-goreng-bihun-jawa",
+        "cover_url": "content-images\/images\/20250405\/VSBjaSTywvMdPMK4jz06wR0Brf0aGp7G-31373433383335373336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250405\/VSBjaSTywvMdPMK4jz06wR0Brf0aGp7G-31373433383335373336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Resep turun temurun dari ibu.",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 55,
+        "serving_min": 2,
+        "serving_max": 4,
+        "release_date": 1747129620,
+        "updated_date": 1747129734,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 13,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250405\/VSBjaSTywvMdPMK4jz06wR0Brf0aGp7G-31373433383335373336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/dUUAA6B2pGs93bNp6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Rendam bihun dalam air panas selama 3 menit. Lalu, angkat dan tiriskan.",
+                "image_url": "content-images\/images\/20250405\/hwbl7XC8MLpTWBnkikdU05MOqAnzR98h-31373433383336333432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250405\/hwbl7XC8MLpTWBnkikdU05MOqAnzR98h-31373433383336333432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan kecap manis ke dalam bihun dan campur hingga rata. Lalu, sisihkan dalam baskom.",
+                "image_url": "content-images\/images\/20250405\/PRKCs3bxnjN2SNhPfEYWZt52Q1bIt3PA-31373433383336353730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250405\/PRKCs3bxnjN2SNhPfEYWZt52Q1bIt3PA-31373433383336353730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Iris seledri kecil-kecil. Lalu, sisihkan dalam mangkok.",
+                "image_url": "content-images\/images\/20250405\/wFeKl3kfque30XJo2Z5XZRmhZVJI0f6J-31373433383336343635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250405\/wFeKl3kfque30XJo2Z5XZRmhZVJI0f6J-31373433383336343635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Iris tipis wortel dan daun bawang.",
+                "image_url": "content-images\/images\/20250405\/YOWX7mpZ8WxL2intnSNBsrv4OFGPiUYU-31373433383336333838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250405\/YOWX7mpZ8WxL2intnSNBsrv4OFGPiUYU-31373433383336333838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Ulek bawang putih, kemiri, merica, garam, dan penyedap rasa hingga halus.",
+                "image_url": "content-images\/images\/20250405\/CHpBv5l3SuIGgCczfEkN7JwGLdgeN7jn-31373433383336353236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250405\/CHpBv5l3SuIGgCczfEkN7JwGLdgeN7jn-31373433383336353236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tumis bumbu yang sudah diulek hingga baunya harum dengan api kecil.",
+                "image_url": "content-images\/images\/20250405\/2zjduQVBYNKs90WMM0qEeifn8SxMTjhD-31373433383336363736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250405\/2zjduQVBYNKs90WMM0qEeifn8SxMTjhD-31373433383336363736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukkan irisan wortel dan daun bawang. Lalu, tunggu hingga layu.",
+                "image_url": "content-images\/images\/20250405\/CdoNuAHwDgjGi7lYyCBk2GkCEyTrNt9h-31373433383336373131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250405\/CdoNuAHwDgjGi7lYyCBk2GkCEyTrNt9h-31373433383336373131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Setelah layu, masukkan air dan bihun. Lalu, aduk hingga rata dan tunggu hingga air menyusut dengan api kecil sambil sesekali diaduk.",
+                "image_url": "content-images\/images\/20250405\/wWT92EjbEG7vdVYDDXpGCvOJsa4VQzeE-31373433383336373534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250405\/wWT92EjbEG7vdVYDDXpGCvOJsa4VQzeE-31373433383336373534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Setelah air menyusut, masukkan irisan seledri dan aduk hingga rata. Lalu, siap untuk diangkat.",
+                "image_url": "content-images\/images\/20250405\/9itF21HWMWIgFtN2h6Tt2lVqCIcgWLvK-31373433383336383039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250405\/9itF21HWMWIgFtN2h6Tt2lVqCIcgWLvK-31373433383336383039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "fyjUygRQT-HmVvqW0j3hwA==",
+                "name": "Bihun",
+                "slug": "bihun"
+            },
+            {
+                "id": "zz7VvQtuZ_entrgdutA7dQ==",
+                "name": "Kecap Manis",
+                "slug": "kecap-manis"
+            },
+            {
+                "id": "FrcGuNBVracfQ1LMbrq3BA==",
+                "name": "Kemiri",
+                "slug": "kemiri"
+            },
+            {
+                "id": "7SEXctodGr7Me8wPmxwW4A==",
+                "name": "Seledri",
+                "slug": "seledri"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "jqtv08bVKfJhAEVyTKN-kg==",
+            "uuid": "9f89d353-f5a2-41dd-ae67-1638d68f9285",
+            "username": "28-rina-puspitasari",
+            "name": "28. Rina Puspitasari",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "170 gram mie bihun",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah wortel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang seledri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 lembar daun bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir kemiri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt merica butiran",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt penyedap rasa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm kecap manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 sdm air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

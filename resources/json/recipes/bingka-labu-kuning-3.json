@@ -1,0 +1,252 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "TXcYts6SWmtcbVduTUv3JA==",
+        "title": "Bingka Labu Kuning",
+        "slug": "bingka-labu-kuning-3",
+        "cover_url": "content-images\/images\/20250512\/ea3wTBryrQOCYpJxTr8XfSWRyTgCbbLT-31373437303331393034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250512\/ea3wTBryrQOCYpJxTr8XfSWRyTgCbbLT-31373437303331393034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Cemilan simple dan enak.",
+        "rating": 5,
+        "video_url": "",
+        "price": 30000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 100,
+        "serving_min": 4,
+        "serving_max": 6,
+        "release_date": 1747131900,
+        "updated_date": 1747131949,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250512\/ea3wTBryrQOCYpJxTr8XfSWRyTgCbbLT-31373437303331393034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/dF3sfUL1EZkGcwfm9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Bersihkan labu dari kulit dan bijinya. Kemudian kukus hingga lunak.",
+                "image_url": "content-images\/images\/20250512\/qzTQlOX6TekBGype2PSKw2gbJ9RdoJ5b-31373437303331393234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/qzTQlOX6TekBGype2PSKw2gbJ9RdoJ5b-31373437303331393234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Lalu haluskan labu dengan garpu.",
+                "image_url": "content-images\/images\/20250512\/Ziy27xVzNh8bNludNCuYIiSE9s5x1zTB-31373437303331393331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/Ziy27xVzNh8bNludNCuYIiSE9s5x1zTB-31373437303331393331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Kemudian masukkan tepung terigu kedalam wadah.",
+                "image_url": "content-images\/images\/20250512\/d4Ir3AaBYdO6EWGBXfNeepWlS6Qley4U-31373437303331393430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/d4Ir3AaBYdO6EWGBXfNeepWlS6Qley4U-31373437303331393430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan telur, gula pasir, garam, susu kental manis, dan minyak goreng.",
+                "image_url": "content-images\/images\/20250512\/kWRmyZomVCVJl3qDTmyJpA4uG0Wv0XHs-31373437303331393532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/kWRmyZomVCVJl3qDTmyJpA4uG0Wv0XHs-31373437303331393532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Kemudian tuangkan santan, aduk rata.",
+                "image_url": "content-images\/images\/20250512\/d8gzC6M21NZ1KNOvRdRpdGcgdDO7QYbw-31373437303331393539d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/d8gzC6M21NZ1KNOvRdRpdGcgdDO7QYbw-31373437303331393539d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Lalu masukkan labu kuning.",
+                "image_url": "content-images\/images\/20250512\/fxJTG79iZtuDI8tjsuAUtTAmdPEatbZh-31373437303331393831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/fxJTG79iZtuDI8tjsuAUtTAmdPEatbZh-31373437303331393831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Kemudian aduk rata.",
+                "image_url": "content-images\/images\/20250512\/zujey0pCq9fc7EbMCqfmmhmZjvx6TzHv-31373437303331393931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/zujey0pCq9fc7EbMCqfmmhmZjvx6TzHv-31373437303331393931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Olesi loyang dengan margarin dan taburi dengan sedikit tepung terigu, lalu masukkan adonan ke dalam loyang.",
+                "image_url": "content-images\/images\/20250512\/MjtzE7zxYXQ6u7bmzipcvuOPGlwupSi9-31373437303332303033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/MjtzE7zxYXQ6u7bmzipcvuOPGlwupSi9-31373437303332303033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Panaskan oven selama 15 menit. Lalu panggang adonan dengan suhu 180 derajat celcius selama 70 menit atau hingga matang. Sesuaikan oven masing-masing. Setelah matang, keluarkan dari oven, dinginkan dan potong-potong sesuai selera. Sajikan.",
+                "image_url": "content-images\/images\/20250512\/UN48C1whQAqSzQgD6ToFtNBHUQpCJ68W-31373437303332303137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/UN48C1whQAqSzQgD6ToFtNBHUQpCJ68W-31373437303332303137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "iKabIbXBJLKI6NuHXAqmyw==",
+                "name": "Labu",
+                "slug": "labu"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "LrFxkNQtDeVCSdOJ90-8vA==",
+            "uuid": "902bb17e-e137-4918-8777-f68b36d165de",
+            "username": "annisa-sr",
+            "name": "Annisa sr",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "400 gr labu kuning",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "400 gr tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "120 gr susu kental manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "600 ml santan kekentalan sedang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

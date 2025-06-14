@@ -1,0 +1,226 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "gwRYmZwJSVTHaUI4TqX28A==",
+        "title": "Sosis Goreng Panir",
+        "slug": "sosis-goreng-panir-4",
+        "cover_url": "content-images\/images\/20250506\/dOb77cKOV10At0uuh71JeuccHqlktQQf-31373436353333373036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250506\/dOb77cKOV10At0uuh71JeuccHqlktQQf-31373436353333373036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Enak banget untuk lauk makan",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1746611160,
+        "updated_date": 1746611223,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 6,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250506\/dOb77cKOV10At0uuh71JeuccHqlktQQf-31373436353333373036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/fQfJsWyVbAt7TCLZA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Siapkan sosi, potong jadi dua bagian",
+                "image_url": "content-images\/images\/20250506\/3HmQIQi4Z6hvx8h36QUQYDBZTT03GEXu-31373436353333373934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/3HmQIQi4Z6hvx8h36QUQYDBZTT03GEXu-31373436353333373934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Siapkan tepung panir",
+                "image_url": "content-images\/images\/20250506\/LR8SWb9eWtTSgln7hr8FYUVtH8XsIKoT-31373436353333383339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/LR8SWb9eWtTSgln7hr8FYUVtH8XsIKoT-31373436353333383339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Larutkan tepung terigu dan kaldu bubuk dengan secukupnya air",
+                "image_url": "content-images\/images\/20250506\/CCNPaKShvqU1P5ULKXZlYPiNOqvr2RqO-31373436353333383033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/CCNPaKShvqU1P5ULKXZlYPiNOqvr2RqO-31373436353333383033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Aduk sampai rata, tidak  encer dan tidak terlalu kental",
+                "image_url": "content-images\/images\/20250506\/ThMboGI1a57QEjPM3t0EV1EX3RDaoUDZ-31373436353333383130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/ThMboGI1a57QEjPM3t0EV1EX3RDaoUDZ-31373436353333383130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan sosis dalam adonan tepung, lumuri sampai rata",
+                "image_url": "content-images\/images\/20250506\/nMqgqPzL27tgCE6QUbVHpHSAWkJlYs9i-31373436353333383234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/nMqgqPzL27tgCE6QUbVHpHSAWkJlYs9i-31373436353333383234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Lalu gulingkan di tepung panir, lakukan sampai selesai",
+                "image_url": "content-images\/images\/20250506\/d8xBNT6HnlthhhP0Gg4bIIovq42xh31o-31373436353333383332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/d8xBNT6HnlthhhP0Gg4bIIovq42xh31o-31373436353333383332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Goreng sampai matang",
+                "image_url": "content-images\/images\/20250506\/zNKXKt5USlUfMGOGCp26augraP4rfWwn-31373436353333383732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/zNKXKt5USlUfMGOGCp26augraP4rfWwn-31373436353333383732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Tiriskan jika sudah matang",
+                "image_url": "content-images\/images\/20250506\/yE75MlHK5N8T8itaV9vOlSq5IfbfYms6-31373436353333383831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/yE75MlHK5N8T8itaV9vOlSq5IfbfYms6-31373436353333383831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "KjxaEsFa0tX6RzxykKepCg==",
+                "name": "Harga Di Bawah 10 Ribu",
+                "slug": "10k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "b6TOD1PW8sdLR97DXHhPuw==",
+                "name": "Sosis",
+                "slug": "sosis"
+            },
+            {
+                "id": "NlKSHi7LQcBNzHYqopTS_w==",
+                "name": "Tepung Roti",
+                "slug": "tepung-roti"
+            },
+            {
+                "id": "jZcHJrRJTlQwfLNj87Gw3g==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu-1"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "NHmDafdhsTmc8T2M-W7h6g==",
+            "uuid": "3ee70da1-cba7-4fb0-ade9-98a01a0b54cc",
+            "username": "jasmine-queen",
+            "name": "Ayu Putri Irianto",
+            "avatar": "content-images\/images\/20211022\/sJYbR345xO1SlGGONCn6WMwVIACzAVCt-31363334383639363635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "6 buah sosis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u2153 sdt kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 sdm tepung panir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya minyak untuk menggoreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

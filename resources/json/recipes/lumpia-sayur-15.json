@@ -1,0 +1,320 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "iiD7dQmuti4GjV_eiW_aog==",
+        "title": "Lumpia Sayur",
+        "slug": "lumpia-sayur-15",
+        "cover_url": "content-images\/images\/20250513\/qjBO3kLCO7HJ2iy4IqVRGwHgdxLmQLd2-31373437313030363235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250513\/qjBO3kLCO7HJ2iy4IqVRGwHgdxLmQLd2-31373437313030363235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Punya stok kol,wortel dan daun bawang,rencananya mau dibuat bakwan sayur. Baru semalam kepikiran seperti itu,eh paginya uda berubah haluan,haha.. Stok kol,wortel dan daun bawangnya mau dibuat lumpia sayur aja.Dimakan dengan cabe rawit atau isiannya dicampur cabe pastinya tambah enak.Berikut resepnya.",
+        "rating": 5,
+        "video_url": "",
+        "price": 20000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 45,
+        "serving_min": 1,
+        "serving_max": 15,
+        "release_date": 1747141200,
+        "updated_date": 1747141257,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 13,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250513\/qjBO3kLCO7HJ2iy4IqVRGwHgdxLmQLd2-31373437313030363235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/oa84B4CqUQkWSGR7A",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Cuci dan iris-iris tipis kol",
+                "image_url": "content-images\/images\/20250512\/qR1zbJFEdUu5roeCKP8PqqX81sp4EKyk-31373437303635313237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/qR1zbJFEdUu5roeCKP8PqqX81sp4EKyk-31373437303635313237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Cuci dan potong korek api wortel",
+                "image_url": "content-images\/images\/20250512\/vlHy2h5FAuDdqhlsWIFSHqytLSY2lnen-31373437303635313433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/vlHy2h5FAuDdqhlsWIFSHqytLSY2lnen-31373437303635313433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Panaskan secukupnya minyak goreng.Masukan bawang putih dan bawang merah secara bertahap Tumis hingga harum dan layu",
+                "image_url": "content-images\/images\/20250512\/KLxTa0XWj1kUCJ4VkHHnn3HiWOtQOcLC-31373437303635353532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/KLxTa0XWj1kUCJ4VkHHnn3HiWOtQOcLC-31373437303635353532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukan wortel. Masak hingga wortel setengah layu",
+                "image_url": "content-images\/images\/20250512\/fKdCwTjxziBfnx94Rb9UsU1lgKhyqT4u-31373437303635353631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/fKdCwTjxziBfnx94Rb9UsU1lgKhyqT4u-31373437303635353631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukan kol,aduk rata dan masak hingga kol matang",
+                "image_url": "content-images\/images\/20250512\/rfd38WS2dTy03tjMUT96iW0i8mcln3f9-31373437303635353930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/rfd38WS2dTy03tjMUT96iW0i8mcln3f9-31373437303635353930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tambahkan telur yang sebelumnya dikocok lepas.Orak arik telur dan masak hingga telur matang",
+                "image_url": "content-images\/images\/20250512\/u6afffioaCosv088MDUFrHM3PSCf9T69-31373437303635363233d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/u6afffioaCosv088MDUFrHM3PSCf9T69-31373437303635363233d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Beri garam,kaldu jamur,lada bubuk dan daun bawang,aduk rata.Masak sesaat.Angkat dan biarkan dingin",
+                "image_url": "content-images\/images\/20250512\/ele7Rs1BngDfHiP8G4DiyhTTiRbliUN3-31373437303635363733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/ele7Rs1BngDfHiP8G4DiyhTTiRbliUN3-31373437303635363733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Ambil 2 lembar kulit lumpia.Beri secukupnya isian",
+                "image_url": "content-images\/images\/20250512\/YAxpcuSLAI7bfOPsoWj4lZLQ7PI1nUhF-31373437303635373131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/YAxpcuSLAI7bfOPsoWj4lZLQ7PI1nUhF-31373437303635373131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Lipat sisi kiri,kanan dan bagian bawah seperti amplop.Beri perekat di bagian ujungnya.Gulung kulit lumpia ke arah depan sambil dipadatkan",
+                "image_url": "content-images\/images\/20250512\/65QH7aqgYuQKwIlTDBgdnYwa3ZxyJBDZ-31373437303635373337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250512\/65QH7aqgYuQKwIlTDBgdnYwa3ZxyJBDZ-31373437303635373337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 10",
+                "text": "Panaskan secukupnya minyak goreng.Masukan lumpia sayur dan goreng hingga bewarna kuning kecoklatan.Jangan lupa dibalik agar matang merata. Angkat,tiriskan dan sajikan",
+                "image_url": "content-images\/images\/20250513\/pfQgTSLsHKmNwtHD24Ffpj3wVgucPMlr-31373437313030363432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 10,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250513\/pfQgTSLsHKmNwtHD24Ffpj3wVgucPMlr-31373437313030363432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "SnaAvHh9KXqHjXRfEYbl0Q==",
+                "name": "Kembang Kol",
+                "slug": "kembang-kol"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "ZPT3-j8v6oHPEzmcJI-pZQ==",
+            "uuid": "c21734a8-1507-4349-ba1d-dd5dc1a5289c",
+            "username": "chef-lydia",
+            "name": "Moms Kitchen",
+            "avatar": "content-images\/images\/20210526\/KJmM2dlkNEUsTFYZ50hNqHEWUzZckEke-31363232303237323136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "200 gr kol",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah wortel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 batang daun bawang iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 siung bawang putih iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "8 siung bawang merah iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "secukupnya garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "secukupnya kaldu jamur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "secukupnya lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "secukupnya minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30 lembar kulit lumpia",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Perekat",
+                "ingredients": [
+                    {
+                        "description": "1 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm air matang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

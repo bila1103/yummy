@@ -1,0 +1,230 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "jFsNnu5hspNxjC2GtxeMKQ==",
+        "title": "Sambal Ijo Belimbing Wuluh",
+        "slug": "sambal-ijo-belimbing",
+        "cover_url": "content-images\/images\/20250321\/GwThAA18RhthVh06W95p8H7VGkpbiUXk-31373432353239373333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250321\/GwThAA18RhthVh06W95p8H7VGkpbiUXk-31373432353239373333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Sensasi pedas dan asem yang bikin ketagihan.",
+        "rating": 5,
+        "video_url": "",
+        "price": 8000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 7,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1745403360,
+        "updated_date": 1745403496,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250321\/GwThAA18RhthVh06W95p8H7VGkpbiUXk-31373432353239373333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/18mNVvCCz32eKKjU9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Siangi ujung cabai rawit hijau, kupas bawang putih, dan bawang merah. Lalu, cuci bersih.",
+                "image_url": "content-images\/images\/20250321\/jTGJnjvdMKDQzJzmaMiFCuhh5nP2hGkH-31373432353239373839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250321\/jTGJnjvdMKDQzJzmaMiFCuhh5nP2hGkH-31373432353239373839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Potong-potong kecil belimbing wuluh.",
+                "image_url": "content-images\/images\/20250321\/nVMGkkeSn1HJyhx1lSC7YuQhr79LZ2PC-31373432353239393232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250321\/nVMGkkeSn1HJyhx1lSC7YuQhr79LZ2PC-31373432353239393232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Goreng cabai rawit hijau, bawang putih, dan bawang merah hingga matang dengan api kecil.",
+                "image_url": "content-images\/images\/20250321\/jT5pSiAi0hdBKs1umIEbZTdYeIMmFo7p-31373432353239393930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250321\/jT5pSiAi0hdBKs1umIEbZTdYeIMmFo7p-31373432353239393930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Setelah matang, angkat dan tiriskan.",
+                "image_url": "content-images\/images\/20250321\/jwepZXVXJZbmOftvW3MZzG4ZJRhprqNp-31373432353330303438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250321\/jwepZXVXJZbmOftvW3MZzG4ZJRhprqNp-31373432353330303438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Goreng belimbing wuluh dalam minyak bekas tadi dan tunggu hingga layu.",
+                "image_url": "content-images\/images\/20250321\/QCP1guRSOrFoABgGGwVki08UoR31bThA-31373432353330303839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250321\/QCP1guRSOrFoABgGGwVki08UoR31bThA-31373432353330303839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukkan cabai rawit hijau, bawang putih, dan bawang merah yang sudah digoreng tadi. Lalu, tambahkan garam, penyedap rasa, dan gula pasir. Kemudian, ulek hingga halus.",
+                "image_url": "content-images\/images\/20250321\/UhgDVQ99SIn35r4dhZ7FjyrWSlJOyHYL-31373432353330313932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250321\/UhgDVQ99SIn35r4dhZ7FjyrWSlJOyHYL-31373432353330313932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukkan belimbing wuluh yang sudah digoreng tadi dan ulek kembali hingga halus.",
+                "image_url": "content-images\/images\/20250321\/TUAslZ5MbUqCGmp3YvmmhfY8HEXYVg2g-31373432353330323739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250321\/TUAslZ5MbUqCGmp3YvmmhfY8HEXYVg2g-31373432353330323739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "yhMIYcwYDQ22BXNinjWclg==",
+                "name": "Sambal Indonesia",
+                "slug": "sambal-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "rzlKU20EEuLpZyP6j_j3eA==",
+                "name": "Belimbing",
+                "slug": "belimbing"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "jqtv08bVKfJhAEVyTKN-kg==",
+            "uuid": "9f89d353-f5a2-41dd-ae67-1638d68f9285",
+            "username": "28-rina-puspitasari",
+            "name": "28. Rina Puspitasari",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "20 buah cabai rawit hijau",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah belimbing wuluh",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt penyedap rasa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 sdm minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

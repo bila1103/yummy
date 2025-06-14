@@ -1,0 +1,234 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "YZy6QhAWzzuQfbMdPf4C9Q==",
+        "title": "Rainbow Beef Fried Rice",
+        "slug": "rainbow-beef-fried-rice-1",
+        "cover_url": "content-images\/images\/20250117\/xYSqKEp5cicv5mV8CgVhQHTi98jJXJRe-31373337313133303933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250117\/xYSqKEp5cicv5mV8CgVhQHTi98jJXJRe-31373337313133303933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Hi sobat yummy. Aku mau berbagi resep masakan, resep ini diajarkan oleh bibi ku",
+        "rating": 5,
+        "video_url": "",
+        "price": 48000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 13,
+        "serving_min": 3,
+        "serving_max": 5,
+        "release_date": 1746593040,
+        "updated_date": 1746593238,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250117\/xYSqKEp5cicv5mV8CgVhQHTi98jJXJRe-31373337313133303933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/V4vVzqoG4HNp1CvE7",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Campurkan 150 gr daging sapi cincang dengan 2 sdm kecap asin dan 1 sdt tepung maizena. Diamkan selama 15 menit untuk marinasi",
+                "image_url": "content-images\/images\/20250117\/KFkPU2WjnoHIQuEH1iyucxtvyNuxpzJL-31373337313133313036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250117\/KFkPU2WjnoHIQuEH1iyucxtvyNuxpzJL-31373337313133313036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Panaskan wajan dengan 1 sdm minyak goreng, kocok lepas telur, lalu goreng hingga matang. Angkat dan sisihkan",
+                "image_url": "content-images\/images\/20250117\/qKglNJxSTZi2paeA1Lx7eWyJzYNHaQ6P-31373337313133313136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250117\/qKglNJxSTZi2paeA1Lx7eWyJzYNHaQ6P-31373337313133313136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan 1 sdm minyak goreng ke wajan, masukkan daging sapi yang telah dimarinasi. Tumis hingga berubah warna, kemudian tambahkan 50 gr bawang bombai cincang. Aduk hingga harum",
+                "image_url": "content-images\/images\/20250117\/Un56zaPTkQGS1olW0fe1isOwE0wPcjwb-31373337313133313237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250117\/Un56zaPTkQGS1olW0fe1isOwE0wPcjwb-31373337313133313237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan 200 gr nasi putih ke dalam wajan dan tumis hingga merata. Tambahkan 50 gr paprika, 30 gr wortel, dan telur goreng. Aduk hingga semua bahan tercampur dengan baik",
+                "image_url": "content-images\/images\/20250117\/dl54Hfx5iZulTZ0gt6b596HRzgrEqnd6-31373337313133313431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250117\/dl54Hfx5iZulTZ0gt6b596HRzgrEqnd6-31373337313133313431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Bumbui dengan 1 sdt garam dan 1 sdm saus tiram. Aduk rata hingga bumbu meresap",
+                "image_url": "content-images\/images\/20250117\/juSgqEQJsdG37G4I0fCz1LDbenBWfatm-31373337313133313535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250117\/juSgqEQJsdG37G4I0fCz1LDbenBWfatm-31373337313133313535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "agGYglzEVLUmxpiBbP0xFg==",
+                "name": "Bawang Bombay",
+                "slug": "bawang-bombay"
+            },
+            {
+                "id": "gNrR88sMxkuEF_74rCiJ1g==",
+                "name": "Daging Sapi",
+                "slug": "daging-sapi"
+            },
+            {
+                "id": "vggey1PfDOriqBpZA7_LRw==",
+                "name": "Nasi",
+                "slug": "nasi"
+            },
+            {
+                "id": "4_5MGCFUDPVdeIGYCWiAKw==",
+                "name": "Paprika",
+                "slug": "paprika"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "XsdUtVtoIgb0-fmdZ7pfow==",
+            "uuid": "76c66cb6-f359-4737-a666-09172adc6dad",
+            "username": "deavalencie",
+            "name": "deavalencie@gmail.com",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "150 gr daging sapi cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm kecap asin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt tepung maizena",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 butir telur ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr bawang bombai cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 gr nasi putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr paprika",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30 gr wortel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

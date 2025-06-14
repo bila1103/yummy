@@ -1,0 +1,365 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "3CqjcOQVDxSY5GRKvEzOKA==",
+        "title": "Banana Choconut Shake",
+        "slug": "banana-choconut-shake",
+        "cover_url": "content-images/images/20220607/71f3288718e2462bb006bff1bcfbed38.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220607/71f3288718e2462bb006bff1bcfbed38.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Minuman yang segar dan juga kaya akan protein",
+        "rating": 5,
+        "video_url": "content-videos/video/20220607/b39f5555caee3f731e750be07aef94c8.mp4",
+        "price": 30000,
+        "price_premium": 5000,
+        "calories": "956,7 Kj",
+        "is_cvc": false,
+        "cooking_time": 10,
+        "serving_min": 1,
+        "serving_max": 1,
+        "release_date": 1654608600,
+        "updated_date": 1677771241,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 5,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 7,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 3,
+        "recook_count": 2,
+        "original_image": "content-images/images/20220607/71f3288718e2462bb006bff1bcfbed38.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/TfP3uceB4zYU48PaA",
+        "category": {
+            "name": "Minuman",
+            "slug": "minuman"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Menggunakan talenan potong-potong pisang menjadi beberapa bagian.",
+                "image_url": "content-images/images/20220607/4270afe31eb9f3d62cde03a59af0581d.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220607/4270afe31eb9f3d62cde03a59af0581d.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Lalu ke dalam blender campurkan oat milk, bubuk coklat dan juga protein powder rasa coklat.",
+                "image_url": "content-images/images/20220607/1e06f23d35a19951f6119e5fcba623d3.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220607/1e06f23d35a19951f6119e5fcba623d3.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tjLwUn7mCQfa7d86yvsq3g==",
+                "name": "Minuman",
+                "slug": "minuman"
+            },
+            {
+                "id": "Xz4TmzEflGVjKxn-DJebKg==",
+                "name": "Minuman Diet",
+                "slug": "minuman-diet"
+            },
+            {
+                "id": "YPx--EuJ-arwzS7GnZ0-Bg==",
+                "name": "minuman segar",
+                "slug": "minuman-segar"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "2SFTVK4qCmAsQG6dYRbBKQ==",
+                "name": "Almond",
+                "slug": "almond"
+            },
+            {
+                "id": "Nqvc7IvHC2XyIQHf0FPlkQ==",
+                "name": "Cokelat Bubuk",
+                "slug": "cokelat-bubuk"
+            },
+            {
+                "id": "QkIKZRPM_S92yBEZfjeyhA==",
+                "name": "Kelapa Muda",
+                "slug": "kelapa-muda"
+            },
+            {
+                "id": "5E06leA9af_ayn-5H4PqVA==",
+                "name": "Pisang",
+                "slug": "pisang"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "040a8a10-07c2-4d05-9319-773e5e16c23c",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "50 gr daging kelapa muda",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/k0bAgz",
+                        "media_url": "content-images/images/20211026/4f2ae5d663d5f3111afa237079b979e0.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah pisang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/VmV0La",
+                        "media_url": "content-images/images/20211026/11fdd87adb49e00f3e6859d093df7684.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm almond butter",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/9gQrR4",
+                        "media_url": "content-images/images/20220607/8e09f447c0716c5f0568b6fd3f2aaa81.webp?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "237 ml oat milk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/3b0e6ef7c4464537656d16831a07e429.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm bubuk coklat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/k0bNnV",
+                        "media_url": "content-images/images/20211025/a76792b90a804e02f58bf259fd8ec57f.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "35 gr protein powder rasa coklat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/k0bNnV",
+                        "media_url": "content-images/images/20220607/89ab8d394e634abc90035120d70f2743.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Blender",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Asam Folat (\u00b5g)",
+                "slug": "asam-folat-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin C (mg)",
+                "slug": "vutamin-c-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "y1w9Fa9dcDzV7yFHUTTh6HqTeMjV8YfH",
+                "created_at": 1668713250,
+                "image_url": "content-images/images/20221117/ri6Wfmuirr5RtBGbtHyXVf6vMUXOOZCS-31363638363838303339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "seger dan mantap #RecookYummy",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "sgnztYt4AUxYwC7_onReAQ==",
+                    "username": "eriana03",
+                    "name": "Endah Triana",
+                    "avatar": "content-images/images/20211224/DTYHcBtTyduxCVgM51K14bd77f9xZmh1-31363430333135393835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Banana Choconut Shake",
+                    "slug": "banana-choconut-shake",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "JWnlps67ek6WkIhKNxD28KjjktUUY8UE",
+                "created_at": 1668657524,
+                "image_url": "content-images/images/20221117/hZZOYDIylN0NaVdK8LcLxzQWzlLJlWv8-31363638363332313434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "ijin setor lagi chef.. \ud83d\ude01\nkali ini resep banana shake...\nAda 2 bahan yang tidak ada disini chef jadi saya memaksimalkan dengan bahan pengganti yang cocok biar hasilnya yummy.. \ud83d\ude0b\nmksh resepnya chef..\ud83e\udd17\ud83d\ude4f\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "Bcfv2zU7rqxEF4iydPwvrQ==",
+                    "username": "re-milik",
+                    "name": "Re Milik",
+                    "avatar": "content-images/images/20230412/iInVLfvmBp8ciDwmVHuln9Krx6isAqwf-31363831323938373939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Banana Choconut Shake",
+                    "slug": "banana-choconut-shake",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Blender",
+                "media_url": "content-images/images/20210714/d663132b420d7d7367efac657734afe6.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Sendok",
+                "media_url": "content-images/images/20220428/a1ba0329ece5c4d7fe4e3d5b16904b88.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Telenan - Bentuk Bulat",
+                "media_url": "content-images/images/20210712/00a2e0763cd3ae9ab62cace5336a95af.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Gelas Saji",
+                "media_url": "content-images/images/20210714/2b556ca3e42c0b0803a28e9ba0b215e0.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

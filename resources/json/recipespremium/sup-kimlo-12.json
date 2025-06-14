@@ -1,0 +1,756 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "VOakXVSjjffd6WMPNtOKeg==",
+        "title": "Sup Kimlo",
+        "slug": "sup-kimlo-12",
+        "cover_url": "content-images/images/20220407/6b9e17a5643950724ffe64e1e00cdb9d.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220407/6b9e17a5643950724ffe64e1e00cdb9d.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Sup kimlo yang berasal dari Solo, cocok disajikan sebagai menu berbuka puasa yang sehat dan menghangatkan.",
+        "rating": 4,
+        "video_url": "content-videos/video/20220407/b3fb48e00a9a777393fa9b15f14916a9.mp4",
+        "price": 30000,
+        "price_premium": 5000,
+        "calories": "766,9 Kj",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 9,
+        "serving_max": 10,
+        "release_date": 1649300400,
+        "updated_date": 1669105890,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.880000114440918,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 26,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 8,
+        "recook_count": 11,
+        "original_image": "content-images/images/20220407/6b9e17a5643950724ffe64e1e00cdb9d.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/V5isY1ZxGSCtEdZRA",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Panaskan minyak di atas panci, tumis bawang putih, jahe, dan bawang pre hingga harum. Masukkan ayam dan masak hingga berubah warna.",
+                "image_url": "content-images/images/20220407/3d0e1d0603dffaab0c5f1bc04cde3424.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220407/3d0e1d0603dffaab0c5f1bc04cde3424.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tuangkan air, wortel, daun seledri, sedap malam, bakso, dan jamur kuping ke dalamnya, masak hingga mendidih.",
+                "image_url": "content-images/images/20220407/d198ff9a8fa485f995fe78e1735871b5.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220407/d198ff9a8fa485f995fe78e1735871b5.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Makanan Sehat",
+                "slug": "makanan-sehat"
+            },
+            {
+                "id": "lWPNp2n9NbjJ_JbMP7pXxA==",
+                "name": "Sup",
+                "slug": "sup"
+            },
+            {
+                "id": "09qixFV2VkI_lmE5V9ogIw==",
+                "name": "Makanan Berkuah",
+                "slug": "makanan-berkuah"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            },
+            {
+                "id": "CtwzKFqwt2hHez6OjZb2bw==",
+                "name": "Lada",
+                "slug": "lada"
+            },
+            {
+                "id": "7SEXctodGr7Me8wPmxwW4A==",
+                "name": "Seledri",
+                "slug": "seledri"
+            },
+            {
+                "id": "hTmj-eeF1rT1Fe5furP4hQ==",
+                "name": "Telur Puyuh",
+                "slug": "telur-puyuh"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "1cf22581-ea47-4b71-aed9-3fb2d7cf2249",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "2 sdm minyak",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/JzQZrR",
+                        "media_url": "content-images/images/20211026/ab9ffb21fb2894caf52730ecf48965a1.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 siung bawang putih, cincang.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20211026/4f0b23b2175253b3e759de3d6229f244.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang bawang pre, iris.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/XYZKbG",
+                        "media_url": "content-images/images/20210803/19f9302c4bd1e622223ecc3501ec8168.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang daun seledri, ikat.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/VmV0oa",
+                        "media_url": "content-images/images/20211026/13833cc49da4aa51801e377dc83a3add.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 gr dada ayam, potong dadu.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/75xQZY",
+                        "media_url": "content-images/images/20211019/a04d0948eb0057e52b213f541392d193.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 buah wortel, iris.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLxR1",
+                        "media_url": "content-images/images/20211026/5c614dc4250ff2adf67d0a48f0f577b6.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Segenggam jamur kuping",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/JzQW17",
+                        "media_url": "content-images/images/20210803/47b6923e7f758d0e3c59ea516e45fd58.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 ruas jahe, geprek.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/AWaGrN",
+                        "media_url": "content-images/images/20211026/19618fc40228ff254e602e64b785645a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 butir telur puyuh rebus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbBxE",
+                        "media_url": "content-images/images/20211026/6c84a8edadee662d8cd6178259185a60.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 pcs bakso sapi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWXj",
+                        "media_url": "content-images/images/20210712/4d1448087bbbf59228fa69c0983d7093.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "7 lembar sedap malam, ikat.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220407/98f16902e3dbfc4f11a99abcdd455516.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr kembang tahu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqD3b",
+                        "media_url": "content-images/images/20210728/c17897883cec80de689b08fb68117d0e.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr soun",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20210803/b49b30f4cb23c8b9506399835e89a859.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 liter air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/a8f6e995116c81f4fbf4600a4520c6b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm minyak wijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbRBR",
+                        "media_url": "content-images/images/20211026/b493aca0e820d71b71f0ee67dcdd11a2.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kecap asin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/9gQrb0",
+                        "media_url": "content-images/images/20211026/c3d11eed3cfc5f38e724717c834337f8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt pala bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/an6DRW",
+                        "media_url": "content-images/images/20210803/d84322fe3ecf2db4808016873676e21b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20211025/7a572e1883391c73701f6d6d766bd4dd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbok5",
+                        "media_url": "content-images/images/20210805/1bc723e6b42febeb800bb2d382500162.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan pelengkap",
+                "ingredients": [
+                    {
+                        "description": "Nasi putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/3eOzAK",
+                        "media_url": "content-images/images/20210712/da5b84b2c38bb9c1f87234cce147cca3.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Bawang goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBb91",
+                        "media_url": "content-images/images/20211026/d1c920c1cde0b2d9a876df60680e6703.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Daun bawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Or5WNP",
+                        "media_url": "content-images/images/20210712/82ba8263e8b03cd0b1336c786ed7c709.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Panci",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin A (\u00b5g)",
+                "slug": "vitamin-a-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": false
+            },
+            {
+                "name": "Vitamin C (mg)",
+                "slug": "vutamin-c-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Asam Folat (\u00b5g)",
+                "slug": "asam-folat-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": true
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "wsEEKew4Kas7UVYHAiY1nVgp7afguj4w",
+                "created_at": 1664422800,
+                "image_url": "content-images/images/20220804/lYp8FOy59VYJvGL45gi4m8AoUsAIW2Mo-31363539353836313231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Terima kasih inspirasi resepnya chef. Sup nya yummy\n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "i0O-oSlRUe4UxYkg8NgUiw==",
+                    "username": "dapoer-anoe",
+                    "name": "Anugrah Lestari",
+                    "avatar": "content-images/images/20231123/94187de06d9b0932934931d1f74c219a.jpeg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Sup Kimlo",
+                    "slug": "sup-kimlo-12",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "OoWocrWer1Op0NZyrdkyHkRbELVPHtsk",
+                "created_at": 1664422800,
+                "image_url": "content-images/images/20220805/U9PzE8Z6ZqYmf6qcPg1ZgYIWgUGWXFPa-31363539363830323431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Pertama kali nyobain resep sup kimlo, enak segar dan isian nya bermacam2. Cocok banget buat disantap sama keluarga,termasuk anak2 suka banget sama sup nya \u263a\ufe0f ijin modifikasi ya chef, kembang tahunya saya skip. Terima kasih \ud83d\ude4f\ud83c\udffb\n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "rbL6-tu6vfQ0XreQ8Cm0BA==",
+                    "username": "mikhayla-anindita",
+                    "name": "Aisah",
+                    "avatar": "content-images/images/20220606/060RCrniCaexrFwY1lM4gMbMjDRDmZ1u-31363534343830313633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Sup Kimlo",
+                    "slug": "sup-kimlo-12",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "gVNoTyI950YwO3MdUIySQvFwcXefMMwr",
+                "created_at": 1664422800,
+                "image_url": "content-images/images/20220805/iRCaqIfbXvwpcPwz5Gen8BKdfeCrWoPu-31363539373034363734d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selamat malam chef yummy\nSetor recook sup kimlo nya, pertama kali masak sup ini.\nEnak nya, seger dan gurih..\nCocok dimakan hangat hangat kala cuaca dingin.\nSayang nya gak ada bunga sedap malam di tempat saya, jadi di skip.\nKalau dipakaian bunga sedap malam mungkin rasa dan aroma nya bakal unik banget..\n\nTerimakasih ya yummy resep nya\n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "oq94N9lSMPl0yFZEPB_W7A==",
+                    "username": "laylla-gama",
+                    "name": "Laylla gama",
+                    "avatar": "content-images/images/20230414/OZfmj382lybjl8LlzPb9oMFsBceUH8rR-31363831343432343631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Sup Kimlo",
+                    "slug": "sup-kimlo-12",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "ZpcJW4FrlcYSBaSZnsi769lvCD1seGw0",
+                "created_at": 1664422800,
+                "image_url": "content-images/images/20220806/wRJG4Aj4DLMCVCOniajnIWM3ulAKPLYD-31363539373637393832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Trimaksh Chef Resepnya... \ud83d\ude4f\ud83d\ude4f enak banget.. Cocok buat makan siang... Bikin ketagihan \ud83d\udc4c\ud83d\ude18 \n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "qIyUE3VmwcRphJ-I2rWyJw==",
+                    "username": "evie-indriana",
+                    "name": "Evie Indriana",
+                    "avatar": "content-images/images/20230529/KEvBrqtdqCqSUmlnAsmfGUFVP2JPuqIF-31363835333633373939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Sup Kimlo",
+                    "slug": "sup-kimlo-12",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "DJ0aLRYcYcJK038PbxN3koAvGwgWxQDz",
+                "created_at": 1664422800,
+                "image_url": "content-images/images/20220807/r4p0GYrY2BmqOqPRfbwX7oBMKVn7jyoS-31363539383330323635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Resepnya simpel banget chef, rasanya juga enak. Telur dan daging ayamnya aku skip.. Disesuaikan sama stok dirumah. Terimakasih\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "xP4_n20QuU7aetgxbd27Rw==",
+                    "username": "echa-kitchen",
+                    "name": "Elsa Agustina",
+                    "avatar": "content-images/images/20230504/hOn8QrdxQkxsBbj2l0zclvWaVoI4nequ-31363833313435353831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Sup Kimlo",
+                    "slug": "sup-kimlo-12",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "IW3NGW9tx4Rq2EiQT0rf4MQjuGqiYrJ4",
+                "created_at": 1664422800,
+                "image_url": "content-images/images/20220807/83N76jnedBjb0ZqEokcxzGrpc9GhhiXt-31363539383434313035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Resepnya enak chef, seger banget. dimakan tanpa nasi enak banget. terima kasih #recookyummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "k-Sb9jfOapCXPwuDXyh3lw==",
+                    "username": "lilis-dapoer-tara",
+                    "name": "Lilis Dapoer Tara ",
+                    "avatar": "content-images/images/20230415/ShUKGmivJG2z4ahAGjJEdr4kRPvXtHT8-31363831353231323934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Sup Kimlo",
+                    "slug": "sup-kimlo-12",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "lbgIbQnz4dBHLuZ2GPXsL1ZQ46TCTVCz",
+                "created_at": 1664422800,
+                "image_url": "content-images/images/20220807/8zr7H1tAGoafIRcLQtudos0EPJ4snfcy-31363539383735343336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Malam cheff, setor menu sop kimlonya ya, ini enak loh buat makan malam. Saya skip kembang tahu, bunga sedap malam sama sounnya. Saya ganti dengan jamur inoki. Sesuai bahan yg ada di rumah. Rasanya segeer. Makasih resepnya chef.\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "4GXwdga9pqz5-JReBpV6oQ==",
+                    "username": "dapurmamoz",
+                    "name": "Lina Subrata",
+                    "avatar": "content-images/images/20211012/jU5gJ4qfhOX0PfXbxQeTbjwX8mhMkaT2-31363334303233363933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Sup Kimlo",
+                    "slug": "sup-kimlo-12",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "Om8x9mtMJwEWXKMNUErCPe0Uy7UkEIgF",
+                "created_at": 1664422800,
+                "image_url": "content-images/images/20220807/tfYecTp9PKKBXoUFy0edEEYufCkiT1ZS-31363539383834313837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hallo chef... Recook lagi resep terujinya Yummy. Enak banget ini \ud83e\udd24 Gpp ya banyak bahan yang saya skip, disesuaikan dengan isi kulkas. Terima kasih untuk resep terujinya, chef... Ijin reshare ya \ud83e\udd17\n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "vVmY1RC3XQQ9dKGppk1TNg==",
+                    "username": "sriyuliastuti",
+                    "name": "Sri Yuli Astuti",
+                    "avatar": "content-images/images/20201002/JEI2TAOp3DLGO1gx0C2qoQsl21fOrv7D-31363031363037333635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Sup Kimlo",
+                    "slug": "sup-kimlo-12",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "v37VxBNG4bvsZYJlRRG4fMlnnyDThZZk",
+                "created_at": 1664422799,
+                "image_url": "content-images/images/20220802/cPdlRTStJdYJuETy74PejzAHnxswRCie-31363539343133313936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Haloo chef... ijin setor recook yaa,, kuahnya seger bgt.. tp sayang aq nyari sedap malam sm kembang tahu susah bgt \ud83e\udd7a\ud83e\udd7a jd bahan2 yg ada aja dibeli hehe.. \n\nTetep enak aja sihh, krn setelah dimasak udh byk bgt porsi nya pas buat makan rame2 dirumah \ud83d\ude01\n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "NUn5b7LK9SmrHTfh-CU_1w==",
+                    "username": "ct-khumairah",
+                    "name": "Siti Khumairah Aisyah",
+                    "avatar": "content-images/images/20200403/VXN14He4jtlvAGTIaMaKlhDa3t57hC7X-31353835393131303735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Sup Kimlo",
+                    "slug": "sup-kimlo-12",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "bXWIoWbN4CdtaqlHvfibO2FouaqVgtUQ",
+                "created_at": 1664422799,
+                "image_url": "content-images/images/20220802/tO2Ka6XonMCRTQLgTWqDBwZgk8Jlaj9X-31363539343135313637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selamat siang Chef Yummy, setor recook hasil masakan saya. Enak banget walaupun tanpa bunga sedap malam. Dan keluarga saya suka sekali. Makasih resepnya \ud83d\ude4f\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "rEFeSY9tbKG-MBYPz-N9iw==",
+                    "username": "vhita-hani",
+                    "name": "Vhita Hani",
+                    "avatar": "content-images/images/20231123/ef16c6b267c78f4d9460d72fcdcb0645.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Sup Kimlo",
+                    "slug": "sup-kimlo-12",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Panci Besar (Sop)",
+                "media_url": "content-images/images/20211105/a9f867c4bf54b613b7e7d6a82a980b7f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Ladle / Sendok Sayur",
+                "media_url": "content-images/images/20211105/b6f6c4206d16e40dcd2bfee5b6e34325.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Mangkuk Saji",
+                "media_url": "content-images/images/20211105/6b25d0e99ffbff542d2819b54b6f093f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Garpu Sendok Saji",
+                "media_url": "content-images/images/20210714/9354802af79beb19c95468071ba7010e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

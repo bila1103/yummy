@@ -1,0 +1,209 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "WLKCAz6x6j5zeLa-Ht845g==",
+        "title": "Salad Buah Simple",
+        "slug": "salad-buah-simple-3",
+        "cover_url": "content-images\/images\/20250506\/7SQoPX0qXpwE1actoSQsZjouC263WGjS-31373436353430303634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250506\/7SQoPX0qXpwE1actoSQsZjouC263WGjS-31373436353430303634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Bikin salad buah simple aja, cuma pakai mayones. Karena mamaku gak suka pakai campuran susu kental manis.",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 5,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1746610860,
+        "updated_date": 1746610973,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 5,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250506\/7SQoPX0qXpwE1actoSQsZjouC263WGjS-31373436353430303634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/2LpuEJKyt3FueSey7",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Dalam wadah masukkan mayones.",
+                "image_url": "content-images\/images\/20250506\/8MwiJwjudVSWuawyFSi56ODXaUSP5TRA-31373436353430313530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/8MwiJwjudVSWuawyFSi56ODXaUSP5TRA-31373436353430313530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan buah naga.",
+                "image_url": "content-images\/images\/20250506\/tqMzlzxerlCYNCjmCIqW3O5tM0Tal1mG-31373436353430313637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/tqMzlzxerlCYNCjmCIqW3O5tM0Tal1mG-31373436353430313637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan apel.",
+                "image_url": "content-images\/images\/20250506\/VT7bs5zhfmaQu1Tcbk44mMeBKL4mVNdA-31373436353430313736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/VT7bs5zhfmaQu1Tcbk44mMeBKL4mVNdA-31373436353430313736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan pir.",
+                "image_url": "content-images\/images\/20250506\/8tUxIPdlBGdi6A585l45MrDel1106BFB-31373436353430313833d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/8tUxIPdlBGdi6A585l45MrDel1106BFB-31373436353430313833d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Aduk hingga tercampur rata.",
+                "image_url": "content-images\/images\/20250506\/mSAXpcIyMGgF4jmetTkcbrIBJnvlHPnk-31373436353430313931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/mSAXpcIyMGgF4jmetTkcbrIBJnvlHPnk-31373436353430313931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tambahkan chia seed.",
+                "image_url": "content-images\/images\/20250506\/eSahFzyqbCPt1WTOXg0d0txZHMbD4FFe-31373436353430323032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/eSahFzyqbCPt1WTOXg0d0txZHMbD4FFe-31373436353430323032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Sajikan..",
+                "image_url": "content-images\/images\/20250506\/cX5hxEdu3vjyBu9OQPTCEIDALUrxd5Jb-31373436353430323139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250506\/cX5hxEdu3vjyBu9OQPTCEIDALUrxd5Jb-31373436353430323139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "HvIwEy8giumfjc1nEpAd3Q==",
+                "name": "Apel",
+                "slug": "apel"
+            },
+            {
+                "id": "lg6AGgrx8swQcmDlDUBehw==",
+                "name": "Buah Naga",
+                "slug": "buah-naga"
+            },
+            {
+                "id": "29fKVyfCA5GKvNC6KRVBfQ==",
+                "name": "Mayonaise",
+                "slug": "mayonaise"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "6uTHvVU6EKYkEusocn-bbg==",
+            "uuid": "c34551a6-c402-47af-8187-3c0c410bfd8a",
+            "username": "separuh-jiwaku",
+            "name": "Separuh jiwaku",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "\u00bc buah naga",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc buah pir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc buah apel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm mayones",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt chia seed",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

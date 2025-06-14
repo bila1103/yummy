@@ -1,0 +1,251 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "HvgSzFSqbxfh7cY0LPHU9Q==",
+        "title": "Nugget Ubi",
+        "slug": "nugget-ubi-2",
+        "cover_url": "content-images\/images\/20250518\/X73nN6FxBUoOFJdqncwO7dssJ7fJ1gxQ-31373437353330363834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250518\/X73nN6FxBUoOFJdqncwO7dssJ7fJ1gxQ-31373437353330363834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Camilan yang cocok untuk teman ngopi dan ngeteh, krispy di luar lembut di dalam.",
+        "rating": 5,
+        "video_url": "",
+        "price": 12000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 1,
+        "serving_max": 5,
+        "release_date": 1747648800,
+        "updated_date": 1747623791,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 10,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250518\/X73nN6FxBUoOFJdqncwO7dssJ7fJ1gxQ-31373437353330363834d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/rKxcCVn4pLWAHh2bA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Kukus Ubi hingga matang.",
+                "image_url": "content-images\/images\/20250518\/yNiUm4DMn2qKdmCHJ4yd6BmJ0gBdoQ9N-31373437353534373233d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250518\/yNiUm4DMn2qKdmCHJ4yd6BmJ0gBdoQ9N-31373437353534373233d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Hancurkan Ubi yang sudah di kukus dengan garpu atau alat lainnya.",
+                "image_url": "content-images\/images\/20250518\/DZORBqOibtBEZUZ3kI8uzNnBojjvIHTW-31373437353534373239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250518\/DZORBqOibtBEZUZ3kI8uzNnBojjvIHTW-31373437353534373239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan bahan utama. Aduk dan uleni hingga tercampur merata dan adonan ubi kalis.",
+                "image_url": "content-images\/images\/20250518\/EimBwF8mBEuvwjdb01WgY3N1rMQ8yXLo-31373437353534373335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250518\/EimBwF8mBEuvwjdb01WgY3N1rMQ8yXLo-31373437353534373335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Bentuk ubi sesuatu selera.",
+                "image_url": "content-images\/images\/20250518\/KWbU6TQK0NfsnpUfKGlB9K2nH4gOZ3Ok-31373437353534373530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250518\/KWbU6TQK0NfsnpUfKGlB9K2nH4gOZ3Ok-31373437353534373530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Celupkan ke dalam tepung terigu dan tepung panir, tekan-tekan agar tepung panir menempel dengan baik.",
+                "image_url": "content-images\/images\/20250518\/W3u1bGCGDIf4sZEavTCXBcQjiE5w8h2E-31373437353534373539d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250518\/W3u1bGCGDIf4sZEavTCXBcQjiE5w8h2E-31373437353534373539d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Goreng dengan api sedang hingga nugget ubi matang dan berwarna agak kecoklatan.",
+                "image_url": "content-images\/images\/20250518\/Atn0OyEOc5JdwXiS1s36XjGCcWrbV58l-31373437353534373735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250518\/Atn0OyEOc5JdwXiS1s36XjGCcWrbV58l-31373437353534373735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "_ZB0JXDgKfQ_iO15__04Ng==",
+                "name": "Durasi 60 Menit",
+                "slug": "60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "4k8pCLcc7BX1HDeJPutX8A==",
+                "name": "Tepung Tapioka",
+                "slug": "tepung-tapioka"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            },
+            {
+                "id": "qQy8XZh2M-j6xIFwdedn0A==",
+                "name": "Ubi",
+                "slug": "ubi"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "dZrDApms8kIHMQZQpm1k8g==",
+            "uuid": "5dd8f723-132c-4d50-846c-5251a2abeea1",
+            "username": "ayurzk",
+            "name": "ayu rzk",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 kg Ubi (bebas Ubi apa saja)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 sdm tepung tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt vanili bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Pelapis",
+                "ingredients": [
+                    {
+                        "description": "5 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya tepung panir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

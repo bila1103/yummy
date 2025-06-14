@@ -1,0 +1,198 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "1PKe-2cPQGJX7aQmWe-hwg==",
+        "title": "Es Jeruk Kasturi",
+        "slug": "es-jeruk-kasturi-4",
+        "cover_url": "content-images\/images\/20250430\/13f6592b4960d4cd42a45572da6e4c1c.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250430\/13f6592b4960d4cd42a45572da6e4c1c.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 5,
+        "video_url": "content-videos\/video\/20250430\/98208f99f2ea46ca92ee401c9f76c8d6.mp4",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 1,
+        "serving_max": 3,
+        "release_date": 1745993520,
+        "updated_date": 1746168631,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 5,
+        "is_video": true,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 5,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 2,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250430\/13f6592b4960d4cd42a45572da6e4c1c.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/hJEbNHQE8mxV3sfdA",
+        "category": {
+            "name": "Minuman",
+            "slug": "minuman"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Larutkan gula dengan 100 ml air hangat hingga gula larut.",
+                "image_url": "content-images\/images\/20250430\/81628da0fefab6e6328dcad243cf366c.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/81628da0fefab6e6328dcad243cf366c.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Peras jeruk kasturi untuk mendapatkan air jeruknya.",
+                "image_url": "content-images\/images\/20250430\/37c98eb00e6d6171443a86ab842baa38.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/37c98eb00e6d6171443a86ab842baa38.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Campurkan air jeruk kasturi dengan larutan gula dan air yang tersisa. Aduk rata.",
+                "image_url": "content-images\/images\/20250430\/872a30a14e3a8c8613ed3209e5dd348c.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/872a30a14e3a8c8613ed3209e5dd348c.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan biji selasih dan irisan jeruk kasturi ke dalam campuran dan aduk rata.",
+                "image_url": "content-images\/images\/20250430\/d53d813f1594c1b2461bf7e670e2188a.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/d53d813f1594c1b2461bf7e670e2188a.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Sajikan.",
+                "image_url": "content-images\/images\/20250430\/21fcaac194a7854bc6e44e955bd0b9e9.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/21fcaac194a7854bc6e44e955bd0b9e9.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "2N9oVvOk4OzagTsGqrnxxw==",
+                "name": "minuman dingin",
+                "slug": "minuman-dingin"
+            },
+            {
+                "id": "YPx--EuJ-arwzS7GnZ0-Bg==",
+                "name": "minuman segar",
+                "slug": "minuman-segar"
+            },
+            {
+                "id": "j5UVkKDT1AySSs0voY68oQ==",
+                "name": "Indonesia",
+                "slug": "indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "uf3yXu9X3TkkWQrnxE9Hng==",
+                "name": "Jeruk",
+                "slug": "jeruk"
+            },
+            {
+                "id": "QfI0I20CbkXSVCYjNFqpCg==",
+                "name": "Selasih",
+                "slug": "selasih-1"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "040a8a10-07c2-4d05-9319-773e5e16c23c",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images\/images\/20221116\/yummy-official.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "500 ml Air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "12 buah Jeruk Kasturi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt Biji Selasih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 sdm Gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Es Batu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

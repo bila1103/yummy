@@ -1,0 +1,178 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "TvyQAmV8wOokLeYEBJgfbg==",
+        "title": "Pilus singkong",
+        "slug": "pilus-singkong-3",
+        "cover_url": "content-images\/images\/20250430\/uLCF8vMbh7FDB34BYe1hBk1KajzW4LG5-31373435393737353035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250430\/uLCF8vMbh7FDB34BYe1hBk1KajzW4LG5-31373435393737353035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Cocok buat cemilan",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 2,
+        "serving_max": 5,
+        "release_date": 1747712880,
+        "updated_date": 1747712985,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 4,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250430\/uLCF8vMbh7FDB34BYe1hBk1KajzW4LG5-31373435393737353035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/6GdqiofVxDQATebF8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Kupas singkong dan cuci bersih",
+                "image_url": "content-images\/images\/20250430\/kCYsfG0GUmToyqk0H5rj9vYZdB8szEXG-31373435393739333631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/kCYsfG0GUmToyqk0H5rj9vYZdB8szEXG-31373435393739333631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Lalu parut singkong",
+                "image_url": "content-images\/images\/20250430\/ug7YafdDX3mYFiNm11NgslY2BwnpzSjW-31373435393739333931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/ug7YafdDX3mYFiNm11NgslY2BwnpzSjW-31373435393739333931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Lalu Tambahkan parutan kelapa, garam dan gula pasir . Campur semua bahan",
+                "image_url": "content-images\/images\/20250430\/9ui4l255KvvBQmzlsqqdSVqG3cBA4Pv3-31373435393739343537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/9ui4l255KvvBQmzlsqqdSVqG3cBA4Pv3-31373435393739343537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Bentuk bentuk adonan",
+                "image_url": "content-images\/images\/20250430\/WbTRr5ift6JNr0N56ttpj9GI5Dfip4la-31373435393739353134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/WbTRr5ift6JNr0N56ttpj9GI5Dfip4la-31373435393739353134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Setelah itu goreng sampai kecoklatan atau sampai matang. Siap di sajikan.",
+                "image_url": "content-images\/images\/20250430\/XFSmB6cVRF00nooeMjZm3yIms0cCsa4M-31373435393739353438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/XFSmB6cVRF00nooeMjZm3yIms0cCsa4M-31373435393739353438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "N02k6Ggj3jDFSzKr77bg2Q==",
+                "name": "cemilan sehat",
+                "slug": "cemilan-sehat"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "cR2C8zI6gmX_XXrAs_OXuw==",
+                "name": "Kelapa",
+                "slug": "kelapa"
+            },
+            {
+                "id": "tqfDf2P1f7HSkHXKPYTEOQ==",
+                "name": "Singkong",
+                "slug": "singkong"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "2Qv4d0XB9IUK6RP6mkU2vw==",
+            "uuid": "768d6caf-be3a-4127-9ddd-c09d471be500",
+            "username": "er-vin",
+            "name": "Er Vin",
+            "avatar": "content-images\/images\/20220910\/S90gjjgyyuTfiku225Mnn3MCZxcdagqJ-31363632373639353431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 buah singkong",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr Kelapa parut",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sejumput garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

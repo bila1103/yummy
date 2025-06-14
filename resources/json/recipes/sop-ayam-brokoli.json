@@ -1,0 +1,193 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "dlVBGQJdBmXUAebl8FdByw==",
+        "title": "SOP ayam brokoli",
+        "slug": "sop-ayam-brokoli",
+        "cover_url": "content-images\/images\/20250520\/16cD6g4hGPW1njK16gwyj06LpizBJD2h-31373437373136333938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250520\/16cD6g4hGPW1njK16gwyj06LpizBJD2h-31373437373136333938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Bumbu Simple Cocok untuk menu MPASI atau diet.",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1747750980,
+        "updated_date": 1747751046,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 5,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250520\/16cD6g4hGPW1njK16gwyj06LpizBJD2h-31373437373136333938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/froaLPeTGT2EbFTdA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Siapkan bawang putih cincang dan jahe geprek",
+                "image_url": "content-images\/images\/20250520\/BlPULi0todjdzwvus42JStYWFekPsDH8-31373437373136343837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/BlPULi0todjdzwvus42JStYWFekPsDH8-31373437373136343837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tumis bawang putih dan jahe sampai wangi",
+                "image_url": "content-images\/images\/20250520\/zvzQ0HJu1J8U2qqFX2DX5H2ModToMYOq-31373437373136353131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/zvzQ0HJu1J8U2qqFX2DX5H2ModToMYOq-31373437373136353131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Lalu tambahkan 500ml air.",
+                "image_url": "content-images\/images\/20250520\/QAQLVyDq7FMTEQ4dee4ywyn6gLxwtV13-31373437373136353433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/QAQLVyDq7FMTEQ4dee4ywyn6gLxwtV13-31373437373136353433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukan ayam yang sudah di potong2. Masak sampai matang.",
+                "image_url": "content-images\/images\/20250520\/4sLL2wfFJh3hH0zN3E3NBwTO98pTVVU3-31373437373136353731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/4sLL2wfFJh3hH0zN3E3NBwTO98pTVVU3-31373437373136353731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Setelah ayam matang lalu masukan wortel lanjut masukan brokoli. Seasoning dengan garam dan kaldu bubuk secukupnya.",
+                "image_url": "content-images\/images\/20250520\/GlF1U7gVoLH6ooXMl5CJpx2vAEQwEidF-31373437373136363130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250520\/GlF1U7gVoLH6ooXMl5CJpx2vAEQwEidF-31373437373136363130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "Cil1aGffCF64L1bZoyR6UA==",
+                "name": "MPASI",
+                "slug": "mpasi"
+            },
+            {
+                "id": "PnKlJFJzpnyBiz5TatWYnw==",
+                "name": "Makanan Diet",
+                "slug": "makanan-diet"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "3JarabNLfhlEdSLoUTuDVw==",
+                "name": "Brokoli",
+                "slug": "brokoli"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "aeptKAKzj1jx-Y1vaQTVsA==",
+            "uuid": "836fb39c-f004-4462-9af1-6bbfcfa02a1f",
+            "username": "triwin",
+            "name": "Tri Winarny",
+            "avatar": "content-images\/images\/20191223\/GbHcNGbYMFNJV58dSkANIKkZA4Sy2ph8-31353631323031363534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 batang sayur brokoli",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah wortel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gram daging ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang putih cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 ruas jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

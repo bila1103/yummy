@@ -1,0 +1,260 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "fMYPj2SGa1bMKHkmMb2vhw==",
+        "title": "Talas Goreng (Uyen)",
+        "slug": "talas-goreng-uyen",
+        "cover_url": "content-images\/images\/20250511\/UwoZV8pAODNerQiMTxxPH0xTzYIlEzxF-31373436393536333733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250511\/UwoZV8pAODNerQiMTxxPH0xTzYIlEzxF-31373436393536333733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Kemaren aku beli talas, nah udah lama gak makan talas goreng. Langsung deh buat untuk cemilan keluarga di sore hari.",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1747131420,
+        "updated_date": 1747131534,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250511\/UwoZV8pAODNerQiMTxxPH0xTzYIlEzxF-31373436393536333733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/2fA15i68gqotT2n1A",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Kupas dan cuci bersih talas.",
+                "image_url": "content-images\/images\/20250511\/r83wgG9IVTaWCFN1hXXoMZD26mOBWB43-31373436393536353032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/r83wgG9IVTaWCFN1hXXoMZD26mOBWB43-31373436393536353032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Parut talas.",
+                "image_url": "content-images\/images\/20250511\/h66Hw1cdavWkqEHHE97ikRrdZl06yyJH-31373436393536353135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/h66Hw1cdavWkqEHHE97ikRrdZl06yyJH-31373436393536353135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan bawang putih, garam, kaldu bubuk.",
+                "image_url": "content-images\/images\/20250511\/bRPTzkqnP914dPfOLeifFw3439z62P5s-31373436393536353237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/bRPTzkqnP914dPfOLeifFw3439z62P5s-31373436393536353237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan udang rebon, cabe bubuk, aduk rata.",
+                "image_url": "content-images\/images\/20250511\/zvaifdE8zLt2sXztKxkTGd1wEDcZL1pr-31373436393536353531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/zvaifdE8zLt2sXztKxkTGd1wEDcZL1pr-31373436393536353531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tambahkan tepung terigu.",
+                "image_url": "content-images\/images\/20250511\/WCTcoF075rMNKBHMdpBrDCW82D7srFdH-31373436393536353637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/WCTcoF075rMNKBHMdpBrDCW82D7srFdH-31373436393536353637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Lalu tuang air.",
+                "image_url": "content-images\/images\/20250511\/sbzcdU0Yqt3RnYnVqAIZB31ivldKbU9L-31373436393536353838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/sbzcdU0Yqt3RnYnVqAIZB31ivldKbU9L-31373436393536353838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Aduk hingga tercampur rata.",
+                "image_url": "content-images\/images\/20250511\/btQy4HFih5E3QydkhhtDOeqHIgmhYScp-31373436393536363030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/btQy4HFih5E3QydkhhtDOeqHIgmhYScp-31373436393536363030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Bentuk bulat kecil talas goreng dengan bantuan sendok, lalu goreng.",
+                "image_url": "content-images\/images\/20250511\/JpnJpzvLfCaMrjV634CdssJ9xLNdelvH-31373436393536363133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/JpnJpzvLfCaMrjV634CdssJ9xLNdelvH-31373436393536363133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Goreng hingga kecoklatan.",
+                "image_url": "content-images\/images\/20250511\/ExLwMEoCNbcUyGQTexEl3b0Z1JPYNFFk-31373436393536363335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/ExLwMEoCNbcUyGQTexEl3b0Z1JPYNFFk-31373436393536363335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 10",
+                "text": "Sajikan..",
+                "image_url": "content-images\/images\/20250511\/LBYiLMNn3Q3jaYKc2LTv7Hh0T3H5C4kR-31373436393536363530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 10,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/LBYiLMNn3Q3jaYKc2LTv7Hh0T3H5C4kR-31373436393536363530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "KjxaEsFa0tX6RzxykKepCg==",
+                "name": "Harga Di Bawah 10 Ribu",
+                "slug": "10k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            },
+            {
+                "id": "qQy8XZh2M-j6xIFwdedn0A==",
+                "name": "Ubi",
+                "slug": "ubi"
+            },
+            {
+                "id": "e4TpRRTQlvjlFZfP2dafrA==",
+                "name": "Udang",
+                "slug": "udang"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "6uTHvVU6EKYkEusocn-bbg==",
+            "uuid": "c34551a6-c402-47af-8187-3c0c410bfd8a",
+            "username": "separuh-jiwaku",
+            "name": "Separuh jiwaku",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 buah talas, kupas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm udang rebon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang putih, cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "60 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm cabe bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

@@ -1,0 +1,596 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "uqcBvrN9lbmevK7Dq-hQYw==",
+        "title": "Ayam Bakar Kalasan",
+        "slug": "ayam-bakar-kalasan",
+        "cover_url": "content-images/images/20210815/c6c416dc65ad1484be18c45b7f56c00b.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20210815/c6c416dc65ad1484be18c45b7f56c00b.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20210812/9b6b5aa8e862d2ad202004ff42804cf1.mp4",
+        "price": 45000,
+        "price_premium": 5000,
+        "calories": "614,5 Kj",
+        "is_cvc": false,
+        "cooking_time": 45,
+        "serving_min": 5,
+        "serving_max": 7,
+        "release_date": 1629070380,
+        "updated_date": 1690965875,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.639999866485596,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 17,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 59,
+        "recook_count": 7,
+        "original_image": "content-images/images/20210815/c6c416dc65ad1484be18c45b7f56c00b.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/mUykbfz7942JLGLQ6",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Mauskkan bawang merah, bawang putih, kemiri sangrai,, dan minyak goreng ke dalam blender, blender hingga halus.",
+                "image_url": "content-images/images/20210815/50b6cfaea184a0dabe8dc35e977e51c8.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20210815/50b6cfaea184a0dabe8dc35e977e51c8.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tumis bumbu halus bersama gula jawa, serai, lengkuas, daun jeruk,ketumbar bubuk, dan daun salam hingga matang.",
+                "image_url": "content-images/images/20210815/e8e8a4e0999525831fdbfed120c0604f.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20210815/e8e8a4e0999525831fdbfed120c0604f.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "gbXzyZo67EuopKRB2wVDpg==",
+                "name": "Makanan Tradisional",
+                "slug": "makanan-tradisional"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "lP2cXVLwRQdWTvyCA_s6zA==",
+                "name": "ayam bakar",
+                "slug": "ayam-bakar"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "XoOQljKTIsthw9SvhP1iMQ==",
+                "name": "30-60m",
+                "slug": "30-60m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "VU3zhUq7PrKtYiNIfQvamg==",
+                "name": "Cabe Merah Besar",
+                "slug": "cabe-merah-besar"
+            },
+            {
+                "id": "_GHgkJBuk8m9BdjjhmCfhw==",
+                "name": "Daun Salam",
+                "slug": "daun-salam"
+            },
+            {
+                "id": "QvsDybc6uM6-8M_OksDGVw==",
+                "name": "Serai",
+                "slug": "serai"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "5 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/ZQ4ROK",
+                        "media_url": "content-images/images/20220222/b53c3be52cfc08d37851187164d6039c.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20220222/222e236aa022c17d97235a30d6d83c23.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq1jV",
+                        "media_url": "content-images/images/20220222/f55bfa7a2eb804fc4c1ff2635c9f1eb8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 potong paha ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/75xQZY",
+                        "media_url": "content-images/images/20220222/e91ca886e3e7f38a12cd44e1d742a3e1.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 ruas lengkuas, geprek",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Pyknyz",
+                        "media_url": "content-images/images/20220222/a3fe00717ea197a1b80ab9b9cf842101.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang serai, geprek",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBbyD",
+                        "media_url": "content-images/images/20220222/2a81c0a2f79a84f360cd73dc3e2e7302.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBDG",
+                        "media_url": "content-images/images/20220222/91cc8e136e63ccefa78278291ca4b764.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daun jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLx23",
+                        "media_url": "content-images/images/20220222/4251fbec3490ab789a9422d2c01cca88.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr gula jawa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBbDQ",
+                        "media_url": "content-images/images/20220222/9366db91c6471224a5c8b05a189e1a75.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt ketumbar bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqzer",
+                        "media_url": "content-images/images/20220222/e95cf444b61a36b4aa1be11c5452cb7e.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300 ml air kelapa muda",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/k0bAgz",
+                        "media_url": "content-images/images/20220222/a1f4380b6db285ed3c9b467285d0e1f5.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm kecap manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLxX9",
+                        "media_url": "content-images/images/20220222/31aecf7ca3be5a5b7bc023b04c120f66.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220222/49c4ca86140e037f04d2a59138fdfc29.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/daZEbq",
+                        "media_url": "content-images/images/20220222/adf0e3b121a8c856ec77db08bff68178.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Blender",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Kuas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Teflon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "3MXXtpxm3Y1UrwdRybU46ewODXz8I1ia",
+                "created_at": 1664447997,
+                "image_url": "content-images/images/20220612/nZxhZK9qlHvO5hyR8GszsOiOAlBjcsBD-31363535303233363234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Makasih resepnya minchef,, \n\n#RecookYummy\n#JagoMasak2022",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "YBinvlBVZejdcFgftm7HGQ==",
+                    "username": "oliveiafaizin",
+                    "name": "Rayna Kitchen",
+                    "avatar": "content-images/images/20230225/2V61uYGyCChloqUBcQjbg8nyE0P9hoQS-31363737323930333738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Ayam Bakar Kalasan",
+                    "slug": "ayam-bakar-kalasan",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "2vXKkTbcKgvvc9l09Fjy4jrvEShNZp2Y",
+                "created_at": 1664447997,
+                "image_url": "content-images/images/20220612/c5JsGzxr7ra9uHpuVm0HFL3lP8k55j5v-31363535303238303533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Setor Recook masakan ku hari ini,terimakasih resep teruji nya sangat berguna,aku suka sekali dengan hasil nya\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "wMk21y3oaTJupexgdqOEqQ==",
+                    "username": "nica-ardina-rahma",
+                    "name": "Nica ardina rahma",
+                    "avatar": "content-images/images/20230414/y1sQGOa980RgKJf7WRXWbteZR32P2sTn-31363831343430373836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Bakar Kalasan",
+                    "slug": "ayam-bakar-kalasan",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "yZVlJxZezq8Bxq7BMNbL8GZBhhJIsck8",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220606/O3TJ0hjfvL8oZNnfRfFbATU3F5rP9wTS-31363534343839393535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selamat siang Chef Yummy, kirim recook ayam bakar kalasan ini \ud83e\udd17 Sukaaa, enak dan manisnya pas dg selera saya \ud83d\udc4cTerima kasih \ud83d\ude4f\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "f-IkuVh3xDIWm5XE3vq2Yw==",
+                    "username": "wrhmuna",
+                    "name": "Munawarah",
+                    "avatar": "content-images/images/20201228/LsKSRzrB0vFBkWCpftZYOMXOZ3tvyb9w-31363039313038303732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Ayam Bakar Kalasan",
+                    "slug": "ayam-bakar-kalasan",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "OXyEiTmao8ldtcYnmnCKDALOWNu4rlXO",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220607/L3V2z6eYrWtnRpV3cuozT5DDDyAs2cJ3-31363534363033333537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hallo chef Yummy, setor recook nih.  Biasanya saya bikin ayam kalasannya yang digoreng, ternyata dibakar juga enak. Jadi irit minyak nih. Solusi terbaik disaat harga minyak mahal. Makasih ya chef \ud83d\ude4f\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "rEFeSY9tbKG-MBYPz-N9iw==",
+                    "username": "vhita-hani",
+                    "name": "Vhita Hani",
+                    "avatar": "content-images/images/20231123/ef16c6b267c78f4d9460d72fcdcb0645.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Bakar Kalasan",
+                    "slug": "ayam-bakar-kalasan",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "iwNHB2u156S9cZcQIKiEkauen0hqFFF4",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220608/nNlTfVkzPiLklBU7zN7NmaX3iCckAG6e-31363534363838363133d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Haaiii Chef... Trimaksh Resepnya \ud83d\ude4f\ud83d\ude4f ini enak banget, apalgi aku pakai ayam kampung... Rasanya juaraaaa \ud83d\udc4d\ud83d\udc4d\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "qIyUE3VmwcRphJ-I2rWyJw==",
+                    "username": "evie-indriana",
+                    "name": "Evie Indriana",
+                    "avatar": "content-images/images/20230529/KEvBrqtdqCqSUmlnAsmfGUFVP2JPuqIF-31363835333633373939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Ayam Bakar Kalasan",
+                    "slug": "ayam-bakar-kalasan",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "LoMkdeucz6JTgY6esfbrF5qKWfsjEprH",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220610/T3nunKe0mHnDYrNVygEIM4J9JdDsM2Ws-31363534383432393038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selama siang Chef, Terima kasih resepnya, saya paling suka ayam bakar yang rasanya manis gurih, seperti ayam bakar kalasan ini, manisnya pas, jadi buat saya harus ada lalapan dan sambelnya, ini wajib banget, karena jadi lengkap rasanya manis gurihnya ayam bakar kalasan ini, bertambah nikmatnya ada rasa pedas, saat dicocol ke sambel ayam bakar ini, dan untuk anak-anak juga pas rasanya karena tidak pedas, jadi gak rugi deh #RecookYummy dari resep teruji ini, top deh resepnya.",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "FyhhAXdzHj1r9UxxBMClQA==",
+                    "username": "retnoadiesty",
+                    "name": "Retno Adiesty",
+                    "avatar": "content-images/images/20220914/GpCxByyBC67apfApSLulF0FnncVMkl4M-31363633313130373231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Ayam Bakar Kalasan",
+                    "slug": "ayam-bakar-kalasan",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "tvccWocFHAMQhbzBXmYQekpkJHHmBwnQ",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220610/oxIKpyFhIwXE26tQOWT0MuBYM1x20lys-31363534383434343231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selamat siang Chef. Setor Recooknya ya.\n\nAyam Bakar Kalasan merupakan ayam bakar khas daerah Kalasan, Sleman, Jogjakarta. Rasanya manis legit dan gurih. Bakal jadi menu ayam bakar favorit keluarga. Recook resep teruji Yummy, dijamin anti gagal dan rasanya nikmat. Dilengkapi juga dengan kandungan gizinya lho. Tiap porsinya mengandung 146,3 Kkal. Terimakasih Chef untuk resepnya. \n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "aNsi8w5b6IraeH_UjsmwhA==",
+                    "username": "siti-mudrikah",
+                    "name": "Siti Mudrikah",
+                    "avatar": "content-images/images/20230416/H82J1TaKi5oxnamENm9ImBDWobFzexbL-31363831363333313236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Bakar Kalasan",
+                    "slug": "ayam-bakar-kalasan",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Talenan",
+                "media_url": "content-images/images/20210712/5bcf9d1ede5f68c8d7acf04bcf604504.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Cobek & Ulekan",
+                "media_url": "content-images/images/20210714/1beec01635eee25d726e695952413e6c.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Blender",
+                "media_url": "content-images/images/20210714/d663132b420d7d7367efac657734afe6.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Fry Pan - Besar",
+                "media_url": "content-images/images/20210714/980057f47076afbd0ecaeea4a19a345d.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

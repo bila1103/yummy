@@ -1,0 +1,619 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "AyJZ-_XgTscuJtmt2ob-Tw==",
+        "title": "Sup Ayam Jahe",
+        "slug": "sup-ayam-jahe-3",
+        "cover_url": "content-images/images/20210822/71fb5d280fd98d2af00c07ee9cecad7c.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20210822/71fb5d280fd98d2af00c07ee9cecad7c.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20210822/3a0915e22762d7c2f3992a804e2a6e12.mp4",
+        "price": 45000,
+        "price_premium": 5000,
+        "calories": "905,9 Kj",
+        "is_cvc": false,
+        "cooking_time": 45,
+        "serving_min": 3,
+        "serving_max": 6,
+        "release_date": 1629676380,
+        "updated_date": 1685175206,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.639999866485596,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 14,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 59,
+        "recook_count": 17,
+        "original_image": "content-images/images/20210822/71fb5d280fd98d2af00c07ee9cecad7c.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/Sdn7VbqFEFTp1gS76",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan minyak ke dalam panci, tambahkan bawang putih dan jahe, masak hingga harum.",
+                "image_url": "content-images/images/20210822/2824ba134daac1bea7b8da3eb8cb7baa.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20210822/2824ba134daac1bea7b8da3eb8cb7baa.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan ayam, masak sebentar hingga berubah warna.",
+                "image_url": "content-images/images/20210822/977b10c959b24132b55d3f1e60aea4d8.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20210822/977b10c959b24132b55d3f1e60aea4d8.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Makanan Sehat",
+                "slug": "makanan-sehat"
+            },
+            {
+                "id": "QJ0crmlVerfAPuv2j1Yf9g==",
+                "name": "Ayam kuah",
+                "slug": "ayam-kuah"
+            },
+            {
+                "id": "lWPNp2n9NbjJ_JbMP7pXxA==",
+                "name": "Sup",
+                "slug": "sup"
+            },
+            {
+                "id": "09qixFV2VkI_lmE5V9ogIw==",
+                "name": "Makanan Berkuah",
+                "slug": "makanan-berkuah"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "XoOQljKTIsthw9SvhP1iMQ==",
+                "name": "30-60m",
+                "slug": "30-60m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            },
+            {
+                "id": "irisT0BLKk4-M6scPYY77w==",
+                "name": "Minyak Wijen",
+                "slug": "minyak-wijen"
+            },
+            {
+                "id": "MXkIeGcxy7zj8sCBOII3bQ==",
+                "name": "Rumput Laut",
+                "slug": "rumput-laut"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "300 gr ayam kampung",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbR7x",
+                        "media_url": "content-images/images/20211115/2eb702c83ca1f1af376173b5a412940c.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "600 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211115/c7c42bb87a75cabd67f3a1b069f90fe9.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "7 siung bawang putih, geprek",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20211115/eccb8141f716dd7602803cc87428197b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 ruas jahe, geprek",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/AWaGrN",
+                        "media_url": "content-images/images/20211115/abb00577af80e85446495e86e18582d4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr rumput laut, rendam hingga lunak",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/DK1JDo",
+                        "media_url": "content-images/images/20211115/0df612f0395041b2950baae7f1c0444e.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NB1N",
+                        "media_url": "content-images/images/20211115/173cbf48eab765d630bbb3a52351e434.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20211115/1e31771aa1e33a54cf538048ab21560b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt lada putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbok5",
+                        "media_url": "content-images/images/20211115/b4b72e33b9cef8282b1c8849c2033929.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm bawang putih goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20211115/1642d319cc315e2c54029649e0ba7287.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm minyak wijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbRBR",
+                        "media_url": "content-images/images/20211115/102c927e7cc153fae669746cfbd56439.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 gr bawang pre",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/XYZKbG",
+                        "media_url": "content-images/images/20211115/ddb1b96a473676ea8cb24915ce9fccfa.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Panci",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "ywJi9F1uln4lMPTbcGuDFGlqw67UceK2",
+                "created_at": 1668426673,
+                "image_url": "content-images/images/20221114/EXdavOQ7IWpaCqgA55srqbS814Q65Nfu-31363638343031323832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak Banget",
+                "description": "Hallo chef Yummy,,, setor recook ya...\n\nKarena ga ada stok rumput laut, jadi aku pakai sayur yang ada dikulkas ya chef...\n\nMakasih banyak resepnya,,, bocilku lahap banget makannya... Apalagi cuaca Malang sering hujan, cocok banget dimakan pas hujan-hujan begini... \n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 3,
+                "author": {
+                    "id": "pVwH2-WVudP5Sb5vXvNp9g==",
+                    "username": "laila-fitria1",
+                    "name": "Laila Fitria",
+                    "avatar": "content-images/images/20231123/039830a2980b6837f0e64077faae4bb3.jpeg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Sup Ayam Jahe",
+                    "slug": "sup-ayam-jahe-3",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "24hvxNmKxZLerXVKqHQmnJd3nDtofSCg",
+                "created_at": 1664448000,
+                "image_url": "content-images/images/20220804/i8zPv5OKlmfMv3k7bReB0AK0ia3FmJt5-31363539363032363636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "#RecookYummy\nKirim recook ya chef... Makasih resepnya",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "9DLwrMBS1ZxPMmoB7vyihQ==",
+                    "username": "liaas",
+                    "name": "Lia_Ariani",
+                    "avatar": "content-images/images/20231123/281d7341afcd50e9916bb3da77857ed1.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Sup Ayam Jahe",
+                    "slug": "sup-ayam-jahe-3",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "gT7EBvq8Oe6NsiBPOjy1PTMvk93RknNw",
+                "created_at": 1664448000,
+                "image_url": "content-images/images/20220805/Pt02b2zp8w8CmhqCjjJ7spSYgNIhf6Md-31363539363830353733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Halo chef selamat siang setor recook sop ayam jahenya segerr sekali thanks resepnya #RecookYummy",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "mPXnSIOhmcrPmLj1xFouSA==",
+                    "username": "kiena123",
+                    "name": "Kiena",
+                    "avatar": "content-images/images/20210413/eyey0IJyHsS40ZjYCQwlyTsWe1O4NsoP-31363138333039383036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Sup Ayam Jahe",
+                    "slug": "sup-ayam-jahe-3",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "zZR9NfZt9BIS0O2LQ4UdvWIaaDVLUICQ",
+                "created_at": 1664448000,
+                "image_url": "content-images/images/20220805/dSvcguH51bhDSDWzF4jKQbbmASK7vby3-31363539363935373438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Sore chef, ijin setor untuk event #RecookYummy \u263a saya tambah crab stick & aneka baso sebagai ganti rumput laut \ud83d\udc4c nikmatnya gak kaleng-kaleng, resep teruji slalu memuaskan \ud83d\udc4f terima kasih inspirasinya chef \ud83e\udd17 saya ijin reshare ya",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "yC7vGb2sAX6pHXB_1kE2zw==",
+                    "username": "pipi-cp",
+                    "name": "pipi",
+                    "avatar": "content-images/images/20231123/de55082a09c0e250f41f4204ed9989ee.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Sup Ayam Jahe",
+                    "slug": "sup-ayam-jahe-3",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "F2IjPLgbAnMwWCEraleP0rCb9Czltx1D",
+                "created_at": 1664448000,
+                "image_url": "content-images/images/20220805/TbsGDQG4vlOJyTOgj7dXRzwcqFmI5KDE-31363539373038333933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Terima kasih inspirasi resepnya chef.\nPertama kali buat sup ayam jahe. Rasanya unik. Bahannya ada rumput lautnya. \nYummy juga ternyata.\nThanks\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "i0O-oSlRUe4UxYkg8NgUiw==",
+                    "username": "dapoer-anoe",
+                    "name": "Anugrah Lestari",
+                    "avatar": "content-images/images/20231123/94187de06d9b0932934931d1f74c219a.jpeg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Sup Ayam Jahe",
+                    "slug": "sup-ayam-jahe-3",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "AiX1L5TfNuH3xfIUgNSBH9bcTd7QLnb1",
+                "created_at": 1664448000,
+                "image_url": "content-images/images/20220807/8MefQUVWlvauQuvzrPkcLVPbdXTCbxXQ-31363539383530363338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Pagi ini hujan syahdu.. coba recook sup ayam jahenyaa.. hangat dan seger chef.. terimakasih inspirasinyaa #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "ROdiRT1DBb5Y6d7QbFPX5w==",
+                    "username": "retno-4lisiawati",
+                    "name": "Retno Lisiawati",
+                    "avatar": "content-images/images/20220815/IeJXFKmWVNMbjzozMa3U9eZ2EYh1IyAu-31363630353339363433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Sup Ayam Jahe",
+                    "slug": "sup-ayam-jahe-3",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "TSW2v4ZpfUborzUJhMAxqKYi21nXRwTH",
+                "created_at": 1664448000,
+                "image_url": "content-images/images/20220807/8WRwlWekGl21XkiMO6N10jOpaG6MyoS5-31363539383531363138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hii chef, di rumah lagi pada ga enak badan, pas banget diangetin sama sup ayam jahe ini. Ternyata enak juga makan sup ini, berasa segar. Makasih resepnya chef #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "4GXwdga9pqz5-JReBpV6oQ==",
+                    "username": "dapurmamoz",
+                    "name": "Lina Subrata",
+                    "avatar": "content-images/images/20211012/jU5gJ4qfhOX0PfXbxQeTbjwX8mhMkaT2-31363334303233363933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Sup Ayam Jahe",
+                    "slug": "sup-ayam-jahe-3",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "8mu3UwRDabuqi1i2HN2lHH8EEfGIccIC",
+                "created_at": 1664448000,
+                "image_url": "content-images/images/20220807/1rOe8WMLdLgzed3PdtMnmsgXtkNyPb0z-31363539383835363837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Halo chef., Sup ayam jahenya enak banget ini chef., Apalagi cuaca lagi gak nentu kayak gini., Makan sup ini jadi seger & bikin badan anget., Terimakasih resepnya chef.,\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "XZbjdDmb7XUOR7joIRBHYw==",
+                    "username": "rainnareswari",
+                    "name": "RainNareswari",
+                    "avatar": "content-images/images/20220508/qLd5U6FleyE0qWSKKaF4Yy1bCA8W6y3c-31363532303132343239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Sup Ayam Jahe",
+                    "slug": "sup-ayam-jahe-3",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "qi1NvDqvR4Om9MzMBLkXpp0tleDETRVd",
+                "created_at": 1664447999,
+                "image_url": "content-images/images/20220803/WTh9U0QV05FCDOWznv1xbXUyZ02tZB0r-31363539343834313738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "#RecookYummy\nHalo chef, alhamdulillah gak salah beli resep ini. Enak banget, rasa kaldu dari ayamnya dominan sedep legit deh. Syukaaa \ud83d\ude03",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "-bYSwPyd0WA5z8BB0pDx9A==",
+                    "username": "diandra-nareswari",
+                    "name": "nareswari",
+                    "avatar": "content-images/images/20200218/6tV3cN75RiRmQbao4XhgR3aPUU2XVtzk-31353831393737333638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Sup Ayam Jahe",
+                    "slug": "sup-ayam-jahe-3",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "pTgggifKYbYPKuTVaWOcjOxDIMSm6Pi4",
+                "created_at": 1664447997,
+                "image_url": "content-images/images/20220612/IFH9QkLRJfWGIYQLrhSjQYN0cKGOUwOs-31363535303337333838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Malam chef..\nSudah cobain supnya nih, seger banget dongg.. terimakasih resepnya \ud83d\ude0a #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "vbKXkw7H0kAP9v-btVdyAQ==",
+                    "username": "ratnaa18",
+                    "name": "Ratna Puspita",
+                    "avatar": "content-images/images/20231123/5416f075875d0a7b239bcf53829c3f51.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Sup Ayam Jahe",
+                    "slug": "sup-ayam-jahe-3",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Ladle / Sendok Sayur",
+                "media_url": "content-images/images/20211105/b6f6c4206d16e40dcd2bfee5b6e34325.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Mangkuk Saji",
+                "media_url": "content-images/images/20211105/6b25d0e99ffbff542d2819b54b6f093f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Panci Besar (Sop)",
+                "media_url": "content-images/images/20211105/a9f867c4bf54b613b7e7d6a82a980b7f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

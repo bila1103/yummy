@@ -1,0 +1,201 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "YegRNWkD0CyXv_RbedDhVQ==",
+        "title": "Crispy Egg Noodle",
+        "slug": "crispy-egg-noodle",
+        "cover_url": "content-images\/images\/20250409\/kP96qeTJvzIpSvDj2hcC2SYoFwJ3lp0R-31373434313830353738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250409\/kP96qeTJvzIpSvDj2hcC2SYoFwJ3lp0R-31373434313830353738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Aku mau berbagi resep cemilan yang juga bisa jadi laup, rasanya enak dan crispy",
+        "rating": 5,
+        "video_url": "",
+        "price": 38000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 10,
+        "serving_min": 6,
+        "serving_max": 8,
+        "release_date": 1747131480,
+        "updated_date": 1747131617,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 6,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250409\/kP96qeTJvzIpSvDj2hcC2SYoFwJ3lp0R-31373434313830353738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/zx22y2FdnV7k7Ujw9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Rebus 8 butir telur puyuh (sekitar 120 gr) hingga matang, lalu kupas kulitnya. Balurkan kedalam campuran garam halus dan lada bubuk",
+                "image_url": "content-images\/images\/20250409\/0KwVv08dPYvnemyc1Ige4sh0ma1vIjy8-31373434313830363034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250409\/0KwVv08dPYvnemyc1Ige4sh0ma1vIjy8-31373434313830363034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Rendam 100 gr mie telur kering dengan air panas hingga agak lunak, tiriskan. Ambil satu butir telur puyuh, lalu lilitkan mie secara melingkar hingga menutupi seluruh permukaan telur",
+                "image_url": "content-images\/images\/20250409\/qwdf0bnObc4pYNmRgxloWePgpGjg1Ja8-31373434313830363137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250409\/qwdf0bnObc4pYNmRgxloWePgpGjg1Ja8-31373434313830363137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Pada bagian sambungan akhir mie, celupkan sedikit air agar melekat dan rapat (berbentuk seperti bola)",
+                "image_url": "content-images\/images\/20250409\/kNXTXrMYzcq1vXgMxj6MrS6JOTKxbOaE-31373434313830363634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250409\/kNXTXrMYzcq1vXgMxj6MrS6JOTKxbOaE-31373434313830363634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Panaskan 500 ml minyak di wajan hingga mencapai suhu sekitar 70% panas (sekitar 160\u2013170\u00b0C). Tambahkan 1 sdm gula bubuk dan 1 sdm cabai bubuk, aduk rata. Masukkan telur puyuh yang sudah dibalut mie ke dalam minyak panas",
+                "image_url": "content-images\/images\/20250409\/An1MKGlwlaBlV3Z2xXtxQByTjsBp4RGZ-31373434313830363933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250409\/An1MKGlwlaBlV3Z2xXtxQByTjsBp4RGZ-31373434313830363933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Goreng hingga berwarna kuning keemasan, angkat dan tiriskan. Taburkan 1 gr cabai bubuk di atas telur mie goreng saat masih hangat",
+                "image_url": "content-images\/images\/20250409\/1TES7eD4PqWHp42QRTieEBEo9ZJC9mxt-31373434313830373131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250409\/1TES7eD4PqWHp42QRTieEBEo9ZJC9mxt-31373434313830373131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "CtwzKFqwt2hHez6OjZb2bw==",
+                "name": "Lada",
+                "slug": "lada"
+            },
+            {
+                "id": "dvJeivPNZ9ky2GKQO6FguQ==",
+                "name": "Mie",
+                "slug": "mie"
+            },
+            {
+                "id": "hTmj-eeF1rT1Fe5furP4hQ==",
+                "name": "Telur Puyuh",
+                "slug": "telur-puyuh"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "zePJnXLmeVc302GqkqQiXQ==",
+            "uuid": "328a3e8c-e949-4b76-b301-2381430861e6",
+            "username": "alea-6",
+            "name": "Alea",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "8 butir telur puyuh",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr mie telur kering",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm cabai bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam halus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm gula bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

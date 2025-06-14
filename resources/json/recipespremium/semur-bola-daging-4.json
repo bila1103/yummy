@@ -1,0 +1,824 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "ze-brEgHcVxnkYDppnASBg==",
+        "title": "Semur Bola Daging",
+        "slug": "semur-bola-daging-4",
+        "cover_url": "content-images/images/20220407/dfa98f9ee7113179ecb842b70c25440a.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220407/dfa98f9ee7113179ecb842b70c25440a.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Semur bola daging cocok dihidangkan sebagai lauk bersama keluarga. Memiliki cita rasa asin manis dan gurih.",
+        "rating": 4,
+        "video_url": "content-videos/video/20220407/f072fe81455d1569cc76c8ed96b80f04.mp4",
+        "price": 40000,
+        "price_premium": 5000,
+        "calories": "788,3 Kj",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 8,
+        "serving_max": 10,
+        "release_date": 1649313900,
+        "updated_date": 1678041818,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.869999885559082,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 30,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 15,
+        "recook_count": 16,
+        "original_image": "content-images/images/20220407/dfa98f9ee7113179ecb842b70c25440a.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/toxLz9LFT4siv5Ft5",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan daging sapi giling ke dalam wadah, tambahkan bawang putih cincang, tepung panir, telur, dan garam, lada bubuk, dan pala bubuk, aduk hingga merata, kemudian bentuk bulat-bulat, sisihkan.",
+                "image_url": "content-images/images/20220407/1b053d68d919bffb7c14d3b8c876f511.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220407/1b053d68d919bffb7c14d3b8c876f511.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Siapkan blender, masukkan bawang putih, bawang merah, ketumbar, dan kemiri, giling hingga halus merata.",
+                "image_url": "content-images/images/20220407/b52cb5a61292d0a8cc3a02fcce47c94c.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220407/b52cb5a61292d0a8cc3a02fcce47c94c.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jzFsMjlvjTysNiDJQKRfNg==",
+                "name": "Makanan Ramadhan",
+                "slug": "makanan-ramadhan"
+            },
+            {
+                "id": "b2LcYqjw4T6gBD7AAKY21A==",
+                "name": "Resep Dasar Yummy",
+                "slug": "resep-dasar-yummy"
+            },
+            {
+                "id": "G13xelg6X6SkCK5YCzCQlg==",
+                "name": "Makanan Semur",
+                "slug": "makanan-semur"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "-HX-cFLvXoLpJV2m_QDmpg==",
+                "name": "Cengkeh",
+                "slug": "cengkeh"
+            },
+            {
+                "id": "rKLarsncTdNxdE1_KEkuVA==",
+                "name": "Daging Giling",
+                "slug": "daging-giling"
+            },
+            {
+                "id": "_GHgkJBuk8m9BdjjhmCfhw==",
+                "name": "Daun Salam",
+                "slug": "daun-salam"
+            },
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            },
+            {
+                "id": "zz7VvQtuZ_entrgdutA7dQ==",
+                "name": "Kecap Manis",
+                "slug": "kecap-manis"
+            },
+            {
+                "id": "FrcGuNBVracfQ1LMbrq3BA==",
+                "name": "Kemiri",
+                "slug": "kemiri"
+            },
+            {
+                "id": "RkAHZYbrL58-78Y_ZBXAcw==",
+                "name": "Kentang",
+                "slug": "kentang"
+            },
+            {
+                "id": "oZ6d0F6WiXHtgy42qMUAUQ==",
+                "name": "Ketumbar",
+                "slug": "ketumbar"
+            },
+            {
+                "id": "CtwzKFqwt2hHez6OjZb2bw==",
+                "name": "Lada",
+                "slug": "lada"
+            },
+            {
+                "id": "89XwJJ-wUT-TR-eQ1eL4pA==",
+                "name": "Lengkuas",
+                "slug": "lengkuas"
+            },
+            {
+                "id": "qlZBUf4I7KXqH1j_Vx9i7g==",
+                "name": "Pala",
+                "slug": "pala"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "1cf22581-ea47-4b71-aed9-3fb2d7cf2249",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Bola Daging:",
+                "ingredients": [
+                    {
+                        "description": "500 gr daging sapi giling",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqDam",
+                        "media_url": "content-images/images/20211026/2fb9651f7ab6f9ef14984cdbb568eb8b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20211025/390c39b995097e5b8eeb8b11e54a3dd6.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm tepung panir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/k0bNy3",
+                        "media_url": "content-images/images/20210712/241734cd239842dbea5b1c9bb7143f9b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20211026/4f0b23b2175253b3e759de3d6229f244.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbok5",
+                        "media_url": "content-images/images/20210805/1bc723e6b42febeb800bb2d382500162.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt pala bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/an6DRW",
+                        "media_url": "content-images/images/20210803/d84322fe3ecf2db4808016873676e21b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": " Bumbu Halus:",
+                "ingredients": [
+                    {
+                        "description": "4 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20211026/4f0b23b2175253b3e759de3d6229f244.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm ketumbar, sangrai.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqzer",
+                        "media_url": "content-images/images/20210712/471331d2f54b300c26972eef1162ca2a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 butir kemiri, sangrai.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/ZQ4Ebq",
+                        "media_url": "content-images/images/20210805/b7811eb46835c76104fdd77c9770663c.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "8 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/ZQ4ROK",
+                        "media_url": "content-images/images/20210712/d0a73ce02aaf1bd09dacc5bc635dc1c6.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Semur",
+                "ingredients": [
+                    {
+                        "description": "1500 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/a8f6e995116c81f4fbf4600a4520c6b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd Bawang bombay iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBb91",
+                        "media_url": "content-images/images/20211026/20101eea8e3b9bf3187aab0c2a6fb407.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah kentang, potong dadu.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/3eOzeB",
+                        "media_url": "content-images/images/20211026/047379c196111858a34e5c089abac9cd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 butir bunga lawang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20210805/513fcce848636dd9ee20344800c05a6e.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 butir cengkeh",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/AWaGJa",
+                        "media_url": "content-images/images/20210805/7c78351b8887ac2ee4b8f79f3e85fd1d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 sdm kecap manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLxX9",
+                        "media_url": "content-images/images/20211026/713fb8702517469dd0b9cb29cbf2a561.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm saus tomat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/EKVWkQ",
+                        "media_url": "content-images/images/20211026/f28b94ff438fa78a9c5e453e9380fc8e.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt lada hitam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4No4y",
+                        "media_url": "content-images/images/20210805/1bc723e6b42febeb800bb2d382500162.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 lembar daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBDG",
+                        "media_url": "content-images/images/20211026/a5d82ae529cf2e5268fb681193f72d4b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 ruas lengkuas, memarkan.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Pyknyz",
+                        "media_url": "content-images/images/20210805/1ad4d20c6d7290bbdc0efa8d10316489.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 ruas jahe, memarkan.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/AWaGrN",
+                        "media_url": "content-images/images/20211026/19618fc40228ff254e602e64b785645a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NB1N",
+                        "media_url": "content-images/images/20211025/7a572e1883391c73701f6d6d766bd4dd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Blender",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Mangkuk Saji",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Kuas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin A (\u00b5g)",
+                "slug": "vitamin-a-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": false
+            },
+            {
+                "name": "Vitamin C (mg)",
+                "slug": "vutamin-c-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "dsc4nT594t0znMLwo3dShT2jiTrJnwyY",
+                "created_at": 1664422800,
+                "image_url": "content-images/images/20220804/4Vnb01pNO1MMcAeHl00mylbl14bWifmk-31363539353737323334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selamat pagi chef yummy,, \nSaya kirim recook semur bola-bola dagingnya ya. \nTerima kasih untuk inspirasi resepnya. \n\n\n#RecookYummy\n#Jagomasak2022",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "YBinvlBVZejdcFgftm7HGQ==",
+                    "username": "oliveiafaizin",
+                    "name": "Rayna Kitchen",
+                    "avatar": "content-images/images/20230225/2V61uYGyCChloqUBcQjbg8nyE0P9hoQS-31363737323930333738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Semur Bola Daging",
+                    "slug": "semur-bola-daging-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "ftoP0J0qFRfiPUg4HAnmywphUs9CJw8b",
+                "created_at": 1664422800,
+                "image_url": "content-images/images/20220804/XA6EnqdCLRQza2AhLAuogsUrE9hede24-31363539363032373330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "#RecookYummy\nKirim recook ya chef... Makasih resepnya",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "9DLwrMBS1ZxPMmoB7vyihQ==",
+                    "username": "liaas",
+                    "name": "Lia_Ariani",
+                    "avatar": "content-images/images/20231123/281d7341afcd50e9916bb3da77857ed1.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Semur Bola Daging",
+                    "slug": "semur-bola-daging-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "8xgw6JaDt43kGdmhE2cPrvVwHXypZrpn",
+                "created_at": 1664422800,
+                "image_url": "content-images/images/20220806/Qe2pJDS0F795OZajby7EKG0gLHeJ6KvC-31363539373636363230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Slamat siang Chef, recook Semur Bola Daging nya, terima kasih resepnya ya\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "C3B05hfHln7FDAMdwGy90Q==",
+                    "username": "anie-saryono",
+                    "name": "Dapur Embun",
+                    "avatar": "content-images/images/20211204/urDmg6Wo4ZBTfJQ4gDnqOzotz5r0sAfS-31363338353934343232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Semur Bola Daging",
+                    "slug": "semur-bola-daging-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "TNdrAzLRp3dSluspwinfZlbzRTKWUoQz",
+                "created_at": 1664422800,
+                "image_url": "content-images/images/20220806/uVKrrM91JXRqzLw8QkYx5H8Kn16D2Qwo-31363539373835383639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Malam chef, setor recook semur bola dagingnya. Ini enak bangeet. Berasa bumbu rempahnya apalagi sudah teruji nilai gizinya. Buat makan malam, nambah nikmat. Makasih resepnya chef\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "4GXwdga9pqz5-JReBpV6oQ==",
+                    "username": "dapurmamoz",
+                    "name": "Lina Subrata",
+                    "avatar": "content-images/images/20211012/jU5gJ4qfhOX0PfXbxQeTbjwX8mhMkaT2-31363334303233363933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Semur Bola Daging",
+                    "slug": "semur-bola-daging-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "31SGV7WxaoGP1kygg5fQgrHieJ5JbSe1",
+                "created_at": 1664422798,
+                "image_url": "content-images/images/20220704/i8ePvQ1BJFzISJ2WtKnXaJuhvcI7MNVQ-31363536393139383134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selamat siang,setor recook ya chef. Ijin modifikasi sedikit,untuk kentang saya ganti dengan wortel karena anak2 lebih suka wortel dari pada kentang. Resep nya yummy,anak2 saya suka semua. Untuk kuah sengaja saya bikin asat biar tambah menyerap bumbunya. Terima kasih \n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "rbL6-tu6vfQ0XreQ8Cm0BA==",
+                    "username": "mikhayla-anindita",
+                    "name": "Aisah",
+                    "avatar": "content-images/images/20220606/060RCrniCaexrFwY1lM4gMbMjDRDmZ1u-31363534343830313633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Semur Bola Daging",
+                    "slug": "semur-bola-daging-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "5k37XvxkGzcoRbxg0I3SPjbC8HwmiP0v",
+                "created_at": 1664422798,
+                "image_url": "content-images/images/20220705/86JDPjBtxhYjL5x2FXFkoEmxxdO4xcZL-31363536393934323638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selamat siang Chef, setor recooknya, bola dagingnya saya beri isian telur puyuh, ini enak banget, bumbunya rempahnya terasa, alhamdulilah anak-anak suka, Terima kasih resepnya ya. #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "FyhhAXdzHj1r9UxxBMClQA==",
+                    "username": "retnoadiesty",
+                    "name": "Retno Adiesty",
+                    "avatar": "content-images/images/20220914/GpCxByyBC67apfApSLulF0FnncVMkl4M-31363633313130373231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Semur Bola Daging",
+                    "slug": "semur-bola-daging-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "H95z6NLqJABmNbbAEWDGFS5cjGMKY9nJ",
+                "created_at": 1664422798,
+                "image_url": "content-images/images/20220705/2znVORN2BjjgjAFHIuc78fVnOpfGy8Mc-31363537303132373036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Setor #RecookYummy semur bola daging isi telur ya Yum chef, menu daging yang simpel masaknya tapi enak, ya semur bola daging ini. Tambah seru dengan isian telur ditengahnya ya chef... Trimakasih resepnya",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "zu9EhO6hh-77-mFHosyKkA==",
+                    "username": "widiarief",
+                    "name": "Wid's Kitchen",
+                    "avatar": "content-images/images/20231123/e64975367da3238217572b84a3c4ec11.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Semur Bola Daging",
+                    "slug": "semur-bola-daging-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "d8Lt41i6ZWrwxVkhoRAm91WxkpuAWD4K",
+                "created_at": 1664422798,
+                "image_url": "content-images/images/20220707/rsKul6FBEb19guUJeNW9YpGfOGTOG40q-31363537313538303134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Setor recook ya chef. Enak banget semurnya, sedap dan terasa rempah-rempahnya. Anak-anak jadi semangat makannya karena daging yang dibuat jadi bola-bola ini lebih mudah ngunyahnya. Makasih inspirasi resepnya chef \ud83d\ude4f\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "rEFeSY9tbKG-MBYPz-N9iw==",
+                    "username": "vhita-hani",
+                    "name": "Vhita Hani",
+                    "avatar": "content-images/images/20231123/ef16c6b267c78f4d9460d72fcdcb0645.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Semur Bola Daging",
+                    "slug": "semur-bola-daging-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "DQRjsRku1aewhfkyhkvlldZ8kW6opn1v",
+                "created_at": 1664422798,
+                "image_url": "content-images/images/20220707/seRGChKML82Ty4w6D8v5i4yBbUIfgCIa-31363537313938383030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Halo chef, saya recook resepnya. Rasa asin manis gurih dan sensasi rempahnya bikin semur ini makin mantap. #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "-bYSwPyd0WA5z8BB0pDx9A==",
+                    "username": "diandra-nareswari",
+                    "name": "nareswari",
+                    "avatar": "content-images/images/20200218/6tV3cN75RiRmQbao4XhgR3aPUU2XVtzk-31353831393737333638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Semur Bola Daging",
+                    "slug": "semur-bola-daging-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "QUKBgQTYC87Oxd5gX3YsgVYbeUoiY2zF",
+                "created_at": 1664422798,
+                "image_url": "content-images/images/20220708/x5zskSeZna6IbjChzw8J6GVwYVkIxrps-31363537323537363434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hallo chef Yummy,,, setor recook ya... \n\nBola dagingnya aku buat agak besar biar puas makannya. Karena ga ada stok kentang, aku ganti tahu chef... \n\nMakasih resepnya, anakku lahap banget makannya \ud83d\ude4f\ud83d\ude4f.\n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "pVwH2-WVudP5Sb5vXvNp9g==",
+                    "username": "laila-fitria1",
+                    "name": "Laila Fitria",
+                    "avatar": "content-images/images/20231123/039830a2980b6837f0e64077faae4bb3.jpeg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Semur Bola Daging",
+                    "slug": "semur-bola-daging-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Spatula",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Garpu Sendok Saji",
+                "media_url": "content-images/images/20210714/9354802af79beb19c95468071ba7010e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Blender",
+                "media_url": "content-images/images/20210714/d663132b420d7d7367efac657734afe6.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Panci Besar (Sop)",
+                "media_url": "content-images/images/20211105/a9f867c4bf54b613b7e7d6a82a980b7f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Mangkuk Saji",
+                "media_url": "content-images/images/20211105/6b25d0e99ffbff542d2819b54b6f093f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

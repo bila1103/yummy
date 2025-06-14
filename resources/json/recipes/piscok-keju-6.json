@@ -1,0 +1,218 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "tJoQ9NrrEhmv66rFSZn0hQ==",
+        "title": "Piscok Keju",
+        "slug": "piscok-keju-6",
+        "cover_url": "content-images\/images\/20240328\/9RUC55YfbmrKpEGQsnBXWCLxLw8AP01Q-31373131363337303235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20240328\/9RUC55YfbmrKpEGQsnBXWCLxLw8AP01Q-31373131363337303235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Cemilan simple dan mengenyangkan untuk keluarga di rumah.",
+        "rating": 5,
+        "video_url": "",
+        "price": 6000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 2,
+        "serving_max": 4,
+        "release_date": 1744858020,
+        "updated_date": 1744858460,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 5,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20240328\/9RUC55YfbmrKpEGQsnBXWCLxLw8AP01Q-31373131363337303235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/E7jKtC6srPr1sfta9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Siapkan kulit lumpia, lalu belah pisang menjadi dua bagian. Bagi lagi menjadi dua bagian memanjang, lalu potong agar pendek. Kemudian siapkan keju yang sudah dipotong memanjang atau sesuai selera, 50 gram meses coklat, dan 1 sdt mentega.",
+                "image_url": "content-images\/images\/20240328\/f1aLrPoAJ4fWh2RzldLHucWqu2epjqg0-31373131363337363530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240328\/f1aLrPoAJ4fWh2RzldLHucWqu2epjqg0-31373131363337363530d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Susun dua bagian pisang memanjang di sisi pinggir kulit lumpia, lalu oleskan sedikit mentega di samping pisang. Taburkan meses di atas olesan mentega dan letakkan keju di atasnya.",
+                "image_url": "content-images\/images\/20240328\/sDaHpuT7ptVe9Q0HsNR5uG0sb3t7lIO9-31373131363338313131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240328\/sDaHpuT7ptVe9Q0HsNR5uG0sb3t7lIO9-31373131363338313131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Gulung perlahan dan sisakan sedikit bagian yang belum digulung, lalu oleskan mentega sebagai perekat.",
+                "image_url": "content-images\/images\/20240328\/sg2uUI6ha8DESfS6J3bt23leoXHX4mhj-31373131363338323638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240328\/sg2uUI6ha8DESfS6J3bt23leoXHX4mhj-31373131363338323638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Setelah semua digulung, jangan lupa lipat kedua ujung sisi lumpia agar tidak bocor saat digoreng. Goreng menggunakan minyak yang banyak dan pastikan api kompor tidak terlalu panas. Apabila saat memasukkan adonan lipatan lumpia terlepas, tekan kedua sisi ujung kulit lumpia menggunakan spatula atau sutil agar isi tidak keluar.",
+                "image_url": "content-images\/images\/20240328\/srsJ3xnzH0zDWXg9I9msc7QBck6zcJVj-31373131363338333231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240328\/srsJ3xnzH0zDWXg9I9msc7QBck6zcJVj-31373131363338333231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Goreng hingga kecoklatan. Setelah itu, piscok keju yang garing dan renyah siap untuk dinikmati!",
+                "image_url": "content-images\/images\/20240328\/kVEOH15yBrm7dx7NU3bbtpF41n387XTK-31373131363338353730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240328\/kVEOH15yBrm7dx7NU3bbtpF41n387XTK-31373131363338353730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "DstFTETMX0lZXRU9ClmTlA==",
+                "name": "Makanan Ringan",
+                "slug": "makanan-ringan"
+            },
+            {
+                "id": "cOYnmjKVWjvISzgTJ9eSyw==",
+                "name": "Makanan Pencuci Mulut",
+                "slug": "makanan-pencuci-mulut"
+            },
+            {
+                "id": "GlZXNP96qJdMVZEMNDv9fQ==",
+                "name": "Ide Jualan",
+                "slug": "ide-jualan"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Opko9OFPSqnKtt6n3eH7Eg==",
+                "name": "Keju",
+                "slug": "keju"
+            },
+            {
+                "id": "zSJjtq7-tDDY-1wuoxi4lg==",
+                "name": "Kulit Lumpia",
+                "slug": "kulit-lumpia"
+            },
+            {
+                "id": "duhUtSNH5AwykQAE0QS03A==",
+                "name": "Meses",
+                "slug": "meses"
+            },
+            {
+                "id": "5E06leA9af_ayn-5H4PqVA==",
+                "name": "Pisang",
+                "slug": "pisang"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "EqgyemSFE6l5SAEcEedQOg==",
+            "uuid": "1ca33d08-830e-4296-9f9e-536b89f6c651",
+            "username": "sayyeedarhm",
+            "name": "Sayyidati Rahma",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "2 buah pisang raja atau kepok",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gram coklat meses",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Potongan keju secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "8-10 lembar kulit lumpia",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt mentega",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

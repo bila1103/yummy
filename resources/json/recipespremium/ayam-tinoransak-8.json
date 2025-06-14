@@ -1,0 +1,640 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "WgaR1zbSYLVgRXVC_9u0cA==",
+        "title": "Ayam Tinoransak",
+        "slug": "ayam-tinoransak-8",
+        "cover_url": "content-images/images/20220406/e7e90f28dc20725665519ac458814f15.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220406/e7e90f28dc20725665519ac458814f15.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Masakan ayam khas manado dengan cabai hijau dan daun jeruk yang harum, cocok untuk menu berbuka puasa untuk dinikmati bersama keluarga.",
+        "rating": 5,
+        "video_url": "content-videos/video/20220406/5935dd3440325e2ddd3503567ff87f73.mp4",
+        "price": 30000,
+        "price_premium": 5000,
+        "calories": "936,6 Kj",
+        "is_cvc": false,
+        "cooking_time": 40,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1649249100,
+        "updated_date": 1685175108,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 5,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 16,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 10,
+        "recook_count": 10,
+        "original_image": "content-images/images/20220406/e7e90f28dc20725665519ac458814f15.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/VNZwZVvTgGhy8mJcA",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Tumis irisan bawang merah dan bawang putih hingga harum, lalu masukkan irisan cabai hijau dan cabai rawit hijau, tumis lagi selama 3 menit.",
+                "image_url": "content-images/images/20220406/3787e8eb1d5c9916abe7e2de1f8c1027.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220406/3787e8eb1d5c9916abe7e2de1f8c1027.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan serai, daun salam, daun jeruk, dan ayam ke dalam wajan, tumis lagi selama 2 menit.",
+                "image_url": "content-images/images/20220406/869118b707672d3d4a85386c5f46b0a7.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220406/869118b707672d3d4a85386c5f46b0a7.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "H9Kso53jz1jASmB9u_Vjlg==",
+                "name": "ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "3v11vWkVJ0ee_46WWYQs9Q==",
+                "name": "Resep",
+                "slug": "resep"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "lbAPLbE8dqS8fdfiSOsAGg==",
+                "name": "Daun Jeruk",
+                "slug": "daun-jeruk"
+            },
+            {
+                "id": "Vezf8tZUCtrZy0iIf03MLQ==",
+                "name": "Daun Kemangi",
+                "slug": "daun-kemangi"
+            },
+            {
+                "id": "_GHgkJBuk8m9BdjjhmCfhw==",
+                "name": "Daun Salam",
+                "slug": "daun-salam"
+            },
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "CtwzKFqwt2hHez6OjZb2bw==",
+                "name": "Lada",
+                "slug": "lada"
+            },
+            {
+                "id": "QvsDybc6uM6-8M_OksDGVw==",
+                "name": "Serai",
+                "slug": "serai"
+            },
+            {
+                "id": "0mFpKKHkQARg6xI2agSxcQ==",
+                "name": "Tomat",
+                "slug": "tomat"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "c86de224-f83f-41db-a5cb-49f769ef8705",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "3 paha ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/75xQZY",
+                        "media_url": "content-images/images/20211026/e2074a5d682a5c3e3315c2b7dc10191a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm margarin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/75xKmA",
+                        "media_url": "content-images/images/20211025/4e8af3b257ee0945185d4794b8c43ecf.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 bawang merah, iris tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/ZQ4ROK",
+                        "media_url": "content-images/images/20210712/d0a73ce02aaf1bd09dacc5bc635dc1c6.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 bawang putih, iris tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20211026/4f0b23b2175253b3e759de3d6229f244.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 cabai hijau, iris tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/jr2BkM",
+                        "media_url": "content-images/images/20211026/483379f372667967390eb7cb4aed5f6b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 cabai rawit hijau, iris tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/9gQr5E",
+                        "media_url": "content-images/images/20210712/251cb7626ca6c9b283134888c7e83847.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 serai, geprek",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBbyD",
+                        "media_url": "content-images/images/20220406/26c1232af12b511f650b7a937a78aac4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBDG",
+                        "media_url": "content-images/images/20211026/a5d82ae529cf2e5268fb681193f72d4b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 daun jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLx23",
+                        "media_url": "content-images/images/20210805/d6f817581df5b7037c9a720d70f67f78.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "500 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/a8f6e995116c81f4fbf4600a4520c6b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt lada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbok5",
+                        "media_url": "content-images/images/20210805/1bc723e6b42febeb800bb2d382500162.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt kaldu jamur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/daZEbq",
+                        "media_url": "content-images/images/20210712/b2a115ea0c7c072e9e505be6b5d9bc7b.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 tomat hijau, potong menjadi 4 bagian per tomat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/EKVWkQ",
+                        "media_url": "content-images/images/20210803/12c008d94c335accd532d76bf28e4b3a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Daun kemangi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/3eOL5n",
+                        "media_url": "content-images/images/20210712/1ebe0b675bc9dda57e7dabba53329ee0.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Wajan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin A (\u00b5g)",
+                "slug": "vitamin-a-mikrogram",
+                "value": "",
+                "unit": "\u00b5g",
+                "is_highlight": false
+            },
+            {
+                "name": "Vitamin C (mg)",
+                "slug": "vutamin-c-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "eC0WZwU0mQ9KNCDzO3IkRqsXnIRgi2Iy",
+                "created_at": 1685280392,
+                "image_url": "content-images/images/20230528/sbURSkbqaTMhOT49fn3u5WdRN02pdfaY-31363835323535313338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak Banget",
+                "description": "makasih chef rekomendasi resepnya.. beneran enak bgt \ud83d\ude0d\n#yummymealplan",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "NUn5b7LK9SmrHTfh-CU_1w==",
+                    "username": "ct-khumairah",
+                    "name": "Siti Khumairah Aisyah",
+                    "avatar": "content-images/images/20200403/VXN14He4jtlvAGTIaMaKlhDa3t57hC7X-31353835393131303735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Ayam Tinoransak",
+                    "slug": "ayam-tinoransak-8",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "3Ih4QFxDuaR8bpml3QmWrHhZtYyP5wQi",
+                "created_at": 1685148644,
+                "image_url": "content-images/images/20230527/rxZohCuD2zDPmpvdRNqC1e5re6Djf9MN-31363835313233343236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "Setor ayam tinoransak khas Manado yang bercita rasa segar serta harum kemangi untuk bekal paksu makan siang di kantor lengkap bersama nasi putih, tempe goreng, teri nasi goreng dan potongan ketimun. Trimakasih inspirasi resepnya ya chef",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "zu9EhO6hh-77-mFHosyKkA==",
+                    "username": "widiarief",
+                    "name": "Wid's Kitchen",
+                    "avatar": "content-images/images/20231123/e64975367da3238217572b84a3c4ec11.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Tinoransak",
+                    "slug": "ayam-tinoransak-8",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "XKONRC95aGOrGzObgG9pKLT9BI1YSmcT",
+                "created_at": 1668596134,
+                "image_url": "content-images/images/20221116/Ep1V3m1xjlVkzV9Ip6r1CdM375IppSkj-31363638353730373733d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "siang chef,setor recook ya.. enak banget resepnya cocok buat menu sarapan karena rasanya pedas,gurih bikin kalap kalau makan \ud83d\ude0b ijin modifikasi sedikit ya,karena saya tidak ada cabe besar hijau dan tomat hijau jadi saya pakai tomat dan cabe besar wrna merah. terima kasih chef \ud83d\ude4f\ud83c\udffb\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "rbL6-tu6vfQ0XreQ8Cm0BA==",
+                    "username": "mikhayla-anindita",
+                    "name": "Aisah",
+                    "avatar": "content-images/images/20220606/060RCrniCaexrFwY1lM4gMbMjDRDmZ1u-31363534343830313633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Tinoransak",
+                    "slug": "ayam-tinoransak-8",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "5pYsew4KWGSaeBcrYYy3PVFULeEfYBcB",
+                "created_at": 1668506875,
+                "image_url": "content-images/images/20221115/wG1vRWAL7YC5OBQuT0GueV5oSVYQtru7-31363638343831353337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak",
+                "description": "Hai chef..\nTerimakasih resepnya, ayam tinoransaknya enak. bumbunya sy cincang chef, semoga berkenan #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "vbKXkw7H0kAP9v-btVdyAQ==",
+                    "username": "ratnaa18",
+                    "name": "Ratna Puspita",
+                    "avatar": "content-images/images/20231123/5416f075875d0a7b239bcf53829c3f51.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Tinoransak",
+                    "slug": "ayam-tinoransak-8",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "nLgFgYMonx7sbey2PRP2zMxY0VVj5AsC",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220608/9hqVX4zGf4p5jJWlWmOCSqfYwbl2PUWm-31363534363532373837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Pertama kali masak ayam tinoransak, hasilnya enak. Terima kasih Yummy utk resepnya, sudah lengkap dengan kandungan gizinya \ud83d\udc4d\n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "fktx5oSYT0jYgqkQ0UAqhA==",
+                    "username": "enggar-nugraheni-putri",
+                    "name": "Enggar Nugraheni Putri",
+                    "avatar": "content-images/images/20231123/80301ff290b18685e295936330bf3a33.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Tinoransak",
+                    "slug": "ayam-tinoransak-8",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "ivGQqXJ9qfAaoObDhEEC9CdhPu8BK3UT",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220610/tX0yxTT4veCpk2KC5zHiZgiaAGb8NV3C-31363534383430353037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Masakan khas Manado yang bikin nambah terus.  Aroma kemangi, segarnya tomat hijau dan pedasnya cabe rawit hijau menambah cita rasa unik pada masakan ini.. terimakasih inspirasinya yummy #RecookYummy #JagoMasak2022",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "ROdiRT1DBb5Y6d7QbFPX5w==",
+                    "username": "retno-4lisiawati",
+                    "name": "Retno Lisiawati",
+                    "avatar": "content-images/images/20220815/IeJXFKmWVNMbjzozMa3U9eZ2EYh1IyAu-31363630353339363433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Ayam Tinoransak",
+                    "slug": "ayam-tinoransak-8",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "QqHg6i4TpbSFuH77fiZT2v02AYQHngNv",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220610/BIwWNlH6Xj1IalHGhysU8GawxkAVDRbN-31363534383537323934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Always syuka ama aroma kemangi, khas masakan tradisional Indonesianya dapet. Apalagi masakan Manado ini, dikombinasi bareng tomat dan cabe ijo yang seger \ud83e\udd29 \nMakasih inspirasi resepnya Yummy, kumplit ada informasi nilai gizi juga. Membantu skali supaya lebih paham intake kalori dan nilai gizi setiap masakan \ud83d\udc4d\ud83d\udc4f\n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "dxGLlvJunWgx2dHr14_4iA==",
+                    "username": "baking-ketje",
+                    "name": "Thea Priestiashanti",
+                    "avatar": "content-images/images/20210513/8eQYXhrsIthYiZFPchZwOrZ3lwbHbYrj-31363230383933393934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Tinoransak",
+                    "slug": "ayam-tinoransak-8",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "9tJMh7w8M3coCgY8BBZwNP1U3cEIEVmB",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220610/eH7Ahi9beTVOgzIOOAgagVDMT9eUuKjn-31363534383733393536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Trimakasih Resepnya Chef \ud83d\ude4f\ud83d\ude4f Enak bangeeett, Bikin ketagihan....hehehehe\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "qIyUE3VmwcRphJ-I2rWyJw==",
+                    "username": "evie-indriana",
+                    "name": "Evie Indriana",
+                    "avatar": "content-images/images/20230529/KEvBrqtdqCqSUmlnAsmfGUFVP2JPuqIF-31363835333633373939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Ayam Tinoransak",
+                    "slug": "ayam-tinoransak-8",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "h6JLeTIEGmTBSdfAM1Jcxf1A8er71lUA",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220611/m8tCI5tWQXS60SPjsUPeRkaOwA2dvIoX-31363534393034353832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selamat pagi chef, kemaren masak tinoransak tapi versi rice bowl. Uwoow rasanya juara banget. Bikin boros nasi banget. Cocok lho jadi menu bakulan. Dikemas ala rice bowl, cakep deh. Terima kasih resepnya, sangat rekomended. Sehat selalu chef \ud83d\ude4f #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "MsMoRcT2_FlbMXvebkBQlA==",
+                    "username": "lila-wahyu",
+                    "name": "Lila Wahyu Lestari",
+                    "avatar": "content-images/images/20210513/qog2Eskg4yjeIlLACzudprSJ0CjfL3dI-31363230383739383432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Tinoransak",
+                    "slug": "ayam-tinoransak-8",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "EKac7IZUjOXMqHQHZoehXGaMMZI4PiEF",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220611/OsYenKMqh9KaJZMwRLajBiROmGvYbRUr-31363534393335393335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hai chef, ini hasil recook saya hari ini. Enak banget chef. Akhirnya saya bisa juga bikin masakan Manado ini. Resep dan videonya sangat mudah dipahami. Makasih ilmunya chef \ud83d\ude4f\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "rEFeSY9tbKG-MBYPz-N9iw==",
+                    "username": "vhita-hani",
+                    "name": "Vhita Hani",
+                    "avatar": "content-images/images/20231123/ef16c6b267c78f4d9460d72fcdcb0645.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Tinoransak",
+                    "slug": "ayam-tinoransak-8",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Spatula",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Gelas Ukur",
+                "media_url": "content-images/images/20210714/6ed1631c7fee782532754e4c82e88870.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Piring Saji",
+                "media_url": "content-images/images/20210712/fe7aa848e95ce4d5fd56fb78459844f2.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "Ngnz1LAiSyk6DUkbGLIkpw==",
+        "title": "Blewah Jeruk Punch",
+        "slug": "blewah-jeruk-punch",
+        "cover_url": "content-images\/images\/20250418\/750oiigVvw66OVz7KwFzLU0ISYxWM6qv-31373434393338303830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250418\/750oiigVvw66OVz7KwFzLU0ISYxWM6qv-31373434393338303830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Siang yang terik enaknya minum yang segar-segar..",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 10,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1746714960,
+        "updated_date": 1746715042,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 5,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250418\/750oiigVvw66OVz7KwFzLU0ISYxWM6qv-31373434393338303830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/x95Tj5U9RJqHX62CA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Kerok panjang blewah letakkan diwadah\/mangkok.",
+                "image_url": "content-images\/images\/20250418\/a71J8LnQ4PKsoUApB3CVFVbbRajKVPGz-31373434393338313532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250418\/a71J8LnQ4PKsoUApB3CVFVbbRajKVPGz-31373434393338313532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tuang orange squash. Simpan di kulkas minimal 1 jam.",
+                "image_url": "content-images\/images\/20250418\/1VGnMByX41CHHOG8E7viWzTHs1UxYqkb-31373434393338313631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250418\/1VGnMByX41CHHOG8E7viWzTHs1UxYqkb-31373434393338313631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan soda\/limun. Aduk rata.",
+                "image_url": "content-images\/images\/20250418\/0tp924NDB8yl5YP2pVIpspbiBoRibS34-31373434393338323531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250418\/0tp924NDB8yl5YP2pVIpspbiBoRibS34-31373434393338323531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tuang sirup mint, aduk dan cek rasa.",
+                "image_url": "content-images\/images\/20250418\/dBmFBnisSF3b5tU6DkmnUDCe397Z90P1-31373434393338323838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250418\/dBmFBnisSF3b5tU6DkmnUDCe397Z90P1-31373434393338323838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Setelah semuanya pas tambahkan es batu. Sajikan dingin",
+                "image_url": "content-images\/images\/20250418\/yY2WpUznASzhGaL1hcp6QcJzhKYYiGYP-31373434393338383331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250418\/yY2WpUznASzhGaL1hcp6QcJzhKYYiGYP-31373434393338383331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tjLwUn7mCQfa7d86yvsq3g==",
+                "name": "Minuman",
+                "slug": "minuman"
+            },
+            {
+                "id": "5E06leA9af_ayn-5H4PqVA==",
+                "name": "Minuman sehat",
+                "slug": "minuman-sehat"
+            },
+            {
+                "id": "2N9oVvOk4OzagTsGqrnxxw==",
+                "name": "minuman dingin",
+                "slug": "minuman-dingin"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "fiXDBIl74mX_PUmUDGk9ig==",
+                "name": "Air Soda",
+                "slug": "air-soda"
+            },
+            {
+                "id": "ETAxrfMwNZZJ-L4vRQBlFA==",
+                "name": "Blewah",
+                "slug": "blewah"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Es Batu",
+                "slug": "es-batu"
+            },
+            {
+                "id": "uf3yXu9X3TkkWQrnxE9Hng==",
+                "name": "Jeruk",
+                "slug": "jeruk"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "rzHb_AtDilydcbUu3RzNrw==",
+            "uuid": "66f5523f-7aa8-49b7-b7dd-6a765acc850a",
+            "username": "arninhana",
+            "name": "Hana Arnin",
+            "avatar": "content-images\/images\/20220911\/mMc4j9wdYmyssQNbIgb17SownvstjTuk-31363632383636363136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1\/4 buah blewah yang wangi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml orange squash",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm sirup mint",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 botol soda\/limun rasa madu jeruk nipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya es batu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

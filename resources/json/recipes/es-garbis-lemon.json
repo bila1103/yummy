@@ -1,0 +1,225 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "KdCxCsQbr1gw93CU2JJymQ==",
+        "title": "Es Garbis Lemon",
+        "slug": "es-garbis-lemon",
+        "cover_url": "content-images\/images\/20250511\/27RJz6tYbL8Wo4F5lddV1qVreQrTztoh-31373436393237343239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250511\/27RJz6tYbL8Wo4F5lddV1qVreQrTztoh-31373436393237343239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Es nostalgia jaman kecil.",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1747129740,
+        "updated_date": 1747129805,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250511\/27RJz6tYbL8Wo4F5lddV1qVreQrTztoh-31373436393237343239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/kJL7N6iCG6ZbLMbCA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Rebus bahan sirup hingga mendidih aduk rata diamkan kurang lebih 2 menit kemudian matikan api dan biarkan dingin",
+                "image_url": "content-images\/images\/20250511\/n69CuUe9S0xIsfvA6CXaHRyrFaiHKCOr-31373436393237353235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/n69CuUe9S0xIsfvA6CXaHRyrFaiHKCOr-31373436393237353235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Kemudian serut garbis terlebih dahulu",
+                "image_url": "content-images\/images\/20250511\/xNLodBrgy3Dtwxqgt0Q8otSO1tadN96h-31373436393237353636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/xNLodBrgy3Dtwxqgt0Q8otSO1tadN96h-31373436393237353636d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan garbis ke dalam wadah kemudian tambahkan biji selasih",
+                "image_url": "content-images\/images\/20250511\/uzbUlz5C5FEd49zeVvYtJojn2xeO23Dw-31373436393237353732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/uzbUlz5C5FEd49zeVvYtJojn2xeO23Dw-31373436393237353732d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan perasan lemon secukupnya",
+                "image_url": "content-images\/images\/20250511\/zQANUU8cG6e7P4VWSxBDWPYKyxywIxoL-31373436393237353737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/zQANUU8cG6e7P4VWSxBDWPYKyxywIxoL-31373436393237353737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Kemudian tuang air sirup dan tambahkan es batu, es garbis siap disajikan",
+                "image_url": "content-images\/images\/20250511\/ImpDFTWzw4YBu5a8NxO3sitwHThEP8k3-31373436393237353839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250511\/ImpDFTWzw4YBu5a8NxO3sitwHThEP8k3-31373436393237353839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tjLwUn7mCQfa7d86yvsq3g==",
+                "name": "Minuman",
+                "slug": "minuman"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "KjxaEsFa0tX6RzxykKepCg==",
+                "name": "Harga Di Bawah 10 Ribu",
+                "slug": "10k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "y4OXVZVeikyNP7O3uWPS0g==",
+                "name": "Lemon",
+                "slug": "lemon"
+            },
+            {
+                "id": "blYm8NVgAgEKnI8lhkRjYQ==",
+                "name": "Melon",
+                "slug": "melon"
+            },
+            {
+                "id": "QfI0I20CbkXSVCYjNFqpCg==",
+                "name": "Selasih",
+                "slug": "selasih-1"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "uJ3aCOdjw7rQdXWlO1hhRQ==",
+            "uuid": "b4cd4067-dbe7-41be-90aa-9420ed267bd2",
+            "username": "laila-dawud",
+            "name": "Laila Dawud ",
+            "avatar": "content-images\/images\/20230509\/yjhfJFWfj8BBhfFz9Ww2a2Vd6ovpPIU9-31363833363132373531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 buah garbis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm biji selasih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Es batu secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd buah lemon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Sirup :",
+                "ingredients": [
+                    {
+                        "description": "200 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt pasta frambos",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Pewarna merah secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

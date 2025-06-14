@@ -1,0 +1,249 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "pqbcYk4xWUsNxMrbNcV2eQ==",
+        "title": "Shawarma Khas Bangil",
+        "slug": "kebab-turki-1",
+        "cover_url": "content-images\/images\/20250220\/RChWMcYCCMu5Gv96RvatVX8es9F0t7sf-31373430303133353931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250220\/RChWMcYCCMu5Gv96RvatVX8es9F0t7sf-31373430303133353931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Praktis dan enak!",
+        "rating": 5,
+        "video_url": "",
+        "price": 20000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 4,
+        "serving_max": 5,
+        "release_date": 1746415860,
+        "updated_date": 1746416367,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 9,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250220\/RChWMcYCCMu5Gv96RvatVX8es9F0t7sf-31373430303133353931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/EGj3hTDSowFbTyRL9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Panggang daging kebab hingga matang.",
+                "image_url": "content-images\/images\/20250503\/FPzWzEedsieUWgWYNU5hzHcXHRLjR7aF-31373436323337323936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/FPzWzEedsieUWgWYNU5hzHcXHRLjR7aF-31373436323337323936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Iris tipis selada dan mentimun.",
+                "image_url": "content-images\/images\/20250503\/VpfUOLaZlLo8eOp2Dhg9IvaF5v2loLLZ-31373436323337323832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/VpfUOLaZlLo8eOp2Dhg9IvaF5v2loLLZ-31373436323337323832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Siapkan kulit tortilla. Letakkan mentimun, selada, dan daging shawarma.",
+                "image_url": "content-images\/images\/20250503\/rvMp044yvUgHc4mkVPT2hIH6T1z6o9vZ-31373436323337333039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/rvMp044yvUgHc4mkVPT2hIH6T1z6o9vZ-31373436323337333039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan mayonaise, saus keju, dan saus pedas.",
+                "image_url": "content-images\/images\/20250503\/G9F03GNdHAmNnGt0kJwZOBthheMLp2Zn-31373436323337333033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/G9F03GNdHAmNnGt0kJwZOBthheMLp2Zn-31373436323337333033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Kemudian, lipat shawarma dengan rapi. Kemudian, panggang hingga kecoklatan. Tiriskan dan sajikan!",
+                "image_url": "content-images\/images\/20250503\/xU2E6izIi1exNiERXvjdkPLiky3LpYtx-31373436323337333134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250503\/xU2E6izIi1exNiERXvjdkPLiky3LpYtx-31373436323337333134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "TD8qrefERcSu9-NiY3DvQA==",
+                "name": "Makanan Kekinian",
+                "slug": "makanan-kekinian"
+            },
+            {
+                "id": "DstFTETMX0lZXRU9ClmTlA==",
+                "name": "Makanan Ringan",
+                "slug": "makanan-ringan"
+            },
+            {
+                "id": "-dBITgwJuXFWGsxK1BLFeg==",
+                "name": "Makanan Mancanegara",
+                "slug": "makanan-mancanegara"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "agGYglzEVLUmxpiBbP0xFg==",
+                "name": "Bawang Bombay",
+                "slug": "bawang-bombay"
+            },
+            {
+                "id": "pfFx6bNM5eh5igB4iRppZg==",
+                "name": "Daging Ham (Sapi)",
+                "slug": "daging-ham-sapi"
+            },
+            {
+                "id": "Ilp-VgNtuky9zzgnLLngsw==",
+                "name": "Timun",
+                "slug": "timun"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "uJ3aCOdjw7rQdXWlO1hhRQ==",
+            "uuid": "b4cd4067-dbe7-41be-90aa-9420ed267bd2",
+            "username": "laila-dawud",
+            "name": "Laila Dawud ",
+            "avatar": "content-images\/images\/20230509\/yjhfJFWfj8BBhfFz9Ww2a2Vd6ovpPIU9-31363833363132373531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "5 lembar kulit tortilla",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Daging shawarma secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 potong mentimun",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 lembar daun selada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc buah bawang bombay",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Saus keju secukupnya (opsional)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Saus mayonaise secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Saus tomat secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Margarin secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

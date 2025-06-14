@@ -1,0 +1,515 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "0wh5vtfBqs3iex4SWMCgAw==",
+        "title": "Terang Bulan Mini",
+        "slug": "terang-bulan-mini-4",
+        "cover_url": "content-images/images/20210815/dd23c8dadb5a530780535047529f609b.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20210815/dd23c8dadb5a530780535047529f609b.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20210812/ca6d4385a3f03c5948155e2e1d893831.mp4",
+        "price": 35000,
+        "price_premium": 5000,
+        "calories": "971,8 Kj",
+        "is_cvc": false,
+        "cooking_time": 35,
+        "serving_min": 5,
+        "serving_max": 6,
+        "release_date": 1629069240,
+        "updated_date": 1702167954,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.739999771118164,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 12,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 58,
+        "recook_count": 6,
+        "original_image": "content-images/images/20210815/dd23c8dadb5a530780535047529f609b.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/XFCjmR27nnXx6DP7A",
+        "category": {
+            "name": "Cemilan",
+            "slug": "cemilan"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan tepung terigu, tepung tapioka, gula pasir, dan air ke dalam wadah, mixer hingga tercampur rata.",
+                "image_url": "content-images/images/20210815/e916f4e1f7a5d3eb6645d8a43e4012d4.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20210815/e916f4e1f7a5d3eb6645d8a43e4012d4.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan telur dan baking powder,aduk kembali hingga rata, diamkan adonan selama kurang lebih 1 jam.",
+                "image_url": "content-images/images/20210815/2cc5b106be7eb82f4211b1852df0333b.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20210815/2cc5b106be7eb82f4211b1852df0333b.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "vn4I3seg5RQD1L3zHy-Y5g==",
+                "name": "camilan manis",
+                "slug": "camilan-manis"
+            },
+            {
+                "id": "ge5w_o4oqIjU0GrHP1wi7w==",
+                "name": "kue manis",
+                "slug": "kue-manis"
+            },
+            {
+                "id": "PP_auXDNVCrj40uSGQtf2A==",
+                "name": "Martabak",
+                "slug": "martabak"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "XoOQljKTIsthw9SvhP1iMQ==",
+                "name": "30-60m",
+                "slug": "30-60m-1"
+            },
+            {
+                "id": "vVWFcKWxIPHA4Jd_mijjMg==",
+                "name": "Martabak Manis",
+                "slug": "martabak-manis"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "fZ8FKumT2zyDkTyDZtMSTw==",
+                "name": "Baking Powder",
+                "slug": "baking-powder"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "MOk2qyGcwk0AOYw9kWVtRA==",
+                "name": "Kacang Tanah",
+                "slug": "kacang-tanah"
+            },
+            {
+                "id": "Opko9OFPSqnKtt6n3eH7Eg==",
+                "name": "Keju",
+                "slug": "keju"
+            },
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Mentega",
+                "slug": "mentega"
+            },
+            {
+                "id": "duhUtSNH5AwykQAE0QS03A==",
+                "name": "Meses",
+                "slug": "meses"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "4fXFQ2DhETQxP0Iru_aPVA==",
+                "name": "Tepung",
+                "slug": "tepung"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "200 gr tepung terigu protein sedang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBab",
+                        "media_url": "content-images/images/20220222/26c9c398f87de2907c4571c4ad13aca2.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr tepung tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/LXrWjo",
+                        "media_url": "content-images/images/20220222/00d52fc12dd4ec440a5e4658ab300483.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "40 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NB1N",
+                        "media_url": "content-images/images/20220222/3dab847b1e94f1aa520f60e3e3546c3f.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "250 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220222/5139c71d1fb748865655b64c9b8827f1.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20220222/d9f4e189e008a26f82a0cd4790f00b48.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt baking powder",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/jr2BvM",
+                        "media_url": "content-images/images/20220222/9b0d45eb47080f134c6c3e3f04ca3ec1.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220222/f3b1b07f17370b6f98b3cc3b98bbe1b0.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt baking soda (larutkan dengan air)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/DK1J9a",
+                        "media_url": "content-images/images/20220222/8482d3ca6d01123bc6e8ffc7c3b5eda4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NB1N",
+                        "media_url": "content-images/images/20220222/539a36c0fb1d9db31104fb5bb1e5484d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Pelengkap  :",
+                "ingredients": [
+                    {
+                        "description": "Messes",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220222/b66ce841f8a01c2b2cd7251e8aa852b0.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Keju parut",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/rQbW4Q",
+                        "media_url": "content-images/images/20220222/519683241cad601a7e88442a974a697c.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Susu kental manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Or5WVr",
+                        "media_url": "content-images/images/20220222/3a00fb25ecfd1e3779524d320b774471.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "IDhhLKR245QBq8tDgRTltmihX0KPJgxN",
+                "created_at": 1698330886,
+                "image_url": "content-images/images/20231026/eIm2HHSOlXznfOcMAUCEeGcMFnfStPcG-31363938333035353937d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak Banget",
+                "description": "Assalamu'alaikum, met siang chef, setor recooknya chef, enak, lembut, pas bwt camilan anak anak sepulang sekolah nch, makasih resepnya chef \ud83e\udd70\ud83d\ude0d",
+                "is_liked": false,
+                "like_count": 6,
+                "author": {
+                    "id": "Snf4fV0DORezuxJyLIZjzA==",
+                    "username": "anna-hadi",
+                    "name": "Anna Hadi",
+                    "avatar": "content-images/images/20231123/caf680bcc04430fae6aa9c889875ff79.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Terang Bulan Mini",
+                    "slug": "terang-bulan-mini-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "6Pvmb6QfP1J0e2GxNdWfmVzSMjFCdOpa",
+                "created_at": 1694179429,
+                "image_url": "content-images/images/20230908/t8wkiSHGRhaAyG4Gk8fx1bK2wLUC34JK-31363934313534313035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak Banget",
+                "description": "Terang Bulan Mini, karena blm punya cetakan sendiri jadi pake teflon dan dipotong-potong mini\ud83d\ude09. #RecookTheNextOA",
+                "is_liked": false,
+                "like_count": 3,
+                "author": {
+                    "id": "Yp969fkDhofTar-2om_cKA==",
+                    "username": "visavano-_fnb",
+                    "name": "Adhesti Apriliana",
+                    "avatar": "content-images/images/20231123/46a7799c169db86df17df92d83b82736.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Terang Bulan Mini",
+                    "slug": "terang-bulan-mini-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "6yvoueNEVenRiw5Nc6Iz2tlu6mJVsEF3",
+                "created_at": 1693943585,
+                "image_url": "content-images/images/20230905/kht5570Yc3DFE1L9tzGww7amLJDuGM4R-31363933393138323535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak",
+                "description": "Selamat malam chef. Recook pertama saya adalah resep terang bulan mini. Kebetulan dari bulan-bulan lalu kepingin buat terang bulan. Akhirnya kesampaian juga. Bahannya mudah didapat dan proses pembuatannya pun mudah. #RecookTheNextOA",
+                "is_liked": false,
+                "like_count": 5,
+                "author": {
+                    "id": "i0O-oSlRUe4UxYkg8NgUiw==",
+                    "username": "dapoer-anoe",
+                    "name": "Anugrah Lestari",
+                    "avatar": "content-images/images/20231123/94187de06d9b0932934931d1f74c219a.jpeg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Terang Bulan Mini",
+                    "slug": "terang-bulan-mini-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "fmjJHMoBU14hVFjgmEAg79OSj8pHWBqj",
+                "created_at": 1693932740,
+                "image_url": "content-images/images/20230905/b0Bn7Xb5rK0FXFuf4RZs3otPVBS70Rqd-31363933393037323134d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Kompleks",
+                "taste": "Enak Banget",
+                "description": "Sore Chef setor Martabak Mini nya biasanya bikin besar sekarang bikin versi mini nya sebagian saya beri pasta pandan dengan topping misis dan oreo berhubung saya gak punya cetakan mini saya memakai cetakan serabi rasanya bener bener enak, lembut dan langsung bersarang makasih resepnya Chef sikecil suka sekali \ud83e\udd70 #RecookTheNextOA",
+                "is_liked": false,
+                "like_count": 4,
+                "author": {
+                    "id": "VQEB947eulSz0ULY9nL_6A==",
+                    "username": "shilvia",
+                    "name": "Cheyl_via",
+                    "avatar": "content-images/images/20231123/acfb680559b793fe8160f42a9bb3e4eb.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Terang Bulan Mini",
+                    "slug": "terang-bulan-mini-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "F4H7PwP5kQxEExdtBsstzbBXKlf5LmYQ",
+                "created_at": 1693928351,
+                "image_url": "content-images/images/20230905/7eHeOKqOUIlMbGxPiJoMV8OBNRufEgp7-31363933393033303433d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak Banget",
+                "description": "Selamat sore chef Yummy,,,,,, saya recook resep Terang Bulan Mini yang selalu jadi favorit anak-anak dirumah, resepnya mudah dibuat dan rasanya enak banget, begitu selesai difoto langsung habis diserbu pasukan bocil, terimakasih resepnya chef Yummy \ud83d\ude4f\ud83e\udd70 #RecookTheNextOA",
+                "is_liked": false,
+                "like_count": 3,
+                "author": {
+                    "id": "ycCR0D6AV1aaMpMK9I2iDw==",
+                    "username": "heny-rosita",
+                    "name": "Heny Rosita",
+                    "avatar": "content-images/images/20220815/luSkMV5XbmQDxtTqbZpCxhev5ozSQ6rI-31363630353330363737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Terang Bulan Mini",
+                    "slug": "terang-bulan-mini-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "kv0PYe576S7ySHiHsGschYjmnEOf26lv",
+                "created_at": 1668699258,
+                "image_url": "content-images/images/20221117/BbD2H3lQScRSclHX7IGKsXXSpyodunTI-31363638363734303031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak",
+                "description": "Terimakasih Chef kesukaan anak bujangku ini .",
+                "is_liked": false,
+                "like_count": 3,
+                "author": {
+                    "id": "qIX-LxFkt1Kvo-dpb5Vicg==",
+                    "username": "wati-wartini",
+                    "name": "Wati Wartini",
+                    "avatar": "content-images/images/20200523/EJ726RzcyMMTwK8AwPqSCc4TLFX6ygwW-31353930323230363132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Terang Bulan Mini",
+                    "slug": "terang-bulan-mini-4",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Fry Pan - Kecil",
+                "media_url": "content-images/images/20210714/074ccd072586f8e3d3c20a78861a9661.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Whisker",
+                "media_url": "content-images/images/20210712/4dfd8856cfd1df1585ecb6d8cdabe7fd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

@@ -1,0 +1,257 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "5YvcWIruc8m3nAs_KzqsxA==",
+        "title": "Babi Masak Shabu",
+        "slug": "babi-masak-shabu",
+        "cover_url": "content-images\/images\/20250412\/81wiNZsCy0e79LvNfyX3R7htvVQVwgzb-31373434343438313430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250412\/81wiNZsCy0e79LvNfyX3R7htvVQVwgzb-31373434343438313430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Babi masak shabu Ini merupakan salah satu kuliner khas masyarakat Kabupaten Sabu-Raijua, Provinsi Nusa Tenggara Timur. \r\nMeskipun masakan ini terlihat sederhana tapi dijamin bikin ketagihan dan ingin menambah nasi terus-terusan.\r\nLebih nikmat jika ditambahkan cabai akan tetapi berhubung kami punya balita jadi saya lewatkan saja.",
+        "rating": 5,
+        "video_url": "",
+        "price": 100000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 3,
+        "serving_max": 5,
+        "release_date": 1746190920,
+        "updated_date": 1746391159,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 11,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250412\/81wiNZsCy0e79LvNfyX3R7htvVQVwgzb-31373434343438313430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/Ekc51oFY5MDcb8hA6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong daging babi, cuci bersih lalu sangrai sampai keluar minyaknya.",
+                "image_url": "content-images\/images\/20250412\/L24SIdSu1p4NXtA00Ci92nXiPxLOKHw9-31373434343530303633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/L24SIdSu1p4NXtA00Ci92nXiPxLOKHw9-31373434343530303633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Haluskan bawang merah, bawang putih, sereh dan juga lengkuas.",
+                "image_url": "content-images\/images\/20250412\/5wi7fHlOM4Wwd7u5L9weWs0AZfAv8vZL-31373434343530313334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/5wi7fHlOM4Wwd7u5L9weWs0AZfAv8vZL-31373434343530313334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan bumbu yang sudah di blender tadi beserta lada bubuk dan ketumbar bubuk lalu aduk hingga tercampur rata.",
+                "image_url": "content-images\/images\/20250412\/sKAL8HBDPxb9ARdHMaxxkiWqy7rB2bCW-31373434343530313835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/sKAL8HBDPxb9ARdHMaxxkiWqy7rB2bCW-31373434343530313835d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan daun salam, garam, penyedap serta air lalu aduk kembali hingga tercampur rata.",
+                "image_url": "content-images\/images\/20250412\/yCnq0lH7DIguBABjgEA0a2b9VYmh556X-31373434343530323534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/yCnq0lH7DIguBABjgEA0a2b9VYmh556X-31373434343530323534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masak hingga airnya menyusut dan minyak dari daging babinya keluar lalu angkat dan sajikan.",
+                "image_url": "content-images\/images\/20250412\/nPQSaZMN7gsXQLCSnYpR2nzft2NOOxxP-31373434343530333333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/nPQSaZMN7gsXQLCSnYpR2nzft2NOOxxP-31373434343530333333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "tOplBenkM7ML6lriG2pTow==",
+                "name": "Makanan Rumahan",
+                "slug": "makanan-rumahan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "_GHgkJBuk8m9BdjjhmCfhw==",
+                "name": "Daun Salam",
+                "slug": "daun-salam"
+            },
+            {
+                "id": "89XwJJ-wUT-TR-eQ1eL4pA==",
+                "name": "Lengkuas",
+                "slug": "lengkuas"
+            },
+            {
+                "id": "QvsDybc6uM6-8M_OksDGVw==",
+                "name": "Serai",
+                "slug": "serai"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Contains Pork",
+                "slug": "contains-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "BTBsJw_jGFh94Q43OLQTIw==",
+            "uuid": "b7029d05-8be8-4140-a916-afb90ce3f3fd",
+            "username": "onna-indriyani",
+            "name": "Onna Indriyani",
+            "avatar": "content-images\/images\/20210716\/EjHLhXzny3ckdmdZHJ4ky7Usf8v0itnX-31363236343036383934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 kg daging babi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "15 buah bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang sereh",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 ruas lengkuas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm ketumbar bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 lembar daun salam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Lainnya",
+                "ingredients": [
+                    {
+                        "description": "1 sdm garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt penyedap",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "500 ml air matang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "Gah0LzOEu1pQjGJNvbcHJw==",
+        "title": "Udang Saos Nanas",
+        "slug": "udang-saos-nanas-1",
+        "cover_url": "content-images\/images\/20250415\/KCxLifmNDXfmOgAqZjf4KLpL17cnyfJb-31373434363937313332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250415\/KCxLifmNDXfmOgAqZjf4KLpL17cnyfJb-31373434363937313332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Enak banget",
+        "rating": 5,
+        "video_url": "",
+        "price": 50000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 50,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1747140900,
+        "updated_date": 1747141078,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 9,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250415\/KCxLifmNDXfmOgAqZjf4KLpL17cnyfJb-31373434363937313332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/cD8aeDyXSft2SoPZA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Haluskan cabai dan bawang putih",
+                "image_url": "content-images\/images\/20250415\/IgLOOHg3p6Z3pi7poSiWW9ah6jla8jrm-31373434363937313630d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250415\/IgLOOHg3p6Z3pi7poSiWW9ah6jla8jrm-31373434363937313630d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Bersihkan udang lalu goreng sampai matang",
+                "image_url": "content-images\/images\/20250415\/XATP6rsxdnMskLkYZiW8fqNjTxgcZU30-31373434363937313831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250415\/XATP6rsxdnMskLkYZiW8fqNjTxgcZU30-31373434363937313831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tumis bumbu halus, daun jeruk dan jahe sampai wangi.",
+                "image_url": "content-images\/images\/20250415\/rQQ4D9xFwNAhC68UF4CZPkySx70NNZSF-31373434363937313935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250415\/rQQ4D9xFwNAhC68UF4CZPkySx70NNZSF-31373434363937313935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukan juga irisan bawang bombay tumis sebentar",
+                "image_url": "content-images\/images\/20250415\/ZM3mEm9qo8UWCA1YKfbqd1dpYLWJdO2F-31373434363937323035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250415\/ZM3mEm9qo8UWCA1YKfbqd1dpYLWJdO2F-31373434363937323035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukan udang yang sudah di goreng dan nanas. Tambahkan sedikit air seasoning dengan kecap asin, saos sambal, kaldu bubuk dan gula secukupnya",
+                "image_url": "content-images\/images\/20250415\/WShCmBO64AelTNW96kT2odFQ7hVCEoen-31373434363937323136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250415\/WShCmBO64AelTNW96kT2odFQ7hVCEoen-31373434363937323136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukan 1 sdm larutan tepung maizena masak hingga bumbu meresap.",
+                "image_url": "content-images\/images\/20250415\/GZ9UrvOHVymH2GBFSNKXStKsnTcBDfyJ-31373434363937323238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250415\/GZ9UrvOHVymH2GBFSNKXStKsnTcBDfyJ-31373434363937323238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "OquYGBUfcL28sVKAz1B_2w==",
+                "name": "Masakan Rumahan",
+                "slug": "masakan-rumahan"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "agGYglzEVLUmxpiBbP0xFg==",
+                "name": "Bawang Bombay",
+                "slug": "bawang-bombay"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "MYaWQwxHLAwDZhQWhGLIyQ==",
+                "name": "Nanas",
+                "slug": "nanas"
+            },
+            {
+                "id": "e4TpRRTQlvjlFZfP2dafrA==",
+                "name": "Udang",
+                "slug": "udang"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "aeptKAKzj1jx-Y1vaQTVsA==",
+            "uuid": "836fb39c-f004-4462-9af1-6bbfcfa02a1f",
+            "username": "triwin",
+            "name": "Tri Winarny",
+            "avatar": "content-images\/images\/20191223\/GbHcNGbYMFNJV58dSkANIKkZA4Sy2ph8-31353631323031363534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "500 gr udang ukuran sedang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daun jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 ruas jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 sdm saos sambal",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr nanas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 cabai keriting merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 buah bawang bombay",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1sdm tepung maizena (larutankan)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

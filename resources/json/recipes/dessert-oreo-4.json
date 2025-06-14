@@ -1,0 +1,216 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "A5g5OHIpzBqk72liWe2qtA==",
+        "title": "Dessert Oreo",
+        "slug": "dessert-oreo-4",
+        "cover_url": "content-images\/images\/20250112\/0ciWClekT25jAXZpZTAQJSQ9cYk0QmtF-31373336363837373435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250112\/0ciWClekT25jAXZpZTAQJSQ9cYk0QmtF-31373336363837373435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Enak dan segar untuk dikonsumsi ketika cuaca dingin",
+        "rating": 5,
+        "video_url": "",
+        "price": 30000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1746589080,
+        "updated_date": 1746589290,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 5,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250112\/0ciWClekT25jAXZpZTAQJSQ9cYk0QmtF-31373336363837373435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/sGnYABSH3yaH1yAV8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Pisahkan oreo dengan cream nya",
+                "image_url": "content-images\/images\/20250112\/mMlVac9hxJLZU6jzOEP0gn8yoYmGdeQ3-31373336363837383837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250112\/mMlVac9hxJLZU6jzOEP0gn8yoYmGdeQ3-31373336363837383837d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Blender oreo",
+                "image_url": "content-images\/images\/20250112\/ZJY6tpU5UcX3kKzn0ZDAwGma5MYByODx-31373336363837393033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250112\/ZJY6tpU5UcX3kKzn0ZDAwGma5MYByODx-31373336363837393033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Cairkan margarin",
+                "image_url": "content-images\/images\/20250112\/Y0IXqrZVF6xw2Y8cMOqgMlnPbwjezmEE-31373336363837393238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250112\/Y0IXqrZVF6xw2Y8cMOqgMlnPbwjezmEE-31373336363837393238d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukan margarin yang sudah  meleleh ke dalam oreo yang sudah di hancurkan",
+                "image_url": "content-images\/images\/20250112\/GzUDDezvSFs71tPHqFrbDrI1RA43g9kA-31373336363837393431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250112\/GzUDDezvSFs71tPHqFrbDrI1RA43g9kA-31373336363837393431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukan whipped cream, cream oreo, susu dan air ke dalam wadah lain lalu mixer sampai mengental",
+                "image_url": "content-images\/images\/20250112\/ADjTs9XxElNl0wEUC4qgkd5ufATDaP2U-31373336363837393635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250112\/ADjTs9XxElNl0wEUC4qgkd5ufATDaP2U-31373336363837393635d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukan sedikit demi sedikit oreo ke dalam cetakan",
+                "image_url": "content-images\/images\/20250112\/JWfdukZq4dYupFOLYwKmeVc8mrfvVEKM-31373336363838303038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250112\/JWfdukZq4dYupFOLYwKmeVc8mrfvVEKM-31373336363838303038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukan whipped cream di atas oreo yang sudah ada dalam cetakan",
+                "image_url": "content-images\/images\/20250112\/lAjsrxQlAZTwzVKhOo1y9WKJT4HfqEE6-31373336363838303234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250112\/lAjsrxQlAZTwzVKhOo1y9WKJT4HfqEE6-31373336363838303234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Ulangi sampa oreo dan whipped cream habis",
+                "image_url": "content-images\/images\/20250112\/rGUOzbndlp1HBlJWZB9ZnwoP0zCaR53g-31373336363838303533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250112\/rGUOzbndlp1HBlJWZB9ZnwoP0zCaR53g-31373336363838303533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "eU7nTlH0TQsGqCprJHCu8A==",
+                "name": "Biskuit Oreo",
+                "slug": "biskuit-oreo"
+            },
+            {
+                "id": "H2a3gG-NMO2vqBnbonsTyA==",
+                "name": "Margarin",
+                "slug": "margarin"
+            },
+            {
+                "id": "2dq90nQ0ZM_yfwer4yhrFw==",
+                "name": "Whipped Cream",
+                "slug": "whipped-cream"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "6MyRQqWXNG4OcYPyeO1Qqg==",
+            "uuid": "debf024a-9ce9-4ce2-9c1a-3de4f8c89ffe",
+            "username": "nur-hayati-265",
+            "name": "Nur Hayati",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "2 bungkus oreo",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 Bungkus susu kental manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr Whippy cream",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 ml air es",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 Sdm margarin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "AozK--MTPYPViabUj2re3Q==",
+        "title": "Pizza Rolls",
+        "slug": "pizza-rolls-1",
+        "cover_url": "content-images\/images\/20250112\/p5V6RpLAeqedi85rHOjhz7xAsyaVJNsB-31373336363539313331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250112\/p5V6RpLAeqedi85rHOjhz7xAsyaVJNsB-31373336363539313331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Camilan mengenyangkan di musim hujan.",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 90,
+        "serving_min": 2,
+        "serving_max": 6,
+        "release_date": 1746588900,
+        "updated_date": 1746589052,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 9,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250112\/p5V6RpLAeqedi85rHOjhz7xAsyaVJNsB-31373336363539313331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/NEiw8iamM6qkGr2YA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Campurkan terigu, gula, garam, susu bubuk dan fermipan. Aduk hingga rata.",
+                "image_url": "content-images\/images\/20250111\/jOjoTlqqn1xpSR2iYlXxcEBDWPZbG7bW-31373336353630343531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250111\/jOjoTlqqn1xpSR2iYlXxcEBDWPZbG7bW-31373336353630343531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Kocok telur lalu tambahkan air bersih.",
+                "image_url": "content-images\/images\/20250111\/9u2Y2ED5jwUetGIQu5mxU2z1Z3j5Ihgy-31373336353630343631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250111\/9u2Y2ED5jwUetGIQu5mxU2z1Z3j5Ihgy-31373336353630343631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tuang larutan telur ke dalam wadah berisi tepung, aduk hingga menyatu.",
+                "image_url": "content-images\/images\/20250111\/hnRqI3TiKqr3Z1BMETszVXHkfsn8MEig-31373336353630343637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250111\/hnRqI3TiKqr3Z1BMETszVXHkfsn8MEig-31373336353630343637d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan butter\/ margarin , ulen hingga tercampur rata. (Tidak perlu sampai kalis elastis).",
+                "image_url": "content-images\/images\/20250111\/igxAsWKClyzIOKuxxkz8hJgr66VrjxmL-31373336353630343736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250111\/igxAsWKClyzIOKuxxkz8hJgr66VrjxmL-31373336353630343736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Taburi baking mat dengan terigu, bagi adonan menjadi empat bagian. Sisihkan.",
+                "image_url": "content-images\/images\/20250111\/C6vUEgTJUGQKqn6SfhoI4XCOJ1HTbKoO-31373336353630343838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250111\/C6vUEgTJUGQKqn6SfhoI4XCOJ1HTbKoO-31373336353630343838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Ambil satu bagian adonan, pipihkan. Olesi saos sesuai dan taburi mozzarella sesuai selera. Gulung adonan, lalu potong - potong.",
+                "image_url": "content-images\/images\/20250111\/D4X9Glcp4uVNfy04ELIhgppU2FtHaPss-31373336353630353235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250111\/D4X9Glcp4uVNfy04ELIhgppU2FtHaPss-31373336353630353235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Susun adonan yang sudah di potong di atas loyang yang sudah di alasi baking paper, beri jarak dan diamkan hingga mengembang 2kali lipat (\u00b145 menit).",
+                "image_url": "content-images\/images\/20250111\/SZpjhPnrhsglsZMrWTerxWJyZhT8msdM-31373336353630353334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250111\/SZpjhPnrhsglsZMrWTerxWJyZhT8msdM-31373336353630353334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Oven selama 20 menit, keluarkan . Olesi saus tomat, oven kembali selama 15 menit.",
+                "image_url": "content-images\/images\/20250112\/7u7BM0WESdG1qDP38TwENb1OyhDbq5ga-31373336363539303438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250112\/7u7BM0WESdG1qDP38TwENb1OyhDbq5ga-31373336363539303438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "kGbBEU55etqx2QRYzLPypg==",
+                "name": "Pizza",
+                "slug": "pizza"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "j7ezTztbkf-aUKNMSF2Dvw==",
+                "name": "Keju Mozarella",
+                "slug": "keju-mozarella"
+            },
+            {
+                "id": "H2a3gG-NMO2vqBnbonsTyA==",
+                "name": "Margarin",
+                "slug": "margarin"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "gtOaGY63j6PopthvH-GtfA==",
+            "uuid": "22d829ed-b752-4d09-9938-07dde0e2a06f",
+            "username": "mymatcha-latte",
+            "name": "matcha",
+            "avatar": "content-images\/images\/20201002\/pCPQyoeHDqQUwF18XfFjmenyG2wpLTC8-31363031353830333536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "250gr terigu.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt fermipan.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt gula pasir.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm susu bubuk full cream.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "170ml (1 butir telur + air).",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm butter\/margarine.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Pelengkap.",
+                "ingredients": [
+                    {
+                        "description": "Saos pizza.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Mozzarella.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

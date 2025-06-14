@@ -1,0 +1,636 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "_kZs-a0MNBe16BHdEQLrFA==",
+        "title": "Ayam Goreng Berempah",
+        "slug": "ayam-goreng-berempah-1",
+        "cover_url": "content-images/images/20220411/9539215ee937c4ffd4ab51d3850c9655.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220411/9539215ee937c4ffd4ab51d3850c9655.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Hidangan ayam goreng khas Malaysia yang sangat cocok disajikan sebagai menu ramadan bersama keluarga.",
+        "rating": 4,
+        "video_url": "content-videos/video/20220411/eaa4c2f1f383b2ae5f920a0b08aba9e1.mp4",
+        "price": 40000,
+        "price_premium": 5000,
+        "calories": "1116,4 Kj",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 5,
+        "serving_max": 6,
+        "release_date": 1650970800,
+        "updated_date": 1685775731,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.889999866485596,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 16,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 28,
+        "recook_count": 8,
+        "original_image": "content-images/images/20220411/9539215ee937c4ffd4ab51d3850c9655.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/VK9QmX5LxHqcB2Me6",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Dalam sebuah mangkuk, ayam yang sudah dicuci bersih dan potong-potong menjadi 2 bagian lumuri dengan tepung terigu dan cuci bersih lalu tiriskan.",
+                "image_url": "content-images/images/20220411/5403f80b316d54b87667f5b7121d4a86.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220411/5403f80b316d54b87667f5b7121d4a86.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Menggunakan blender, blender kasar jahe, bawang putih, bawang merah, sereh dan air. Kemudian campurkan dengan ketumbar bubuk, jintan bubuk dan jintan manis bubuk.",
+                "image_url": "content-images/images/20220411/b270f5b86bb2cd99445098af0e843169.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220411/b270f5b86bb2cd99445098af0e843169.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "fLy1fBwqZNpc4zKQPmzhvA==",
+                "name": "Ayam goreng",
+                "slug": "ayam-goreng"
+            },
+            {
+                "id": "H9Kso53jz1jASmB9u_Vjlg==",
+                "name": "ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "YBRmaTfXKqj3QsdvA3jbvQ==",
+                "name": "Lauk Pauk",
+                "slug": "lauk-pauk"
+            },
+            {
+                "id": "CW6YB8mT5vNaTZ76BQBmIA==",
+                "name": "Menu Makan Malam",
+                "slug": "menu-makan-malam"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "xKlu4IYSKju8yXuC972X8A==",
+                "name": "Menu Makan Siang",
+                "slug": "menu-makan-siang"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "XsJNyVQVVVb7NwMotLAvuQ==",
+                "name": "Jahe",
+                "slug": "jahe"
+            },
+            {
+                "id": "ojKqqxyO0cgLlnxSQd5nUw==",
+                "name": "Jinten",
+                "slug": "jinten"
+            },
+            {
+                "id": "USC-W9Q7UtkNcQ056U5NZA==",
+                "name": "Kunyit",
+                "slug": "kunyit"
+            },
+            {
+                "id": "QvsDybc6uM6-8M_OksDGVw==",
+                "name": "Serai",
+                "slug": "serai"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "Y7u7FDSxNd95soU0OFqofw==",
+                "name": "Tepung Maizena",
+                "slug": "tepung-maizena"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "1cf22581-ea47-4b71-aed9-3fb2d7cf2249",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "6 buah paha ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/75xQZY",
+                        "media_url": "content-images/images/20211026/e2074a5d682a5c3e3315c2b7dc10191a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBab",
+                        "media_url": "content-images/images/20211026/551a9efe5140f1769c20fe1ba43a4501.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 tangkai daun kari",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/19d3dc19f6925d8e4ef8aa581ad1eba7.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 \u00bd sdm garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20211025/7a572e1883391c73701f6d6d766bd4dd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm tepung maizena",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/an64bo",
+                        "media_url": "content-images/images/20211026/7babea56d9abb73c27bb52f34eac6f14.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20211025/e3b5d345af51a318e964326208435064.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm bubuk kari",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211019/97bdd8cc4a7be2634f15d67321f7d114.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bumbu Kasar ",
+                "ingredients": [
+                    {
+                        "description": "2 cm jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/AWaGrN",
+                        "media_url": "content-images/images/20211026/19618fc40228ff254e602e64b785645a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20211026/4f0b23b2175253b3e759de3d6229f244.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "12 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/ZQ4ROK",
+                        "media_url": "content-images/images/20210712/d0a73ce02aaf1bd09dacc5bc635dc1c6.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "6 buah sereh",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWJX",
+                        "media_url": "content-images/images/20220426/8774c0cf61a88184dbbe2ca2baae9265.webp?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/a8f6e995116c81f4fbf4600a4520c6b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": " Bumbu Halus",
+                "ingredients": [
+                    {
+                        "description": "1 \u00bd sdm ketumbar bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqzer",
+                        "media_url": "content-images/images/20210712/471331d2f54b300c26972eef1162ca2a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm jintan bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/zNqB6e",
+                        "media_url": "content-images/images/20210805/7e40429f7fb0718d8183cb4b26200d8a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Blender",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "Ql2fAaw7cqpv3rNCa44ZeHqmeAWpF8Qk",
+                "created_at": 1685213187,
+                "image_url": "content-images/images/20230527/XQ01mWg7sDgGH8R5VkhvXlXz5LNq1tmC-31363835313837393432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hai MinChef, recook ayam berempahnya. Mantep banget. Anak laki suka banget.. Terimakasih resepnya \ud83e\udd17",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "A9vbQLtPhe7BshoLA2kA6Q==",
+                    "username": "rika-rizki",
+                    "name": "Ummu Alfard",
+                    "avatar": "content-images/images/20211028/0YempWR2iGiAXV2RgEACtwOMrHDkE6pi-31363335343233393036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Goreng Berempah",
+                    "slug": "ayam-goreng-berempah-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "y8SvZI1ja5bZncK2P3dguiPqjbPT6HPW",
+                "created_at": 1684736534,
+                "image_url": "content-images/images/20230522/Txiv8ceosoVb27p1BqJF1kQEymxAFBgy-31363834373131323638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "selamat pagi chef setor recook ayam goreng nya , bumbu nya simpel rasanya uenak bingitz terimakasih banyak inspirasi resep nya ",
+                "is_liked": false,
+                "like_count": 3,
+                "author": {
+                    "id": "5MiQ4KHlsWGpbs7H6qfNCA==",
+                    "username": "rani-elizabeth-rarun",
+                    "name": "Rani Rarun",
+                    "avatar": "content-images/images/20231123/4ac98fccfb74d9f8333b7343ed7c958b.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Goreng Berempah",
+                    "slug": "ayam-goreng-berempah-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "YF4oPQ9A0zTwC7QDyY0Pdv3aj8keM2dT",
+                "created_at": 1684686524,
+                "image_url": "content-images/images/20230521/YWPYKlfr8KfPYPaVgvv4I6nOXwJ9wlwz-31363834363631313933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak Banget",
+                "description": "Recook ayam goreng berempah ya chef, enak banget rasa gurihnya dengan harum rempah-rempah yang kaya. Trimakasih ya chef resepnya sedaap \ud83d\ude4f\ud83c\udffb",
+                "is_liked": false,
+                "like_count": 4,
+                "author": {
+                    "id": "zu9EhO6hh-77-mFHosyKkA==",
+                    "username": "widiarief",
+                    "name": "Wid's Kitchen",
+                    "avatar": "content-images/images/20231123/e64975367da3238217572b84a3c4ec11.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Goreng Berempah",
+                    "slug": "ayam-goreng-berempah-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "pQ1m1YcbVhyNC9dv2YaaCW53JGMJJb4b",
+                "created_at": 1668662040,
+                "image_url": "content-images/images/20221117/20XCaMXgzPnHnL9KxNAWvZxc2Oe3ROmO-31363638363336373237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak",
+                "description": "#RecookYummy\nHalo chef, saya recook resepnya. Daun kari saya ganti daun jeruk. Rasanya enak sekali. Terima kasih resepnya.",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "-bYSwPyd0WA5z8BB0pDx9A==",
+                    "username": "diandra-nareswari",
+                    "name": "nareswari",
+                    "avatar": "content-images/images/20200218/6tV3cN75RiRmQbao4XhgR3aPUU2XVtzk-31353831393737333638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Ayam Goreng Berempah",
+                    "slug": "ayam-goreng-berempah-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "GFqqcHKUmhReu918YAlhlaNB3epdlenx",
+                "created_at": 1668427752,
+                "image_url": "content-images/images/20221114/j33WCMPGwVOCgB5sTmWRzkgGwsRydaDq-31363638343032343738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Kompleks",
+                "taste": "Enak Banget",
+                "description": "Selamat Siang Chef..\nSetor Recooknya, enak dan terasa banget rempahnya. bener bener suka dengan resepnya, saya skip telurnya.\nizin reshare \ud83e\udd17\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 2,
+                "author": {
+                    "id": "uJ3aCOdjw7rQdXWlO1hhRQ==",
+                    "username": "laila-dawud",
+                    "name": "Laila Dawud ",
+                    "avatar": "content-images/images/20230509/yjhfJFWfj8BBhfFz9Ww2a2Vd6ovpPIU9-31363833363132373531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Goreng Berempah",
+                    "slug": "ayam-goreng-berempah-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "moKI4Q58FeHaqPYU3XAUzsGXYIGCDmTa",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220606/UwKhadwLb1iST07uW4v9WJmlQNsiwboy-31363534353038373231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hallo chef... Makasih inspirasi resepnya. Mohon maaf daun kari aku ganti dengan daun jeruk. Rasanya mantap...\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "9DLwrMBS1ZxPMmoB7vyihQ==",
+                    "username": "liaas",
+                    "name": "Lia_Ariani",
+                    "avatar": "content-images/images/20231123/281d7341afcd50e9916bb3da77857ed1.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Goreng Berempah",
+                    "slug": "ayam-goreng-berempah-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "p7FeMlihyQiSYejR8lwXaQtkRTgHBQd5",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220609/CVkC1ncNLLkXaOObWl4NstKzuHNldGIL-31363534373537323639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Siang chef, pertama kalinya nyobain resep ayam berempah khas malaysia ini. Enak banget lho chef,luarnya garing dan wangi rempahnya itu lho bikin pengen makan terus. Terima kasih untuk referensi resep nya suka sekali \ud83e\udd70\n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "rbL6-tu6vfQ0XreQ8Cm0BA==",
+                    "username": "mikhayla-anindita",
+                    "name": "Aisah",
+                    "avatar": "content-images/images/20220606/060RCrniCaexrFwY1lM4gMbMjDRDmZ1u-31363534343830313633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Goreng Berempah",
+                    "slug": "ayam-goreng-berempah-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "yF1Z98atBNu2lOvogP5SmGK9INWLNBMb",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220609/P68kIBR37pzIT9FBmmA75dT53K0JYzaa-31363534373730353332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Trimaksh Resepnya... \ud83d\ude4f\ud83d\ude4f Enak banget Chef....Rempah dan daun karinya berasa banget... \ud83d\udc4d\ud83d\udc4d\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "qIyUE3VmwcRphJ-I2rWyJw==",
+                    "username": "evie-indriana",
+                    "name": "Evie Indriana",
+                    "avatar": "content-images/images/20230529/KEvBrqtdqCqSUmlnAsmfGUFVP2JPuqIF-31363835333633373939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Ayam Goreng Berempah",
+                    "slug": "ayam-goreng-berempah-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Mangkuk Saji",
+                "media_url": "content-images/images/20211105/6b25d0e99ffbff542d2819b54b6f093f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Spatula",
+                "media_url": "content-images/images/20210712/9a02f99fa2e81cf8e0c48b3caa657230.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Panci Kecil",
+                "media_url": "content-images/images/20211105/8773acd6b750d0eefd2bcb59da811a1a.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Saringan",
+                "media_url": "content-images/images/20210712/65e57dfb6b663cb4596ed05cbced0077.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Piring Saji",
+                "media_url": "content-images/images/20210712/fe7aa848e95ce4d5fd56fb78459844f2.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

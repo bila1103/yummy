@@ -1,0 +1,281 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "iCtDrrxZVS0xoE9n2ky8Gg==",
+        "title": "Bubur Cha Cha",
+        "slug": "bubur-cha-cha-6",
+        "cover_url": "content-images\/images\/20250227\/iEqt2K9ST6wNLz2tV25u3kjRnmPrUKuJ-31373430363437373832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250227\/iEqt2K9ST6wNLz2tV25u3kjRnmPrUKuJ-31373430363437373832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Bubur Cha Cha merupakan makanan dari Singapura yang hampir serupa dengan kolak, sama-sama berkuah santan dan manis. Kolak biasanya identik dengan pisang, bubur cha-cha lebih banyak terdiri dari kentang manis atau ubi.",
+        "rating": 5,
+        "video_url": "",
+        "price": 25000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 5,
+        "serving_max": 6,
+        "release_date": 1746725100,
+        "updated_date": 1746725595,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 14,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250227\/iEqt2K9ST6wNLz2tV25u3kjRnmPrUKuJ-31373430363437373832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/doLAGZKgD2Tak48FA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Rebus sagu mutiara hingga matang, angkat lalu tiriskan kemudian rendam dengan air matang.",
+                "image_url": "content-images\/images\/20250227\/6hNA2Og07WJq70CvB5mcWrx1gf74s6Bo-31373430363438303934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250227\/6hNA2Og07WJq70CvB5mcWrx1gf74s6Bo-31373430363438303934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan semua bahan tapioka jelly kecuali pewarna makanan, bagi 2 adonan lalu masing-masing beri pewarna, cetak sesuai selera, lalu rebus hingga mengapung, angkat lalu rendam dengan air es agar tidak saling menempel.",
+                "image_url": "content-images\/images\/20250227\/KMErmveOMnNDPzfWkrCI0wAN3AaL3JV3-31373430363438313038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250227\/KMErmveOMnNDPzfWkrCI0wAN3AaL3JV3-31373430363438313038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Potong-potong semua ubi, lalu kukus hingga matang.",
+                "image_url": "content-images\/images\/20250227\/W5Ac8oAE3jrwDhCSYQAm0UePsfQjHisj-31373430363438313235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250227\/W5Ac8oAE3jrwDhCSYQAm0UePsfQjHisj-31373430363438313235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Rebus air, santan, daun pandan, garam dan gula pasir, masak hingga mendidih sambi diaduk-aduk.",
+                "image_url": "content-images\/images\/20250227\/dBsz4rfJoJLgQMvkqx8hI7G7to9roXz1-31373430363438313338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250227\/dBsz4rfJoJLgQMvkqx8hI7G7to9roXz1-31373430363438313338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Setelah mendidih, masukkan sagu mutiara, tapioka jelly, ubi warna kuning dan oranye, kalau ubi ungu dimasukin, kuahnya akan berubah menjadi agak ungu.",
+                "image_url": "content-images\/images\/20250227\/4Imy4hSJQ2TURTmXfCFd2NQpICdHYJap-31373430363438313439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250227\/4Imy4hSJQ2TURTmXfCFd2NQpICdHYJap-31373430363438313439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Penyajian: tuang bubur cha cha ke mangkuk lalu masukkan juga ubi ungu, aduk rata lalu sajikan.",
+                "image_url": "content-images\/images\/20250227\/C46E3c8x0YjXp6uOakgqeCxoFgUL6VDU-31373430363438343036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250227\/C46E3c8x0YjXp6uOakgqeCxoFgUL6VDU-31373430363438343036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "zWu2_GxpK3ahdMNXkwL5zQ==",
+                "name": "Sagu Mutiara",
+                "slug": "sagu-mutiara"
+            },
+            {
+                "id": "OVn1FXRZPmVFgDCUzl3xLw==",
+                "name": "Santan",
+                "slug": "santan"
+            },
+            {
+                "id": "qQy8XZh2M-j6xIFwdedn0A==",
+                "name": "Ubi",
+                "slug": "ubi"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "FyhhAXdzHj1r9UxxBMClQA==",
+            "uuid": "2e47e1d0-f75f-4300-9712-eb5a3715dcc6",
+            "username": "retnoadiesty",
+            "name": "Retno Adiesty",
+            "avatar": "content-images\/images\/20220914\/GpCxByyBC67apfApSLulF0FnncVMkl4M-31363633313130373231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "200 gr ubi orange",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 gr ubi kuning",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "250 gr ubi ungu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30 gr sagu mutiara Thailand",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "600 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml santan kental",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "125 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 lembar daun pandan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sejumput garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Tapioka Jelly:",
+                "ingredients": [
+                    {
+                        "description": "60 gr tepung tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30 gr tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sejumput garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "60 ml air panas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya pewarna makanan merah dan hijau",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

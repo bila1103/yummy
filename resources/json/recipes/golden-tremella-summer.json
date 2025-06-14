@@ -1,0 +1,233 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "TyEvGDBgqyiILWJPk0MnOA==",
+        "title": "Golden Tremella Summer",
+        "slug": "golden-tremella-summer",
+        "cover_url": "content-images\/images\/20250502\/oHC4ZDUzcASQuBVmPeDtO9EQYTMFldYC-31373436313439393331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250502\/oHC4ZDUzcASQuBVmPeDtO9EQYTMFldYC-31373436313439393331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Resep hidangan penutup yang segar di siang hari",
+        "rating": 5,
+        "video_url": "",
+        "price": 38000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 10,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1746154020,
+        "updated_date": 1746154084,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250502\/oHC4ZDUzcASQuBVmPeDtO9EQYTMFldYC-31373436313439393331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/bkrQoPG3pQStVqzw6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan 4 gr jamur emas tremella ke dalam panci kecil, tambahkan 240 ml air, didihkan selama 20 menit dengan api kecil, lalu matikan api dan biarkan tertutup selama 10 menit",
+                "image_url": "content-images\/images\/20250502\/mlHU7KuAemFUy5hR6vSCLYCG400khymh-31373436313439393534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/mlHU7KuAemFUy5hR6vSCLYCG400khymh-31373436313439393534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Setelah itu buka tutup panci, aduk hingga jamur mengeluarkan gel kental. Pindahkan ke mangkuk kecil, tambahkan 40 gr bubuk liangfen, aduk rata, dan diamkan selama minimal 30 menit hingga mengeras",
+                "image_url": "content-images\/images\/20250502\/eryyVkAGjcvajtlmJzAjvG0VsKSeiDtH-31373436313439393739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/eryyVkAGjcvajtlmJzAjvG0VsKSeiDtH-31373436313439393739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tuang 160 ml air hangat ke dalam mangkuk, tambahkan 50 gr daging buah naga merah, aduk hingga air berubah warna merah",
+                "image_url": "content-images\/images\/20250502\/Xqe9hZWrwPjYTCjgNRLyCQQEmoIkV96v-31373436313439393938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/Xqe9hZWrwPjYTCjgNRLyCQQEmoIkV96v-31373436313439393938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan 30 gr bubuk liangfen, aduk rata, lalu diamkan selama minimal 30 menit hingga mengeras",
+                "image_url": "content-images\/images\/20250502\/83TfzhpecM4KQAsQpxRtrTy8VhYa9WT7-31373436313530303235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/83TfzhpecM4KQAsQpxRtrTy8VhYa9WT7-31373436313530303235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Setelah kedua mangkuk jelly mengeras, potong kecil-kecil menggunakan pisau",
+                "image_url": "content-images\/images\/20250502\/RO2HYLEDpD5Jzhul3qD9ArZ4tBkWiVYB-31373436313530303532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/RO2HYLEDpD5Jzhul3qD9ArZ4tBkWiVYB-31373436313530303532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Masukkan jelly jamur tremella dari mangkuk pertama ke dalam gelas saji. Tambahkan jelly buah naga merah, 200 gr potongan mangga, 50 gr daging buah naga putih, 50 gr daging buah naga merah, dan 1 buah asam plum yang telah dicuci. Tambahkan jus leci secukupnya",
+                "image_url": "content-images\/images\/20250502\/zy1hgNnZ0MiCCll8RhV1CxWOMGvMdElz-31373436313530313031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/zy1hgNnZ0MiCCll8RhV1CxWOMGvMdElz-31373436313530313031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "lg6AGgrx8swQcmDlDUBehw==",
+                "name": "Buah Naga",
+                "slug": "buah-naga"
+            },
+            {
+                "id": "0gron32Xnrz-2_9pd3Nxzw==",
+                "name": "Jamur",
+                "slug": "jamur"
+            },
+            {
+                "id": "cZYI-fEq0fAiAtGI09A8JQ==",
+                "name": "Mangga",
+                "slug": "mangga"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "kChsKG5mRBDc5R0pdo7iUA==",
+            "uuid": "0f4cb459-b623-4284-bd85-6664d68d8ae7",
+            "username": "chayra-dilara",
+            "name": "Chayra dilara",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "4 gr jamur tremella kering",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "400 ml air bersih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr bubuk liangfen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr daging buah naga merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr daging buah naga putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 gr mangga potong",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "80 gr buah asam plum",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30 ml jus leci",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "jU76nHsKdyocYPkRgdtKFA==",
+        "title": "Kolak",
+        "slug": "kolak-10",
+        "cover_url": "content-images\/images\/20250424\/PNJWPltkGPD5gc89zxBnLqVXvK3Yvlax-31373435353037363539d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250424\/PNJWPltkGPD5gc89zxBnLqVXvK3Yvlax-31373435353037363539d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "\" Bikin kolak dengan isian ubi kuning,sagu mutiara dan kolang-kaling enak banget dan praktis bikinnya.",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 4,
+        "serving_max": 5,
+        "release_date": 1745811840,
+        "updated_date": 1746583319,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 2,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250424\/PNJWPltkGPD5gc89zxBnLqVXvK3Yvlax-31373435353037363539d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/cBDgdA21CFQ75TrC7",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Siapkan bahan-bahan: ubi jalar yang sudah di potong-potong,sagu mutiara, manisan kolang-kaling,daun pandan,santan kental dan gula pasir.",
+                "image_url": "content-images\/images\/20250424\/OPWNlsMPEk5h3GTfUq8Vwvur9uDPhUcU-31373435353037393034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/OPWNlsMPEk5h3GTfUq8Vwvur9uDPhUcU-31373435353037393034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Rebus air,daun pandan dan ubi.",
+                "image_url": "content-images\/images\/20250424\/F949BihtoJIJsSKfqxvbeU51Xv511rAb-31373435353038303332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/F949BihtoJIJsSKfqxvbeU51Xv511rAb-31373435353038303332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masak ubi sampai setengah matang.",
+                "image_url": "content-images\/images\/20250424\/KxOtQl4EFlvCqxiz26f3OsZAB9GQRqpk-31373435353038303933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/KxOtQl4EFlvCqxiz26f3OsZAB9GQRqpk-31373435353038303933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Kemudian masukkan santan kental.",
+                "image_url": "content-images\/images\/20250424\/CGBJBSwpOf8jNMqtFmBvzqbmLcVPbPNd-31373435353038313336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/CGBJBSwpOf8jNMqtFmBvzqbmLcVPbPNd-31373435353038313336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tambahkan gula pasir dan sedikit garam halus aduk rata.",
+                "image_url": "content-images\/images\/20250424\/aQiBrBHg6jmtfNhbdXLr8R2MFErPd3MY-31373435353038313535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/aQiBrBHg6jmtfNhbdXLr8R2MFErPd3MY-31373435353038313535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Lalu masukkan sagu mutiara dan kolang-kaling.",
+                "image_url": "content-images\/images\/20250424\/MfqrOMOFODredblrK9rKOuuoEbHqfhGh-31373435353038313932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/MfqrOMOFODredblrK9rKOuuoEbHqfhGh-31373435353038313932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masak hingga santan mendidih, kemudian matikan api.",
+                "image_url": "content-images\/images\/20250424\/pWmQmmtSZhjcXwb7y2dfxdulTE8ZoI3y-31373435353038323235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250424\/pWmQmmtSZhjcXwb7y2dfxdulTE8ZoI3y-31373435353038323235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "-uoU6SR_qaWUf4SB7ycuwA==",
+                "name": "Kolang Kaling",
+                "slug": "kolang-kaling"
+            },
+            {
+                "id": "zWu2_GxpK3ahdMNXkwL5zQ==",
+                "name": "Sagu Mutiara",
+                "slug": "sagu-mutiara"
+            },
+            {
+                "id": "qQy8XZh2M-j6xIFwdedn0A==",
+                "name": "Ubi",
+                "slug": "ubi"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "BLOwr_opsrorDLbTmMAQSg==",
+            "uuid": "a2bf6d63-a0ef-4066-8f4d-a2b1403326f0",
+            "username": "emma-zainal",
+            "name": "Emma zainal bakhri ",
+            "avatar": "content-images\/images\/20230506\/aUcSAKozqHPXlNR4IfjGHcsWR6H17hB0-31363833333739313736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "300 gram ubi jalar, potong-potong",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gram sagu mutiara,rebus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gram manisan kolang-kaling",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 lembar daun pandan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "500 ml santan kental",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gram gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/4 sdt garam halus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "500 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

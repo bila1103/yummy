@@ -1,0 +1,209 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "J_DvHcRHKpZCMS30IA5vAw==",
+        "title": "Potato Salad with Roasted Sesame",
+        "slug": "potato-salad-with-roasted-sesame",
+        "cover_url": "content-images\/images\/20250421\/4NXBR9WkuNa15Nd6wel8EEvRUumZhCVs-31373435323039363836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250421\/4NXBR9WkuNa15Nd6wel8EEvRUumZhCVs-31373435323039363836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Simple salad kentang dengan saus wijen sangrai.",
+        "rating": 5,
+        "video_url": "",
+        "price": 35000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1745401200,
+        "updated_date": 1745401296,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 5,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250421\/4NXBR9WkuNa15Nd6wel8EEvRUumZhCVs-31373435323039363836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/xRtXUPJjFyiaE6LA8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong smoked beef dan panggang dalam pan.",
+                "image_url": "content-images\/images\/20250422\/JhqFPw5nPRfLZCObEjeIKR0JfM6sY1H4-31373435333033383831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/JhqFPw5nPRfLZCObEjeIKR0JfM6sY1H4-31373435333033383831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Rebus kentang hingga matang.",
+                "image_url": "content-images\/images\/20250422\/BJAbwCbWaXH9EELNGtP4IoiRU0EdlrhB-31373435333033383936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/BJAbwCbWaXH9EELNGtP4IoiRU0EdlrhB-31373435333033383936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Potong-potong kentang rebus.",
+                "image_url": "content-images\/images\/20250422\/rNgmMuWfRArIQ652UeuONz2Tj0YNU7KU-31373435333033393137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/rNgmMuWfRArIQ652UeuONz2Tj0YNU7KU-31373435333033393137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan smoked beef.",
+                "image_url": "content-images\/images\/20250422\/DTXdnAreFYWl0hb1JO6uh23nTbXfL9jE-31373435333033393639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/DTXdnAreFYWl0hb1JO6uh23nTbXfL9jE-31373435333033393639d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tambahkan roasted sesame sauce.",
+                "image_url": "content-images\/images\/20250422\/3a5tfTJaToMvy9eYRgS96nRggghnKg90-31373435333033393832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/3a5tfTJaToMvy9eYRgS96nRggghnKg90-31373435333033393832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Aduk rata. Masukkan selada.",
+                "image_url": "content-images\/images\/20250422\/eksthVvgo0QnY9LoaEEBEmZzWK6Pxz4C-31373435333033393936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/eksthVvgo0QnY9LoaEEBEmZzWK6Pxz4C-31373435333033393936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Tambahkan telur rebus. Sajikan.",
+                "image_url": "content-images\/images\/20250422\/4kdJ0VyKcf4gK4vZITGMDGkmWkGrFYbT-31373435333034303236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250422\/4kdJ0VyKcf4gK4vZITGMDGkmWkGrFYbT-31373435333034303236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Makanan Sehat",
+                "slug": "makanan-sehat"
+            },
+            {
+                "id": "_whAfTY9yGAjCMM6jqS9HQ==",
+                "name": "Makanan Manis",
+                "slug": "makanan-manis"
+            },
+            {
+                "id": "_qYqF_mpbWosRAjWVoeRqw==",
+                "name": "Salad Sayur",
+                "slug": "salad-sayur"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "RkAHZYbrL58-78Y_ZBXAcw==",
+                "name": "Kentang",
+                "slug": "kentang"
+            },
+            {
+                "id": "29fKVyfCA5GKvNC6KRVBfQ==",
+                "name": "Mayonaise",
+                "slug": "mayonaise"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "c3kTV0wAdP6aoqG7jQqx2w==",
+            "uuid": "065ea9af-e421-4c25-ad1d-e1cd4d24be90",
+            "username": "galia",
+            "name": "Galia Salfitri",
+            "avatar": "content-images\/images\/20200425\/lAMa4t2fwF7mvq917Kx8gs6726ATcc5L-31353837383133383736d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 bungkus selada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 lembar smoked beef",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah kentang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Rosted sesame sauce secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 butir telur rebus.",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

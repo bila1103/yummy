@@ -1,0 +1,283 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "d_Jz1Z5O1QlqdUxz-T58kA==",
+        "title": "Nagasari Cetak",
+        "slug": "nagasari-cetak-1",
+        "cover_url": "content-images\/images\/20240928\/cYyL5B4FvsGT5C1xjKlwTcjEwhykLoRy-31373237353336383633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20240928\/cYyL5B4FvsGT5C1xjKlwTcjEwhykLoRy-31373237353336383633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Resep ini adalah solusi ketika pengen bikin nagasari, tapi gak punya daun pisang. Don't worry, kita pakai cetakan saja ....\r\n\r\nCuzzz, eksekusi aja!\r\n\r\n#selaluadaceritadisetiapmasakanmps #mps",
+        "rating": 5,
+        "video_url": "",
+        "price": 24000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 40,
+        "serving_max": 42,
+        "release_date": 1746028260,
+        "updated_date": 1746028539,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 9,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20240928\/cYyL5B4FvsGT5C1xjKlwTcjEwhykLoRy-31373237353336383633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/w7ZN2f1W5n2fRX8D6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Siapkan pisang. potong bundar 4 buah pisang dan potong dadu kecil 6 buah pisang.",
+                "image_url": "content-images\/images\/20240928\/A741IQyFXHTcoMYq2tUfEUMLgNBpbbJT-31373237353337303839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240928\/A741IQyFXHTcoMYq2tUfEUMLgNBpbbJT-31373237353337303839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Siapkan wadah untuk mengaduk. Masukkan 2 jenis tepung, gula, garam, dan vanilla essence. Kemudian, aduk rata.",
+                "image_url": "content-images\/images\/20240928\/49a05B30pW5kNbTvYbpkbcgh5OX9raVX-31373237353337313435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240928\/49a05B30pW5kNbTvYbpkbcgh5OX9raVX-31373237353337313435d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan santan sedikit demi sedikit sambil terus diaduk hingga adonan tercampur rata dan santan habis.",
+                "image_url": "content-images\/images\/20240928\/BYZTiKU0Yvv9hlJs0Em8sUc4tKTHZljw-31373237353337323130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240928\/BYZTiKU0Yvv9hlJs0Em8sUc4tKTHZljw-31373237353337323130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Saring adonan dan siap dicetak.",
+                "image_url": "content-images\/images\/20240928\/3xAxEYeZ3zj0HFwIMGVfU21weOen2yDS-31373237353337323631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240928\/3xAxEYeZ3zj0HFwIMGVfU21weOen2yDS-31373237353337323631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Potong-potong sebagian daun pandan wangi (seperti pada foto).",
+                "image_url": "content-images\/images\/20240928\/601FMuheIJMWRstwiRPeUyZ0K7EogTK0-31373237353337323932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240928\/601FMuheIJMWRstwiRPeUyZ0K7EogTK0-31373237353337323932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Siapkan panci kukus. Beri beberapa potongan daun pandan di air kukusannya. Kemudian, panaskan kukusan.",
+                "image_url": "content-images\/images\/20240928\/5HaVDj0vxqKZaeuHvImK5MDi0kDmvaff-31373237353337333432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240928\/5HaVDj0vxqKZaeuHvImK5MDi0kDmvaff-31373237353337333432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Siapkan cetakan. Olesi permukaannya dengan minyak sayur. Letakkan 1 potongan daun pandan, timpa dengan potongan pisang yang bundar.",
+                "image_url": "content-images\/images\/20240928\/VDqi7lLt0Q9MlMcn1xD6IgqYwd7mI5RL-31373237353337333935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240928\/VDqi7lLt0Q9MlMcn1xD6IgqYwd7mI5RL-31373237353337333935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Tuang 1 sdm adonan, kukus selama 2 menit. Beri adonan lagi hingga garis cetakan, kukus selama 20 menit. Setelah 20 menit, angkat cetakan, diamkan hingga benar-benar dingin. Keluarkan Nagasari dari cetakan dan siap disajikan!",
+                "image_url": "content-images\/images\/20240928\/cUraODlvacH1Sfz6Kjqc7ZR3izlmTWKE-31373237353337343638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240928\/cUraODlvacH1Sfz6Kjqc7ZR3izlmTWKE-31373237353337343638d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "cOYnmjKVWjvISzgTJ9eSyw==",
+                "name": "Makanan Pencuci Mulut",
+                "slug": "makanan-pencuci-mulut"
+            },
+            {
+                "id": "GlZXNP96qJdMVZEMNDv9fQ==",
+                "name": "Ide Jualan",
+                "slug": "ide-jualan"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "5E06leA9af_ayn-5H4PqVA==",
+                "name": "Pisang",
+                "slug": "pisang"
+            },
+            {
+                "id": "OVn1FXRZPmVFgDCUzl3xLw==",
+                "name": "Santan",
+                "slug": "santan"
+            },
+            {
+                "id": "wjOI7jLd9RKri0o9Vn8t7A==",
+                "name": "Tepung Beras",
+                "slug": "tepung-beras"
+            },
+            {
+                "id": "4k8pCLcc7BX1HDeJPutX8A==",
+                "name": "Tepung Tapioka",
+                "slug": "tepung-tapioka"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "p0yIwRpqEEanporOUXoHuQ==",
+            "uuid": "0ed90555-a85b-413a-b67d-2ab1415b5f50",
+            "username": "mita-puspita-kurniawan",
+            "name": "Mita Puspita Kurniawan",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "250 gr tepung beras",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30 gr tepung tapioka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr gula pasir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 buah pisang kepok",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "900 gr santan (asli dari 1 butir kelapa dengan 2 kali perasan)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt vanilla essence",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya daun pandan wangi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya minyak sayur untuk mengolesi cetakan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

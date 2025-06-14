@@ -1,0 +1,209 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "NXxDmLGT4NSLYRlfK3d7PA==",
+        "title": "Menu Sarapan Sehat",
+        "slug": "menu-sarapan-sehat",
+        "cover_url": "content-images\/images\/20231221\/YHiMHigKCCcQb672PXqVAi9Ub246Etqe-31373033313235333932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20231221\/YHiMHigKCCcQb672PXqVAi9Ub246Etqe-31373033313235333932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Selain lebih sehat, makanan ini juga enak dan mengenyangkan.",
+        "rating": 5,
+        "video_url": "",
+        "price": 12000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1745836320,
+        "updated_date": 1745836407,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 5,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20231221\/YHiMHigKCCcQb672PXqVAi9Ub246Etqe-31373033313235333932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/ZoKdjQHmooxFQueu9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Kupas dan potong potong labu, lalu cuci bersih.",
+                "image_url": "content-images\/images\/20231121\/6cmI698vAK0NI08cXBbxeb6TA7saMP5S-31373030353330373738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20231121\/6cmI698vAK0NI08cXBbxeb6TA7saMP5S-31373030353330373738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Kupas dan potong potong kentang, lalu cuci bersih.",
+                "image_url": "content-images\/images\/20231121\/QVGP9lnBO7mRyfRuzz8UyoHaQaSRNF8x-31373030353330373939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20231121\/QVGP9lnBO7mRyfRuzz8UyoHaQaSRNF8x-31373030353330373939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Campurkan kelapa parut dengan gula aren dan garam didalam wadah.",
+                "image_url": "content-images\/images\/20231121\/8YIsTR53mUlRyWEPBecXJQQVGBY6Xtdy-31373030353330383331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20231121\/8YIsTR53mUlRyWEPBecXJQQVGBY6Xtdy-31373030353330383331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Kukus labu, kentang dan kelapa parut hingga matang, kurang lebih selama 20 menit.",
+                "image_url": "content-images\/images\/20231121\/hJiX1fqa8qcBNZsdPphbshwAkKQiX3Ew-31373030353330383631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20231121\/hJiX1fqa8qcBNZsdPphbshwAkKQiX3Ew-31373030353330383631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Setelah  matang, keluarkan dari kukusan. Aduk aduk kelapa parut agar tercampur rata dengan gula aren dan garam.",
+                "image_url": "content-images\/images\/20231121\/27qvHoTj3aVt6PFELpvEKMlPhBMsIdVW-31373030353330393137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20231121\/27qvHoTj3aVt6PFELpvEKMlPhBMsIdVW-31373030353330393137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Campurkan ke dalam wadah, labu, kentang dan kelapa parut. Aduk merata.",
+                "image_url": "content-images\/images\/20231121\/0r1jJT8nYTsthcTqXtjaqCmxxAcEXb6s-31373030353331303035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20231121\/0r1jJT8nYTsthcTqXtjaqCmxxAcEXb6s-31373030353331303035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Pindahkan ke piring saji dan makanan siap untuk disajikan.",
+                "image_url": "content-images\/images\/20231121\/FQg1ER9h0jIkuPe1a229TDORwhLBnt9N-31373030353331303532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20231121\/FQg1ER9h0jIkuPe1a229TDORwhLBnt9N-31373030353331303532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "PnKlJFJzpnyBiz5TatWYnw==",
+                "name": "Makanan Diet",
+                "slug": "makanan-diet"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "cR2C8zI6gmX_XXrAs_OXuw==",
+                "name": "Kelapa",
+                "slug": "kelapa"
+            },
+            {
+                "id": "RkAHZYbrL58-78Y_ZBXAcw==",
+                "name": "Kentang",
+                "slug": "kentang"
+            },
+            {
+                "id": "iKabIbXBJLKI6NuHXAqmyw==",
+                "name": "Labu",
+                "slug": "labu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "CELuipp8gHTkPvKz7LMGvA==",
+            "uuid": "abf5fadd-4884-48d2-a377-ab934a3736f6",
+            "username": "wulandari-163",
+            "name": "Wulandari",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "800 gram labu kuning",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 buah kentang ukuran sedang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gram kelapa parut",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gram gula aren bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sejumput garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "3udf6bVjPuvdNNLAi1ZU9A==",
+        "title": "Strawberry Milk Crumble",
+        "slug": "strawberry-milk-crumble-3",
+        "cover_url": "content-images\/images\/20250429\/9Uhp8oMdL7ZiLNbKxS4EX9Yykdj02UGA-31373435393135393436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250429\/9Uhp8oMdL7ZiLNbKxS4EX9Yykdj02UGA-31373435393135393436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Hari yg panas,cocok banget kalo bikin minuman segar.\r\nDan ini resep minuman simple yg sy recook dari chef Yummy\ud83d\ude0d",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1745983440,
+        "updated_date": 1745983510,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 4,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250429\/9Uhp8oMdL7ZiLNbKxS4EX9Yykdj02UGA-31373435393135393436d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/v5pRtd4mc7PJ2ajH7",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan biskuit kedalam mangkuk,lalu hancurkan",
+                "image_url": "content-images\/images\/20250429\/8MFYi7SOVFXy5JhARepU6lQRwvN5fbuv-31373435393136303339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/8MFYi7SOVFXy5JhARepU6lQRwvN5fbuv-31373435393136303339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan selai stawberry & biskuit kedalam gelas",
+                "image_url": "content-images\/images\/20250429\/wBRkepGzLWnHkeBxps1KNQfN75dhzhDC-31373435393136303631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/wBRkepGzLWnHkeBxps1KNQfN75dhzhDC-31373435393136303631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan juga es batu",
+                "image_url": "content-images\/images\/20250429\/0WFLObS3c0UWLSYSxWOmYFVCfRgTUlqk-31373435393136303931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/0WFLObS3c0UWLSYSxWOmYFVCfRgTUlqk-31373435393136303931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tuang susu cair",
+                "image_url": "content-images\/images\/20250429\/hVdkjlRYTB2X9OVpB9HA0K0sMxbjy6rC-31373435393136313130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/hVdkjlRYTB2X9OVpB9HA0K0sMxbjy6rC-31373435393136313130d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Beri topping remahan biskuit,sajikan",
+                "image_url": "content-images\/images\/20250429\/kgz0Fcp4pGtXGbc3B5J9RMXhjzgGOCPk-31373435393136313235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250429\/kgz0Fcp4pGtXGbc3B5J9RMXhjzgGOCPk-31373435393136313235d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Es Batu",
+                "slug": "es-batu"
+            },
+            {
+                "id": "K1oEh7lTvTgrV0j6QfiU6g==",
+                "name": "Strawberry",
+                "slug": "strawberry"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "q05We58EjSd28UZ5h9dPxQ==",
+            "uuid": "961b4f94-21a8-421b-b300-810fe164531b",
+            "username": "dapurtehnia",
+            "name": "dapurtehnia",
+            "avatar": "content-images\/images\/20231123\/65d4ced118e9c6a362cb8ac159e741d6.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "6 keping biskuit",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1-2 sdm selai strawberry",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 ml susu cair segar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "secukupnya es batu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "sP4Dt1kZQnmVwJCKBE_2DQ==",
+        "title": "Butterfly Tea Lychee Yak*lt",
+        "slug": "butterfly-tea-lychee-yaklt",
+        "cover_url": "content-images\/images\/20250420\/f93e4310ae03dfa8c1211d449bcbc5e0.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250420\/f93e4310ae03dfa8c1211d449bcbc5e0.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 5,
+        "video_url": "content-videos\/video\/20250420\/246d8862a490b2cc8efdc0c8eb53c9a0.mp4",
+        "price": 20000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 10,
+        "serving_min": 1,
+        "serving_max": 1,
+        "release_date": 1745157600,
+        "updated_date": 1745984407,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 5,
+        "is_video": true,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 7,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 3,
+        "recook_count": 1,
+        "original_image": "content-images\/images\/20250420\/f93e4310ae03dfa8c1211d449bcbc5e0.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/akDoaKHgkfouiYrs7",
+        "category": {
+            "name": "Minuman",
+            "slug": "minuman"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Seduh bunga telang dengan air hangat hingga air berubah menjadi biru",
+                "image_url": "content-images\/images\/20250420\/0608b937586e5d935c9f65b8642519d1.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/0608b937586e5d935c9f65b8642519d1.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukan madu, nata de coco, es batu, leci",
+                "image_url": "content-images\/images\/20250420\/57aea6967bad75bf7c93299c71a5530b.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/57aea6967bad75bf7c93299c71a5530b.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "tuang yak*lt dan air bunga telang",
+                "image_url": "content-images\/images\/20250420\/fdda86f62b3782fabfe76e5ae0ac89d8.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/fdda86f62b3782fabfe76e5ae0ac89d8.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Sajikan.",
+                "image_url": "content-images\/images\/20250420\/af319f07d8a1eb8673dd52eee5d47fd4.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/af319f07d8a1eb8673dd52eee5d47fd4.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tjLwUn7mCQfa7d86yvsq3g==",
+                "name": "Minuman",
+                "slug": "minuman"
+            },
+            {
+                "id": "2N9oVvOk4OzagTsGqrnxxw==",
+                "name": "minuman dingin",
+                "slug": "minuman-dingin"
+            },
+            {
+                "id": "YPx--EuJ-arwzS7GnZ0-Bg==",
+                "name": "minuman segar",
+                "slug": "minuman-segar"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Es Batu",
+                "slug": "es-batu"
+            },
+            {
+                "id": "Y0xqTW-xWr6CGT1R3xuZcA==",
+                "name": "Madu",
+                "slug": "madu"
+            },
+            {
+                "id": "8eP8fZPm0I1wifSZ8cLi4Q==",
+                "name": "Nata de Coco",
+                "slug": "nata-de-coco"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "040a8a10-07c2-4d05-9319-773e5e16c23c",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images\/images\/20221116\/yummy-official.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "10 bh bunga telang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150ml air panas",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30ml madu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30g nata de coco",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 bh leci",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 btl yak*lt",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Es batu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [
+            {
+                "random_key": "EEIzuQT0StrTvrCEPJ2ZjBIeBKTWTNsL",
+                "created_at": 1745984787,
+                "image_url": "content-images\/images\/20250430\/khql6kddsOoLnW7Az7Xp7yE5uC8sVV4C-31373436303039373634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak Banget",
+                "description": "Pertama kali mencoba butterfly tea lyche ini, langsung suka dengan rasanya yang segar sekaligus sehat, terutama suka dengan warnanya ungu nya yang cantik. Trimakasih inspirasi resepnya yang luar biasa chef ",
+                "is_liked": false,
+                "like_count": 4,
+                "author": {
+                    "id": "zu9EhO6hh-77-mFHosyKkA==",
+                    "username": "widiarief",
+                    "name": "Wid's Kitchen",
+                    "avatar": "content-images\/images\/20231123\/e64975367da3238217572b84a3c4ec11.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Butterfly Tea Lychee Yak*lt",
+                    "slug": "butterfly-tea-lychee-yaklt",
+                    "is_editorial": true,
+                    "premium_content": false
+                }
+            }
+        ],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

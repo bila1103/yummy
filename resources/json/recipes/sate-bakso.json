@@ -1,0 +1,230 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "ffmefQ6jtIG2K0-jSX9QIA==",
+        "title": "Bakso Bakar Siram Saus Lada Hitam",
+        "slug": "sate-bakso",
+        "cover_url": "content-images\/images\/20250307\/XxlZil532FNXVfj5f7TjkoX94N4p7ceN-31373431333436333537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250307\/XxlZil532FNXVfj5f7TjkoX94N4p7ceN-31373431333436333537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Bisa dijadikan sebagai camilan atau dimakan bersama dengan nasi putih.",
+        "rating": 5,
+        "video_url": "",
+        "price": 20000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 50,
+        "serving_min": 1,
+        "serving_max": 6,
+        "release_date": 1745250300,
+        "updated_date": 1745250801,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250307\/XxlZil532FNXVfj5f7TjkoX94N4p7ceN-31373431333436333537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/hreV9oGeoGyWJbz49",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Tusuk bakso sapi menjadi tiga bagian dengan tusukan sate.",
+                "image_url": "content-images\/images\/20250308\/Nk7W1XwlUtdxMnDktIYQ9Zwc2GFIbQTj-31373431343230333330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250308\/Nk7W1XwlUtdxMnDktIYQ9Zwc2GFIbQTj-31373431343230333330d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan margarin dan saus bbq.",
+                "image_url": "content-images\/images\/20250308\/EsV1REpqNQCoC0jZriiuPpX6cHJ1HwOP-31373431343230343030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250308\/EsV1REpqNQCoC0jZriiuPpX6cHJ1HwOP-31373431343230343030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan kaldu bubuk instan, merica bubuk dan bawang putih bubuk, lalu aduk rata.",
+                "image_url": "content-images\/images\/20250308\/sfnffVp3nRMDyYmsvvVWCyCSn0yBb9o8-31373431343230343039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250308\/sfnffVp3nRMDyYmsvvVWCyCSn0yBb9o8-31373431343230343039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan kecap manis, kemudian aduk rata lagi.",
+                "image_url": "content-images\/images\/20250308\/WhiQwcYCT3eiCkZE6OoWOtIyU742in9D-31373431343230343537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250308\/WhiQwcYCT3eiCkZE6OoWOtIyU742in9D-31373431343230343537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Olesi bakso dengan campuran saus hingga rata.",
+                "image_url": "content-images\/images\/20250308\/N8ySGCH3mK2WYcXEgdbWvs98TtwuBGxd-31373431343230353434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250308\/N8ySGCH3mK2WYcXEgdbWvs98TtwuBGxd-31373431343230353434d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Bakar bakso sapi di panggangan hingga mencoklat dan matang.",
+                "image_url": "content-images\/images\/20250308\/ZhisTnKSC5iOYpLARsv9RJcoMfb0PYdx-31373431343230353838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250308\/ZhisTnKSC5iOYpLARsv9RJcoMfb0PYdx-31373431343230353838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Sajikan bakso bakar di atas piring, lalu siram dengan saus lada hitam.",
+                "image_url": "content-images\/images\/20250308\/MAxxCx72naQGqdQmNvGYa6Gu1cVQKGSi-31373431343230363232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250308\/MAxxCx72naQGqdQmNvGYa6Gu1cVQKGSi-31373431343230363232d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "_UN5dYx-1LL1Qtq8-Ux9xg==",
+                "name": "Bakso",
+                "slug": "bakso"
+            },
+            {
+                "id": "zz7VvQtuZ_entrgdutA7dQ==",
+                "name": "Kecap Manis",
+                "slug": "kecap-manis"
+            },
+            {
+                "id": "H2a3gG-NMO2vqBnbonsTyA==",
+                "name": "Margarin",
+                "slug": "margarin"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "EPAHm8eSurvJvDMfHRfYyA==",
+            "uuid": "c6b360d3-437b-4662-a2f2-dc955b04da39",
+            "username": "vindi-fitriana",
+            "name": "Vindi Fitriana",
+            "avatar": "content-images\/images\/20230520\/1Sx5LNJS7hokKB9yN6JVcM4XyErCUsq7-31363834353835333039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "18 butir bakso sapi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm margarin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 sdm saus bbq",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdm merica bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdm bawang putih bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm kecap manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm saus lada hitam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

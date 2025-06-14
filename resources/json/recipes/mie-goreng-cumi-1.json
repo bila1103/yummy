@@ -1,0 +1,222 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "53gSdLMUqlhI4RS2m0UCxg==",
+        "title": "Mie Goreng Cumi",
+        "slug": "mie-goreng-cumi-1",
+        "cover_url": "content-images\/images\/20250420\/Fw4aJpUjwQ2tjDOQpMXtbfw84OacJVq8-31373435313335313935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250420\/Fw4aJpUjwQ2tjDOQpMXtbfw84OacJVq8-31373435313335313935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Agak amis dikit tapi enakk ....\r\nFirst time!",
+        "rating": 5,
+        "video_url": "",
+        "price": 30000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 8,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1747143600,
+        "updated_date": 1747135070,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 6,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250420\/Fw4aJpUjwQ2tjDOQpMXtbfw84OacJVq8-31373435313335313935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/cdm4b5fxaUvvKu1XA",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Campurkan tumis cumi  dengan air, biarkan mendidih.",
+                "image_url": "content-images\/images\/20250420\/FXdsZbBGXVJiRypaSXVhlBoDin7bbIWv-31373435313335343037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/FXdsZbBGXVJiRypaSXVhlBoDin7bbIWv-31373435313335343037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Potong serong sosis.",
+                "image_url": "content-images\/images\/20250420\/2FJXgWeA5HGXPXlWeJXpW04eO2q6LmrY-31373435313335343132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/2FJXgWeA5HGXPXlWeJXpW04eO2q6LmrY-31373435313335343132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan mie dan sosis.",
+                "image_url": "content-images\/images\/20250420\/xq985NX0BT7BD32LLLgkQiLFDXhIMcoz-31373435313335343230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/xq985NX0BT7BD32LLLgkQiLFDXhIMcoz-31373435313335343230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Ceplok telor.",
+                "image_url": "content-images\/images\/20250420\/fkCOPajn6CmD1yWQJJqCyRLSDAUYYuPJ-31373435313335343239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/fkCOPajn6CmD1yWQJJqCyRLSDAUYYuPJ-31373435313335343239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan bumbu mie. Aduk rata, taburi wijen dan siap dinikmati!",
+                "image_url": "content-images\/images\/20250420\/teycJAPIuDrDMVi8gXcHDYnAMuPS3qrh-31373435313335343338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/teycJAPIuDrDMVi8gXcHDYnAMuPS3qrh-31373435313335343338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "JvWJ98eZ0W4_HB-9GTjzqA==",
+                "name": "seafood",
+                "slug": "seafood"
+            },
+            {
+                "id": "uqJHyhAGNlLAhSL3ZYHumw==",
+                "name": "Makanan Pendamping",
+                "slug": "makanan-pendamping"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "1kwJETj5xb3Xz1-yXUbdQw==",
+                "name": "Cumi",
+                "slug": "cumi"
+            },
+            {
+                "id": "dvJeivPNZ9ky2GKQO6FguQ==",
+                "name": "Mie",
+                "slug": "mie"
+            },
+            {
+                "id": "b6TOD1PW8sdLR97DXHhPuw==",
+                "name": "Sosis",
+                "slug": "sosis"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "AwQyebM5piRhty_-sRmF6Q==",
+            "uuid": "9dc3c941-f237-4914-8f70-d0795b3cbda1",
+            "username": "akuzayyy",
+            "name": "Zainab",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "60 gr tumis cumi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 bungkus mie instan bayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 pcs sosis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300-400 ml air (sesuaikan)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Wijen secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

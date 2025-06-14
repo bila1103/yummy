@@ -1,0 +1,244 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "G8DFE-BWbW3cFBCBKwflVg==",
+        "title": "Sop Buah Creamy",
+        "slug": "sop-buah-creamy-1",
+        "cover_url": "content-images\/images\/20250502\/Iastl780jjHBDgoQQoaw8cVFy6fIZskv-31373436313938323336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250502\/Iastl780jjHBDgoQQoaw8cVFy6fIZskv-31373436313938323336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Minum kuahnya doang aja enakkk bangett. Yuk, buat pake buah seadanya!",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 5,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1747144680,
+        "updated_date": 1747160176,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 5,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 7,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250502\/Iastl780jjHBDgoQQoaw8cVFy6fIZskv-31373436313938323336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/9JoHZbfbAB7gB9pU9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Potong-potong semangka.",
+                "image_url": "content-images\/images\/20250502\/aQ3C6nJnaIiVUUZlXgVElDLLyazcUzLD-31373436313938343934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/aQ3C6nJnaIiVUUZlXgVElDLLyazcUzLD-31373436313938343934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Potong dadu melon.",
+                "image_url": "content-images\/images\/20250502\/f36BcvdXjKrZD9V9j5dCkhduQh21jsqD-31373436313938353038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/f36BcvdXjKrZD9V9j5dCkhduQh21jsqD-31373436313938353038d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Buang biji sawo, lalu potong-potong.",
+                "image_url": "content-images\/images\/20250502\/L0XCAYMrDDSBHHXWUqLz0df7uoNKZGjM-31373436313938353237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/L0XCAYMrDDSBHHXWUqLz0df7uoNKZGjM-31373436313938353237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Bersihkan jambu, lalu potong kecil-kecil.",
+                "image_url": "content-images\/images\/20250502\/pqGwCIgOvpDCIwIGDGMc1z8mUwlJiVBk-31373436313938353631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/pqGwCIgOvpDCIwIGDGMc1z8mUwlJiVBk-31373436313938353631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Campurkan sirup dengan madu.",
+                "image_url": "content-images\/images\/20250502\/5KTOisMb0Os4Jh3iyqi92ezwYvGr1Duo-31373436313938353830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/5KTOisMb0Os4Jh3iyqi92ezwYvGr1Duo-31373436313938353830d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tambahkan susu, aduk lalu tuang ke potongan buah.",
+                "image_url": "content-images\/images\/20250502\/gzmftSEDULCL5xXCtxnnsgqcsiW3I1UN-31373436313938353931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250502\/gzmftSEDULCL5xXCtxnnsgqcsiW3I1UN-31373436313938353931d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "tjLwUn7mCQfa7d86yvsq3g==",
+                "name": "Minuman",
+                "slug": "minuman"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "2N9oVvOk4OzagTsGqrnxxw==",
+                "name": "minuman dingin",
+                "slug": "minuman-dingin"
+            },
+            {
+                "id": "YPx--EuJ-arwzS7GnZ0-Bg==",
+                "name": "minuman segar",
+                "slug": "minuman-segar"
+            },
+            {
+                "id": "cOYnmjKVWjvISzgTJ9eSyw==",
+                "name": "Makanan Pencuci Mulut",
+                "slug": "makanan-pencuci-mulut"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "blYm8NVgAgEKnI8lhkRjYQ==",
+                "name": "Melon",
+                "slug": "melon"
+            },
+            {
+                "id": "6qK-E8lNqoulvLqkWM4n1w==",
+                "name": "Semangka",
+                "slug": "semangka"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "AwQyebM5piRhty_-sRmF6Q==",
+            "uuid": "9dc3c941-f237-4914-8f70-d0795b3cbda1",
+            "username": "akuzayyy",
+            "name": "Zainab",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "95 gr semangka siap makan (dingin)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "75 gr melon siap makan (dingin)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr sawo matang (\u00bd buah)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr jambu air darsono",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm sirup cocopandan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm madu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 ml susu UHT dingin",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

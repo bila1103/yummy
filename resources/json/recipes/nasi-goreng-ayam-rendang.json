@@ -1,0 +1,204 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "P4rKiTOrrZPZDs6-N-oMTw==",
+        "title": "Nasi Goreng Ayam Rendang",
+        "slug": "nasi-goreng-ayam-rendang",
+        "cover_url": "content-images\/images\/20250206\/ugCmFNthKBdzp29fxN8Lwjppo4cd9u7N-31373338383336323832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250206\/ugCmFNthKBdzp29fxN8Lwjppo4cd9u7N-31373338383336323832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Meski menggunakan bumbu instan dalam proses pembuatan nasi goreng ini, tetapi rasa akan kaya rempah terasa dalam sajian makanan ini.",
+        "rating": 5,
+        "video_url": "",
+        "price": 12000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 13,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1746720300,
+        "updated_date": 1746720419,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 6,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250206\/ugCmFNthKBdzp29fxN8Lwjppo4cd9u7N-31373338383336323832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/5SjfbZi2FTUrsTaW9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Cincang kasar ayam, lalu iris-iris cabai rawit.",
+                "image_url": "content-images\/images\/20250213\/6MqNMua7bup5YN239Xccmv71Bc7H8lxo-31373339343132313930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250213\/6MqNMua7bup5YN239Xccmv71Bc7H8lxo-31373339343132313930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan ayam dan cabe rawit.",
+                "image_url": "content-images\/images\/20250213\/RJCGsXxKwMhV3ppSAUIL2nojy92ivdtx-31373339343132323138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250213\/RJCGsXxKwMhV3ppSAUIL2nojy92ivdtx-31373339343132323138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan telur ayam dan orak-arik sampai matang.",
+                "image_url": "content-images\/images\/20250213\/BHqBTdKMszIYi7ZsmH0kdhWQFzXlFqeV-31373339343132323335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250213\/BHqBTdKMszIYi7ZsmH0kdhWQFzXlFqeV-31373339343132323335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan bumbu rendang instan, lalu aduk rata.",
+                "image_url": "content-images\/images\/20250213\/nggy4GnX520elHZHL7T0GLHPRYCQ0XYx-31373339343132323536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250213\/nggy4GnX520elHZHL7T0GLHPRYCQ0XYx-31373339343132323536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Masukkan nasi putih, aduk rata.",
+                "image_url": "content-images\/images\/20250213\/ZMIRl1Dz5w5rGVsvpNEUXm2J9EqPxQ4O-31373339343132323735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250213\/ZMIRl1Dz5w5rGVsvpNEUXm2J9EqPxQ4O-31373339343132323735d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Tambahkan kaldu bubuk instan dan koreksi rasa, kemudian masak sampai matang.",
+                "image_url": "content-images\/images\/20250213\/Pa0tJjZD8ubdz257wIhHyRvSzdvGpstz-31373339343132323933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250213\/Pa0tJjZD8ubdz257wIhHyRvSzdvGpstz-31373339343132323933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "vggey1PfDOriqBpZA7_LRw==",
+                "name": "Nasi",
+                "slug": "nasi"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "EPAHm8eSurvJvDMfHRfYyA==",
+            "uuid": "c6b360d3-437b-4662-a2f2-dc955b04da39",
+            "username": "vindi-fitriana",
+            "name": "Vindi Fitriana",
+            "avatar": "content-images\/images\/20230520\/1Sx5LNJS7hokKB9yN6JVcM4XyErCUsq7-31363834353835333039d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 piring nasi putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 bungkus bumbu rendang instan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 g ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 buah cabai rawit",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm kaldu bubuk instan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

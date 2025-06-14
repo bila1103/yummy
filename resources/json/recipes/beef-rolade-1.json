@@ -1,0 +1,278 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "vQSoQvDmthxqjP8DesLIeQ==",
+        "title": "Beef Rolade",
+        "slug": "beef-rolade-1",
+        "cover_url": "content-images\/images\/20250430\/9bU6YJsuXpbvApvexobK0JggmAILThZr-31373435393939393135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250430\/9bU6YJsuXpbvApvexobK0JggmAILThZr-31373435393939393135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Resep ini enak banget, gurih dan dagingnya berasa banget, cocok untuk bekal, atau makan hari-hari..",
+        "rating": 5,
+        "video_url": "",
+        "price": 60000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 45,
+        "serving_min": 5,
+        "serving_max": 10,
+        "release_date": 1747629540,
+        "updated_date": 1747629639,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 9,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250430\/9bU6YJsuXpbvApvexobK0JggmAILThZr-31373435393939393135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/h3JLgxctxYnqVdSF8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Haluskan daging sapi beri daun bawang dan seledri",
+                "image_url": "content-images\/images\/20250430\/mQ9GB5EOHqAn3EwoTZdjT5E3ALmKhL3s-31373436303031323535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/mQ9GB5EOHqAn3EwoTZdjT5E3ALmKhL3s-31373436303031323535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Tambahkan wortel yang sudah potong kecil dan diiris tipis, aduk rata",
+                "image_url": "content-images\/images\/20250430\/0zbjELKSlS0QVnDDNgn08qisEPjG0cWu-31373436303031323936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/0zbjELKSlS0QVnDDNgn08qisEPjG0cWu-31373436303031323936d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "masukan kaldu bubuk dan lada bubuk, aduk hingga rata.",
+                "image_url": "content-images\/images\/20250430\/fjHNOGBDTighk80PLeU6F7nfTE3Cdbic-31373436303031333136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/fjHNOGBDTighk80PLeU6F7nfTE3Cdbic-31373436303031333136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukan satu butir telur aduk rata.",
+                "image_url": "content-images\/images\/20250430\/A1YznizxZeMaLMvbOihvBcqfbvGjkTJ9-31373436303031333633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/A1YznizxZeMaLMvbOihvBcqfbvGjkTJ9-31373436303031333633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tambahkan 3 sdm tepung serbaguna aduk rata lagi",
+                "image_url": "content-images\/images\/20250430\/jmlPix7AGWaye87foAkhks3Eq8XMkmF2-31373436303031333836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/jmlPix7AGWaye87foAkhks3Eq8XMkmF2-31373436303031333836d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Untuk kulit bisa buat sekaligus dengan 4 telur atau sebagian masukan 2 telur kocok lepas",
+                "image_url": "content-images\/images\/20250430\/biKW7zvFCAfKGXw0ts1WaLE1q55fIHOV-31373436303031343032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/biKW7zvFCAfKGXw0ts1WaLE1q55fIHOV-31373436303031343032d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Masukan 1 sdm tepung serbaguna kocok lepas",
+                "image_url": "content-images\/images\/20250430\/BeoZ9IzpKiVd8hyYrILenrzMF76vA2Nh-31373436303031343336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/BeoZ9IzpKiVd8hyYrILenrzMF76vA2Nh-31373436303031343336d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Buat dadar telur di teplon yang sudah dipanaskan di olesi minyak wijen, goyangkan wajan agar bulat sempurna",
+                "image_url": "content-images\/images\/20250430\/QBsEOFS3kdT7MfGv3dXTzxxkXf6KYmvP-31373436303031303236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/QBsEOFS3kdT7MfGv3dXTzxxkXf6KYmvP-31373436303031303236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Ratakan daging diatas telur dadar dan gulung, kemudian bungkus dengan Alumunium Foil",
+                "image_url": "content-images\/images\/20250430\/FFq4A9oZL46AuqqcuPN9RsUB5w4Gx7Ue-31373436303031343731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/FFq4A9oZL46AuqqcuPN9RsUB5w4Gx7Ue-31373436303031343731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 10",
+                "text": "Kemudian kukus 30 menit, potong rolade setelah dingin.",
+                "image_url": "content-images\/images\/20250430\/sV7qX18RQGy04uLNIn6fz3yKSVfbRhLf-31373436303031353839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 10,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250430\/sV7qX18RQGy04uLNIn6fz3yKSVfbRhLf-31373436303031353839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "Jc3z7OQqbXF-iBXoiQkBZQ==",
+                "name": "yummy tips",
+                "slug": "yummy-tips"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "gNrR88sMxkuEF_74rCiJ1g==",
+                "name": "Daging Sapi",
+                "slug": "daging-sapi"
+            },
+            {
+                "id": "OTrclgVOZxmXTlsXf-ffYw==",
+                "name": "Daun Bawang",
+                "slug": "daun-bawang"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "J0FWT5eIWbjRzIER4zNHxw==",
+                "name": "Wortel",
+                "slug": "wortel"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "wR-sd25mL7Dz0ahkKe5VSw==",
+            "uuid": "b0920a36-5513-4e01-af52-a8970255dc5f",
+            "username": "asti-selfianie",
+            "name": "Asti selfiani",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "300 gr Daging Sapi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah wortel",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "8.5 gr kaldu bubuk rasa sapi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt lada bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "70 gr tepung Bumbu serbaguna",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang seledri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 batang bawang daun",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Minyak wijen secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "q8m8mojg9S9wrujKWCB-cA==",
+        "title": "Itali Sausage Spaghetti",
+        "slug": "itali-sausage-spaghetti",
+        "cover_url": "content-images\/images\/20250317\/NWoIjghnrHFOeO6jUKnzAth1c3IA5Q5G-31373432323130363535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250317\/NWoIjghnrHFOeO6jUKnzAth1c3IA5Q5G-31373432323130363535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Saat liburan ke Itali aku penasaran bagaimana cara membuat pasta yang enak. Pulang dari liburan aku langsung mempraktekkan resep yang di kasi oleh kenalan ku di itali",
+        "rating": 5,
+        "video_url": "",
+        "price": 43000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 18,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1744805760,
+        "updated_date": 1744806251,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 6,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250317\/NWoIjghnrHFOeO6jUKnzAth1c3IA5Q5G-31373432323130363535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/Y6WwVn6xSf37oLpE6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Rebus 100 gr spaghetti dalam air mendidih selama 5 menit hingga al dente. Angkat, tiriskan, dan sisihkan",
+                "image_url": "content-images\/images\/20250317\/warSkamz0RH4yd4vwJmULQ0vr66vz7kr-31373432323130373237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250317\/warSkamz0RH4yd4vwJmULQ0vr66vz7kr-31373432323130373237d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Panaskan 15 ml minyak goreng di wajan, lalu tumis 150 gr sosis iris hingga kecokelatan",
+                "image_url": "content-images\/images\/20250317\/1o79lQ5xM3cOcJ5K6TYYioeeZ36gJxqQ-31373432323130363932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250317\/1o79lQ5xM3cOcJ5K6TYYioeeZ36gJxqQ-31373432323130363932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan 50 gr bawang merah cincang dan 100 gr tomat ceri, aduk hingga layu dan mengeluarkan jus. Masukkan 200 ml saus daging, aduk rata, dan masak selama 3 menit agar bumbu meresap",
+                "image_url": "content-images\/images\/20250317\/8aGFdrtJ8kDJNduI5XK1EvV7KtRHWCcS-31373432323130373035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250317\/8aGFdrtJ8kDJNduI5XK1EvV7KtRHWCcS-31373432323130373035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan 100 gr spaghetti yang telah direbus, aduk hingga saus meresap dan air menyusut",
+                "image_url": "content-images\/images\/20250317\/aJLqoCIEoBck7wjLTzP69E3sWDkBTGHP-31373432323130373136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250317\/aJLqoCIEoBck7wjLTzP69E3sWDkBTGHP-31373432323130373136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Taruh di piring dan taburi dengan 5 gr keju parmesan",
+                "image_url": "content-images\/images\/20250317\/6RbGlUftrvUMEAUEwh71YKdMS2b1DzEK-31373432323130373339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250317\/6RbGlUftrvUMEAUEwh71YKdMS2b1DzEK-31373432323130373339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "b6TOD1PW8sdLR97DXHhPuw==",
+                "name": "Sosis",
+                "slug": "sosis"
+            },
+            {
+                "id": "quL54ZBIqIsURale3UvUtg==",
+                "name": "Spaghetti",
+                "slug": "spaghetti"
+            },
+            {
+                "id": "0mFpKKHkQARg6xI2agSxcQ==",
+                "name": "Tomat",
+                "slug": "tomat"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "mk_ImYSDxlJ_CZWvK1DuNg==",
+            "uuid": "ad073a81-420b-4504-a212-bfd12fff62ea",
+            "username": "violeta",
+            "name": "Violeta",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "100 gr spaghetti",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 gr sosis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr tomat ceri",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr bawang merah cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 ml saus daging",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 gr keju parmesan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

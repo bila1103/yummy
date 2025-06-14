@@ -1,0 +1,225 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "8p75llYJdpbDun8F5cciNQ==",
+        "title": "Sushi Abon Ayam",
+        "slug": "sushi-abon-ayam",
+        "cover_url": "content-images\/images\/20250515\/7VHPzDg1MEWPwakQawpGI4XOCHSt91vv-31373437323638333030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250515\/7VHPzDg1MEWPwakQawpGI4XOCHSt91vv-31373437323638333030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Sushi rumahan isi sayur segar, ham, telur, dan abon ayam. Disiram mayo dan saus lalu digulung rapi, hasilnya cantik dan enak banget buat bekal atau camilan!",
+        "rating": 5,
+        "video_url": "",
+        "price": 20000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1747286040,
+        "updated_date": 1747286165,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 8,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250515\/7VHPzDg1MEWPwakQawpGI4XOCHSt91vv-31373437323638333030d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/x7o6wavLhu7anGZc6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Wortel dan ham diiris tipis panjang seperti stik. Lalu masak dengan sedikit minyak hingga kecokelatan. Iris panjang timun (buang isinya). Kocok telur dan dibuat dadar tipis, iris memanjang.",
+                "image_url": "content-images\/images\/20250515\/yz4GiQfj2GoZtP0T1IXhtN1NUSBsDwti-31373437323631343333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/yz4GiQfj2GoZtP0T1IXhtN1NUSBsDwti-31373437323631343333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Letakkan nori di atas alat gulung (makisu). Ratakan nasi di atas nori, sisakan 1 cm bagian atas nori agar mudah menutup.",
+                "image_url": "content-images\/images\/20250515\/Au5Jesgs87QYQKsOs5GsOFtwXGGpBNEi-31373437323638353438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/Au5Jesgs87QYQKsOs5GsOFtwXGGpBNEi-31373437323638353438d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tata wortel, timun, ham, dan telur dadar. Tambahkan mayo dan saus lalu taburkan abon ayam diatasnya.",
+                "image_url": "content-images\/images\/20250515\/uoBUj25KcyyfTl39DfN5KXDHPvQ9yIkX-31373437323638333332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/uoBUj25KcyyfTl39DfN5KXDHPvQ9yIkX-31373437323638333332d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Gulung perlahan sambil ditekan rapat pakai alat gulung. Rekatkan ujungnya dengan sedikit air jika perlu.",
+                "image_url": "content-images\/images\/20250515\/bL3OUESmRmODTFzMSKQdfOGgzLlrUdEd-31373437323638333430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/bL3OUESmRmODTFzMSKQdfOGgzLlrUdEd-31373437323638333430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Basahi pisau, potong gulungan jadi beberapa bagian. Sajikan dingin atau suhu ruang.",
+                "image_url": "content-images\/images\/20250515\/nVtnXK3jfYo2M510QMO5TGCZ6VdPdV3d-31373437323638333537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250515\/nVtnXK3jfYo2M510QMO5TGCZ6VdPdV3d-31373437323638333537d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "29fKVyfCA5GKvNC6KRVBfQ==",
+                "name": "Mayonaise",
+                "slug": "mayonaise"
+            },
+            {
+                "id": "MXkIeGcxy7zj8sCBOII3bQ==",
+                "name": "Rumput Laut",
+                "slug": "rumput-laut"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "8QB4H2PPV8vX4ok3y-Q7Fg==",
+            "uuid": "ff2bff71-d392-43c2-8bed-70eea30898c5",
+            "username": "mamytwins",
+            "name": "iwin",
+            "avatar": "content-images\/images\/20210729\/q9WtkwnkknbPZJOqqhZrtjCWnrd8Ra5K-31363237353339313633d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 lembar nori (rumput laut)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 mangkuk nasi hangat (boleh nasi biasa, tapi lebih pulen lebih baik)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah wortel, iris panjang tipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 lembar ham (bisa diganti sosis pipih), iris panjang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 butir telur, buat dadar pipih, iris panjang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm mayones",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm saus sambal\/manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm abon ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

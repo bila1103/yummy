@@ -1,0 +1,213 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "u-ILaxExtwk9Z8a7DLU_tA==",
+        "title": "Mojito Bunga Telang",
+        "slug": "mojito-telang-1",
+        "cover_url": "content-images\/images\/20250304\/D2kS831ypafl5Yq6PFA2mfEdHnMXnoXY-31373431303632323432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250304\/D2kS831ypafl5Yq6PFA2mfEdHnMXnoXY-31373431303632323432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Segar banget, yuk kepoin resepnya!",
+        "rating": 5,
+        "video_url": "",
+        "price": 5000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 5,
+        "serving_min": 1,
+        "serving_max": 1,
+        "release_date": 1745227140,
+        "updated_date": 1745227380,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 5,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250304\/D2kS831ypafl5Yq6PFA2mfEdHnMXnoXY-31373431303632323432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/o7RNgbWfrdPP2s5r5",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Seduh selasih dengan air panas. Kemudian, sisihkan.",
+                "image_url": "content-images\/images\/20250304\/igucKdZBIv46z0mHyr3QiM5v47juXQLM-31373431303632333932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250304\/igucKdZBIv46z0mHyr3QiM5v47juXQLM-31373431303632333932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Siapkan gelas saji, tuang sirup bunga telang.",
+                "image_url": "content-images\/images\/20250304\/GDrkRVzhQxqPpTA2jerTEVv5dNWXW2hq-31373431303632343132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250304\/GDrkRVzhQxqPpTA2jerTEVv5dNWXW2hq-31373431303632343132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan es batu.",
+                "image_url": "content-images\/images\/20250304\/XuHno8D9DjEonAuh5IhDOzpd855IgegG-31373431303632343236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250304\/XuHno8D9DjEonAuh5IhDOzpd855IgegG-31373431303632343236d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tuang soda hingga memenuhi gelas.",
+                "image_url": "content-images\/images\/20250304\/czdJJIHfawk9DpnQ2UorDHs8yvbUpHa0-31373431303632343339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250304\/czdJJIHfawk9DpnQ2UorDHs8yvbUpHa0-31373431303632343339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Beri selasih dan sajikan!",
+                "image_url": "content-images\/images\/20250304\/wqqLWx0ivzOtW0ZL8H0MasxGXIZaB6fM-31373431303632343731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250304\/wqqLWx0ivzOtW0ZL8H0MasxGXIZaB6fM-31373431303632343731d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "tjLwUn7mCQfa7d86yvsq3g==",
+                "name": "Minuman",
+                "slug": "minuman"
+            },
+            {
+                "id": "y9T-wVelsE-udDnmMvwzFg==",
+                "name": "Menu Takjil",
+                "slug": "menu-takjil"
+            },
+            {
+                "id": "2N9oVvOk4OzagTsGqrnxxw==",
+                "name": "minuman dingin",
+                "slug": "minuman-dingin"
+            },
+            {
+                "id": "YPx--EuJ-arwzS7GnZ0-Bg==",
+                "name": "minuman segar",
+                "slug": "minuman-segar"
+            },
+            {
+                "id": "jdzcMJLg2-IUNSrzrBKUeA==",
+                "name": "Menu Manis",
+                "slug": "menu-manis"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "fiXDBIl74mX_PUmUDGk9ig==",
+                "name": "Air Soda",
+                "slug": "air-soda"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Es Batu",
+                "slug": "es-batu"
+            },
+            {
+                "id": "QfI0I20CbkXSVCYjNFqpCg==",
+                "name": "Selasih",
+                "slug": "selasih-1"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "c6ypk5wE7OLDg-s87NqV8w==",
+            "uuid": "51f4778f-39fa-4be7-8538-df8ea9acdd8e",
+            "username": "ratih-anita-dewi",
+            "name": "Ratih Anita Dewi",
+            "avatar": "content-images\/images\/20220209\/1daz9gSNDYOdimJCEKTA5eBVCJal8SJj-31363434333732343233d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "50 ml sirup bunga telang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm selasih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 ml soda",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1-2 sdm air panas untuk merendam selasih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya es batu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

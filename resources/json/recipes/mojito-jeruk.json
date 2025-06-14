@@ -1,0 +1,235 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "Un06HsC-ekdX10VLgO2txA==",
+        "title": "Mojito Jeruk",
+        "slug": "mojito-jeruk",
+        "cover_url": "content-images\/images\/20250412\/nnpesmQytk0Vim3ODpnZ6koionpFaK9E-31373434343238333239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250412\/nnpesmQytk0Vim3ODpnZ6koionpFaK9E-31373434343238333239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Minuman segar dengan 2 bahan utama.",
+        "rating": 5,
+        "video_url": "",
+        "price": 15000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 15,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1745488080,
+        "updated_date": 1745488321,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 6,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250412\/nnpesmQytk0Vim3ODpnZ6koionpFaK9E-31373434343238333239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/2THcyQg3reJmhPkU9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Langkah pertama, siapkan gelas. Tuangkan minuman sachet rasa jeruk.",
+                "image_url": "content-images\/images\/20250412\/lWi5IzRlGaoKfSCUadW7CFjuhupy3EGV-31373434343238343533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/lWi5IzRlGaoKfSCUadW7CFjuhupy3EGV-31373434343238343533d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Langkah kedua, tambahkan 30 ml air putih. Aduk hingga merata.",
+                "image_url": "content-images\/images\/20250412\/oQNGKw8ylRu5t9UZ1IN6B5Bh3lWsOvRD-31373434343238343939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/oQNGKw8ylRu5t9UZ1IN6B5Bh3lWsOvRD-31373434343238343939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Langkah ketiga, tambahkan es batu secukupnya atau sesuai selera.",
+                "image_url": "content-images\/images\/20250412\/OUTeRy5dZEx83lVrhOZhcLtm0RQnfOP3-31373434343238353337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/OUTeRy5dZEx83lVrhOZhcLtm0RQnfOP3-31373434343238353337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Langkah keempat, tambahkan irisan jeruk nipis dan biji selasih.",
+                "image_url": "content-images\/images\/20250412\/0StPtYLHRei5H9toRDJ3Fb357TSQlCph-31373434343238353938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/0StPtYLHRei5H9toRDJ3Fb357TSQlCph-31373434343238353938d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Langkah kelima, tuangkan 60-70 ml soda. Siap untuk disajikan!",
+                "image_url": "content-images\/images\/20250412\/BbQWIUKGeGLi2l125opLFz5aoTPERPxj-31373434343238363138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/BbQWIUKGeGLi2l125opLFz5aoTPERPxj-31373434343238363138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Langkah terakhir, jangan lupa untuk diaduk sebelum diminum. Selamat mencoba! \ud83d\ude0a",
+                "image_url": "content-images\/images\/20250412\/OhJ3ibIxHnI1Qrcupryf54r5BC2mrW3t-31373434343238363535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250412\/OhJ3ibIxHnI1Qrcupryf54r5BC2mrW3t-31373434343238363535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "85NjVpEW8gVZx2NsvkK21g==",
+                "name": "Makanan Pembuka",
+                "slug": "makanan-pembuka"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "tjLwUn7mCQfa7d86yvsq3g==",
+                "name": "Minuman",
+                "slug": "minuman"
+            },
+            {
+                "id": "2N9oVvOk4OzagTsGqrnxxw==",
+                "name": "minuman dingin",
+                "slug": "minuman-dingin"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "fiXDBIl74mX_PUmUDGk9ig==",
+                "name": "Air Soda",
+                "slug": "air-soda"
+            },
+            {
+                "id": "uf3yXu9X3TkkWQrnxE9Hng==",
+                "name": "Jeruk",
+                "slug": "jeruk"
+            },
+            {
+                "id": "lmNnB67zr9DZFIM89upVDw==",
+                "name": "Jeruk Nipis",
+                "slug": "jeruk-nipis"
+            },
+            {
+                "id": "QfI0I20CbkXSVCYjNFqpCg==",
+                "name": "Selasih",
+                "slug": "selasih-1"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "XY9MUqC9dRV-rxRxVNd--Q==",
+            "uuid": "cde3d041-9933-41e1-9a25-71386439de5a",
+            "username": "resepdapurqu",
+            "name": "Siti Qisma Fauziyah",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "1 sachet minuman rasa jeruk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "60-70 ml soda",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 buah jeruk nipis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm biji selasih, siram air hangat",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30 ml air putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Es batu secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

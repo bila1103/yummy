@@ -1,0 +1,441 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "9IMufrEbC8rzLWKwzVnBtQ==",
+        "title": "Italian Pasta Salad",
+        "slug": "italian-pasta-salad",
+        "cover_url": "content-images/images/20211028/5846b8135a0b1ef6f9ec062f06486b43.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20211028/5846b8135a0b1ef6f9ec062f06486b43.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Italian Pasta Salad ala Yummy. Wajib recook ya, Sobat Yummy!",
+        "rating": 4,
+        "video_url": "content-videos/video/20211022/26053d8e5e2e59b114f89677870eadd0.mp4",
+        "price": 35000,
+        "price_premium": 5000,
+        "calories": "1047,9 Kj",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1635427860,
+        "updated_date": 1694715143,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.769999980926514,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 13,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 53,
+        "recook_count": 2,
+        "original_image": "content-images/images/20211028/5846b8135a0b1ef6f9ec062f06486b43.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/aMN27LUpyCrxWX869",
+        "category": {
+            "name": "Makanan Pembuka",
+            "slug": "makanan-pembuka"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Rebus makaroni dalam air mendidih selama 7 menit hingga matang atau al dente.",
+                "image_url": "content-images/images/20211028/c16df4a554b7942fcf04fd412e358980.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20211028/c16df4a554b7942fcf04fd412e358980.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Siapkan wadah terpisah, Masukkan olive oil, air lemon, garam, lada hitam, madu, bawang putih, oregano, dan parsley, aduk rata, sisihkan.",
+                "image_url": "content-images/images/20211028/997780514b0056ca1c558ad76ed4489c.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20211028/997780514b0056ca1c558ad76ed4489c.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Makanan Sehat",
+                "slug": "makanan-sehat"
+            },
+            {
+                "id": "_qYqF_mpbWosRAjWVoeRqw==",
+                "name": "Salad Sayur",
+                "slug": "salad-sayur"
+            },
+            {
+                "id": "GDFby-6ERNcyMjlJuQHf2w==",
+                "name": "Aneka Salad",
+                "slug": "aneka-salad"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "G-iV06z6OJMMRDtOrTq50A==",
+                "name": "30m",
+                "slug": "30m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "GAGuHuj6QprYGtL3p-Qxfw==",
+                "name": "Alpukat",
+                "slug": "alpukat"
+            },
+            {
+                "id": "Yy-1Q2wb8DzLc6sbh4ICaQ==",
+                "name": "Garam",
+                "slug": "garam"
+            },
+            {
+                "id": "Km8Dynl9AKUtAS1I1hSaJg==",
+                "name": "Kacang",
+                "slug": "kacang"
+            },
+            {
+                "id": "CtwzKFqwt2hHez6OjZb2bw==",
+                "name": "Lada",
+                "slug": "lada"
+            },
+            {
+                "id": "y4OXVZVeikyNP7O3uWPS0g==",
+                "name": "Lemon",
+                "slug": "lemon"
+            },
+            {
+                "id": "Y0xqTW-xWr6CGT1R3xuZcA==",
+                "name": "Madu",
+                "slug": "madu"
+            },
+            {
+                "id": "KXvwH_qoQhNOvPnMk8VxbQ==",
+                "name": "Minyak Zaitun",
+                "slug": "minyak-zaitun"
+            },
+            {
+                "id": "EginBusFLPw6gJj3tFynnw==",
+                "name": "Oregano",
+                "slug": "oregano"
+            },
+            {
+                "id": "2qk4uNvcc4iyfHzpy25e2Q==",
+                "name": "Pasta",
+                "slug": "pasta"
+            },
+            {
+                "id": "0mFpKKHkQARg6xI2agSxcQ==",
+                "name": "Tomat",
+                "slug": "tomat"
+            },
+            {
+                "id": "MF7_28HkElAmTEa3EvHR9g==",
+                "name": "Zucchini",
+                "slug": "zucchini"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "75 gr makaroni spiral",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20220218/4c62a13b3c9c315330db1e40a1a55832.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr zucchini, potong kotak",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/bay0ZM",
+                        "media_url": "content-images/images/20220218/d4a30b7314479629f8519271fced8b1f.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "69 gr tomat cherry, belah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/EKVWkQ",
+                        "media_url": "content-images/images/20220218/6b79e6e9580e2e8180b66eacf32a30f0.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah alpukat, potong kotak",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/daZEmW",
+                        "media_url": "content-images/images/20220218/978f5b3764338e9e973ba392bc4a9bf1.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "40 gr kacang, sangrai dan cincang kasar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/EKVW5e",
+                        "media_url": "content-images/images/20220218/31c3b573778c103e3c62c87a724fbe51.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Dressing Salad",
+                "ingredients": [
+                    {
+                        "description": "50 ml olive oil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/zNqOgO",
+                        "media_url": "content-images/images/20220218/d2086d5eb5e4bd892590e9477f55fddc.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "15 ml air lemon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLzgj",
+                        "media_url": "content-images/images/20220218/14856b2ec12a85b75ad0c509a62812b4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220218/3ee461258af0e8e4ea49e5b8bc7fdaa7.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt lada hitam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4No4y",
+                        "media_url": "content-images/images/20220218/e3c9db979f8d5998716d73e6af72b0d3.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm madu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/DK1aVj",
+                        "media_url": "content-images/images/20220218/c05e20c997ee74c89e0e7538325b0a10.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd siung bawang putih, cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20220218/7a01a0ed96d61657983c06f034128bd0.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt oregano",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/B0AkE1",
+                        "media_url": "content-images/images/20220218/ef72b7e69e071a27fa807e63e1331724.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt parsley",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/MmjW03",
+                        "media_url": "content-images/images/20220218/f57f5c4f50ea2b1282a1b7134fdcb712.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "9AzBhmMT2dp4t7spnS8VMRymo3O11Oix",
+                "created_at": 1664447652,
+                "image_url": "content-images/images/20220225/8brFtN5TWK8dIclnsTeYegYEyAyxMYEQ-31363435373538343338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "#JagoMasakFebruari\nPagi chef, ijin setor recook ya \u263a salah satu cara untuk hidup lebih sehat adalah dengan mengatur pola makan, melalui event YUMMY, saya jadi lebih termotivasi membuat menu yang nikmat & sehat \ud83d\udc4d walaupun dengan segala drama yang harus dilewati karena belum terbiasa, semoga kedepannya bisa lebih baik lagi \ud83d\udc4c resep ini simple & gak butuh banyak peralatan juga waktu untuk menyiapkan \ud83d\ude01 kalori per sajian sesuai resep adalah 249,5 kkal, porsinya cukup mengenyangkan & rasa juga enak",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "yC7vGb2sAX6pHXB_1kE2zw==",
+                    "username": "pipi-cp",
+                    "name": "pipi",
+                    "avatar": "content-images/images/20231123/de55082a09c0e250f41f4204ed9989ee.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Italian Pasta Salad",
+                    "slug": "italian-pasta-salad",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "2ulM1uaggomHp68GGd2WyiCHIUEsykn8",
+                "created_at": 1664447652,
+                "image_url": "content-images/images/20220227/cIPNKtb9N61sBt906ZWA0ce379cJ7p3C-31363435393638383532d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hallo chef setor recook lagi..\nNyoba resep teruji nya yummy lagi.\nBikin cemilan sehat italian pasta salad\nBikinnya mudah, cepat dan tanpa goreng..\nCemilan tanpa lemak jahat cocok buat yang lagi menjalani pola hidup sehat.\nDan masih banyak lagi resep resep sehat yummy yang wajib di recook nanti\ud83d\ude03\nUntuk sajian per resep = 4 porsi \nTakaran saji 1 porsi = 249,5 (energi)Kkal\n Terimakasih ya chef resep sehat ini\ud83d\ude4f\n\n#JagoMasakFebruari",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "oq94N9lSMPl0yFZEPB_W7A==",
+                    "username": "laylla-gama",
+                    "name": "Laylla gama",
+                    "avatar": "content-images/images/20230414/OZfmj382lybjl8LlzPb9oMFsBceUH8rR-31363831343432343631d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Italian Pasta Salad",
+                    "slug": "italian-pasta-salad",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Panci Kecil",
+                "media_url": "content-images/images/20211105/8773acd6b750d0eefd2bcb59da811a1a.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Sutil",
+                "media_url": "content-images/images/20210712/519f6acdec5c700b847229e696f8e62f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Talenan",
+                "media_url": "content-images/images/20210712/5bcf9d1ede5f68c8d7acf04bcf604504.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

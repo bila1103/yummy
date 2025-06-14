@@ -1,0 +1,561 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "-UHM-Me6GB3PWYuMHHEduA==",
+        "title": "Baby Buncis Szechuan",
+        "slug": "baby-buncis-szechuan-1",
+        "cover_url": "content-images/images/20210822/5c4a5363520ef8bf002c1ba33b502483.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20210822/5c4a5363520ef8bf002c1ba33b502483.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20210822/e7ba3aad3a12c6e6da425b2bb70dc932.mp4",
+        "price": 45000,
+        "price_premium": 5000,
+        "calories": "891,6 Kj",
+        "is_cvc": false,
+        "cooking_time": 30,
+        "serving_min": 4,
+        "serving_max": 5,
+        "release_date": 1629649200,
+        "updated_date": 1690088458,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.739999771118164,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 14,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 38,
+        "recook_count": 6,
+        "original_image": "content-images/images/20210822/5c4a5363520ef8bf002c1ba33b502483.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/8qmj4Kkqz76ibDA48",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Tumis bawang putih, bawang merah, dan bawang bombai hingga harum.",
+                "image_url": "content-images/images/20210822/714a84cbfce7d981e6c5fdcd7d70b2c5.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20210822/714a84cbfce7d981e6c5fdcd7d70b2c5.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan daging giling dan cabai merah, masak hingga daging matang.",
+                "image_url": "content-images/images/20210822/9244e36d3cd1f30012e7febef2b56fd6.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20210822/9244e36d3cd1f30012e7febef2b56fd6.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Makanan Chinese",
+                "slug": "makanan-chinese"
+            },
+            {
+                "id": "EfIz4U8D8zEcWGF8tk_dQw==",
+                "name": "Masakan Tumis",
+                "slug": "masakan-tumis"
+            },
+            {
+                "id": "lf_NgyQ7rFtFYw6S-8vNbA==",
+                "name": "Tumis Buncis",
+                "slug": "tumis-buncis"
+            },
+            {
+                "id": "8-IUYYWa3MzPPYqF60OKiQ==",
+                "name": "Chinese Food",
+                "slug": "chinese"
+            },
+            {
+                "id": "Wx4gP0QrmXRliVFg-_yTLw==",
+                "name": "Durasi Di Bawah 30 Menit",
+                "slug": "30m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "G-iV06z6OJMMRDtOrTq50A==",
+                "name": "30m",
+                "slug": "30m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "Nrc3f1w5lg_NgrGxtxmMhw==",
+                "name": "Bawang Putih",
+                "slug": "bawang-putih"
+            },
+            {
+                "id": "FEusSQpwKhetyBUOM4CoMA==",
+                "name": "Buncis",
+                "slug": "buncis"
+            },
+            {
+                "id": "3YkcYTmTeCen2Dj4YxMHlA==",
+                "name": "Cabe",
+                "slug": "cabe"
+            },
+            {
+                "id": "VU3zhUq7PrKtYiNIfQvamg==",
+                "name": "Cabe Merah Besar",
+                "slug": "cabe-merah-besar"
+            },
+            {
+                "id": "gNrR88sMxkuEF_74rCiJ1g==",
+                "name": "Daging Sapi",
+                "slug": "daging-sapi"
+            },
+            {
+                "id": "irisT0BLKk4-M6scPYY77w==",
+                "name": "Minyak Wijen",
+                "slug": "minyak-wijen"
+            },
+            {
+                "id": "2hRXFoITKo_F8ODaNvTsJw==",
+                "name": "Saus Tiram",
+                "slug": "saus-tiram"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Diet",
+                "slug": "no-diet",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "300 gr Baby buncis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWoa",
+                        "media_url": "content-images/images/20211115/9a03a39a128033f8da26af1497931823.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 gr daging sapi cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/6eqDam",
+                        "media_url": "content-images/images/20211115/b2c7f931a4ba4fb3d671d1f255a07883.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 siung bawang putih, cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20211115/3a219225eba2481c11382a0c36ee294f.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 siung bawang merah, cincang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/ZQ4ROK",
+                        "media_url": "content-images/images/20211115/1500944f4515e03c947f31bdd6e42da2.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm saus tiram",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/EKVWQe",
+                        "media_url": "content-images/images/20211115/c2ecd7c419c9995563d872d7370cb549.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm saus sambal",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Or5WGz",
+                        "media_url": "content-images/images/20211115/215164dba6185dce3de59f7371ca54ce.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm kecap manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLxX9",
+                        "media_url": "content-images/images/20211115/4449978fba13bb3260a48b2ddf0a9834.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdm kecap ikan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/DK1Jjo",
+                        "media_url": "content-images/images/20211115/2ee1e24d4df573eaea1dd1274c31a191.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt lada",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbok5",
+                        "media_url": "content-images/images/20211115/3722c782ecff01ce5b999a1d1132c45a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/daZEbq",
+                        "media_url": "content-images/images/20211115/716ad75d2ae0e6d41daf1ebe165688b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm minyak wijen",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbRBR",
+                        "media_url": "content-images/images/20211115/ad5e4988c5cf31c04d545920a2c08254.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd buah bawang bombay iris",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBb91",
+                        "media_url": "content-images/images/20211115/e1ce26ca48629471345240cc77a55c8d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 buah cabai merah iris serong",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLx9b",
+                        "media_url": "content-images/images/20211115/176473b19f5a301a975c8635442e7f0e.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211115/566d2636af251861e2d6739253672e40.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Vitamin C (mg)",
+                "slug": "vutamin-c-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "3KGgoxvIcO480s19AlIQcE0IufKVaiOh",
+                "created_at": 1690088744,
+                "image_url": "content-images/images/20230723/66CL01DKsCoKbqNhSwTQk7Mve4c3XyEE-31363930303838373337d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak",
+                "description": "enakkk. sedikit dimodif karena ga ada daging cincang, jadi pake daging tumis di slice.",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "nFxRd_xoX8WSgoaXxPt2gA==",
+                    "username": "j-septanti",
+                    "name": "J Septanti",
+                    "avatar": "content-images/avatar/default.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Baby Buncis Szechuan",
+                    "slug": "baby-buncis-szechuan-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "QDLvo4nTJtRi56GZc4OeXWqyiNKG9APX",
+                "created_at": 1664422798,
+                "image_url": "content-images/images/20220705/Xaz0UtYlisxVQgt1p8tlphCDBRcE0M7x-31363537303033393437d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hallo Chef.. Setor recooknya nih Chef \ud83d\ude4f\nIni aku tambahin rawit agar terasa pedasnya. Terima kasih inspirasinya & ijin reshare ya Chef \ud83d\ude4f\ud83e\udd70\n#RecookYummy\n#JagoMasak2022",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "wVeG7Utss5BBGMCY9-Qflw==",
+                    "username": "dapua-eka",
+                    "name": "Eka Susanti",
+                    "avatar": "content-images/images/20210812/z7KOIF0bxIYxpdEXtC2RsVoAg1H7gzau-31363238373830313933d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Baby Buncis Szechuan",
+                    "slug": "baby-buncis-szechuan-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "166lmJoTkJwjBIMo2E9ha73xcumeVlcN",
+                "created_at": 1664422798,
+                "image_url": "content-images/images/20220707/BrcbsbgqRAFXICbS6kulomwFDvFIJGQB-31363537323033323131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Halo chef., Terimakasih resepnya mantep chef., Lain waktu jadi pengen buat lagi\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "XZbjdDmb7XUOR7joIRBHYw==",
+                    "username": "rainnareswari",
+                    "name": "RainNareswari",
+                    "avatar": "content-images/images/20220508/qLd5U6FleyE0qWSKKaF4Yy1bCA8W6y3c-31363532303132343239d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Baby Buncis Szechuan",
+                    "slug": "baby-buncis-szechuan-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "7TYGBth3CUT2qEzREhn2PiU5zbX944uH",
+                "created_at": 1664422798,
+                "image_url": "content-images/images/20220708/x73YqSbtjrIgFcRJCvaIaIft9Aqie9Lu-31363537323438353531d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selamat pagi Chef, Terima kasih resepnya, untuk cabenya saya ganti dengan cabe rawit merah agar lebih pedas, enak banget ini, suka banget tekstur buncisnya masih kress dan daging sapi cincangnya matang dan menyerap bumbu, jadi gak rugi deh coba resep teruji ini. #RecookYummy",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "FyhhAXdzHj1r9UxxBMClQA==",
+                    "username": "retnoadiesty",
+                    "name": "Retno Adiesty",
+                    "avatar": "content-images/images/20220914/GpCxByyBC67apfApSLulF0FnncVMkl4M-31363633313130373231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Baby Buncis Szechuan",
+                    "slug": "baby-buncis-szechuan-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "5YC2qoImD3ZdQ6cbBPsIDRF971b3OCAS",
+                "created_at": 1664422798,
+                "image_url": "content-images/images/20220710/0fApWUSHkfGlzlBxvSalKC4aFktGeWux-31363537343236333431d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selamat siang chef.. setor recook buncis Szechuannya ya..\nSy menggunakan minyak wijen hitam/ Ma you biar lebih wangi.\nTernyata resepnya bnr2 yummy chef kres buncisnya bikin ketagihan \ud83d\ude01\ud83d\udc4d\nTrima ksh resepnya chef.. \ud83e\udd17\ud83d\ude4f\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "Bcfv2zU7rqxEF4iydPwvrQ==",
+                    "username": "re-milik",
+                    "name": "Re Milik",
+                    "avatar": "content-images/images/20230412/iInVLfvmBp8ciDwmVHuln9Krx6isAqwf-31363831323938373939d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Baby Buncis Szechuan",
+                    "slug": "baby-buncis-szechuan-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "ozyXlS2Ds31rmBpFwNqhDMdr3dGefrwD",
+                "created_at": 1664422798,
+                "image_url": "content-images/images/20220710/NnuwBPs8OJPwxORCvbEOv5Q4bkpZfW4H-31363537343435373334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Hallo Chef Yummy, setor recook ya. Ini salah satu menu favorit suami, mumpung tadi dapat kiriman daging kurban jadi dimasak langsung menu ini buat makan siang.\n\nMakasih sharing resepnya, beneran enak ini wajib coba di rumah. Sukses selalu buat Yummy App\n\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "aAdLXBAatNBz714Ut6si2A==",
+                    "username": "laily-puspitasari",
+                    "name": "laily puspitasari",
+                    "avatar": "content-images/images/20221103/1Yl8YsZT7p6gS4kayRJZ1OSdLjzHHJAq-31363637343633313136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Baby Buncis Szechuan",
+                    "slug": "baby-buncis-szechuan-1",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Fry Pan - Besar",
+                "media_url": "content-images/images/20210714/980057f47076afbd0ecaeea4a19a345d.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Talenan",
+                "media_url": "content-images/images/20210712/5bcf9d1ede5f68c8d7acf04bcf604504.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Pisau",
+                "media_url": "content-images/images/20210712/c036bb2c218e5ed551057421b58c3216.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Piring Saji",
+                "media_url": "content-images/images/20210712/fe7aa848e95ce4d5fd56fb78459844f2.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Garpu Sendok Saji",
+                "media_url": "content-images/images/20210714/9354802af79beb19c95468071ba7010e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Sutil",
+                "media_url": "content-images/images/20210712/519f6acdec5c700b847229e696f8e62f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

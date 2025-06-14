@@ -1,0 +1,632 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "vIIN_kmAPnQwbiplZdLmlA==",
+        "title": "Ayam Crispy Ala Al Baik Chicken",
+        "slug": "ayam-crispy-ala-al-baik-chicken",
+        "cover_url": "content-images/images/20220427/610308bb31ba1e568633062dddcc6472.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220427/610308bb31ba1e568633062dddcc6472.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Ayam goreng crispy yang dibumbui dengan berbagai rempah ala Al baik Chicken khas Arab Saudi",
+        "rating": 5,
+        "video_url": "content-videos/video/20220427/8c66be7523d2037cf41d5a0c4e52c41b.mp4",
+        "price": 35000,
+        "price_premium": 5000,
+        "calories": "1209,6 Kj",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 7,
+        "serving_max": 8,
+        "release_date": 1651067100,
+        "updated_date": 1668574646,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 5,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 27,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 7,
+        "recook_count": 6,
+        "original_image": "content-images/images/20220427/610308bb31ba1e568633062dddcc6472.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/5eW8Vbjwr7jJ7d9a8",
+        "category": {
+            "name": "Makanan Utama",
+            "slug": "makanan-utama"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Keringkan ayam lalu tusuk dengan garpu atau sayat dengan pisau di setiap sisi.",
+                "image_url": "content-images/images/20220427/d0d897f21b7e4f40c0d13f0820644ada.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220427/d0d897f21b7e4f40c0d13f0820644ada.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Campurkan semua bumbu marinasi di mangkuk, lalu balurkan ke ayam hingga merata dan diamkan selama 2-4 jam atau lebih baik semalaman.",
+                "image_url": "content-images/images/20220427/ce11768b5013aee86d2b574223608880.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220427/ce11768b5013aee86d2b574223608880.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "fLy1fBwqZNpc4zKQPmzhvA==",
+                "name": "Ayam goreng",
+                "slug": "ayam-goreng"
+            },
+            {
+                "id": "uf3yXu9X3TkkWQrnxE9Hng==",
+                "name": "Menu Buka Puasa",
+                "slug": "menu-buka-puasa"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Lhi3GDcz26NnsIHt9zeeMA==",
+                "name": "Ayam",
+                "slug": "ayam"
+            },
+            {
+                "id": "KXvwH_qoQhNOvPnMk8VxbQ==",
+                "name": "Minyak Zaitun",
+                "slug": "minyak-zaitun"
+            },
+            {
+                "id": "BPs43F8_HzH8PcbLlc1PJw==",
+                "name": "Saus Sambal",
+                "slug": "saus-sambal"
+            },
+            {
+                "id": "Y7u7FDSxNd95soU0OFqofw==",
+                "name": "Tepung Maizena",
+                "slug": "tepung-maizena"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "040a8a10-07c2-4d05-9319-773e5e16c23c",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan",
+                "ingredients": [
+                    {
+                        "description": "8 potong ayam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/75xQZY",
+                        "media_url": "content-images/images/20211026/e2074a5d682a5c3e3315c2b7dc10191a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Gmq1jV",
+                        "media_url": "content-images/images/20210712/fcb648cc17d6eb1c287f3c46691967d4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Air es",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "content-images/images/20211026/a8f6e995116c81f4fbf4600a4520c6b8.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Marinasi",
+                "ingredients": [
+                    {
+                        "description": "1\u00bd sdm saus sambal",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Or5WGz",
+                        "media_url": "content-images/images/20210712/193340315cbad39ece29165fafd928d1.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 sdm minyak zaitun",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Y9oKDJ",
+                        "media_url": "content-images/images/20211026/ab9ffb21fb2894caf52730ecf48965a1.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt cuka",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/JzQW3v",
+                        "media_url": "content-images/images/20210712/221fb59a3c07d3d7eba5543f76ae4252.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt bubuk kayu manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NBej",
+                        "media_url": "content-images/images/20210805/cb6bbdc2f9e9884f5ee0878d3673e316.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt bubuk jahe",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/AWaGrN",
+                        "media_url": "content-images/images/20211026/19618fc40228ff254e602e64b785645a.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm bubuk paprika",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLzaj",
+                        "media_url": "content-images/images/20210712/d1b3c9124f257e36a79eacf96a02cc1d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdm bubuk bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20220427/e3b34d4832da14530558b90ea29efd67.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt cabai bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykW3j",
+                        "media_url": "content-images/images/20210805/737d60c6f292453c7d86262ce7cfbfbc.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt lada hitam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4No4y",
+                        "media_url": "content-images/images/20210805/1bc723e6b42febeb800bb2d382500162.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt bubuk bawang bombay",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBb91",
+                        "media_url": "content-images/images/20220427/0383598b4c3e9bb64b1d8d83d04443d3.png?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Tepung",
+                "ingredients": [
+                    {
+                        "description": "225 gr tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/y2LBab",
+                        "media_url": "content-images/images/20210712/2c9f48803b2746a5c9bf48364ca51a34.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "75 gr tepung maizena",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/an64bo",
+                        "media_url": "content-images/images/20211026/7babea56d9abb73c27bb52f34eac6f14.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\u00bd sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20210712/a1ada809d49f172efdb37b76292a51fd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt bubuk bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/oqbB1o",
+                        "media_url": "content-images/images/20220427/d283fd7c13ada60848728f2934ff8305.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt bubuk paprika",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/5gLzaj",
+                        "media_url": "content-images/images/20210712/d1b3c9124f257e36a79eacf96a02cc1d.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt lada putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/xkbok5",
+                        "media_url": "content-images/images/20210805/1bc723e6b42febeb800bb2d382500162.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,jpg",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdt bubuk bawang bombay",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/eKBb91",
+                        "media_url": "content-images/images/20220427/5c42441da5d78e5c1d74b53f117f84a4.png?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Garpu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Pisau",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Pisau Roti",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/9gQrv0",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            },
+            {
+                "name": "Zinc (mg)",
+                "slug": "zinc-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Besi (mg)",
+                "slug": "besi-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "GNdxADJcX4skd7utIyRh0sAyoWl3PkVa",
+                "created_at": 1668528952,
+                "image_url": "content-images/images/20221115/iovYaLjVSLI2G8ywQ6tXq2QioihUlALY-31363638353033353137d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Kompleks",
+                "taste": "Enak Banget",
+                "description": "masyaallah... \ud83e\udd70 ternyata di YummyApp ada resep  ayam crispy ala al-baik \u2764\u2764 selama ini hanya bisa makan al baik versi jastip atau di bawain sama teman atau sodara yang baru pulang umroh \ud83d\ude01\n\nsekarang ga perlu ikutan jastip\u00b2 lagi kalau mau makan ini.. bisa bikin sendiri pakai resep teruji dari yummy app \ud83d\ude0d rasa nya udah mirip sama versi asli nya.. \n\nterimakasih karena selalu menginspirasi YummyApp \u2764\u200d\ud83d\udd25\u2764\u200d\ud83d\udd25\u2764\u200d\ud83d\udd25\n\nsukses terus buat yummy #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "Udl5gOFFWBrCDFXJWaxeMg==",
+                    "username": "mrs-dsperdana",
+                    "name": "Whenie Beckham",
+                    "avatar": "content-images/images/20230410/8OFX382x1n7JRrJz98PEPceXdSelRsr6-31363831313135383132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Crispy Ala Al Baik Chicken",
+                    "slug": "ayam-crispy-ala-al-baik-chicken",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "aPFNqQmv0ey4HzPD26Cx0PE3BuEzTXtH",
+                "created_at": 1666086632,
+                "image_url": "content-images/images/20221018/6fRvINNRlJjMOQfwKxKHkDq0hdNUh7mn-31363636303631333439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "penasaran sama ayam Al baik ini, beli nya jauh hrs umroh dulu. Yang deket dulu aja nguprek di dapur dengan resep teruji dari yummy #RecookYummy",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "g0htuRkaq3bw8zYljBi3hQ==",
+                    "username": "nirastorytummy-id",
+                    "name": "Nirastorytummy",
+                    "avatar": "content-images/images/20230403/cUzmx7WP31dzHFKESvLGtUgexWHcYpy4-31363830353136323832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Crispy Ala Al Baik Chicken",
+                    "slug": "ayam-crispy-ala-al-baik-chicken",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "362FGs15XneXVbKxyJIyHWM4U6ungTeo",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220607/C22lSXcIJb3qGDqqKXQVo0G56t0Olc1l-31363534353939373534d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "terima kasih Chef untuk resepnya yang enak dan anti gagal ini. Anak anak doyan banget, katanya ayamnya enak bunda. rasanya crunchy dan unik, ada kayu manisnya. #RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "k-Sb9jfOapCXPwuDXyh3lw==",
+                    "username": "lilis-dapoer-tara",
+                    "name": "Lilis Dapoer Tara ",
+                    "avatar": "content-images/images/20230415/ShUKGmivJG2z4ahAGjJEdr4kRPvXtHT8-31363831353231323934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Crispy Ala Al Baik Chicken",
+                    "slug": "ayam-crispy-ala-al-baik-chicken",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "7HIVEQemFDsQLD9UGF63Ehtz2ULBEwhp",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220608/QlNkOIOx0jcg6HuLq3PbbUr41l5Mk9Bu-31363534363536363932d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Bismillah .. pagi minchef udah lama banget penasaran sama ayam ala Al baik ini yg cuma bisa d jumpai di daerah timur tengah khususnya di Mekkah. Rasanya cocok banget di paduin sama nasi basmati berempah. Tapi disini aku pakai nasi jagung berempah. Enak banget ternyata makasih resepnya cocok banget di lidahku #RecookYummy #JagoMasak2022",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "g0htuRkaq3bw8zYljBi3hQ==",
+                    "username": "nirastorytummy-id",
+                    "name": "Nirastorytummy",
+                    "avatar": "content-images/images/20230403/cUzmx7WP31dzHFKESvLGtUgexWHcYpy4-31363830353136323832d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Ayam Crispy Ala Al Baik Chicken",
+                    "slug": "ayam-crispy-ala-al-baik-chicken",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "uDbIbUxrS9jcesmdyIQxCIDKkQa6kTu1",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220608/Up0u88iAkHSgEnMHVAL04Q3ns8ShHhnA-31363534363730393131d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Ayam goreng Albaik ini berbeda dengan ayam goreng ada umumnya yaitu cita rasa bumbu rempah khas timur tengah. Ayam goreng Albaik ini aslinya dari dari kota Jeddah dan merupakan tempat makan paling laris di dunia, jadi untuk menikmati Albaik ini kita harus ke Mekkah atau sekarang sudah banyak olshop yang jual dengan cara pre order tentunya dengan harga yang cukup mahal karena memang import dari Arab Saudi. Terima kasih resepnya ya Chef, Kalau kamu penasaran gimana rasanya #RecookYummy ya.",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "FyhhAXdzHj1r9UxxBMClQA==",
+                    "username": "retnoadiesty",
+                    "name": "Retno Adiesty",
+                    "avatar": "content-images/images/20220914/GpCxByyBC67apfApSLulF0FnncVMkl4M-31363633313130373231d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Ayam Crispy Ala Al Baik Chicken",
+                    "slug": "ayam-crispy-ala-al-baik-chicken",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "0hqYMud3ciPch6CtuNayCWCwcREpPNyc",
+                "created_at": 1664447996,
+                "image_url": "content-images/images/20220609/vhXJ717SZML1x30pSfB4mKEaGnE7tvhz-31363534373632353539d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Simpel",
+                "taste": "Enak",
+                "description": "Selamat sore chef,,\nIzin Recook ya,,\nRasanya enak,kriuk\nTerima kasih Resep nya\ud83d\ude4f\n#RecookYummy",
+                "is_liked": false,
+                "like_count": 0,
+                "author": {
+                    "id": "AUN5s_G7vxZiNqkMoJJY6Q==",
+                    "username": "miftahul-jannah09",
+                    "name": "Miftahul Jannah",
+                    "avatar": "content-images/images/20211004/0DmicJAS1hjw5WMNcscggmTzGAWiZEFL-31363333333133303331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": false
+                },
+                "recipe_source": {
+                    "title": "Ayam Crispy Ala Al Baik Chicken",
+                    "slug": "ayam-crispy-ala-al-baik-chicken",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Mix Bowl",
+                "media_url": "content-images/images/20210712/ea00464aa46cc502efbf82c5f855d2dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Saringan",
+                "media_url": "content-images/images/20210712/65e57dfb6b663cb4596ed05cbced0077.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Capitan Makanan",
+                "media_url": "content-images/images/20210714/8b42db997ea69a6a4aa3b29a4a9ea3da.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Fry Pan - Besar",
+                "media_url": "content-images/images/20210714/980057f47076afbd0ecaeea4a19a345d.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Piring Saji",
+                "media_url": "content-images/images/20210712/fe7aa848e95ce4d5fd56fb78459844f2.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

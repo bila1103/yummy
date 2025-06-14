@@ -1,0 +1,560 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "RUeUU66__qFXESPoSywtRQ==",
+        "title": "Klapertart Keju Panggang",
+        "slug": "klapertart-keju-panggang",
+        "cover_url": "content-images/images/20220122/a2421a538326d8a036df3d25146de007.jpg?x-oss-process=image/format,webp",
+        "cover_url_watermark": "content-images/images/20220122/a2421a538326d8a036df3d25146de007.jpg?x-oss-process=image/resize,w_600,h_315,m_fill,image/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "",
+        "rating": 4,
+        "video_url": "content-videos/video/20220121/de5ec1d85f9bdadc4c31a54369754bdf.mp4",
+        "price": 45000,
+        "price_premium": 5000,
+        "calories": "748,86 Kj",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 3,
+        "serving_max": 4,
+        "release_date": 1642862940,
+        "updated_date": 1694084033,
+        "is_bookmark": false,
+        "is_editorial": true,
+        "rating_user": 4.800000190734863,
+        "is_video": true,
+        "premium_content": true,
+        "brand_slug": "",
+        "ingredient_count": 21,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 44,
+        "recook_count": 5,
+        "original_image": "content-images/images/20220122/a2421a538326d8a036df3d25146de007.jpg?x-oss-process=image/resize,w_800,h_800,m_fixed",
+        "share_link": "https://app.yummy.co.id/gwcYGL7HvUnDd3cs9",
+        "category": {
+            "name": "Makanan Penutup",
+            "slug": "makanan-penutup"
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Kedalam sebuah panci, campur susu cair, maizena, kuning telur lalu aduk hingga merata dan tidak ada gumpalan. Lalu tambahkan air kelapa, kental manis dan gula kemudian aduk kembali hingga merata dan masak di atas api kecil hingga mengental dan mendidih.",
+                "image_url": "content-images/images/20220122/43127636aeac3c94cf18a127daeda36a.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images/images/20220122/43127636aeac3c94cf18a127daeda36a.jpg?x-oss-process=image/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Setelah adonan custard tercampur rata dan terlihat halus, matikan api. Kemudian masukkan pasta vanilla dan butter lalu aduk kembali hingga butter meleleh dan tercampur rata. Selanjutnya masukkan daging kelapa muda dan kismis lalu aduk rata kembali.",
+                "image_url": "content-images/images/20220122/019f97457a47f932b64fd318a25e62f6.jpg?x-oss-process=image/resize,w_600,h_600,m_fixed,image/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images/images/20220122/019f97457a47f932b64fd318a25e62f6.jpg?x-oss-process=image/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "fZ8FKumT2zyDkTyDZtMSTw==",
+                "name": "Kue Tradisional",
+                "slug": "kue-tradisional"
+            },
+            {
+                "id": "ge5w_o4oqIjU0GrHP1wi7w==",
+                "name": "kue manis",
+                "slug": "kue-manis"
+            },
+            {
+                "id": "76WVWGtktZnQpvHOfoQAoA==",
+                "name": "kreasi kue",
+                "slug": "kreasi-kue"
+            },
+            {
+                "id": "HE6okKmMhtNCydlGhaU_Zg==",
+                "name": "Menu Natal",
+                "slug": "menu-natal"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            },
+            {
+                "id": "jEy9QTxdadNlZdJ78fJi7g==",
+                "name": "Klapertaart",
+                "slug": "klapertaart"
+            },
+            {
+                "id": "Lq3K32GiJM0l0jdEDzgjIw==",
+                "name": "10-50k",
+                "slug": "10-50k-1"
+            },
+            {
+                "id": "XoOQljKTIsthw9SvhP1iMQ==",
+                "name": "30-60m",
+                "slug": "30-60m-1"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "3SsSCaX24aWatr-v1Ht9Ow==",
+                "name": "Air Kelapa",
+                "slug": "air-kelapa"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "cPFDFBvYXvdMy6OLQ4F6Jg==",
+                "name": "Kayu Manis",
+                "slug": "kayu-manis"
+            },
+            {
+                "id": "Opko9OFPSqnKtt6n3eH7Eg==",
+                "name": "Keju",
+                "slug": "keju"
+            },
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Mentega",
+                "slug": "mentega"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "4fXFQ2DhETQxP0Iru_aPVA==",
+                "name": "Tepung",
+                "slug": "tepung"
+            },
+            {
+                "id": "fCS0v-JJK3U8fkNcVI6ooA==",
+                "name": "Vanilla",
+                "slug": "vanilla"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "RtT2eAq1ULPL15WFrAj5uA==",
+            "uuid": "e7c47413-47d3-4c04-b203-f2e7870ebfcc",
+            "username": "yummy",
+            "name": "Yummy Official",
+            "avatar": "content-images/images/20221116/yummy-official.png?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Custard :",
+                "ingredients": [
+                    {
+                        "description": "350 ml susu cair",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/vNbOGy",
+                        "media_url": "content-images/images/20220218/e795d568f7809866f3d0ac6e88078d15.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 ml air kelapa",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/Pyknjz",
+                        "media_url": "content-images/images/20220218/9c88a49061571f04c25fa848897dd6d5.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 kuning telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20220218/337cd2f41091455870b5715982c67175.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 ml kental manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/XYZEyo",
+                        "media_url": "content-images/images/20220218/a496afc8f16daf7889e86c9036042694.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt pasta vanilla",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/ZQ4R2g",
+                        "media_url": "content-images/images/20220218/f82b7124b4d0ad88091329ed9ad15937.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr tepung maizena",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/an64bo",
+                        "media_url": "content-images/images/20220218/a7ae55ef1526c34fa172a907081a7640.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "40 gr gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20220218/e6701cb3a0527aaee6f77c334708d4a0.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bc sdt garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/QyeWB6",
+                        "media_url": "content-images/images/20220218/b49bc7a9a7a01adc11f9b5342aaad672.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30 gr butter",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/9gQrR4",
+                        "media_url": "content-images/images/20220218/55c46b043b574f5198001ded1aa51c8c.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 gr kismis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/0ZOzZV",
+                        "media_url": "content-images/images/20220218/7024b438b282b9fd05abedf20b81b1d4.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "200 gr daging kelapa muda",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/k0bAgz",
+                        "media_url": "content-images/images/20220218/d4978947bbb766a991d0a7bfc81f467e.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Meringue :",
+                "ingredients": [
+                    {
+                        "description": "2 putih telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/WqK0ZZ",
+                        "media_url": "content-images/images/20220218/ecd9e110858e8da7031e5efc25387db7.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "15 gr gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/PykWoR",
+                        "media_url": "content-images/images/20220218/fd3a38511beb4fb3243ae84357f31ccd.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sdt pasta vanilla",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/ZQ4R2g",
+                        "media_url": "content-images/images/20220218/0d571604844497e69cff8d430eaf1810.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Topping :",
+                "ingredients": [
+                    {
+                        "description": "Keju parut",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/rQbW4Q",
+                        "media_url": "content-images/images/20220218/2afc537e248af84af1963f343658b625.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Kismis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/0ZOzZV",
+                        "media_url": "content-images/images/20220218/97fe157aaea62bde2056532f18722c61.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Bubuk kayu manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "https://blibli.pxf.io/q4NBej",
+                        "media_url": "content-images/images/20220218/0cc3e68a3d03410254dc259e1b87781c.jpg?x-oss-process=image/resize,w_400,h_400,m_fixed,image/format,webp",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Alat & Perlengkapan",
+                "ingredients": [
+                    {
+                        "description": "Aluminium Foil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Panci Kecil",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [
+            {
+                "name": "Energi (Kkal)",
+                "slug": "energi-kkal",
+                "value": "",
+                "unit": "Kkal",
+                "is_highlight": true
+            },
+            {
+                "name": "Lemak (g)",
+                "slug": "lemak-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Kolesterol (mg)",
+                "slug": "kolestrol-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Protein (g)",
+                "slug": "protein-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Karbohidrat (g)",
+                "slug": "karbohidrat-g",
+                "value": "",
+                "unit": "g",
+                "is_highlight": true
+            },
+            {
+                "name": "Sodium (mg)",
+                "slug": "sodium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": false
+            },
+            {
+                "name": "Kalium (mg)",
+                "slug": "kalium-mg",
+                "value": "",
+                "unit": "mg",
+                "is_highlight": true
+            }
+        ],
+        "recook": [
+            {
+                "random_key": "9nw9QyyngtWMoZ7wO34BLepNMx7YlIFF",
+                "created_at": 1694128513,
+                "image_url": "content-images/images/20230907/J7GwKc8uzOmupiMHuSqZRPxq4lLJfnRs-31363934313033323739d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Kompleks",
+                "taste": "Enak Banget",
+                "description": "selamat malam chef setor recook terimakasih banyak inspirasi resep nya #RecookTheNexOA",
+                "is_liked": false,
+                "like_count": 2,
+                "author": {
+                    "id": "5MiQ4KHlsWGpbs7H6qfNCA==",
+                    "username": "rani-elizabeth-rarun",
+                    "name": "Rani Rarun",
+                    "avatar": "content-images/images/20231123/4ac98fccfb74d9f8333b7343ed7c958b.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Klapertart Keju Panggang",
+                    "slug": "klapertart-keju-panggang",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "VFNdqUy8O1bOwmhfoX3lzrEQcoUApOfD",
+                "created_at": 1694127905,
+                "image_url": "content-images/images/20230907/vD0nyaLVx01AplWoJuLGvYPRl18shX8O-31363934313032363831d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Kompleks",
+                "taste": "Enak Banget",
+                "description": "selamat malam chef setor recook terimakasih banyak inspirasi resep nya #RecookTheNexOa",
+                "is_liked": false,
+                "like_count": 1,
+                "author": {
+                    "id": "5MiQ4KHlsWGpbs7H6qfNCA==",
+                    "username": "rani-elizabeth-rarun",
+                    "name": "Rani Rarun",
+                    "avatar": "content-images/images/20231123/4ac98fccfb74d9f8333b7343ed7c958b.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Klapertart Keju Panggang",
+                    "slug": "klapertart-keju-panggang",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "9ioVC5TqonNAdxA5UkGMxPxZBoINX0fl",
+                "created_at": 1693932947,
+                "image_url": "content-images/images/20230905/vbBsAc7MezplYv83HATyLiDX0kgx7EbI-31363933393037363934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak Banget",
+                "description": "Suka banget dengan kue klapertart ini. Enak, lembut dan rasanya premium banget. Kelihatan seperti kue yang ribet padahal sebenarnya mudah kok bikinnya. Asal lihat videonya Chef Yummy pasti bisa. Saya suka dengan cara membuat custard-nya, lebih simple, asal diaduk terus pasti hasilnya nggak bakalan bergerindil. Makasih resepnya chef.\n#RecookTheNextOA",
+                "is_liked": false,
+                "like_count": 5,
+                "author": {
+                    "id": "rEFeSY9tbKG-MBYPz-N9iw==",
+                    "username": "vhita-hani",
+                    "name": "Vhita Hani",
+                    "avatar": "content-images/images/20231123/ef16c6b267c78f4d9460d72fcdcb0645.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Klapertart Keju Panggang",
+                    "slug": "klapertart-keju-panggang",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            },
+            {
+                "random_key": "YvciqxpGd7jkuQmaWvUlRKT2FWmtstrq",
+                "created_at": 1693901327,
+                "image_url": "content-images/images/20230905/w5YcPbwhNDKSUCJt4MdAzmUGihllcvKB-31363933383736303730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                "complexity": "Sedang",
+                "taste": "Enak Banget",
+                "description": "Selamat Pagi Chef Yummy,,, setor recook ya...\n#RecookTheNextOA kali ini aku recook \"Klapertart Keju Panggang\" karena jajanan ini favorite anakku. Tiap ke toko kue selalu jatah 2-3 cup. Selama ini ga berani bikin sendiri karna kupikir susah, ternyata setelah liat video singkatnya kok praktis dan mudah banget. Alhamdulillah berhasil, anak aku suka dan lahap banget. Kata dia lebih enak ini ketimbang yang biasa beli.\nMakasih resepnya chef, sukses dan makin menginspirasi buat Yummy App \ud83d\ude4f.\n",
+                "is_liked": false,
+                "like_count": 5,
+                "author": {
+                    "id": "pVwH2-WVudP5Sb5vXvNp9g==",
+                    "username": "laila-fitria1",
+                    "name": "Laila Fitria",
+                    "avatar": "content-images/images/20231123/039830a2980b6837f0e64077faae4bb3.jpeg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp",
+                    "is_following": false,
+                    "is_official": true
+                },
+                "recipe_source": {
+                    "title": "Klapertart Keju Panggang",
+                    "slug": "klapertart-keju-panggang",
+                    "is_editorial": true,
+                    "premium_content": true
+                }
+            }
+        ],
+        "cooking_tool": [
+            {
+                "name": "Pinggan Oven",
+                "media_url": "content-images/images/20210712/335097e89781294990c4f62fadcb9bec.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Sutil",
+                "media_url": "content-images/images/20210712/519f6acdec5c700b847229e696f8e62f.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Oven",
+                "media_url": "content-images/images/20211105/e1cf057a7ee92168c6b4e1c0d6c7f036.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Hand Glove",
+                "media_url": "content-images/images/20211105/258083cddb087c5ac1bf684f2919e4dd.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            },
+            {
+                "name": "Panci Kecil",
+                "media_url": "content-images/images/20211105/8773acd6b750d0eefd2bcb59da811a1a.jpg?x-oss-process=image/resize,w_200,h_200,m_fixed,image/format,webp"
+            }
+        ],
+        "tips_and_trick": [],
+        "purchase_detail": {
+            "premium_type_name": "Gold 5000",
+            "google_sku_id": "gold5",
+            "google_base_price": 20000,
+            "google_price": 5000,
+            "google_discount": 75,
+            "apple_sku_id": "gold5",
+            "apple_base_price": 20000,
+            "apple_price": 5000,
+            "apple_discount": 75
+        }
+    }
+}

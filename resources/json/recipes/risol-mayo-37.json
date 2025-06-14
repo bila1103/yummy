@@ -1,0 +1,289 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "vJ_sx8oEevBYOr90v5RZDg==",
+        "title": "Risol Mayo",
+        "slug": "risol-mayo-37",
+        "cover_url": "content-images\/images\/20240611\/F6XunjdOUQZDqIpBDLB6ly5NMMpeLn5W-31373138303831373335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20240611\/F6XunjdOUQZDqIpBDLB6ly5NMMpeLn5W-31373138303831373335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Resep yang dibuat dengan cita rasa rumahan! \ud83d\ude0d",
+        "rating": 5,
+        "video_url": "",
+        "price": 80000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 120,
+        "serving_min": 20,
+        "serving_max": 50,
+        "release_date": 1746010860,
+        "updated_date": 1746011337,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 9,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20240611\/F6XunjdOUQZDqIpBDLB6ly5NMMpeLn5W-31373138303831373335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/3gacATognhiFR32Y9",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Masukkan tepung terigu.",
+                "image_url": "content-images\/images\/20240611\/OT9OLF4xBmlSnmOmM6MrAYAFBYXxQL7L-31373138303831313036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/OT9OLF4xBmlSnmOmM6MrAYAFBYXxQL7L-31373138303831313036d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan susu full cream.",
+                "image_url": "content-images\/images\/20240611\/dvb6CjoddH6mlAPLGtk8Gyh79P2ZonY5-31373138303831313230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/dvb6CjoddH6mlAPLGtk8Gyh79P2ZonY5-31373138303831313230d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Masukkan 2 butir telur.",
+                "image_url": "content-images\/images\/20240611\/HAaKkeQyEfBk7vb2oLg5fxOObOyxCPhR-31373138303831313333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/HAaKkeQyEfBk7vb2oLg5fxOObOyxCPhR-31373138303831313333d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Lalu, aduk hingga merata. Apabila, adonan masih kental bisa ditambahkan air.",
+                "image_url": "content-images\/images\/20240611\/LNOgckt6zwwkvtoibRgAMfVqIpD0qsqa-31373138303831313430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/LNOgckt6zwwkvtoibRgAMfVqIpD0qsqa-31373138303831313430d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Saring adonan agar lebih bagus hasilnya dan tidak ada yang menggumpal.",
+                "image_url": "content-images\/images\/20240611\/JwEC6suY2VNH9NNSb1WCHplfI4MLVECA-31373138303831323536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/JwEC6suY2VNH9NNSb1WCHplfI4MLVECA-31373138303831323536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Apabila sudah disaring adonannya, siapkan smoke beef, lalu belah dua. Kemudian, bagi 1 telur rebus menjadi 6 bagian.",
+                "image_url": "content-images\/images\/20240611\/4e9gCAObC9goyIZ7ZMiNwqAbb2J0g2MJ-31373138303831323930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/4e9gCAObC9goyIZ7ZMiNwqAbb2J0g2MJ-31373138303831323930d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Panaskan teflon dan buat adonan satu per satu.",
+                "image_url": "content-images\/images\/20240611\/Yv8VuX4MGE4C2JIUW5bNsBVzqeTuJVri-31373138303831333339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/Yv8VuX4MGE4C2JIUW5bNsBVzqeTuJVri-31373138303831333339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Apabila sudah matang adonannya, masukkan smoke beef dan telur yang sudah dipotong menjadi beberapa bagian, lalu tambahkan mayonaise.",
+                "image_url": "content-images\/images\/20240611\/VQUrq2Cfr5M80UYws9BPmmYiv1MfXbFJ-31373138303831333632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/VQUrq2Cfr5M80UYws9BPmmYiv1MfXbFJ-31373138303831333632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Selanjutnya, masukkan risol ke dalam sisa adonan kulit dan baluri dengan tepung panir. Siap digoreng!",
+                "image_url": "content-images\/images\/20240611\/9Dfu6Uw1XWIXUymaoHnMClVEptyTKYpY-31373138303831353037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/9Dfu6Uw1XWIXUymaoHnMClVEptyTKYpY-31373138303831353037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 10",
+                "text": "Apabila sudah seperti ini, baluri dengan adonan sisa kulit risol.",
+                "image_url": "content-images\/images\/20240611\/jUIj5GfCVWkQTKXZ3siJWikIarhjnSmY-31373138303831343432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 10,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20240611\/jUIj5GfCVWkQTKXZ3siJWikIarhjnSmY-31373138303831343432d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "FrcGuNBVracfQ1LMbrq3BA==",
+                "name": "Gorengan",
+                "slug": "gorengan"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "DstFTETMX0lZXRU9ClmTlA==",
+                "name": "Makanan Ringan",
+                "slug": "makanan-ringan"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            },
+            {
+                "id": "GlZXNP96qJdMVZEMNDv9fQ==",
+                "name": "Ide Jualan",
+                "slug": "ide-jualan"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "29fKVyfCA5GKvNC6KRVBfQ==",
+                "name": "Mayonaise",
+                "slug": "mayonaise"
+            },
+            {
+                "id": "Bw86Nu0nb-A2uEVmsqabLQ==",
+                "name": "Telur",
+                "slug": "telur"
+            },
+            {
+                "id": "jdOUETfapOBcwBoZxxsDuA==",
+                "name": "Tepung Terigu",
+                "slug": "tepung-terigu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "4ALkFpR328NLXGyKiLREKA==",
+            "uuid": "3d61a9d0-676a-4503-a601-39cf2fcd7991",
+            "username": "raysha-anjani",
+            "name": "Raysha Anjani",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "700 gr tepung terigu",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 kg mayonaise",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "500 gr smoke beef",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 butir telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "8 butir telur rebus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sendok teh garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 liter susu full cream",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sendok makan minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "500 gr tepung panir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

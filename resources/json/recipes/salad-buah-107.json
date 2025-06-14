@@ -1,0 +1,220 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "Bp-QORRqCWSf-fLyfgkZCw==",
+        "title": "Salad Buah",
+        "slug": "salad-buah-107",
+        "cover_url": "content-images\/images\/20250320\/JoDf35C15Cex5DiBfFqPCWFKl3W8JxlT-31373432343635323934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250320\/JoDf35C15Cex5DiBfFqPCWFKl3W8JxlT-31373432343635323934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Salad buah ini bahannya sangat simpel dan bikin ketagihan",
+        "rating": 5,
+        "video_url": "",
+        "price": 35000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 35,
+        "serving_min": 1,
+        "serving_max": 2,
+        "release_date": 1744792800,
+        "updated_date": 1744792920,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 6,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250320\/JoDf35C15Cex5DiBfFqPCWFKl3W8JxlT-31373432343635323934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/rc9zpQrQh6RddLLR8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Siapkan bahan saus salad, tuang susu kental manis dan mayonaise, campur dan aduk rata,sisihkan",
+                "image_url": "content-images\/images\/20250320\/EBbHMsn82F1Zt6GoXvg3xK3H0qCsIcj4-31373432343635343035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250320\/EBbHMsn82F1Zt6GoXvg3xK3H0qCsIcj4-31373432343635343035d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Siapkan buah-buahan,kupas kulit buah dan potong sesuai selera",
+                "image_url": "content-images\/images\/20250320\/taMhBoeOeC9scZP2qBN5zAfqsuHPATBE-31373432343635343331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250320\/taMhBoeOeC9scZP2qBN5zAfqsuHPATBE-31373432343635343331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Siapkan wadah,tuang buah pir dan buah melon",
+                "image_url": "content-images\/images\/20250320\/MKy0VH5nX7G1Xm96VX729WUTtXABCc7P-31373432343635343634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250320\/MKy0VH5nX7G1Xm96VX729WUTtXABCc7P-31373432343635343634d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan potongan buah naga",
+                "image_url": "content-images\/images\/20250320\/SNH3yFJiCe3ySWjUHMuR1P2By3Yliujw-31373432343635353033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250320\/SNH3yFJiCe3ySWjUHMuR1P2By3Yliujw-31373432343635353033d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Tuang saus salad di atas buah",
+                "image_url": "content-images\/images\/20250320\/n6c9LJ53h2YJtGoc58pGx5yczRZsiIXH-31373432343635353334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250320\/n6c9LJ53h2YJtGoc58pGx5yczRZsiIXH-31373432343635353334d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Taburi keju parut dan simpan di dalam kulkas,sajikan selagi dingin",
+                "image_url": "content-images\/images\/20250320\/mN5sJbfNBk1OKbtpTI0yPVhPDVPj4jdv-31373432343635353439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250320\/mN5sJbfNBk1OKbtpTI0yPVhPDVPj4jdv-31373432343635353439d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "zcgwY3_S_q4azaW9_OruRQ==",
+                "name": "Durasi 30-60 Menit",
+                "slug": "30-60m"
+            },
+            {
+                "id": "dS1M4giCpFMDHHznU2fvaw==",
+                "name": "Harga 10-50 Ribu",
+                "slug": "10-50k"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "lg6AGgrx8swQcmDlDUBehw==",
+                "name": "Buah Naga",
+                "slug": "buah-naga"
+            },
+            {
+                "id": "29fKVyfCA5GKvNC6KRVBfQ==",
+                "name": "Mayonaise",
+                "slug": "mayonaise"
+            },
+            {
+                "id": "blYm8NVgAgEKnI8lhkRjYQ==",
+                "name": "Melon",
+                "slug": "melon"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "CzCIfW75emHMYsqSDgFZUA==",
+            "uuid": "9bcd4d1d-df8e-4cc0-bd79-b4ea162b0799",
+            "username": "stefani-dessy-susanti",
+            "name": "Stefani Dessy Susanti",
+            "avatar": "content-images\/images\/20201228\/4ryZGSD9bx0RFLhP4AKPIetLKkUEsBef-31363039313332373234d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "3 sdm buah pir",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 sdm buah melon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm buah naga",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 sdm susu kental manis",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "2 sdm mayonaise",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 sdt perasan jeruk lemon",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

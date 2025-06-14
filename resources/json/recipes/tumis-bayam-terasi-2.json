@@ -1,0 +1,234 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "KsD8nEUrB5L13KquLD5zUQ==",
+        "title": "Tumis Bayam Terasi",
+        "slug": "tumis-bayam-terasi-2",
+        "cover_url": "content-images\/images\/20250329\/Z0pjah82AG2SH52fsUHk2kwgiwxlumCo-31373433323532363132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250329\/Z0pjah82AG2SH52fsUHk2kwgiwxlumCo-31373433323532363132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Simple dan yummy!",
+        "rating": 5,
+        "video_url": "",
+        "price": 10000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 20,
+        "serving_min": 2,
+        "serving_max": 3,
+        "release_date": 1745207400,
+        "updated_date": 1745207609,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 7,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250329\/Z0pjah82AG2SH52fsUHk2kwgiwxlumCo-31373433323532363132d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/Jx4H1DGEWURCtBVk6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Siangi bayam, lalu cuci bersih. Tiriskan.",
+                "image_url": "content-images\/images\/20250329\/fixzjZHfxY9boZq8eEL6hUedU4VQXPTO-31373433323532373934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250329\/fixzjZHfxY9boZq8eEL6hUedU4VQXPTO-31373433323532373934d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Iris tipis bawang merah, bawang putih, dan cabai merah besar. Haluskan atau bejek pakai tangan terasi yang telah dibakar.",
+                "image_url": "content-images\/images\/20250329\/XhJeoKcBGEh8F1S5I4cZbstRQaN6XDAV-31373433323532383136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250329\/XhJeoKcBGEh8F1S5I4cZbstRQaN6XDAV-31373433323532383136d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Panaskan minyak, lalu tumis bawang merah dan bawang putih sampai wangi dan layu.",
+                "image_url": "content-images\/images\/20250329\/TLz0lcBicV0lkqH1hoGjFTSG3aqeu0x7-31373433323532383839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250329\/TLz0lcBicV0lkqH1hoGjFTSG3aqeu0x7-31373433323532383839d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Tambahkan cabai merah besar dan terasi. Aduk rata.",
+                "image_url": "content-images\/images\/20250329\/WobLGs271Q1jGkl7gqFT0L4CFnmiA7AW-31373433323532393034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250329\/WobLGs271Q1jGkl7gqFT0L4CFnmiA7AW-31373433323532393034d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Setelah cabai layu, masukkan bayam dan aduk rata. Tutup supaya cepat proses masaknya. Bumbui dengan kaldu bubuk, kemudian koreksi rasa. Masak hingga matang.",
+                "image_url": "content-images\/images\/20250329\/dCbiLgQiaCnRfNnI8b7XeJTkcZkwP8p2-31373433323532393331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250329\/dCbiLgQiaCnRfNnI8b7XeJTkcZkwP8p2-31373433323532393331d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Angkat dan sajikan dalam kondisi hangat!",
+                "image_url": "content-images\/images\/20250329\/icp0kSSrbq1yGp7OekeO8PiwkF7GaiAH-31373433323533303135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250329\/icp0kSSrbq1yGp7OekeO8PiwkF7GaiAH-31373433323533303135d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "6aBOthKNa-VwyAhY6H31dA==",
+                "name": "Makanan Utama",
+                "slug": "makanan-utama"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "uqJHyhAGNlLAhSL3ZYHumw==",
+                "name": "Makanan Pendamping",
+                "slug": "makanan-pendamping"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "EPaso4xpXbxAqkS6qZKNHQ==",
+                "name": "Bawang Merah",
+                "slug": "bawang-merah"
+            },
+            {
+                "id": "l75VcqJxlKOdulGGQ9qcEA==",
+                "name": "Bayam",
+                "slug": "bayam"
+            },
+            {
+                "id": "3Rfv9cdKCFLGIIz7dOQf0g==",
+                "name": "Terasi",
+                "slug": "terasi"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            },
+            {
+                "name": "No Alcohol",
+                "slug": "no-alcohol",
+                "media_url": ""
+            },
+            {
+                "name": "No Pork",
+                "slug": "no-pork",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "c6ypk5wE7OLDg-s87NqV8w==",
+            "uuid": "51f4778f-39fa-4be7-8538-df8ea9acdd8e",
+            "username": "ratih-anita-dewi",
+            "name": "Ratih Anita Dewi",
+            "avatar": "content-images\/images\/20220209\/1daz9gSNDYOdimJCEKTA5eBVCJal8SJj-31363434333732343233d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "2 ikat bayam daun besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "4 siung bawang merah",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "3 siung bawang putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 buah cabai merah besar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "\u00bd sachet terasi, bakar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya kaldu bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Secukupnya minyak goreng",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

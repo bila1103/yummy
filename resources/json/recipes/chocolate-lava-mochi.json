@@ -1,0 +1,284 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "qOpGPeoh4Rp735jLwjVI6Q==",
+        "title": "Chocolate Lava Mochi",
+        "slug": "chocolate-lava-mochi",
+        "cover_url": "content-images\/images\/20250501\/DfJfmCo255zPMF9xG0SsTDerOQBuSXmm-31373436303735323738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250501\/DfJfmCo255zPMF9xG0SsTDerOQBuSXmm-31373436303735323738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Resep mochi cokelat yang di berikan oleh nenek",
+        "rating": 5,
+        "video_url": "",
+        "price": 58000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 28,
+        "serving_min": 5,
+        "serving_max": 6,
+        "release_date": 1746180060,
+        "updated_date": 1746180234,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 11,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250501\/DfJfmCo255zPMF9xG0SsTDerOQBuSXmm-31373436303735323738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/A744ca5tbC5qKFnv8",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Campur 1 butir telur, 35 ml susu dan 1 gr garam, lalu aduk rata",
+                "image_url": "content-images\/images\/20250501\/IKFP0Rg4h0QYlJeNTrYR7Aem536fpkq4-31373436303735333139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/IKFP0Rg4h0QYlJeNTrYR7Aem536fpkq4-31373436303735333139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Masukkan 100 gr tepung ketan, aduk kembali hingga rata",
+                "image_url": "content-images\/images\/20250501\/7h1cY1Tf3JbZybtpADphbZ0Gj3B1xs16-31373436303735333339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/7h1cY1Tf3JbZybtpADphbZ0Gj3B1xs16-31373436303735333339d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Tambahkan 20 gr mentega tawar aduk hingga rata",
+                "image_url": "content-images\/images\/20250501\/Ug9SZrO6qBTt9aRvfUNWhNnyzjGv3llP-31373436303735333535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/Ug9SZrO6qBTt9aRvfUNWhNnyzjGv3llP-31373436303735333535d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Masukkan 15 gr potongan cokelat dan aduk rata",
+                "image_url": "content-images\/images\/20250501\/InEWa0nKS5YRGSpy51NaEKAH86RY1wmG-31373436303735333730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/InEWa0nKS5YRGSpy51NaEKAH86RY1wmG-31373436303735333730d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Bagi adonan menjadi 6 bagian, letakkan di loyang. Panggang pada suhu 190\u00b0C selama 20 menit, lalu turunkan suhu menjadi 160\u00b0C dan lanjutkan memanggang selama 25 menit",
+                "image_url": "content-images\/images\/20250501\/BYZ7UIu6jFlBnsdXGsnPlJfLjrTI0qU3-31373436303735333838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/BYZ7UIu6jFlBnsdXGsnPlJfLjrTI0qU3-31373436303735333838d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 6",
+                "text": "Campurkan 1 butir kuning telur, 80 ml susu, 8 gr tepung maizena, 10 gr gula halus dan 5 gr mentega. Panaskan di atas api kecil sambil terus diaduk hingga mengental",
+                "image_url": "content-images\/images\/20250501\/VEijNSLepR7zViAv4jyCMOLC0O9DwkYq-31373436303735343338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 6,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/VEijNSLepR7zViAv4jyCMOLC0O9DwkYq-31373436303735343338d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 7",
+                "text": "Cairkan cokelat batang hingga meleleh",
+                "image_url": "content-images\/images\/20250501\/TOxyoIgqA4QNrMUcgAjppBNSANzUZeyi-31373436303735343138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 7,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/TOxyoIgqA4QNrMUcgAjppBNSANzUZeyi-31373436303735343138d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 8",
+                "text": "Tuangkan cokelat yang sudah meleleh di dalam adonan kuning telur, aduk hingga tercampur rata",
+                "image_url": "content-images\/images\/20250501\/A9W9APRur8eOxdLKr6jpNyLATA7MulX0-31373436303735343536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 8,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/A9W9APRur8eOxdLKr6jpNyLATA7MulX0-31373436303735343536d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 9",
+                "text": "Setelah adonan matang, lubangi bagian bawah mochi, lalu semprotkan saus cokelat ke dalamnya",
+                "image_url": "content-images\/images\/20250501\/7o6MgGQopzD7fmE84ijrJzc8wpFGhBNq-31373436303735343738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 9,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250501\/7o6MgGQopzD7fmE84ijrJzc8wpFGhBNq-31373436303735343738d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "XPiIeXTytIkJa_n6ueUNAg==",
+                "name": "Makanan Indonesia",
+                "slug": "makanan-indonesia"
+            },
+            {
+                "id": "eSjxzes6JPu0bFRNSnMkqg==",
+                "name": "Makanan Anak Kost",
+                "slug": "makanan-anak-kost"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "5AJdmssMlDmDwdBxrS1-ag==",
+                "name": "Beras Ketan",
+                "slug": "beras-ketan"
+            },
+            {
+                "id": "HP3_VE7oOYl_AaGLCEgP9g==",
+                "name": "Cokelat",
+                "slug": "cokelat"
+            },
+            {
+                "id": "w3SbGgccOQEmv7n7X873eg==",
+                "name": "Susu",
+                "slug": "susu"
+            }
+        ],
+        "recipe_info": [
+            {
+                "name": "Halal",
+                "slug": "halal",
+                "media_url": ""
+            }
+        ],
+        "author": {
+            "id": "V98T32Cf6eLXCMzqjeq0wA==",
+            "uuid": "978d5d57-e1f0-4e3c-aecf-c2ef7cb79f53",
+            "username": "wahida-6",
+            "name": "Wahida",
+            "avatar": "content-images\/avatar\/default.png?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": false
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "100 gr tepung ketan",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "35 ml susu cair",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "20 gr mentega tawar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1 gr garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "15 gr cokelat batang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Bahan Saus Cokelat ",
+                "ingredients": [
+                    {
+                        "description": "1 butir kuning telur",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "80 ml susu cair",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "10 gr gula halus",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "8 gr tepung maizena",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "5 gr mentega tawar",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "30 gr cokelat batang",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}

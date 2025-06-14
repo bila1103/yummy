@@ -1,0 +1,278 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "id": "obSu5cYOpA98X9hAlP4ASQ==",
+        "title": "Mochi Coklat Stroberi",
+        "slug": "moci-stroberi-coklat",
+        "cover_url": "content-images\/images\/20250420\/lG1LIZ9ydSWia3vZmrUT357aE91q5IIf-31373435313131323937d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp",
+        "cover_url_watermark": "content-images\/images\/20250420\/lG1LIZ9ydSWia3vZmrUT357aE91q5IIf-31373435313131323937d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_315,m_fill,image\/watermark,image_Y29udGVudC1pbWFnZXMvaW1hZ2VzLzIwMjMwNzMxL3dhdGVybWFyay1hcnRpY2xlLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA==,g_south,y_0",
+        "description": "Ini terinspirasi dari mochi ala Jepang. Teksturnya moist dan manisnya pas, cocok dinikmati dalam keadaan dingin, dibekukan juga enak untuk mendapatkan tekstur coklat yang lebih padat. Selamat mencoba!",
+        "rating": 5,
+        "video_url": "",
+        "price": 45000,
+        "price_premium": 0,
+        "calories": "",
+        "is_cvc": false,
+        "cooking_time": 60,
+        "serving_min": 1,
+        "serving_max": 10,
+        "release_date": 1747138140,
+        "updated_date": 1747139333,
+        "is_bookmark": false,
+        "is_editorial": false,
+        "rating_user": 0,
+        "is_video": false,
+        "premium_content": false,
+        "brand_slug": "",
+        "ingredient_count": 14,
+        "meta_title": "",
+        "meta_description": "",
+        "og_caption": "",
+        "og_title": "",
+        "og_description": "",
+        "og_media": "",
+        "rater_count": 1,
+        "recook_count": 0,
+        "original_image": "content-images\/images\/20250420\/lG1LIZ9ydSWia3vZmrUT357aE91q5IIf-31373435313131323937d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_800,h_800,m_fixed",
+        "share_link": "https:\/\/app.yummy.co.id\/CKX8DbCHCk3AvERn6",
+        "category": {
+            "name": "",
+            "slug": ""
+        },
+        "cooking_step": [
+            {
+                "title": "Langkah 1",
+                "text": "Campurkan krimer, coklat bubuk, dan air. Aduk rata.",
+                "image_url": "content-images\/images\/20250420\/cbyvKc2Rs2Ql8vTzssP8ShpZOZ7xcVIv-31373435313238323737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 1,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/cbyvKc2Rs2Ql8vTzssP8ShpZOZ7xcVIv-31373435313238323737d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 2",
+                "text": "Panaskan mentega, masukkan tepung, kemudian aduk hingga berbutir. Kemudian masukkan larutan krimer coklat yang sudah dibuat tadi. Masak hingga mengental.",
+                "image_url": "content-images\/images\/20250420\/kcRMB4n24WeFn29M1jYeUcoXMgM48t42-31373435313238333037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 2,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/kcRMB4n24WeFn29M1jYeUcoXMgM48t42-31373435313238333037d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 3",
+                "text": "Matikan api, masukan DCC, aduk hingga mencair. Setelah itu pindahkan ke dalam wadah, lalu diinginkan selama 2 jam hingga set.",
+                "image_url": "content-images\/images\/20250420\/X4ps3ypPt23MuPMTKpWOYXkVMrpk76Iy-31373435313238333632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 3,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/X4ps3ypPt23MuPMTKpWOYXkVMrpk76Iy-31373435313238333632d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 4",
+                "text": "Setelah set, buat kulit mochi. Campurkan semua bahan, kemudian masak hingga menggumpal dan elastis. Tunggu hingga hangat.",
+                "image_url": "content-images\/images\/20250420\/CCUbL5QVMg7Mu9dg1xyUBwcubOAax2Mx-31373435313238353139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 4,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/CCUbL5QVMg7Mu9dg1xyUBwcubOAax2Mx-31373435313238353139d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            },
+            {
+                "title": "Langkah 5",
+                "text": "Buat mochi, pertama-tama ambil secukupnya isian coklat, gulingkan di tepung yang sudah disangrai agar tidak lengket, pipihkan, dan isi bagian tengahnya dengan stroberi. Sisihkan. Lakukan yang sama pada kulit luarnya. Setelah semua isian terbungkus rapi. Diinginkan sebentar di kulkas, dan siap disajikan.",
+                "image_url": "content-images\/images\/20250420\/9N0MHdRrMiZItsNh28bHayxM6xKdqZqG-31373435313238353935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_600,h_600,m_fixed,image\/format,webp",
+                "order": 5,
+                "start_at": 0,
+                "original_image": "content-images\/images\/20250420\/9N0MHdRrMiZItsNh28bHayxM6xKdqZqG-31373435313238353935d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/format,webp"
+            }
+        ],
+        "tags": [
+            {
+                "id": "jAODLSyz_Q2NidSI7J1Gow==",
+                "name": "Makanan Penutup",
+                "slug": "makanan-penutup"
+            },
+            {
+                "id": "KaA0qS-HqQxSqWP_73RvpQ==",
+                "name": "Resep Camilan",
+                "slug": "camilan"
+            },
+            {
+                "id": "Aur8rzPqjKm-4UjspZv7dw==",
+                "name": "Mochi",
+                "slug": "mochi"
+            }
+        ],
+        "tag_ingredients": [
+            {
+                "id": "Nqvc7IvHC2XyIQHf0FPlkQ==",
+                "name": "Cokelat Bubuk",
+                "slug": "cokelat-bubuk"
+            },
+            {
+                "id": "_p963CVvJ9HmWMUAmxlEsg==",
+                "name": "Gula",
+                "slug": "gula"
+            },
+            {
+                "id": "K1oEh7lTvTgrV0j6QfiU6g==",
+                "name": "Strawberry",
+                "slug": "strawberry"
+            },
+            {
+                "id": "4k8pCLcc7BX1HDeJPutX8A==",
+                "name": "Tepung Tapioka",
+                "slug": "tepung-tapioka"
+            }
+        ],
+        "recipe_info": [],
+        "author": {
+            "id": "rU7lsrdm1kKRwFlaM1fo-g==",
+            "uuid": "f8799119-e6ef-4888-96a6-d3974a45cb6d",
+            "username": "dapur-annisaa",
+            "name": "Annisaa T.K",
+            "avatar": "content-images\/images\/20210506\/ZwjrCkdeHziy6THqZGDoDJBaefy7NGMF-31363230323838343833d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image\/resize,w_200,h_200,m_fixed,image\/format,webp",
+            "is_following": false,
+            "is_official": true
+        },
+        "ingredient_type": [
+            {
+                "name": "Bahan Utama",
+                "ingredients": [
+                    {
+                        "description": "10 buah stroberi",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "120 gr DCC",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr krimer\/ susu bubuk full cream",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "150 air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "20 gr coklat bubuk",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "35 gr gula (sesuai selera)",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sejumput garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Tapioka sangrai secukupnya",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            },
+            {
+                "name": "Baham Kulit Mochi",
+                "ingredients": [
+                    {
+                        "description": "200 gr tepung ketan putih",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "100 gr gula",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "50 ml minyak",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "300 ml air",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "1\/2 sdt vanila essence",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    },
+                    {
+                        "description": "Sejumput garam",
+                        "recommendation": "",
+                        "brand": "",
+                        "buy_url": "",
+                        "media_url": "",
+                        "recomendation_media_url": "",
+                        "related_recipe": null
+                    }
+                ]
+            }
+        ],
+        "nutrition": [],
+        "recook": [],
+        "cooking_tool": [],
+        "tips_and_trick": [],
+        "purchase_detail": []
+    }
+}
