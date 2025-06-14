@@ -92,7 +92,7 @@
                         <button type="submit" class="btn btn-light d-flex align-items-center" type="button">
                             <i class="ri-search-line"></i>
                         </button>
-                        <a href="{{ route('login') }}" class="btn-login d-none d-xl-block">LOGIN</a>
+                        <a href="{{ route('login') }}" class="btn-login ">LOGIN</a>
                     </form>
                 </div>
             </div>
@@ -268,6 +268,25 @@
     .dropdown-menu .row>div {
         margin-bottom: 1rem;
     }
+
+    .btn-login {
+        background-color: #fff;
+        color: #f7931e;
+        /* oranye khas yummy */
+        padding: 8px 16px;
+        border: none;
+        border-radius: 8px;
+        font-weight: bold;
+        text-decoration: none;
+        transition: background-color 0.3s, color 0.3s;
+        margin-left: 10px;
+    }
+
+    .btn-login:hover {
+        background-color: #f7931e;
+        color: white;
+    }
+
 
     /* Mobile Styles */
     @media (max-width: 991.98px) {
